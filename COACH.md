@@ -56,3 +56,11 @@ node tools/validar.mjs && node tools/probar-respuestas.mjs
 ```
 
 Escribir la fecha en `data/progreso/ultima-revision.txt`. La app recoge los cambios sola al volver a la pestaña. Contarle al usuario en el chat: qué mejoró, qué sigue fallando, qué cambió en su plan.
+
+## 7. Versión web (GitHub Pages)
+
+Repo público `jpaulrodriguez/llaves-ingles` · https://jpaulrodriguez.github.io/llaves-ingles/
+
+- En la web no hay servidor: el avance vive en el navegador. El usuario pega en el chat el **resumen de Avance** («AVANCE PARA CLAUDE») y sus **grabaciones** («GRABACIÓN PARA CLAUDE»). Se evalúan igual que la bandeja, pero la respuesta va en el chat.
+- Tras cambiar `data/plan.json`, `data/extra/` o `data/temas/`: `node tools/validar.mjs && node tools/publicar.mjs`, y luego commit y push a `main` (Pages despliega `docs/` en ~1 min). Push solo con el visto bueno del usuario.
+- Nada de datos personales en el repo: `data/progreso`, `bandeja` y `feedback` están en `.gitignore`; el contenido usa una agencia ficticia («Brava»).
