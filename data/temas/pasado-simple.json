@@ -1,0 +1,994 @@
+{
+  "id": "pasado-simple",
+  "titulo": "Pasado simple",
+  "grupo": "Tiempos verbales",
+  "orden": 40,
+  "nivel": "A1–A2",
+  "resumen": "Acciones terminadas en un momento concreto del pasado; secuencias de hechos. Llave did; be usa was/were.",
+  "llave": "did",
+  "teoria": {
+    "paraQue": "Para contar acciones terminadas en un momento concreto del pasado y para narrar hechos en orden: lo que hiciste ayer, el fin de semana, en la última reunión.",
+    "llave": "La llave es did, igual para todas las personas. En la afirmativa está escondida: su marca se queda pegada al verbo (worked, went). Cuando sale a la luz en la negativa (didn't) o en la pregunta (Did…?), se lleva la marca y el verbo vuelve a la forma base. Respuesta corta: Yes, I did. / No, I didn't. El verbo be no usa did: su llave es was / were.",
+    "formulas": [
+      {
+        "tipo": "Afirmativa",
+        "formula": "Sujeto + verbo en pasado (-ed o irregular)",
+        "ejemplo": "We {{present((ed))}} the campaign yesterday."
+      },
+      {
+        "tipo": "Negativa",
+        "formula": "Sujeto + didn't + verbo base",
+        "ejemplo": "We [[did]]n't {{present}} the campaign yesterday."
+      },
+      {
+        "tipo": "Pregunta",
+        "formula": "Did + sujeto + verbo base?",
+        "ejemplo": "[[Did]] you {{present}} the campaign?"
+      },
+      {
+        "tipo": "Pregunta con Wh-",
+        "formula": "Wh- + did + sujeto + verbo base?",
+        "ejemplo": "When [[did]] you {{present}} the campaign?"
+      },
+      {
+        "tipo": "Be afirmativa",
+        "formula": "Sujeto + was / were (+ adjetivo, lugar, sustantivo)",
+        "ejemplo": "I [[was]] tired. They [[were]] at the office."
+      },
+      {
+        "tipo": "Be negativa y pregunta",
+        "formula": "wasn't / weren't · Was / Were + sujeto…?",
+        "ejemplo": "She [[was]]n't here. [[Were]] you at the meeting?"
+      }
+    ],
+    "reglas": [
+      "El pasado se marca una sola vez: si aparece did o didn't, el verbo vuelve a la base. Did you go? (nunca Did you went?).",
+      "Regulares: verbo + -ed. Ortografía: live → lived (ya tiene -e), stop → stopped (consonante doble en sílaba corta acentuada), study → studied (consonante + y → -ied), play → played (vocal + y no cambia).",
+      "Pronunciación del -ed: /t/ después de sonido sordo (worked, stopped, watched), /d/ después de sonoro o vocal (played, called, lived), /ɪd/ solo después de t o d (wanted, needed, decided). Nunca «work-ed» con dos sílabas.",
+      "Irregulares: no llevan -ed y hay que memorizarlos en frases: go → went, have → had, make → made, buy → bought, see → saw, take → took, get → got, say → said, tell → told, come → came.",
+      "El verbo be es su propia llave: was (I, he, she, it) y were (you, we, they). Negativa wasn't / weren't; pregunta Was / Were + sujeto. Nunca didn't was.",
+      "Señales de tiempo: yesterday, last night / week / year (sin the), two days ago (ago va después del periodo), in 2020, when I was a child."
+    ],
+    "senales": [
+      "yesterday",
+      "last night",
+      "last week",
+      "last year",
+      "two days ago",
+      "a month ago",
+      "in 2020",
+      "when I was a child",
+      "this morning (ya terminó)"
+    ],
+    "usos": [
+      {
+        "uso": "Lo que hiciste el fin de semana",
+        "contexto": "diario",
+        "ejemplo": "I {{went}} to the movies with my family on Saturday."
+      },
+      {
+        "uso": "Un viaje o una anécdota terminada",
+        "contexto": "diario",
+        "ejemplo": "We {{visit((ed))}} Cartagena last December and {{stay((ed))}} three nights."
+      },
+      {
+        "uso": "Cómo estabas o dónde estabas (be)",
+        "contexto": "diario",
+        "ejemplo": "I [[was]] really tired after the gym."
+      },
+      {
+        "uso": "Reportar lo que pasó en una reunión",
+        "contexto": "trabajo",
+        "ejemplo": "We {{present((ed))}} the new campaign and the client {{love((d))}} it."
+      },
+      {
+        "uso": "Preguntar por el estado de una tarea",
+        "contexto": "trabajo",
+        "ejemplo": "[[Did]] you {{send}} the deck to the client?"
+      },
+      {
+        "uso": "Secuencia de acciones en un proyecto",
+        "contexto": "trabajo",
+        "ejemplo": "We {{got}} the brief on Monday, {{brainstorm((ed))}} on Tuesday and {{present((ed))}} on Friday."
+      }
+    ],
+    "errores": [
+      {
+        "mal": "I didn't went to the gym.",
+        "bien": "I didn't go to the gym.",
+        "porque": "Doble marca: did ya lleva el pasado, el verbo queda en base.",
+        "code": "DM"
+      },
+      {
+        "mal": "Did you saw the brief?",
+        "bien": "Did you see the brief?",
+        "porque": "Doble marca en la pregunta: Did + verbo base.",
+        "code": "DM"
+      },
+      {
+        "mal": "Yesterday I go to the office.",
+        "bien": "Yesterday I went to the office.",
+        "porque": "Con yesterday el verbo tiene que llevar la marca de pasado.",
+        "code": "TPO"
+      },
+      {
+        "mal": "I was go to the party.",
+        "bien": "I went to the party.",
+        "porque": "Mezcla de be con un verbo simple: en la afirmativa no hay llave visible.",
+        "code": "BE"
+      },
+      {
+        "mal": "I didn't was at the meeting.",
+        "bien": "I wasn't at the meeting.",
+        "porque": "Be no usa did: su negativa es wasn't / weren't.",
+        "code": "BE"
+      },
+      {
+        "mal": "They was late.",
+        "bien": "They were late.",
+        "porque": "They, we, you van con were.",
+        "code": "WW"
+      },
+      {
+        "mal": "He studyed in Canada.",
+        "bien": "He studied in Canada.",
+        "porque": "Consonante + y → -ied.",
+        "code": "VOC"
+      },
+      {
+        "mal": "She buyed a new car.",
+        "bien": "She bought a new car.",
+        "porque": "Buy es irregular: bought.",
+        "code": "IRR"
+      }
+    ],
+    "contraste": [
+      {
+        "a": "She {{work((ed))}} late.",
+        "b": "[[Did]] she {{work}} late?",
+        "nota": "Afirmativa: la marca va en el verbo. Pregunta: la marca se va con did y el verbo queda limpio."
+      },
+      {
+        "a": "I {{go}} to the gym every day.",
+        "b": "I {{went}} to the gym yesterday.",
+        "nota": "Presente (hábito) vs. pasado (terminado y fechado)."
+      },
+      {
+        "a": "I [[was]]n't at the office.",
+        "b": "I [[did]]n't {{go}} to the office.",
+        "nota": "Be usa was/were; los demás verbos usan did."
+      }
+    ],
+    "frases": [
+      {
+        "en": "What did you do yesterday?",
+        "es": "¿Qué hiciste ayer?",
+        "contexto": "diario"
+      },
+      {
+        "en": "How was your weekend?",
+        "es": "¿Cómo estuvo tu fin de semana?",
+        "contexto": "diario"
+      },
+      {
+        "en": "I had a great time.",
+        "es": "La pasé muy bien.",
+        "contexto": "diario"
+      },
+      {
+        "en": "I didn't have time.",
+        "es": "No tuve tiempo.",
+        "contexto": "diario"
+      },
+      {
+        "en": "Did you get my email?",
+        "es": "¿Te llegó mi correo?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "We presented the campaign yesterday.",
+        "es": "Presentamos la campaña ayer.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "The client loved it.",
+        "es": "Al cliente le encantó.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "How did the meeting go?",
+        "es": "¿Cómo fue la reunión?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I sent it to you two days ago.",
+        "es": "Te lo envié hace dos días.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Sorry, I was in a meeting.",
+        "es": "Perdón, estaba en una reunión.",
+        "contexto": "trabajo"
+      }
+    ],
+    "tip": "Piensa en did como una llave que carga la mochila del pasado. Si did aparece en la frase, la mochila va con ella y el verbo camina ligero (go, see, send). Si did no aparece, la mochila la carga el verbo (went, saw, sent)."
+  },
+  "ejercicios": [
+    {
+      "id": "pasado-simple-001",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "IRR",
+      "q": "Yesterday I ___ to the office early.",
+      "opciones": [
+        "go",
+        "went",
+        "goed",
+        "was go"
+      ],
+      "a": 1,
+      "explica": "Yesterday pide pasado y go es irregular: went. Goed no existe y was go mezcla be con un verbo simple."
+    },
+    {
+      "id": "pasado-simple-002",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "LL",
+      "q": "___ you see the client's email?",
+      "opciones": [
+        "Did",
+        "Do",
+        "Were",
+        "Does"
+      ],
+      "a": 0,
+      "explica": "La pregunta en pasado abre con la llave did; el verbo (see) queda en base."
+    },
+    {
+      "id": "pasado-simple-003",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "DM",
+      "q": "She didn't ___ the deadline.",
+      "opciones": [
+        "met",
+        "meet",
+        "meets",
+        "meeting"
+      ],
+      "a": 1,
+      "explica": "Didn't ya lleva el pasado: el verbo vuelve a la base (meet)."
+    },
+    {
+      "id": "pasado-simple-004",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "WW",
+      "q": "We ___ at the meeting at 9.",
+      "opciones": [
+        "was",
+        "were",
+        "did",
+        "be"
+      ],
+      "a": 1,
+      "explica": "We va con were. Be es su propia llave: no usa did."
+    },
+    {
+      "id": "pasado-simple-005",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "WW",
+      "q": "Where ___ you yesterday afternoon?",
+      "opciones": [
+        "was",
+        "did",
+        "were",
+        "are"
+      ],
+      "a": 2,
+      "explica": "You siempre va con were (también en singular). Did no se usa con be."
+    },
+    {
+      "id": "pasado-simple-006",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "TPO",
+      "q": "They ___ the campaign two weeks ago.",
+      "opciones": [
+        "launch",
+        "launched",
+        "launching",
+        "were launch"
+      ],
+      "a": 1,
+      "explica": "Two weeks ago pide pasado. En la afirmativa la marca -ed va en el verbo; launching solo no es un tiempo."
+    },
+    {
+      "id": "pasado-simple-007",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "BE",
+      "q": "I ___ in Medellín when I was a child.",
+      "opciones": [
+        "lived",
+        "was live",
+        "live",
+        "living"
+      ],
+      "a": 0,
+      "explica": "Afirmativa en pasado: verbo + -ed. Was live mezcla be con un verbo simple."
+    },
+    {
+      "id": "pasado-simple-008",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "DM",
+      "q": "Did the client ___ the proposal?",
+      "opciones": [
+        "liked",
+        "like",
+        "likes",
+        "was like"
+      ],
+      "a": 1,
+      "explica": "Después de Did el verbo queda en base: like. La marca de pasado ya la lleva did."
+    },
+    {
+      "id": "pasado-simple-009",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "IRR",
+      "q": "Sarah ___ us the brief last Friday.",
+      "opciones": [
+        "send",
+        "sent",
+        "sended",
+        "sending"
+      ],
+      "a": 1,
+      "explica": "Send es irregular: sent. Sended no existe y sending sin llave no forma un tiempo."
+    },
+    {
+      "id": "pasado-simple-010",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "WW",
+      "q": "I ___ really tired after the pitch.",
+      "opciones": [
+        "did",
+        "was",
+        "were",
+        "had"
+      ],
+      "a": 1,
+      "explica": "Para estados (tired) se usa be: I was. Did no acompaña adjetivos."
+    },
+    {
+      "id": "pasado-simple-011",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "IRR",
+      "q": "We ___ a lot of coffee during the workshop.",
+      "opciones": [
+        "drink",
+        "drank",
+        "drunk",
+        "drinked"
+      ],
+      "a": 1,
+      "explica": "Drink → drank (pasado) → drunk (participio). El pasado simple usa la segunda forma."
+    },
+    {
+      "id": "pasado-simple-012",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "VOC",
+      "q": "¿En cuál de estos verbos la terminación -ed suena /ɪd/ (una sílaba más)?",
+      "opciones": [
+        "worked",
+        "played",
+        "wanted",
+        "called"
+      ],
+      "a": 2,
+      "explica": "/ɪd/ solo aparece después de t o d: wanted, needed, decided. Worked suena /t/ y played, called suenan /d/."
+    },
+    {
+      "id": "pasado-simple-013",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "BE",
+      "q": "The meeting ___ long; it was only 20 minutes.",
+      "opciones": [
+        "didn't",
+        "wasn't",
+        "weren't",
+        "didn't be"
+      ],
+      "a": 1,
+      "explica": "Be no usa did: la negativa es wasn't (the meeting = it)."
+    },
+    {
+      "id": "pasado-simple-014",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "LL",
+      "q": "___ the presentation go well?",
+      "opciones": [
+        "Was",
+        "Did",
+        "Were",
+        "Does"
+      ],
+      "a": 1,
+      "explica": "Go es un verbo normal, así que la pregunta en pasado abre con did: Did … go well?"
+    },
+    {
+      "id": "pasado-simple-015",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "I moved to Bogotá five years ___.",
+      "opciones": [
+        "ago",
+        "before",
+        "last",
+        "since"
+      ],
+      "a": 0,
+      "explica": "Ago va después del periodo de tiempo: five years ago. Before y since necesitan otra estructura."
+    },
+    {
+      "id": "pasado-simple-016",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "I ___ (study) marketing at La Javeriana.",
+      "respuestas": [
+        "studied"
+      ],
+      "explica": "Consonante + y → -ied: study → studied."
+    },
+    {
+      "id": "pasado-simple-017",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "LL",
+      "q": "We ___ (not / have) time to review the deck.",
+      "respuestas": [
+        "didn't have",
+        "did not have"
+      ],
+      "explica": "Negativa: didn't + verbo base. Have vuelve a la base porque did ya lleva el pasado."
+    },
+    {
+      "id": "pasado-simple-018",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "LL",
+      "q": "___ (you / enjoy) the trip to Santa Marta?",
+      "respuestas": [
+        "Did you enjoy"
+      ],
+      "explica": "Pregunta: Did + sujeto + verbo base."
+    },
+    {
+      "id": "pasado-simple-019",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "WW",
+      "q": "The client ___ (be) happy with the results.",
+      "respuestas": [
+        "was"
+      ],
+      "explica": "The client = he/she → was. Be no necesita did."
+    },
+    {
+      "id": "pasado-simple-020",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "WW",
+      "q": "They ___ (be) late to the kick-off meeting.",
+      "respuestas": [
+        "were"
+      ],
+      "explica": "They → were."
+    },
+    {
+      "id": "pasado-simple-021",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "He ___ (stop) at the gas station on the way home.",
+      "respuestas": [
+        "stopped"
+      ],
+      "explica": "Sílaba corta acentuada que termina en consonante-vocal-consonante: la consonante se dobla (stop → stopped, plan → planned)."
+    },
+    {
+      "id": "pasado-simple-022",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "IRR",
+      "q": "Laura ___ (bring) the samples to the meeting.",
+      "respuestas": [
+        "brought"
+      ],
+      "explica": "Bring es irregular: brought (como buy → bought, think → thought)."
+    },
+    {
+      "id": "pasado-simple-023",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "BE",
+      "q": "I ___ (not / be) at the office yesterday.",
+      "respuestas": [
+        "wasn't",
+        "was not"
+      ],
+      "explica": "Be hace su propia negativa: wasn't. Nunca didn't be."
+    },
+    {
+      "id": "pasado-simple-024",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "LL",
+      "q": "What time ___ (you / leave) the party?",
+      "respuestas": [
+        "did you leave"
+      ],
+      "explica": "Pregunta con Wh-: What time + did + sujeto + verbo base."
+    },
+    {
+      "id": "pasado-simple-025",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "IRR",
+      "q": "My team ___ (write) three proposals last month.",
+      "respuestas": [
+        "wrote"
+      ],
+      "explica": "Write es irregular: wrote (participio: written)."
+    },
+    {
+      "id": "pasado-simple-026",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "LL",
+      "q": "Where ___ (she / go) on vacation last year?",
+      "respuestas": [
+        "did she go"
+      ],
+      "explica": "Where + did + she + go. El verbo queda en base porque did lleva el pasado."
+    },
+    {
+      "id": "pasado-simple-027",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "DM",
+      "es": "¿Viste el correo del cliente?",
+      "en": "Did you see the client's email?",
+      "extra": [
+        "saw",
+        "Do"
+      ],
+      "explica": "Pregunta en pasado: Did + you + see (base). Saw solo va en la afirmativa."
+    },
+    {
+      "id": "pasado-simple-028",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "DM",
+      "es": "No fuimos a la reunión.",
+      "en": "We didn't go to the meeting.",
+      "extra": [
+        "went",
+        "wasn't"
+      ],
+      "explica": "Negativa: didn't + go. Went es la trampa de la doble marca."
+    },
+    {
+      "id": "pasado-simple-029",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "TPO",
+      "es": "Ella trabajó hasta tarde anoche.",
+      "en": "She worked late last night.",
+      "extra": [
+        "work",
+        "did"
+      ],
+      "explica": "Afirmativa: la marca -ed va en el verbo y did no aparece."
+    },
+    {
+      "id": "pasado-simple-030",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "WW",
+      "es": "¿Dónde estabas ayer?",
+      "en": "Where were you yesterday?",
+      "extra": [
+        "did",
+        "was"
+      ],
+      "explica": "Be es su propia llave: Where + were + you. You siempre va con were."
+    },
+    {
+      "id": "pasado-simple-031",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "IRR",
+      "es": "Compré un carro nuevo hace dos meses.",
+      "en": "I bought a new car two months ago.",
+      "extra": [
+        "buyed",
+        "before"
+      ],
+      "explica": "Buy → bought. Ago va al final, después del periodo."
+    },
+    {
+      "id": "pasado-simple-032",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "LL",
+      "es": "El cliente no aprobó la campaña.",
+      "en": "The client didn't approve the campaign.",
+      "extra": [
+        "approved",
+        "no"
+      ],
+      "explica": "Negativa con didn't + approve. En inglés no se niega con «no» delante del verbo."
+    },
+    {
+      "id": "pasado-simple-033",
+      "tipo": "ordenar",
+      "nivel": 3,
+      "code": "DM",
+      "es": "¿Cuándo empezaste a trabajar en la agencia?",
+      "en": "When did you start working at the agency?",
+      "extra": [
+        "started",
+        "do"
+      ],
+      "explica": "When + did + you + start. Started sería doble marca."
+    },
+    {
+      "id": "pasado-simple-034",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "WW",
+      "es": "Estuvimos muy ocupados la semana pasada.",
+      "en": "We were very busy last week.",
+      "extra": [
+        "was",
+        "did"
+      ],
+      "explica": "We → were. Con un adjetivo (busy) la llave es be, no did."
+    },
+    {
+      "id": "pasado-simple-035",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "DM",
+      "frase": "I didn't went to the gym yesterday.",
+      "correcta": false,
+      "correccion": [
+        "I didn't go to the gym yesterday."
+      ],
+      "explica": "Doble marca: didn't ya lleva el pasado, el verbo vuelve a la base."
+    },
+    {
+      "id": "pasado-simple-036",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "DM",
+      "frase": "Did you saw the new brief?",
+      "correcta": false,
+      "correccion": [
+        "Did you see the new brief?"
+      ],
+      "explica": "Did + verbo base. Saw solo en afirmativa."
+    },
+    {
+      "id": "pasado-simple-037",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "TPO",
+      "frase": "We presented the campaign last Thursday.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Correcta: afirmativa con -ed y señal de tiempo (last Thursday)."
+    },
+    {
+      "id": "pasado-simple-038",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "TPO",
+      "frase": "Yesterday I go to the client's office.",
+      "correcta": false,
+      "correccion": [
+        "Yesterday I went to the client's office."
+      ],
+      "explica": "Yesterday obliga al pasado: go → went."
+    },
+    {
+      "id": "pasado-simple-039",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "BE",
+      "frase": "I was go to a concert last weekend.",
+      "correcta": false,
+      "correccion": [
+        "I went to a concert last weekend."
+      ],
+      "explica": "Be + verbo simple no existe. En la afirmativa el pasado va solo en el verbo: went."
+    },
+    {
+      "id": "pasado-simple-040",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "WW",
+      "frase": "They was at the party.",
+      "correcta": false,
+      "correccion": [
+        "They were at the party."
+      ],
+      "explica": "They → were."
+    },
+    {
+      "id": "pasado-simple-041",
+      "tipo": "corregir",
+      "nivel": 3,
+      "code": "BE",
+      "frase": "I didn't was at the meeting.",
+      "correcta": false,
+      "correccion": [
+        "I wasn't at the meeting.",
+        "I was not at the meeting."
+      ],
+      "explica": "Be no usa did: la negativa es wasn't."
+    },
+    {
+      "id": "pasado-simple-042",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "VOC",
+      "frase": "He studyed English in Canada for a year.",
+      "correcta": false,
+      "correccion": [
+        "He studied English in Canada for a year."
+      ],
+      "explica": "Consonante + y → -ied."
+    },
+    {
+      "id": "pasado-simple-043",
+      "tipo": "transformar",
+      "nivel": 1,
+      "code": "LL",
+      "frase": "She called the client.",
+      "instruccion": "Pásala a negativa.",
+      "respuestas": [
+        "She didn't call the client.",
+        "She did not call the client."
+      ],
+      "explica": "Negativa: didn't + verbo base. La marca -ed se va con la llave."
+    },
+    {
+      "id": "pasado-simple-044",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "LL",
+      "frase": "They finished the report.",
+      "instruccion": "Pásala a pregunta.",
+      "respuestas": [
+        "Did they finish the report?"
+      ],
+      "explica": "Pregunta: Did + sujeto + verbo base."
+    },
+    {
+      "id": "pasado-simple-045",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "IRR",
+      "frase": "I go to the gym every day.",
+      "instruccion": "Pásala a pasado (cambia every day por yesterday).",
+      "respuestas": [
+        "I went to the gym yesterday.",
+        "Yesterday I went to the gym."
+      ],
+      "explica": "Go es irregular: went. La señal yesterday fija el pasado."
+    },
+    {
+      "id": "pasado-simple-046",
+      "tipo": "transformar",
+      "nivel": 1,
+      "code": "WW",
+      "frase": "You were at the office.",
+      "instruccion": "Pásala a pregunta.",
+      "respuestas": [
+        "Were you at the office?"
+      ],
+      "explica": "Be es su propia llave: pasa delante del sujeto. Sin did."
+    },
+    {
+      "id": "pasado-simple-047",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "BE",
+      "frase": "He was happy with the results.",
+      "instruccion": "Pásala a negativa.",
+      "respuestas": [
+        "He wasn't happy with the results.",
+        "He was not happy with the results."
+      ],
+      "explica": "Negativa de be: wasn't. Nunca didn't be."
+    },
+    {
+      "id": "pasado-simple-048",
+      "tipo": "transformar",
+      "nivel": 3,
+      "code": "IRR",
+      "frase": "She has a meeting with the client.",
+      "instruccion": "Pásala a pasado.",
+      "respuestas": [
+        "She had a meeting with the client."
+      ],
+      "explica": "Have es irregular: had (igual para todas las personas)."
+    },
+    {
+      "id": "pasado-simple-049",
+      "tipo": "transformar",
+      "nivel": 3,
+      "code": "DM",
+      "frase": "The team wrote the proposal.",
+      "instruccion": "Pásala a negativa.",
+      "respuestas": [
+        "The team didn't write the proposal.",
+        "The team did not write the proposal."
+      ],
+      "explica": "Wrote vuelve a la base (write) cuando aparece didn't."
+    },
+    {
+      "id": "pasado-simple-050",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "IRR",
+      "es": "Ayer tuve una reunión con el cliente.",
+      "respuestas": [
+        "Yesterday I had a meeting with the client.",
+        "I had a meeting with the client yesterday."
+      ],
+      "explica": "Have → had. Yesterday puede ir al principio o al final."
+    },
+    {
+      "id": "pasado-simple-051",
+      "tipo": "traducir",
+      "nivel": 3,
+      "code": "LL",
+      "es": "¿Qué hiciste el fin de semana?",
+      "respuestas": [
+        "What did you do on the weekend?",
+        "What did you do last weekend?",
+        "What did you do this weekend?",
+        "What did you do over the weekend?",
+        "What did you do at the weekend?"
+      ],
+      "explica": "What + did + you + do. El segundo do es el verbo principal en base."
+    },
+    {
+      "id": "pasado-simple-052",
+      "tipo": "traducir",
+      "nivel": 1,
+      "code": "DM",
+      "es": "No vi tu mensaje.",
+      "respuestas": [
+        "I didn't see your message.",
+        "I did not see your message."
+      ],
+      "explica": "Didn't + see (base). Saw solo en afirmativa."
+    },
+    {
+      "id": "pasado-simple-053",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "BE",
+      "es": "Ella no estaba en casa.",
+      "respuestas": [
+        "She wasn't at home.",
+        "She wasn't home.",
+        "She was not at home.",
+        "She was not home."
+      ],
+      "explica": "Be en pasado hace su propia negativa: wasn't."
+    },
+    {
+      "id": "pasado-simple-054",
+      "tipo": "traducir",
+      "nivel": 3,
+      "code": "TPO",
+      "es": "Llegamos tarde a la presentación.",
+      "respuestas": [
+        "We arrived late to the presentation.",
+        "We arrived late at the presentation.",
+        "We arrived late for the presentation.",
+        "We were late to the presentation.",
+        "We were late for the presentation.",
+        "We got to the presentation late."
+      ],
+      "explica": "Arrive → arrived (regular). También vale We were late (be + adjetivo)."
+    },
+    {
+      "id": "pasado-simple-055",
+      "tipo": "identificar",
+      "nivel": 1,
+      "code": "TPO",
+      "frase": "Did you finish the deck?",
+      "opciones": [
+        "Pasado simple",
+        "Presente simple",
+        "Pasado continuo",
+        "Presente continuo"
+      ],
+      "a": 0,
+      "explica": "La llave did abre el pasado simple. Do/Does sería presente; was/were + -ing sería continuo."
+    },
+    {
+      "id": "pasado-simple-056",
+      "tipo": "identificar",
+      "nivel": 2,
+      "code": "WW",
+      "frase": "Were you tired after the trip?",
+      "opciones": [
+        "Pasado simple (verbo be)",
+        "Pasado continuo",
+        "Presente simple",
+        "Presente continuo"
+      ],
+      "a": 0,
+      "explica": "Were + adjetivo (tired) es el verbo be en pasado simple. Sería continuo solo si hubiera un verbo con -ing."
+    },
+    {
+      "id": "pasado-simple-057",
+      "tipo": "escuchar",
+      "nivel": 2,
+      "code": "IRR",
+      "texto": "I sent the proposal to the client last night.",
+      "respuestas": [
+        "I sent the proposal to the client last night."
+      ],
+      "explica": "Sent es el pasado de send. Fíjate en que no suena «sended»."
+    },
+    {
+      "id": "pasado-simple-058",
+      "tipo": "escuchar",
+      "nivel": 3,
+      "code": "DM",
+      "texto": "We didn't have time to finish the report.",
+      "respuestas": [
+        "We didn't have time to finish the report."
+      ],
+      "explica": "Didn't + have: el verbo queda en base después de la llave."
+    },
+    {
+      "id": "pasado-simple-059",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "IRR",
+      "consigna": "Cuenta qué hiciste el fin de semana pasado: tres cosas, en orden (first, then, after that).",
+      "objetivo": "Pasado simple afirmativo con señales de tiempo y verbos irregulares (went, had, saw, ate).",
+      "ejemplo": "Last weekend I went to the gym on Saturday morning. Then I had lunch with my family, and after that we saw a movie. On Sunday I stayed home and cooked.",
+      "explica": "Cada acción terminada va en pasado: -ed o irregular. Di las frases en voz alta y escucha la terminación."
+    },
+    {
+      "id": "pasado-simple-060",
+      "tipo": "hablar",
+      "nivel": 3,
+      "code": "TPO",
+      "consigna": "Cuéntale a un colega cómo fue la última reunión con un cliente: qué presentaron, qué preguntó el cliente y cómo terminó.",
+      "objetivo": "Pasado simple con verbos de trabajo: presented, asked, said, liked, was/were.",
+      "ejemplo": "Yesterday we presented the new campaign to the client. She asked a lot of questions about the budget, but she said she loved the idea. The meeting was long, but it went well.",
+      "explica": "Alterna verbos regulares (presented, asked) e irregulares (said, went, was). Recuerda was/were para los estados."
+    }
+  ]
+}

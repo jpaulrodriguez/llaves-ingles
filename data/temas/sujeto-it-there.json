@@ -1,0 +1,879 @@
+{
+  "id": "sujeto-it-there",
+  "titulo": "Sujeto obligatorio: it y there",
+  "grupo": "Estructuras",
+  "orden": 110,
+  "nivel": "A1–A2",
+  "resumen": "En inglés toda frase lleva sujeto: it para clima, hora, distancia y opiniones; there is/are para decir que algo existe («hay»).",
+  "llave": "it / there",
+  "teoria": {
+    "paraQue": "En español decimos «llueve», «es tarde», «hay un problema» sin sujeto. En inglés eso no existe: toda frase necesita un sujeto visible. Cuando no hay nadie que haga la acción, el sujeto es it (clima, hora, fecha, distancia, opiniones) o there (para decir que algo existe: «hay»).",
+    "llave": "It va con be (o con un verbo): It's raining · It's 5 pm · It's far · It's important to test it. There va con be y el be concuerda con lo que viene después: There is a problem (singular) · There are two problems (plural). Negativa: There isn't / There aren't. Pregunta: Is there…? / Are there…? En pasado: There was / There were. Nunca uses has o have para «hay»: «hay» = there is / there are.",
+    "formulas": [
+      {
+        "tipo": "It + be (clima, hora, distancia)",
+        "formula": "It + is/was + …",
+        "ejemplo": "[[It]]'s raining. [[It]]'s 9 o'clock. [[It]]'s far from here."
+      },
+      {
+        "tipo": "It + adjetivo + to",
+        "formula": "It + is + adjetivo + to + verbo",
+        "ejemplo": "[[It]]'s important to {{test}} the idea first."
+      },
+      {
+        "tipo": "There + be (existencia)",
+        "formula": "There + is (singular) / are (plural) + sustantivo",
+        "ejemplo": "[[There]] [[is]] a problem. [[There]] [[are]] two options."
+      },
+      {
+        "tipo": "There + be negativa y pregunta",
+        "formula": "There isn't / aren't · Is there…? / Are there…?",
+        "ejemplo": "[[There]] [[are]]((n't)) any clients today. [[Is]] [[there]] a meeting room free?"
+      },
+      {
+        "tipo": "There + be en pasado",
+        "formula": "There + was (singular) / were (plural)",
+        "ejemplo": "[[There]] [[was]] a problem with the file. [[There]] [[were]] ten people in the room."
+      }
+    ],
+    "reglas": [
+      "Toda frase en inglés lleva sujeto. Si en español no hay sujeto, en inglés el sujeto es it o there.",
+      "It para el clima (It's raining, It's cold), la hora y la fecha (It's 5 pm, It's Friday), la distancia (It's 10 km from here) y las opiniones impersonales (It's important / difficult / a good idea to…).",
+      "There is / there are para decir que algo existe («hay»). El be concuerda con lo que sigue: there is + singular o incontable; there are + plural.",
+      "«Hay» nunca se dice con has/have: There is a meeting (no Has a meeting). Have siempre necesita un dueño: We have a meeting.",
+      "Para el clima el sujeto es it, no there: It's raining (no There is raining). There is rain también existe, pero con el sustantivo rain, no con el verbo.",
+      "En pasado: there was (singular) / there were (plural). En negativa: there wasn't / there weren't.",
+      "There is + a lot of + incontable (There is a lot of work); there are + a lot of + plural (There are a lot of people). People es plural: There are many people."
+    ],
+    "senales": [
+      "«llueve, hace frío» → it",
+      "«es tarde, son las 5» → it",
+      "«está lejos, queda a 10 km» → it",
+      "«es importante / difícil + verbo» → it",
+      "«hay» → there is / there are",
+      "«había, hubo» → there was / there were"
+    ],
+    "usos": [
+      {
+        "uso": "Hablar del clima",
+        "contexto": "diario",
+        "ejemplo": "[[It]]'s raining again in Bogotá."
+      },
+      {
+        "uso": "Decir la hora o la fecha",
+        "contexto": "diario",
+        "ejemplo": "[[It]]'s 7 pm. [[It]]'s my mom's birthday today."
+      },
+      {
+        "uso": "Decir qué hay en casa o en un lugar",
+        "contexto": "diario",
+        "ejemplo": "[[There]] [[is]] a new restaurant near my house. [[There]] [[are]]((n't)) any eggs in the fridge."
+      },
+      {
+        "uso": "Dar una opinión impersonal en una reunión",
+        "contexto": "trabajo",
+        "ejemplo": "[[It]]'s important to test the idea first. [[It]]'s hard to say."
+      },
+      {
+        "uso": "Señalar problemas o recursos",
+        "contexto": "trabajo",
+        "ejemplo": "[[There]] [[is]] a problem with the budget. [[There]] [[are]] three options on the table."
+      },
+      {
+        "uso": "Preguntar si hay algo disponible",
+        "contexto": "trabajo",
+        "ejemplo": "[[Is]] [[there]] a meeting room free at 3? [[Are]] [[there]] any questions?"
+      }
+    ],
+    "errores": [
+      {
+        "mal": "Is raining.",
+        "bien": "It's raining.",
+        "porque": "El sujeto it no se omite, aunque en español no exista.",
+        "code": "SUJ"
+      },
+      {
+        "mal": "There is raining.",
+        "bien": "It's raining.",
+        "porque": "El clima va con it, no con there (there presenta sustantivos, no acciones).",
+        "code": "SUJ"
+      },
+      {
+        "mal": "Has a problem with the budget.",
+        "bien": "There is a problem with the budget.",
+        "porque": "«Hay» = there is / there are, nunca has/have sin dueño.",
+        "code": "SUJ"
+      },
+      {
+        "mal": "There is many people in the room.",
+        "bien": "There are many people in the room.",
+        "porque": "People es plural → there are.",
+        "code": "WW"
+      },
+      {
+        "mal": "Is very expensive.",
+        "bien": "It's very expensive.",
+        "porque": "Falta el sujeto it.",
+        "code": "SUJ"
+      },
+      {
+        "mal": "Is important to test the idea.",
+        "bien": "It's important to test the idea.",
+        "porque": "Las opiniones impersonales empiezan con it.",
+        "code": "SUJ"
+      },
+      {
+        "mal": "There was three clients at the meeting.",
+        "bien": "There were three clients at the meeting.",
+        "porque": "Plural → there were.",
+        "code": "WW"
+      },
+      {
+        "mal": "Are two options.",
+        "bien": "There are two options.",
+        "porque": "Para decir que algo existe hace falta there.",
+        "code": "SUJ"
+      }
+    ],
+    "contraste": [
+      {
+        "a": "[[It]]'s raining.",
+        "b": "[[There]] [[is]] a lot of rain this month.",
+        "nota": "It + acción del clima vs. there + sustantivo (rain)."
+      },
+      {
+        "a": "[[There]] [[is]] a meeting at 3.",
+        "b": "We [[have]] a meeting at 3.",
+        "nota": "«Hay» (sin dueño) vs. «tenemos» (con dueño)."
+      },
+      {
+        "a": "[[It]]'s a good idea.",
+        "b": "[[There]] [[are]] some good ideas in the deck.",
+        "nota": "It se refiere a algo concreto; there presenta algo nuevo."
+      }
+    ],
+    "frases": [
+      {
+        "en": "It's raining. / It's cold today.",
+        "es": "Está lloviendo. / Hace frío hoy.",
+        "contexto": "diario"
+      },
+      {
+        "en": "What time is it? It's half past six.",
+        "es": "¿Qué hora es? Son las seis y media.",
+        "contexto": "diario"
+      },
+      {
+        "en": "It's far from here. / It's a 20-minute walk.",
+        "es": "Queda lejos. / Son 20 minutos a pie.",
+        "contexto": "diario"
+      },
+      {
+        "en": "Is there a pharmacy near here?",
+        "es": "¿Hay una farmacia cerca?",
+        "contexto": "diario"
+      },
+      {
+        "en": "There's no milk left.",
+        "es": "No queda leche.",
+        "contexto": "diario"
+      },
+      {
+        "en": "It's important to test it first.",
+        "es": "Es importante probarlo primero.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "It's hard to say.",
+        "es": "Es difícil decirlo.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "There's a problem with the file.",
+        "es": "Hay un problema con el archivo.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Are there any questions?",
+        "es": "¿Hay preguntas?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "There are three options on the table.",
+        "es": "Hay tres opciones sobre la mesa.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "There was a misunderstanding with the client.",
+        "es": "Hubo un malentendido con el cliente.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "It depends on the budget.",
+        "es": "Depende del presupuesto.",
+        "contexto": "trabajo"
+      }
+    ],
+    "tip": "Si tu frase en español empieza con verbo («llueve», «es tarde», «hay»), en inglés le falta algo delante. Pregúntate: ¿estoy diciendo que algo existe? → there. ¿Clima, hora, distancia u opinión? → it."
+  },
+  "ejercicios": [
+    {
+      "id": "sujeto-it-there-001",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "SUJ",
+      "q": "___ raining in Bogotá right now.",
+      "opciones": [
+        "Is",
+        "It's",
+        "There is",
+        "Has"
+      ],
+      "a": 1,
+      "explica": "El clima va con it: It's raining."
+    },
+    {
+      "id": "sujeto-it-there-002",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "SUJ",
+      "q": "___ a problem with the budget.",
+      "opciones": [
+        "Has",
+        "There is",
+        "It is",
+        "Is"
+      ],
+      "a": 1,
+      "explica": "«Hay» = there is. Has necesita un dueño."
+    },
+    {
+      "id": "sujeto-it-there-003",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "SUJ",
+      "q": "What time is it? ___ 5 o'clock.",
+      "opciones": [
+        "Is",
+        "There is",
+        "It's",
+        "Are"
+      ],
+      "a": 2,
+      "explica": "La hora se dice con it."
+    },
+    {
+      "id": "sujeto-it-there-004",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "WW",
+      "q": "___ three options on the table.",
+      "opciones": [
+        "There is",
+        "There are",
+        "It is",
+        "Have"
+      ],
+      "a": 1,
+      "explica": "Three options es plural → there are."
+    },
+    {
+      "id": "sujeto-it-there-005",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "SUJ",
+      "q": "___ important to test the idea first.",
+      "opciones": [
+        "Is",
+        "It's",
+        "There is",
+        "That's important"
+      ],
+      "a": 1,
+      "explica": "Las opiniones impersonales empiezan con it: It's important to…"
+    },
+    {
+      "id": "sujeto-it-there-006",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "SUJ",
+      "q": "Tomorrow we have a meeting in Chía. ___ far from the office?",
+      "opciones": [
+        "Is",
+        "Is it",
+        "Is there",
+        "Does it"
+      ],
+      "a": 1,
+      "explica": "La distancia va con it: Is it far?"
+    },
+    {
+      "id": "sujeto-it-there-007",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "WW",
+      "q": "___ a lot of people at the launch event.",
+      "opciones": [
+        "There was",
+        "There were",
+        "It was",
+        "There is"
+      ],
+      "a": 1,
+      "explica": "People es plural y el evento ya pasó → there were."
+    },
+    {
+      "id": "sujeto-it-there-008",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "SUJ",
+      "q": "___ any questions before we move on?",
+      "opciones": [
+        "Are there",
+        "There are",
+        "Have",
+        "Is there"
+      ],
+      "a": 0,
+      "explica": "Pregunta con plural → Are there…? (questions es plural)."
+    },
+    {
+      "id": "sujeto-it-there-009",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "SUJ",
+      "q": "___ cold in the meeting room. Can we turn off the AC?",
+      "opciones": [
+        "Is",
+        "It's",
+        "There is",
+        "Does"
+      ],
+      "a": 1,
+      "explica": "El clima y la temperatura van con it."
+    },
+    {
+      "id": "sujeto-it-there-010",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "SUJ",
+      "q": "___ a good idea to send the deck before the call.",
+      "opciones": [
+        "Is",
+        "There is",
+        "It's",
+        "Has"
+      ],
+      "a": 2,
+      "explica": "It's a good idea to + verbo: opinión impersonal con it."
+    },
+    {
+      "id": "sujeto-it-there-011",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "WW",
+      "q": "___ much time before the deadline.",
+      "opciones": [
+        "There isn't",
+        "There aren't",
+        "It isn't",
+        "Hasn't"
+      ],
+      "a": 0,
+      "explica": "Time es incontable → there isn't."
+    },
+    {
+      "id": "sujeto-it-there-012",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "SUJ",
+      "q": "___ a lot of rain in October in Bogotá.",
+      "opciones": [
+        "It's",
+        "There is",
+        "There are",
+        "Is"
+      ],
+      "a": 1,
+      "explica": "Aquí rain es un sustantivo incontable (hay mucha lluvia) → there is. It's raining sería con el verbo."
+    },
+    {
+      "id": "sujeto-it-there-013",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "WW",
+      "q": "___ a misunderstanding with the client last week.",
+      "opciones": [
+        "There were",
+        "There was",
+        "It was",
+        "Had"
+      ],
+      "a": 1,
+      "explica": "Pasado + singular → there was."
+    },
+    {
+      "id": "sujeto-it-there-014",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "SUJ",
+      "q": "The new office is in Usaquén. ___ a 40-minute drive from my house.",
+      "opciones": [
+        "Is",
+        "There is",
+        "It's",
+        "Has"
+      ],
+      "a": 2,
+      "explica": "Distancia y tiempo de trayecto → it."
+    },
+    {
+      "id": "sujeto-it-there-015",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "SUJ",
+      "q": "___ (llueve) a lot in April.",
+      "respuestas": [
+        "It rains"
+      ],
+      "explica": "Clima → it + verbo con -s: It rains."
+    },
+    {
+      "id": "sujeto-it-there-016",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "SUJ",
+      "q": "___ (hay) a new café near the office.",
+      "respuestas": [
+        "There is",
+        "There's"
+      ],
+      "explica": "«Hay» + singular → there is."
+    },
+    {
+      "id": "sujeto-it-there-017",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "WW",
+      "q": "___ (hay) two clients in the lobby.",
+      "respuestas": [
+        "There are"
+      ],
+      "explica": "«Hay» + plural → there are."
+    },
+    {
+      "id": "sujeto-it-there-018",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "SUJ",
+      "q": "___ (es) 9:30. The client is late.",
+      "respuestas": [
+        "It is",
+        "It's"
+      ],
+      "explica": "La hora → it."
+    },
+    {
+      "id": "sujeto-it-there-019",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "WW",
+      "q": "___ (no hay) any milk in the fridge.",
+      "respuestas": [
+        "There isn't",
+        "There is not",
+        "There's no",
+        "There is no"
+      ],
+      "explica": "Milk es incontable → there isn't any / there's no."
+    },
+    {
+      "id": "sujeto-it-there-020",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "WW",
+      "q": "___ (había) ten people in the meeting yesterday.",
+      "respuestas": [
+        "There were"
+      ],
+      "explica": "Pasado + plural → there were."
+    },
+    {
+      "id": "sujeto-it-there-021",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "SUJ",
+      "q": "___ (es difícil) to say right now.",
+      "respuestas": [
+        "It is difficult",
+        "It's difficult",
+        "It is hard",
+        "It's hard"
+      ],
+      "explica": "Opinión impersonal → It's difficult / hard to…"
+    },
+    {
+      "id": "sujeto-it-there-022",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "SUJ",
+      "q": "___ (hay) a meeting room free at 3?",
+      "respuestas": [
+        "Is there"
+      ],
+      "explica": "Pregunta: Is there + singular."
+    },
+    {
+      "id": "sujeto-it-there-023",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "WW",
+      "q": "___ (hubo) a problem with the file, but ___ (no hubo) any delays.",
+      "respuestas": [
+        "There was / there weren't",
+        "There was / there were not",
+        "There was, there weren't",
+        "There was there weren't"
+      ],
+      "explica": "A problem → was; delays (plural) → weren't."
+    },
+    {
+      "id": "sujeto-it-there-024",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "SUJ",
+      "q": "How far is the airport? ___ (queda) about 15 km from here.",
+      "respuestas": [
+        "It is",
+        "It's"
+      ],
+      "explica": "Distancia → it."
+    },
+    {
+      "id": "sujeto-it-there-025",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "SUJ",
+      "es": "Está lloviendo otra vez.",
+      "en": "It is raining again.",
+      "extra": [
+        "There",
+        "has"
+      ],
+      "explica": "Clima → it + is raining."
+    },
+    {
+      "id": "sujeto-it-there-026",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "SUJ",
+      "es": "Hay un problema con el archivo.",
+      "en": "There is a problem with the file.",
+      "extra": [
+        "Has",
+        "It"
+      ],
+      "explica": "«Hay» → there is, nunca has."
+    },
+    {
+      "id": "sujeto-it-there-027",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "SUJ",
+      "es": "¿Hay preguntas?",
+      "en": "Are there any questions?",
+      "extra": [
+        "Have",
+        "is"
+      ],
+      "explica": "Plural → Are there…?"
+    },
+    {
+      "id": "sujeto-it-there-028",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "SUJ",
+      "es": "Es importante probar la idea primero.",
+      "en": "It is important to test the idea first.",
+      "extra": [
+        "There",
+        "Is"
+      ],
+      "explica": "Opinión impersonal → It is important to…"
+    },
+    {
+      "id": "sujeto-it-there-029",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "WW",
+      "es": "Había mucha gente en el evento.",
+      "en": "There were a lot of people at the event.",
+      "extra": [
+        "was",
+        "much"
+      ],
+      "explica": "People es plural → there were; con plural va a lot of o many, no much."
+    },
+    {
+      "id": "sujeto-it-there-030",
+      "tipo": "ordenar",
+      "nivel": 3,
+      "code": "SUJ",
+      "es": "¿Queda lejos de la oficina?",
+      "en": "Is it far from the office?",
+      "extra": [
+        "there",
+        "Does"
+      ],
+      "explica": "Distancia → Is it far…?"
+    },
+    {
+      "id": "sujeto-it-there-031",
+      "tipo": "ordenar",
+      "nivel": 3,
+      "code": "WW",
+      "es": "No hay mucho tiempo antes de la fecha de entrega.",
+      "en": "There isn't much time before the deadline.",
+      "extra": [
+        "aren't",
+        "many"
+      ],
+      "explica": "Time es incontable → there isn't much."
+    },
+    {
+      "id": "sujeto-it-there-032",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "SUJ",
+      "frase": "Is raining a lot today.",
+      "correcta": false,
+      "correccion": [
+        "It is raining a lot today.",
+        "It's raining a lot today."
+      ],
+      "explica": "El sujeto it no se omite."
+    },
+    {
+      "id": "sujeto-it-there-033",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "SUJ",
+      "frase": "There is raining.",
+      "correcta": false,
+      "correccion": [
+        "It is raining.",
+        "It's raining."
+      ],
+      "explica": "El clima va con it. There presenta sustantivos (there is rain), no acciones."
+    },
+    {
+      "id": "sujeto-it-there-034",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "SUJ",
+      "frase": "Has a problem with the budget.",
+      "correcta": false,
+      "correccion": [
+        "There is a problem with the budget.",
+        "There's a problem with the budget."
+      ],
+      "explica": "«Hay» = there is, nunca has sin dueño."
+    },
+    {
+      "id": "sujeto-it-there-035",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "WW",
+      "frase": "There is many people in the room.",
+      "correcta": false,
+      "correccion": [
+        "There are many people in the room.",
+        "There are a lot of people in the room."
+      ],
+      "explica": "People es plural → there are."
+    },
+    {
+      "id": "sujeto-it-there-036",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "SUJ",
+      "frase": "Is very expensive to produce a TV spot.",
+      "correcta": false,
+      "correccion": [
+        "It is very expensive to produce a TV spot.",
+        "It's very expensive to produce a TV spot."
+      ],
+      "explica": "Opinión impersonal → empieza con it."
+    },
+    {
+      "id": "sujeto-it-there-037",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "SUJ",
+      "frase": "There's a new restaurant near my house.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Correcta: «hay» + singular → there's."
+    },
+    {
+      "id": "sujeto-it-there-038",
+      "tipo": "corregir",
+      "nivel": 3,
+      "code": "WW",
+      "frase": "There was three clients at the presentation.",
+      "correcta": false,
+      "correccion": [
+        "There were three clients at the presentation."
+      ],
+      "explica": "Plural en pasado → there were."
+    },
+    {
+      "id": "sujeto-it-there-039",
+      "tipo": "corregir",
+      "nivel": 3,
+      "code": "SUJ",
+      "frase": "It's a meeting at 3 in room B.",
+      "correcta": false,
+      "correccion": [
+        "There is a meeting at 3 in room B.",
+        "There's a meeting at 3 in room B."
+      ],
+      "explica": "Para decir que algo existe (hay una reunión) el sujeto es there, no it."
+    },
+    {
+      "id": "sujeto-it-there-040",
+      "tipo": "transformar",
+      "nivel": 1,
+      "code": "WW",
+      "frase": "There is a problem with the file.",
+      "instruccion": "Pásala a plural (problems)",
+      "respuestas": [
+        "There are problems with the file.",
+        "There are some problems with the file.",
+        "There are two problems with the file."
+      ],
+      "explica": "Plural → there are."
+    },
+    {
+      "id": "sujeto-it-there-041",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "SUJ",
+      "frase": "There are three options on the table.",
+      "instruccion": "Pásala a pregunta",
+      "respuestas": [
+        "Are there three options on the table?"
+      ],
+      "explica": "La llave be pasa delante de there: Are there…?"
+    },
+    {
+      "id": "sujeto-it-there-042",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "WW",
+      "frase": "There is a lot of work this week.",
+      "instruccion": "Pásala a pasado (last week)",
+      "respuestas": [
+        "There was a lot of work last week."
+      ],
+      "explica": "Work es incontable → there was."
+    },
+    {
+      "id": "sujeto-it-there-043",
+      "tipo": "transformar",
+      "nivel": 3,
+      "code": "WW",
+      "frase": "There were many people at the event.",
+      "instruccion": "Pásala a negativa",
+      "respuestas": [
+        "There weren't many people at the event.",
+        "There were not many people at the event."
+      ],
+      "explica": "Negativa en pasado plural → there weren't."
+    },
+    {
+      "id": "sujeto-it-there-044",
+      "tipo": "traducir",
+      "nivel": 1,
+      "code": "SUJ",
+      "es": "Hace frío hoy.",
+      "respuestas": [
+        "It is cold today.",
+        "It's cold today."
+      ],
+      "explica": "Clima → it + be."
+    },
+    {
+      "id": "sujeto-it-there-045",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "SUJ",
+      "es": "Hay un problema con el presupuesto.",
+      "respuestas": [
+        "There is a problem with the budget.",
+        "There's a problem with the budget."
+      ],
+      "explica": "«Hay» → there is."
+    },
+    {
+      "id": "sujeto-it-there-046",
+      "tipo": "traducir",
+      "nivel": 3,
+      "code": "WW",
+      "es": "Hubo dos reuniones ayer y hoy no hay ninguna.",
+      "respuestas": [
+        "There were two meetings yesterday and there aren't any today.",
+        "There were two meetings yesterday and there are none today.",
+        "There were two meetings yesterday and today there aren't any.",
+        "There were two meetings yesterday, and there aren't any today.",
+        "There were two meetings yesterday and there are no meetings today."
+      ],
+      "explica": "Plural pasado → there were; presente negativo → there aren't any."
+    },
+    {
+      "id": "sujeto-it-there-047",
+      "tipo": "identificar",
+      "nivel": 1,
+      "code": "SUJ",
+      "frase": "It's 10 minutes from the office.",
+      "opciones": [
+        "It para distancia",
+        "There para existencia",
+        "It para clima"
+      ],
+      "a": 0,
+      "explica": "Distancia o tiempo de trayecto → it."
+    },
+    {
+      "id": "sujeto-it-there-048",
+      "tipo": "escuchar",
+      "nivel": 2,
+      "code": "SUJ",
+      "texto": "There are three options on the table.",
+      "respuestas": [
+        "There are three options on the table."
+      ],
+      "explica": "Escucha there are + plural."
+    },
+    {
+      "id": "sujeto-it-there-049",
+      "tipo": "hablar",
+      "nivel": 1,
+      "code": "SUJ",
+      "consigna": "Describe el clima y la hora de ahora, y di qué hay en tu escritorio o en tu cocina (tres cosas).",
+      "objetivo": "It para clima y hora; there is / there are para existencia",
+      "ejemplo": "It's cloudy and it's a bit cold. It's 7 pm. There's a laptop on my desk, there are two notebooks and there isn't any coffee.",
+      "explica": "Clima y hora → it; para decir qué hay → there is (singular) / there are (plural)."
+    },
+    {
+      "id": "sujeto-it-there-050",
+      "tipo": "hablar",
+      "nivel": 3,
+      "code": "SUJ",
+      "consigna": "Abre una reunión: di qué hay en la agenda (dos puntos), qué problema hubo la semana pasada y por qué es importante resolverlo.",
+      "objetivo": "There are / there was / it's important to…",
+      "ejemplo": "Good morning. There are two points on the agenda today: the budget and the timeline. Last week there was a problem with the client's feedback. It's important to solve it before Friday.",
+      "explica": "«Hay» → there are; «hubo» → there was; la opinión impersonal empieza con it (It's important to…)."
+    }
+  ]
+}

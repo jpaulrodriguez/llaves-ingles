@@ -1,0 +1,870 @@
+{
+  "id": "llamadas-presentaciones",
+  "titulo": "Llamadas y presentaciones",
+  "grupo": "Inglés para el trabajo",
+  "orden": 230,
+  "nivel": "A2–B1",
+  "resumen": "Sobrevivir a una videollamada (sonido, repetir, ir más despacio) y presentar una campaña o unos resultados con estructura: abrir, guiar, cerrar y manejar preguntas.",
+  "llave": "Could you…? · Let me…",
+  "teoria": {
+    "paraQue": "Para no perderte en una llamada (¿me oyen?, estás en mute, ¿puedes repetir?) y para presentar una campaña o unos resultados con una estructura clara: decir de qué vas a hablar, guiar por los puntos, señalar los datos, cerrar y responder preguntas sin bloquearte.",
+    "llave": "Dos llaves. *Could you…?* para pedir: que repitan, que hablen más despacio, que esperen. *Let me…* para tomar el control: *Let me share my screen*, *Let me explain*, *Let me check*. Las dos van con el verbo base, sin *to*. Para la presentación, la estructura fija: *Today I'm going to… → First… → As you can see… → To sum up… → Any questions?*",
+    "formulas": [
+      {
+        "tipo": "Problemas técnicos",
+        "formula": "Can you hear me? / You're on mute. / I think you froze.",
+        "ejemplo": "[[Can]] you {{hear}} me? I think you[['re]] on mute, Laura."
+      },
+      {
+        "tipo": "Pedir que repitan",
+        "formula": "Could you repeat that? / Sorry, I didn't catch that. / Could you speak more slowly?",
+        "ejemplo": "Sorry, [[could]] you {{repeat}} that? The audio cut out."
+      },
+      {
+        "tipo": "Tomar el control",
+        "formula": "Let me + verbo base",
+        "ejemplo": "Let me {{share}} my screen. Let me {{explain}}."
+      },
+      {
+        "tipo": "Abrir la presentación",
+        "formula": "Today I'm going to talk about… / The goal of this presentation is to…",
+        "ejemplo": "Today I[['m]] {{go((ing))}} to {{talk}} about the results of the campaign."
+      },
+      {
+        "tipo": "Guiar",
+        "formula": "First… / Then… / Finally… / Let's move on to…",
+        "ejemplo": "First, the numbers. Then, what worked. Finally, our recommendations."
+      },
+      {
+        "tipo": "Señalar datos",
+        "formula": "As you can see… / Sales went up / down + %",
+        "ejemplo": "As you [[can]] {{see}}, sales {{went}} up 20% in September."
+      },
+      {
+        "tipo": "Cerrar",
+        "formula": "To sum up… / That's all from me. / Any questions?",
+        "ejemplo": "To {{sum}} up, the campaign worked. Any questions?"
+      },
+      {
+        "tipo": "Manejar preguntas",
+        "formula": "That's a good question. / Let me get back to you on that. / Does that answer your question?",
+        "ejemplo": "That[['s]] a good question. Let me {{get}} back to you on that."
+      }
+    ],
+    "reglas": [
+      "Oír es *hear*; *listen* es escuchar con atención. En la llamada: *Can you hear me?*",
+      "Estar en silencio es *on mute* (no *in mute*).",
+      "Repetir: *Could you repeat that?* El objeto es *that*, no *me*.",
+      "«Más despacio» es *more slowly* o *slower*, nunca *more slow*.",
+      "*Let me* + verbo base, sin *to*: *Let me explain*, *Let me check*.",
+      "Abres con *Today I'm going to talk about…*; *talk* no lleva *you* después (*talk you about* ✗).",
+      "Un gráfico es *chart* o *graph*; *graphic* es una pieza de diseño.",
+      "Las preguntas al final van en plural: *Any questions?*"
+    ],
+    "senales": [
+      "Can you hear me?",
+      "on mute",
+      "Could you repeat that?",
+      "more slowly",
+      "Let me",
+      "Today I'm going to",
+      "As you can see",
+      "To sum up",
+      "Any questions?"
+    ],
+    "usos": [
+      {
+        "uso": "Llamada con familia o amigos en el exterior",
+        "contexto": "diario",
+        "ejemplo": "[[Can]] you {{hear}} me? You[['re]] on mute, mom."
+      },
+      {
+        "uso": "Pedir que te repitan en un restaurante o un aeropuerto",
+        "contexto": "diario",
+        "ejemplo": "Sorry, [[could]] you {{repeat}} that? [[Could]] you {{speak}} more slowly, please?"
+      },
+      {
+        "uso": "Arrancar la videollamada con el cliente",
+        "contexto": "trabajo",
+        "ejemplo": "Let me {{share}} my screen. [[Can]] everyone {{see}} it?"
+      },
+      {
+        "uso": "Presentar resultados de campaña",
+        "contexto": "trabajo",
+        "ejemplo": "As you [[can]] {{see}}, reach {{went}} up 40% in September."
+      },
+      {
+        "uso": "Responder cuando no tienes el dato",
+        "contexto": "trabajo",
+        "ejemplo": "I [[don't]] {{have}} that number with me. Let me {{get}} back to you on that."
+      }
+    ],
+    "errores": [
+      {
+        "mal": "Can you listen me?",
+        "bien": "Can you hear me?",
+        "porque": "Oír es hear. Listen es escuchar con atención y lleva to.",
+        "code": "VOC"
+      },
+      {
+        "mal": "You are in mute.",
+        "bien": "You're on mute.",
+        "porque": "La expresión fija es on mute.",
+        "code": "USO"
+      },
+      {
+        "mal": "Repeat me, please.",
+        "bien": "Could you repeat that, please?",
+        "porque": "Repeat lleva la cosa (that), no la persona. Y la petición cortés es Could you…?",
+        "code": "USO"
+      },
+      {
+        "mal": "Could you speak more slow?",
+        "bien": "Could you speak more slowly?",
+        "porque": "Speak necesita adverbio: slowly (o slower).",
+        "code": "VOC"
+      },
+      {
+        "mal": "Let me to explain.",
+        "bien": "Let me explain.",
+        "porque": "Let me + verbo base, sin to.",
+        "code": "MOD"
+      },
+      {
+        "mal": "Today I'm going to talk you about the campaign.",
+        "bien": "Today I'm going to talk about the campaign.",
+        "porque": "Talk about no lleva you en medio. Si quieres incluir a la audiencia: tell you about.",
+        "code": "USO"
+      },
+      {
+        "mal": "As you can see in the graphic…",
+        "bien": "As you can see in the chart…",
+        "porque": "Un gráfico de datos es chart o graph.",
+        "code": "VOC"
+      },
+      {
+        "mal": "Any question?",
+        "bien": "Any questions?",
+        "porque": "Any + contable va en plural.",
+        "code": "CUA"
+      }
+    ],
+    "contraste": [
+      {
+        "a": "[[Can]] you {{hear}} me?",
+        "b": "[[Are]] you {{listen((ing))}} to me?",
+        "nota": "Hear = te llega el sonido. Listen = me prestas atención. En la llamada es hear."
+      },
+      {
+        "a": "Let me {{explain}}.",
+        "b": "[[Could]] you {{explain}} that?",
+        "nota": "Let me = yo tomo la palabra. Could you = le pido al otro."
+      }
+    ],
+    "frases": [
+      {
+        "en": "Can you hear me?",
+        "es": "¿Me oyen?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I think you're on mute.",
+        "es": "Creo que estás en mute.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I think you froze for a second.",
+        "es": "Creo que te congelaste un segundo.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Sorry, I didn't catch that.",
+        "es": "Perdón, no entendí eso.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Could you repeat that, please?",
+        "es": "¿Podrías repetir eso, por favor?",
+        "contexto": "diario"
+      },
+      {
+        "en": "Could you speak more slowly, please?",
+        "es": "¿Podrías hablar más despacio, por favor?",
+        "contexto": "diario"
+      },
+      {
+        "en": "The audio cut out for a moment.",
+        "es": "El audio se cortó un momento.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Let me share my screen.",
+        "es": "Déjame compartir mi pantalla.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Can everyone see my screen?",
+        "es": "¿Todos ven mi pantalla?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Let me check and get back to you.",
+        "es": "Déjame revisar y te confirmo.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Today I'm going to talk about the results of the campaign.",
+        "es": "Hoy voy a hablar de los resultados de la campaña.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "The goal of this presentation is to show you what worked.",
+        "es": "El objetivo de esta presentación es mostrarles qué funcionó.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "First, I'll show you the numbers.",
+        "es": "Primero, les muestro las cifras.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Let's move on to the media plan.",
+        "es": "Pasemos al plan de medios.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "As you can see, sales went up 20%.",
+        "es": "Como pueden ver, las ventas subieron un 20 %.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Engagement went down a little, about 5%.",
+        "es": "El engagement bajó un poco, alrededor de un 5 %.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "This chart shows the results by month.",
+        "es": "Este gráfico muestra los resultados por mes.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "To sum up, the campaign reached three million people.",
+        "es": "Para resumir, la campaña llegó a tres millones de personas.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "That's all from me. Any questions?",
+        "es": "Eso es todo de mi parte. ¿Alguna pregunta?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "That's a good question.",
+        "es": "Esa es una buena pregunta.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I don't have that number with me. Let me get back to you on that.",
+        "es": "No tengo ese dato a la mano. Déjame confirmarlo y te respondo.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Does that answer your question?",
+        "es": "¿Eso responde tu pregunta?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Thank you for your time.",
+        "es": "Gracias por su tiempo.",
+        "contexto": "trabajo"
+      }
+    ],
+    "tip": "Memoriza el esqueleto de la presentación como una sola frase larga: «Today I'm going to… First… Then… As you can see… To sum up… Any questions?». Con eso puesto, solo tienes que rellenar los datos."
+  },
+  "ejercicios": [
+    {
+      "id": "llamadas-presentaciones-001",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "Empieza la videollamada y no sabes si te oyen:",
+      "opciones": [
+        "Can you hear me?",
+        "Can you listen to me?",
+        "Can you listen me?"
+      ],
+      "a": 0,
+      "explica": "Oír es hear. Listen es escuchar con atención (y lleva to), no sirve para el sonido."
+    },
+    {
+      "id": "llamadas-presentaciones-002",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Un colega mueve la boca pero no se le oye:",
+      "opciones": [
+        "I think you're on mute.",
+        "I think you're in mute.",
+        "I think you have the mute."
+      ],
+      "a": 0,
+      "explica": "La expresión fija es on mute."
+    },
+    {
+      "id": "llamadas-presentaciones-003",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "No entendiste la última frase del cliente:",
+      "opciones": [
+        "Sorry, could you repeat that?",
+        "Sorry, repeat me, please.",
+        "Sorry, can you repeat me?"
+      ],
+      "a": 0,
+      "explica": "Could you repeat that? El objeto es that (lo que dijo), no me."
+    },
+    {
+      "id": "llamadas-presentaciones-004",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "El cliente habla muy rápido:",
+      "opciones": [
+        "Could you speak more slowly, please?",
+        "Could you speak more slow, please?",
+        "Could you talk slowlier, please?"
+      ],
+      "a": 0,
+      "explica": "Speak necesita adverbio: more slowly (o slower). Slowlier no existe."
+    },
+    {
+      "id": "llamadas-presentaciones-005",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "MOD",
+      "q": "Vas a compartir la pantalla:",
+      "opciones": [
+        "Let me share my screen.",
+        "Let me to share my screen.",
+        "Let me that I share my screen."
+      ],
+      "a": 0,
+      "explica": "Let me + verbo base, sin to."
+    },
+    {
+      "id": "llamadas-presentaciones-006",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Abres la presentación de resultados:",
+      "opciones": [
+        "Today I'm going to talk about the results of the campaign.",
+        "Today I going to talk about the results of the campaign.",
+        "Today I'm going to talk you about the results of the campaign."
+      ],
+      "a": 0,
+      "explica": "I'm going to (con am) + talk about, sin you en medio."
+    },
+    {
+      "id": "llamadas-presentaciones-007",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Señalas el gráfico de ventas:",
+      "opciones": [
+        "As you can see, sales went up 20% in September.",
+        "As you can see, the sales were up of 20% in September.",
+        "How you can see, sales went up 20% in September."
+      ],
+      "a": 0,
+      "explica": "As you can see (no how), y went up 20% sin of."
+    },
+    {
+      "id": "llamadas-presentaciones-008",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Terminaste un punto y pasas al siguiente:",
+      "opciones": [
+        "Let's move on to the media plan.",
+        "Let's pass to the media plan.",
+        "Now we pass to the media plan."
+      ],
+      "a": 0,
+      "explica": "Pasar al siguiente punto es move on to. Pass to es un calco."
+    },
+    {
+      "id": "llamadas-presentaciones-009",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "CUA",
+      "q": "Cierras y abres el espacio de preguntas:",
+      "opciones": [
+        "To sum up, the campaign worked. Any questions?",
+        "For summarize, the campaign worked. Any question?",
+        "In resume, the campaign worked. Some question?"
+      ],
+      "a": 0,
+      "explica": "To sum up + Any questions? (plural). For summarize e in resume son calcos."
+    },
+    {
+      "id": "llamadas-presentaciones-010",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Te hacen una pregunta y no tienes el dato:",
+      "opciones": [
+        "I don't have that number with me. Let me get back to you on that.",
+        "I don't know. Next question.",
+        "I haven't that number. I say you later."
+      ],
+      "a": 0,
+      "explica": "Let me get back to you on that es la salida elegante. I don't know. Next question es brusco y say you no existe."
+    },
+    {
+      "id": "llamadas-presentaciones-011",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "MOD",
+      "q": "Un cliente hace una buena pregunta y vas a responder:",
+      "opciones": [
+        "That's a good question. Let me explain.",
+        "That's a good ask. Let me to explain.",
+        "Good question, you have reason. Let me explain you."
+      ],
+      "a": 0,
+      "explica": "Good question + Let me explain (sin to, sin you). You have reason es calco de «tienes razón»."
+    },
+    {
+      "id": "llamadas-presentaciones-012",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "USO",
+      "q": "Se congeló la imagen de un colega y perdiste lo último que dijo:",
+      "opciones": [
+        "I think you froze for a second. Could you repeat the last part?",
+        "I think your connection is bad. Repeat me the last part.",
+        "I think you cut. Say me again the last part."
+      ],
+      "a": 0,
+      "explica": "You froze + Could you repeat…? Repeat me y say me son calcos del español."
+    },
+    {
+      "id": "llamadas-presentaciones-013",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "LL",
+      "q": "Terminas de responder y verificas que quedó claro:",
+      "opciones": [
+        "Does that answer your question?",
+        "That answers your question?",
+        "Is that answer your question?"
+      ],
+      "a": 0,
+      "explica": "Answer es verbo normal: la pregunta lleva does. Is no va con un verbo simple."
+    },
+    {
+      "id": "llamadas-presentaciones-014",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "Can you ___ me? I think my mic is working now.",
+      "respuestas": [
+        "hear"
+      ],
+      "explica": "Oír es hear."
+    },
+    {
+      "id": "llamadas-presentaciones-015",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Sorry, Laura, you're on ___.",
+      "respuestas": [
+        "mute"
+      ],
+      "explica": "On mute: estás en silencio."
+    },
+    {
+      "id": "llamadas-presentaciones-016",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Could you ___ that, please? The audio cut out.",
+      "respuestas": [
+        "repeat"
+      ],
+      "explica": "Could you repeat that? Repeat + that."
+    },
+    {
+      "id": "llamadas-presentaciones-017",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "MOD",
+      "q": "Let me ___ my screen.",
+      "respuestas": [
+        "share"
+      ],
+      "explica": "Let me share my screen: verbo base después de let me."
+    },
+    {
+      "id": "llamadas-presentaciones-018",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Today I'm going to ___ about the results of the Q3 campaign.",
+      "respuestas": [
+        "talk",
+        "speak"
+      ],
+      "explica": "Talk about (o speak about), sin you en medio."
+    },
+    {
+      "id": "llamadas-presentaciones-019",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "As you can ___, engagement went up 35% in October.",
+      "respuestas": [
+        "see"
+      ],
+      "explica": "As you can see = como pueden ver. Pieza fija para señalar el dato."
+    },
+    {
+      "id": "llamadas-presentaciones-020",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "USO",
+      "q": "To ___ up, the campaign reached three million people.",
+      "respuestas": [
+        "sum",
+        "wrap"
+      ],
+      "explica": "To sum up (o to wrap up) abre el cierre de la presentación."
+    },
+    {
+      "id": "llamadas-presentaciones-021",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "VOC",
+      "es": "¿Me oyen?",
+      "en": "Can you hear me?",
+      "extra": [
+        "listen",
+        "do"
+      ],
+      "explica": "Can you hear me? Hear, no listen; y con can no hace falta do."
+    },
+    {
+      "id": "llamadas-presentaciones-022",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "USO",
+      "es": "Estás en mute.",
+      "en": "You're on mute.",
+      "extra": [
+        "in",
+        "are"
+      ],
+      "explica": "On mute, no in mute."
+    },
+    {
+      "id": "llamadas-presentaciones-023",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "VOC",
+      "es": "¿Podrías hablar más despacio?",
+      "en": "Could you speak more slowly?",
+      "extra": [
+        "slow",
+        "to"
+      ],
+      "explica": "More slowly (adverbio) y verbo base sin to después de could."
+    },
+    {
+      "id": "llamadas-presentaciones-024",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "MOD",
+      "es": "Déjame compartir mi pantalla.",
+      "en": "Let me share my screen.",
+      "extra": [
+        "to",
+        "sharing"
+      ],
+      "explica": "Let me + share (base). Ni to ni -ing."
+    },
+    {
+      "id": "llamadas-presentaciones-025",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "USO",
+      "es": "Hoy voy a hablar de los resultados.",
+      "en": "Today I'm going to talk about the results.",
+      "extra": [
+        "of",
+        "will"
+      ],
+      "explica": "Talk about (no of). I'm going to para lo que ya tienes preparado."
+    },
+    {
+      "id": "llamadas-presentaciones-026",
+      "tipo": "ordenar",
+      "nivel": 3,
+      "code": "USO",
+      "es": "Como pueden ver, las ventas subieron un 20 %.",
+      "en": "As you can see, sales went up 20%.",
+      "extra": [
+        "How",
+        "goed"
+      ],
+      "explica": "As you can see (no how). Go es irregular: went."
+    },
+    {
+      "id": "llamadas-presentaciones-027",
+      "tipo": "ordenar",
+      "nivel": 3,
+      "code": "CUA",
+      "es": "Eso es todo de mi parte. ¿Alguna pregunta?",
+      "en": "That's all from me. Any questions?",
+      "extra": [
+        "question?",
+        "Some"
+      ],
+      "explica": "Any questions? en plural; some no se usa en esta pregunta."
+    },
+    {
+      "id": "llamadas-presentaciones-028",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "VOC",
+      "frase": "Can you listen me?",
+      "correcta": false,
+      "correccion": [
+        "Can you hear me?"
+      ],
+      "explica": "Oír es hear."
+    },
+    {
+      "id": "llamadas-presentaciones-029",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "USO",
+      "frase": "You are in mute.",
+      "correcta": false,
+      "correccion": [
+        "You're on mute.",
+        "You are on mute."
+      ],
+      "explica": "On mute."
+    },
+    {
+      "id": "llamadas-presentaciones-030",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "MOD",
+      "frase": "Let me to explain the strategy.",
+      "correcta": false,
+      "correccion": [
+        "Let me explain the strategy."
+      ],
+      "explica": "Let me + verbo base, sin to."
+    },
+    {
+      "id": "llamadas-presentaciones-031",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "VOC",
+      "frase": "Could you speak more slow, please?",
+      "correcta": false,
+      "correccion": [
+        "Could you speak more slowly, please?",
+        "Could you speak slower, please?",
+        "Could you speak a little more slowly, please?"
+      ],
+      "explica": "Speak necesita adverbio: slowly o slower."
+    },
+    {
+      "id": "llamadas-presentaciones-032",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "Sorry, I didn't catch that. Could you repeat it?",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Correcta: I didn't catch that + Could you repeat it?"
+    },
+    {
+      "id": "llamadas-presentaciones-033",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "CUA",
+      "frase": "Any question?",
+      "correcta": false,
+      "correccion": [
+        "Any questions?",
+        "Do you have any questions?",
+        "Are there any questions?"
+      ],
+      "explica": "Any + contable en plural."
+    },
+    {
+      "id": "llamadas-presentaciones-034",
+      "tipo": "corregir",
+      "nivel": 3,
+      "code": "USO",
+      "frase": "Today I'm going to present you the new campaign.",
+      "correcta": false,
+      "correccion": [
+        "Today I'm going to present the new campaign.",
+        "Today I'm going to present the new campaign to you.",
+        "Today I'm going to show you the new campaign.",
+        "Today I am going to present the new campaign.",
+        "Today I am going to show you the new campaign."
+      ],
+      "explica": "Present no lleva you pegado: present the campaign (to you). Si quieres el you, usa show you."
+    },
+    {
+      "id": "llamadas-presentaciones-035",
+      "tipo": "traducir",
+      "nivel": 1,
+      "code": "USO",
+      "es": "¿Podrías repetir eso?",
+      "respuestas": [
+        "Could you repeat that?",
+        "Could you repeat that, please?",
+        "Can you repeat that?",
+        "Could you say that again?",
+        "Can you say that again?"
+      ],
+      "explica": "Could you repeat that? El objeto es that."
+    },
+    {
+      "id": "llamadas-presentaciones-036",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "MOD",
+      "es": "Déjame revisar y te confirmo.",
+      "respuestas": [
+        "Let me check and I'll confirm.",
+        "Let me check and I'll get back to you.",
+        "Let me check and I will confirm.",
+        "Let me check and I will get back to you.",
+        "Let me check and get back to you.",
+        "Let me check and I'll let you know.",
+        "Let me check and I will let you know."
+      ],
+      "explica": "Let me check (base) + I'll + verbo para la promesa."
+    },
+    {
+      "id": "llamadas-presentaciones-037",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "USO",
+      "es": "Como pueden ver, el video tuvo dos millones de vistas.",
+      "respuestas": [
+        "As you can see, the video had two million views.",
+        "As you can see, the video got two million views.",
+        "As you can see, the video had 2 million views.",
+        "As you can see, the video got 2 million views.",
+        "As you can see, the video reached two million views.",
+        "As you can see, the video reached 2 million views."
+      ],
+      "explica": "As you can see + el dato. Million va en singular después de un número."
+    },
+    {
+      "id": "llamadas-presentaciones-038",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "USO",
+      "es": "Pasemos a los resultados.",
+      "respuestas": [
+        "Let's move on to the results.",
+        "Let's move to the results.",
+        "Let's go to the results.",
+        "Let's move on to the results now.",
+        "Let's go on to the results."
+      ],
+      "explica": "Let's move on to + siguiente punto."
+    },
+    {
+      "id": "llamadas-presentaciones-039",
+      "tipo": "traducir",
+      "nivel": 3,
+      "code": "MOD",
+      "es": "Esa es una buena pregunta. Déjame explicarte.",
+      "respuestas": [
+        "That's a good question. Let me explain.",
+        "That is a good question. Let me explain.",
+        "Good question. Let me explain.",
+        "That's a great question. Let me explain.",
+        "That is a great question. Let me explain."
+      ],
+      "explica": "That's a good question + Let me explain (sin to, sin you)."
+    },
+    {
+      "id": "llamadas-presentaciones-040",
+      "tipo": "escuchar",
+      "nivel": 1,
+      "code": "VOC",
+      "texto": "Could you speak more slowly, please?",
+      "respuestas": [
+        "Could you speak more slowly, please?"
+      ],
+      "explica": "Escucha la -ly de slowly."
+    },
+    {
+      "id": "llamadas-presentaciones-041",
+      "tipo": "escuchar",
+      "nivel": 2,
+      "code": "USO",
+      "texto": "As you can see, sales went up twenty percent.",
+      "respuestas": [
+        "As you can see, sales went up twenty percent.",
+        "As you can see, sales went up 20 percent.",
+        "As you can see, sales went up 20%."
+      ],
+      "explica": "As you can see + sales went up + porcentaje."
+    },
+    {
+      "id": "llamadas-presentaciones-042",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "USO",
+      "consigna": "Abre la presentación de resultados de una campaña: saluda, di de qué vas a hablar y en qué orden (tres partes).",
+      "objetivo": "Today I'm going to… / First… / Then… / Finally…",
+      "ejemplo": "Good morning, everyone. Today I'm going to talk about the results of the September campaign. First, I'll show you the numbers. Then we'll look at what worked and what didn't. And finally, I'll share our recommendations for Q4.",
+      "explica": "El esqueleto: Today I'm going to talk about… (sin you) + First… Then… Finally… para anunciar las partes."
+    },
+    {
+      "id": "llamadas-presentaciones-043",
+      "tipo": "hablar",
+      "nivel": 3,
+      "code": "USO",
+      "consigna": "Presenta un gráfico de resultados (invéntalo): una métrica que subió, una que bajó y por qué.",
+      "objetivo": "As you can see… / went up / went down / because",
+      "ejemplo": "As you can see, reach went up 40% in September, mostly because of the influencer content. Engagement went down a little, about 5%, because we posted more often. Overall, the campaign reached three million people.",
+      "explica": "As you can see + métrica + went up / went down + porcentaje, y because para la causa. Go es irregular: went."
+    },
+    {
+      "id": "llamadas-presentaciones-044",
+      "tipo": "hablar",
+      "nivel": 1,
+      "code": "MOD",
+      "consigna": "Estás en una llamada con mala conexión: no oyes bien, el cliente habla rápido y necesitas que repita una cifra del presupuesto.",
+      "objetivo": "Can you hear me? / Could you repeat…? / Could you speak more slowly?",
+      "ejemplo": "Sorry, can you hear me? I think the connection is bad. Could you repeat the budget number? … And could you speak a little more slowly, please? Thank you.",
+      "explica": "Can you hear me? (hear, no listen), Could you repeat + the number (no repeat me), Could you speak more slowly (adverbio)."
+    },
+    {
+      "id": "llamadas-presentaciones-045",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "USO",
+      "consigna": "Cierra tu presentación: resume en una frase, agradece y abre preguntas. Luego responde a una pregunta cuyo dato no tienes.",
+      "objetivo": "To sum up… / Any questions? / That's a good question / Let me get back to you on that",
+      "ejemplo": "To sum up, the campaign worked: three million people and sales up 20%. Thank you for your time. Any questions? … That's a good question. I don't have that number with me, but let me get back to you by tomorrow.",
+      "explica": "To sum up para cerrar, Any questions? en plural, y la salida elegante: That's a good question + Let me get back to you on that."
+    }
+  ]
+}

@@ -1,0 +1,1048 @@
+{
+  "id": "calcos-espanol",
+  "titulo": "Errores del hispanohablante",
+  "grupo": "Errores típicos",
+  "orden": 400,
+  "nivel": "A2–B1",
+  "resumen": "Las frases que en español funcionan y en inglés no: I have 35 years, I am agree, explain me, make a question, actually, people is, depend of, married with, sensible, carpet, realize…",
+  "llave": "pensar en inglés, no traducir",
+  "teoria": {
+    "paraQue": "Para dejar de traducir palabra por palabra. Estos errores no son de gramática: son frases que en español suenan perfectas y en inglés delatan al hispanohablante aunque todo lo demás esté bien. Son justo las que se te escapan en reuniones y emails.",
+    "llave": "Pensar en inglés, no traducir. Cada calco tiene una pieza fija que lo reemplaza y que se aprende entera: no «tengo 35 años» sino *I'm 35*; no «estoy de acuerdo» sino *I agree*; no «explícame» sino *explain it to me*; no «hacer una pregunta» sino *ask a question*. Cuando dudes, pregúntate: ¿esto lo estoy traduciendo o lo he oído así en inglés?",
+    "formulas": [
+      {
+        "tipo": "Edad",
+        "formula": "I'm + número (years old)",
+        "ejemplo": "I[['m]] 38. / I[['m]] 38 years old."
+      },
+      {
+        "tipo": "Acuerdo",
+        "formula": "I agree / I don't agree / I disagree (verbo, sin be)",
+        "ejemplo": "I {{agree}} with you. I [[don't]] {{agree}} with the deadline."
+      },
+      {
+        "tipo": "Explicar, decir, sugerir",
+        "formula": "explain / say / suggest + cosa + to + persona",
+        "ejemplo": "{{Explain}} it to me. She {{said}} that to me."
+      },
+      {
+        "tipo": "Contar, preguntar, dar",
+        "formula": "tell / ask / give + persona (sin to)",
+        "ejemplo": "{{Tell}} me the truth. {{Ask}} him a question."
+      },
+      {
+        "tipo": "Pares fijos",
+        "formula": "ask a question · attend a meeting · make a decision · take a photo",
+        "ejemplo": "[[Can]] I {{ask}} a question? I {{attended}} the meeting."
+      },
+      {
+        "tipo": "Preposiciones fijas",
+        "formula": "depend on · married to · discuss (sin about) · arrive in/at",
+        "ejemplo": "It {{depends}} on the budget. She[['s]] married to a lawyer. Let's {{discuss}} the plan."
+      },
+      {
+        "tipo": "Falsos amigos",
+        "formula": "actually ≠ actualmente · sensible ≠ sensible · carpet ≠ carpeta · realize ≠ realizar",
+        "ejemplo": "I[['m]] currently working on Honda. (actualmente) / Actually, it[['s]] cheaper. (en realidad)"
+      },
+      {
+        "tipo": "People",
+        "formula": "people + verbo en plural · sin the cuando es genérico",
+        "ejemplo": "People {{are}} friendly in Medellín. (no «the people is»)"
+      },
+      {
+        "tipo": "-ed vs -ing",
+        "formula": "I'm bored (yo lo siento) · it's boring (la cosa lo causa)",
+        "ejemplo": "The meeting [[was]] boring, so I [[was]] bored."
+      }
+    ],
+    "reglas": [
+      "La edad va con *be*: *I'm 38*. *Years* nunca va solo: o *I'm 38* o *I'm 38 years old*.",
+      "*Agree* es verbo: *I agree*, *I don't agree*, *Do you agree?*. Jamás *I am agree*.",
+      "*Explain*, *say*, *suggest*, *describe*: primero la cosa, luego *to me*: *explain it to me*, *say it to me*. Con *tell*, *ask*, *give*, *show*: la persona va pegada: *tell me*, *ask me*.",
+      "Preguntas se hacen con *ask* (*ask a question*), reuniones se asisten con *attend* (*attend a meeting*), decisiones se toman con *make* (*make a decision*).",
+      "*Actually* significa «en realidad, de hecho». Para «actualmente» usa *currently*, *right now*, *at the moment*.",
+      "*People* es plural: *people are*, *people have*. Sin *the* cuando hablas de la gente en general.",
+      "Preposiciones que no se traducen: *depend on*, *married to*, *discuss* sin nada, *listen to*, *arrive in* una ciudad.",
+      "*Sensitive* = sensible; *sensible* = sensato. *Folder* = carpeta; *carpet* = alfombra. *Realize* = darse cuenta; «realizar» es *do*, *carry out*, *complete*.",
+      "*Bored* es cómo te sientes; *boring* es cómo es la cosa. Si dices *I'm boring*, estás diciendo que eres aburrido.",
+      "Decir «dime» es *tell me*; *say me* no existe."
+    ],
+    "senales": [
+      "I'm 38",
+      "I agree",
+      "explain it to me",
+      "ask a question",
+      "attend a meeting",
+      "currently",
+      "people are",
+      "depends on",
+      "married to",
+      "bored / boring"
+    ],
+    "usos": [
+      {
+        "uso": "Decir tu edad y la de tu familia",
+        "contexto": "diario",
+        "ejemplo": "I[['m]] 38 and my son [[is]] 7."
+      },
+      {
+        "uso": "Describir a alguien",
+        "contexto": "diario",
+        "ejemplo": "My sister [[is]] married to a doctor. She[['s]] very sensitive."
+      },
+      {
+        "uso": "Hablar de la gente de tu ciudad",
+        "contexto": "diario",
+        "ejemplo": "People in Bogotá {{complain}} about the traffic all the time."
+      },
+      {
+        "uso": "Estar de acuerdo en una reunión",
+        "contexto": "trabajo",
+        "ejemplo": "I {{agree}} with Laura. I [[don't]] {{agree}} with the timing."
+      },
+      {
+        "uso": "Pedir aclaración",
+        "contexto": "trabajo",
+        "ejemplo": "[[Can]] I {{ask}} a question? [[Could]] you {{explain}} that to me?"
+      },
+      {
+        "uso": "Contar lo que hiciste en el día",
+        "contexto": "trabajo",
+        "ejemplo": "I {{attended}} two meetings and we {{discussed}} the Q4 budget."
+      },
+      {
+        "uso": "Decir en qué trabajas ahora",
+        "contexto": "trabajo",
+        "ejemplo": "I[['m]] currently working on three campaigns."
+      }
+    ],
+    "errores": [
+      {
+        "mal": "I have 35 years.",
+        "bien": "I'm 35.",
+        "porque": "La edad va con be.",
+        "code": "USO"
+      },
+      {
+        "mal": "I am agree.",
+        "bien": "I agree.",
+        "porque": "Agree es verbo, no adjetivo.",
+        "code": "BE"
+      },
+      {
+        "mal": "Explain me the brief.",
+        "bien": "Explain the brief to me.",
+        "porque": "Explain lleva la cosa primero y la persona con to.",
+        "code": "USO"
+      },
+      {
+        "mal": "Can I make a question?",
+        "bien": "Can I ask a question?",
+        "porque": "Las preguntas se hacen con ask.",
+        "code": "VOC"
+      },
+      {
+        "mal": "I assisted to the meeting.",
+        "bien": "I attended the meeting.",
+        "porque": "Assist es ayudar; asistir es attend, sin to.",
+        "code": "VOC"
+      },
+      {
+        "mal": "Actually, I work on three accounts.",
+        "bien": "Currently, I work on three accounts.",
+        "porque": "Actually es «en realidad»; «actualmente» es currently.",
+        "code": "VOC"
+      },
+      {
+        "mal": "People is very friendly.",
+        "bien": "People are very friendly.",
+        "porque": "People es plural.",
+        "code": "USO"
+      },
+      {
+        "mal": "It depends of the budget.",
+        "bien": "It depends on the budget.",
+        "porque": "Depend on, siempre.",
+        "code": "VOC"
+      }
+    ],
+    "contraste": [
+      {
+        "a": "I[['m]] bored.",
+        "b": "I[['m]] boring.",
+        "nota": "Bored = estoy aburrido. Boring = soy aburrido (una persona aburridora). Cuidado."
+      },
+      {
+        "a": "I[['m]] currently working on Honda.",
+        "b": "Actually, I[['m]] working on Honda.",
+        "nota": "Currently = actualmente. Actually = en realidad, de hecho (corrige algo)."
+      },
+      {
+        "a": "She[['s]] very sensitive.",
+        "b": "She[['s]] very sensible.",
+        "nota": "Sensitive = sensible (se afecta). Sensible = sensata, con criterio."
+      },
+      {
+        "a": "{{Tell}} me.",
+        "b": "{{Say}} it to me.",
+        "nota": "Tell + persona. Say + cosa (+ to persona). Say me no existe."
+      }
+    ],
+    "frases": [
+      {
+        "en": "I'm 38 years old.",
+        "es": "Tengo 38 años.",
+        "contexto": "diario"
+      },
+      {
+        "en": "I agree with you.",
+        "es": "Estoy de acuerdo contigo.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I don't agree with that.",
+        "es": "No estoy de acuerdo con eso.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Could you explain it to me?",
+        "es": "¿Me lo podrías explicar?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Can I ask you a question?",
+        "es": "¿Puedo hacerte una pregunta?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I attended a meeting with the client.",
+        "es": "Asistí a una reunión con el cliente.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "We need to make a decision today.",
+        "es": "Tenemos que tomar una decisión hoy.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'm currently working on the Honda account.",
+        "es": "Actualmente trabajo en la cuenta de Honda.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Actually, the budget is smaller than we thought.",
+        "es": "En realidad, el presupuesto es más pequeño de lo que pensábamos.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Sorry I'm late.",
+        "es": "Perdón por llegar tarde.",
+        "contexto": "diario"
+      },
+      {
+        "en": "Nice to meet you.",
+        "es": "Mucho gusto.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "People are very friendly in Medellín.",
+        "es": "La gente es muy amable en Medellín.",
+        "contexto": "diario"
+      },
+      {
+        "en": "People say the traffic is getting worse.",
+        "es": "La gente dice que el tráfico está cada vez peor.",
+        "contexto": "diario"
+      },
+      {
+        "en": "It depends on the client.",
+        "es": "Depende del cliente.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Let's discuss the proposal tomorrow.",
+        "es": "Hablemos de la propuesta mañana.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "She's married to an architect.",
+        "es": "Está casada con un arquitecto.",
+        "contexto": "diario"
+      },
+      {
+        "en": "Tell me the truth.",
+        "es": "Dime la verdad.",
+        "contexto": "diario"
+      },
+      {
+        "en": "I'm bored. This meeting is too long.",
+        "es": "Estoy aburrido. Esta reunión es muy larga.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "He's very sensitive to feedback.",
+        "es": "Es muy sensible al feedback.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "That's a sensible decision.",
+        "es": "Es una decisión sensata.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "The files are in the shared folder.",
+        "es": "Los archivos están en la carpeta compartida.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I didn't realize the deadline was today.",
+        "es": "No me di cuenta de que la entrega era hoy.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "We completed the campaign on time.",
+        "es": "Realizamos la campaña a tiempo.",
+        "contexto": "trabajo"
+      }
+    ],
+    "tip": "Haz tu lista negra personal: las cinco frases que más se te escapan (I am agree, explain me, I have X years, make a question, actually). Antes de cada reunión, léelas con su versión correcta. En dos semanas desaparecen."
+  },
+  "ejercicios": [
+    {
+      "id": "calcos-espanol-001",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Te preguntan la edad:",
+      "opciones": [
+        "I'm 35.",
+        "I have 35 years.",
+        "I have 35."
+      ],
+      "a": 0,
+      "explica": "La edad va con be: I'm 35 o I'm 35 years old. Nunca con have."
+    },
+    {
+      "id": "calcos-espanol-002",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "BE",
+      "q": "Estás de acuerdo con la propuesta:",
+      "opciones": [
+        "I agree.",
+        "I am agree.",
+        "I'm agree with you."
+      ],
+      "a": 0,
+      "explica": "Agree es un verbo: I agree, sin am."
+    },
+    {
+      "id": "calcos-espanol-003",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Pides que te expliquen el brief:",
+      "opciones": [
+        "Could you explain it to me?",
+        "Could you explain me?",
+        "Could you explain me it?"
+      ],
+      "a": 0,
+      "explica": "Explain + cosa + to + persona: explain it to me."
+    },
+    {
+      "id": "calcos-espanol-004",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "Quieres preguntar algo en la reunión:",
+      "opciones": [
+        "Can I ask a question?",
+        "Can I make a question?",
+        "Can I do a question?"
+      ],
+      "a": 0,
+      "explica": "Las preguntas se hacen con ask, no con make ni do."
+    },
+    {
+      "id": "calcos-espanol-005",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "Cuentas que fuiste a una reunión:",
+      "opciones": [
+        "I attended a meeting with the client.",
+        "I assisted to a meeting with the client.",
+        "I assisted a meeting with the client."
+      ],
+      "a": 0,
+      "explica": "Asistir a una reunión es attend (sin to). Assist es ayudar."
+    },
+    {
+      "id": "calcos-espanol-006",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "Quieres decir «actualmente trabajo en la cuenta de Honda»:",
+      "opciones": [
+        "I'm currently working on the Honda account.",
+        "I'm actually working on the Honda account.",
+        "Actually I work in the Honda account."
+      ],
+      "a": 0,
+      "explica": "«Actualmente» es currently. Actually significa «en realidad»."
+    },
+    {
+      "id": "calcos-espanol-007",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Llegas tarde:",
+      "opciones": [
+        "Sorry I'm late.",
+        "Sorry for the late.",
+        "Sorry for arrive late."
+      ],
+      "a": 0,
+      "explica": "Sorry I'm late es la frase fija. Late es adjetivo, no sustantivo."
+    },
+    {
+      "id": "calcos-espanol-008",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Te presentan a alguien:",
+      "opciones": [
+        "Nice to meet you.",
+        "Nice to know you.",
+        "Nice to meet with you."
+      ],
+      "a": 0,
+      "explica": "Nice to meet you. Know es conocer de hace tiempo."
+    },
+    {
+      "id": "calcos-espanol-009",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Hay mucha gente en la oficina hoy:",
+      "opciones": [
+        "There are a lot of people in the office.",
+        "There is a lot of people in the office.",
+        "There are a lot of peoples in the office."
+      ],
+      "a": 0,
+      "explica": "People ya es plural: there are … people. Peoples solo existe para «pueblos»."
+    },
+    {
+      "id": "calcos-espanol-010",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Una generalización sobre la gente:",
+      "opciones": [
+        "People love free stuff.",
+        "The people loves free stuff.",
+        "The people love free things."
+      ],
+      "a": 0,
+      "explica": "La gente en general: people, sin the y con verbo en plural."
+    },
+    {
+      "id": "calcos-espanol-011",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "La fecha de lanzamiento depende del cliente:",
+      "opciones": [
+        "It depends on the client.",
+        "It depends of the client.",
+        "Depends of the client."
+      ],
+      "a": 0,
+      "explica": "Depend on, siempre, y con sujeto it."
+    },
+    {
+      "id": "calcos-espanol-012",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "Quieres discutir la propuesta con el equipo:",
+      "opciones": [
+        "Let's discuss the proposal.",
+        "Let's discuss about the proposal.",
+        "Let's discuss on the proposal."
+      ],
+      "a": 0,
+      "explica": "Discuss va directo: discuss the proposal. Si quieres about, usa talk about."
+    },
+    {
+      "id": "calcos-espanol-013",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "Hablas de tu hermana:",
+      "opciones": [
+        "She's married to a photographer.",
+        "She's married with a photographer.",
+        "She's married of a photographer."
+      ],
+      "a": 0,
+      "explica": "Married to, no with. El with del español no se traduce."
+    },
+    {
+      "id": "calcos-espanol-014",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Le pides a un colega que te diga la verdad:",
+      "opciones": [
+        "Tell me the truth.",
+        "Say me the truth.",
+        "Tell to me the truth."
+      ],
+      "a": 0,
+      "explica": "Tell + persona directa: tell me. Say me no existe."
+    },
+    {
+      "id": "calcos-espanol-015",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "La película era aburrida y tú te aburriste:",
+      "opciones": [
+        "The movie was boring, so I was bored.",
+        "The movie was bored, so I was boring.",
+        "The movie was boring, so I was boring."
+      ],
+      "a": 0,
+      "explica": "Boring es la cosa que aburre; bored es cómo te sientes."
+    },
+    {
+      "id": "calcos-espanol-016",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "VOC",
+      "q": "Tu colega se ofende con facilidad:",
+      "opciones": [
+        "He's very sensitive.",
+        "He's very sensible.",
+        "He's very sensitive person."
+      ],
+      "a": 0,
+      "explica": "Sensible (en español) es sensitive. Sensible en inglés es sensato. Y person necesitaría a."
+    },
+    {
+      "id": "calcos-espanol-017",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "VOC",
+      "q": "Dices dónde está el archivo:",
+      "opciones": [
+        "It's in the shared folder.",
+        "It's in the shared carpet.",
+        "It's in the carpet shared."
+      ],
+      "a": 0,
+      "explica": "Carpeta es folder. Carpet es alfombra."
+    },
+    {
+      "id": "calcos-espanol-018",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "VOC",
+      "q": "Terminaron la campaña a tiempo:",
+      "opciones": [
+        "We completed the campaign on time.",
+        "We realized the campaign on time.",
+        "We did the realization of the campaign on time."
+      ],
+      "a": 0,
+      "explica": "«Realizar» es complete, do o carry out. Realize es darse cuenta."
+    },
+    {
+      "id": "calcos-espanol-019",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "USO",
+      "frase": "I have 40 years.",
+      "correcta": false,
+      "correccion": [
+        "I'm 40.",
+        "I'm 40 years old.",
+        "I am 40.",
+        "I am 40 years old."
+      ],
+      "explica": "La edad va con be."
+    },
+    {
+      "id": "calcos-espanol-020",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "BE",
+      "frase": "I am agree with the client.",
+      "correcta": false,
+      "correccion": [
+        "I agree with the client."
+      ],
+      "explica": "Agree es verbo: sin am."
+    },
+    {
+      "id": "calcos-espanol-021",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "USO",
+      "frase": "Explain me the brief, please.",
+      "correcta": false,
+      "correccion": [
+        "Explain the brief to me, please.",
+        "Could you explain the brief to me, please?",
+        "Explain it to me, please.",
+        "Could you explain the brief, please?"
+      ],
+      "explica": "Explain + cosa + to me."
+    },
+    {
+      "id": "calcos-espanol-022",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "VOC",
+      "frase": "Can I make you a question?",
+      "correcta": false,
+      "correccion": [
+        "Can I ask you a question?",
+        "Can I ask a question?"
+      ],
+      "explica": "Las preguntas se hacen con ask."
+    },
+    {
+      "id": "calcos-espanol-023",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "VOC",
+      "frase": "I assisted to the meeting yesterday.",
+      "correcta": false,
+      "correccion": [
+        "I attended the meeting yesterday.",
+        "I went to the meeting yesterday.",
+        "I was at the meeting yesterday."
+      ],
+      "explica": "Asistir es attend, sin to."
+    },
+    {
+      "id": "calcos-espanol-024",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "VOC",
+      "frase": "Actually, I'm working on three accounts. (quieres decir «actualmente»)",
+      "correcta": false,
+      "correccion": [
+        "Currently, I'm working on three accounts.",
+        "Currently I'm working on three accounts.",
+        "Currently, I am working on three accounts.",
+        "Right now, I'm working on three accounts.",
+        "Right now I'm working on three accounts.",
+        "At the moment, I'm working on three accounts.",
+        "At the moment I'm working on three accounts.",
+        "I'm currently working on three accounts.",
+        "I am currently working on three accounts."
+      ],
+      "explica": "Actually es «en realidad». Para «actualmente»: currently, right now, at the moment."
+    },
+    {
+      "id": "calcos-espanol-025",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "People is very friendly in Medellín.",
+      "correcta": false,
+      "correccion": [
+        "People are very friendly in Medellín."
+      ],
+      "explica": "People es plural: people are."
+    },
+    {
+      "id": "calcos-espanol-026",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "VOC",
+      "frase": "It depends of the budget.",
+      "correcta": false,
+      "correccion": [
+        "It depends on the budget."
+      ],
+      "explica": "Depend on."
+    },
+    {
+      "id": "calcos-espanol-027",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "VOC",
+      "frase": "We need to discuss about the timeline.",
+      "correcta": false,
+      "correccion": [
+        "We need to discuss the timeline.",
+        "We need to talk about the timeline."
+      ],
+      "explica": "Discuss sin about. Talk about sí lleva about."
+    },
+    {
+      "id": "calcos-espanol-028",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "She said me that the client was happy.",
+      "correcta": false,
+      "correccion": [
+        "She told me that the client was happy.",
+        "She told me the client was happy.",
+        "She said that the client was happy.",
+        "She said the client was happy.",
+        "She said to me that the client was happy."
+      ],
+      "explica": "Say no lleva persona pegada: o tell me o say (to me)."
+    },
+    {
+      "id": "calcos-espanol-029",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "VOC",
+      "frase": "I'm bored. This meeting is too long.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Correcta: bored es cómo te sientes; la reunión sería boring."
+    },
+    {
+      "id": "calcos-espanol-030",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "VOC",
+      "frase": "My brother is married with a lawyer.",
+      "correcta": false,
+      "correccion": [
+        "My brother is married to a lawyer."
+      ],
+      "explica": "Married to."
+    },
+    {
+      "id": "calcos-espanol-031",
+      "tipo": "corregir",
+      "nivel": 3,
+      "code": "VOC",
+      "frase": "Can you put the files in the carpet?",
+      "correcta": false,
+      "correccion": [
+        "Can you put the files in the folder?",
+        "Could you put the files in the folder?"
+      ],
+      "explica": "Carpeta es folder; carpet es alfombra."
+    },
+    {
+      "id": "calcos-espanol-032",
+      "tipo": "corregir",
+      "nivel": 3,
+      "code": "VOC",
+      "frase": "I didn't realize the mistake until the client called.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Correcta: realize = darse cuenta. Aquí está bien usado."
+    },
+    {
+      "id": "calcos-espanol-033",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "I'm 36 years ___.",
+      "respuestas": [
+        "old"
+      ],
+      "explica": "Years nunca va solo: I'm 36 years old."
+    },
+    {
+      "id": "calcos-espanol-034",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "BE",
+      "q": "I ___ with you, the deadline is too tight.",
+      "respuestas": [
+        "agree"
+      ],
+      "explica": "I agree, sin am."
+    },
+    {
+      "id": "calcos-espanol-035",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "Can I ___ you a question?",
+      "respuestas": [
+        "ask"
+      ],
+      "explica": "Ask a question, nunca make."
+    },
+    {
+      "id": "calcos-espanol-036",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "It depends ___ the client.",
+      "respuestas": [
+        "on"
+      ],
+      "explica": "Depend on."
+    },
+    {
+      "id": "calcos-espanol-037",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "She's married ___ an architect.",
+      "respuestas": [
+        "to"
+      ],
+      "explica": "Married to."
+    },
+    {
+      "id": "calcos-espanol-038",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "VOC",
+      "q": "I'm ___ (bore), not boring: the presentation was two hours long.",
+      "respuestas": [
+        "bored"
+      ],
+      "explica": "Bored = me siento aburrido. Boring = soy aburridor."
+    },
+    {
+      "id": "calcos-espanol-039",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "USO",
+      "es": "Tengo 35 años.",
+      "en": "I'm 35 years old.",
+      "extra": [
+        "have",
+        "year"
+      ],
+      "explica": "I'm + número + years old. Sin have."
+    },
+    {
+      "id": "calcos-espanol-040",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "USO",
+      "es": "Explícamelo, por favor.",
+      "en": "Explain it to me, please.",
+      "extra": [
+        "for",
+        "at"
+      ],
+      "explica": "Explain + it + to me."
+    },
+    {
+      "id": "calcos-espanol-041",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "VOC",
+      "es": "Asistí a la reunión con el cliente.",
+      "en": "I attended the meeting with the client.",
+      "extra": [
+        "assisted",
+        "to"
+      ],
+      "explica": "Attend sin to. Assist es ayudar."
+    },
+    {
+      "id": "calcos-espanol-042",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "USO",
+      "es": "La gente en Bogotá es muy amable.",
+      "en": "People in Bogotá are very friendly.",
+      "extra": [
+        "is",
+        "peoples"
+      ],
+      "explica": "People es plural → are. Peoples no."
+    },
+    {
+      "id": "calcos-espanol-043",
+      "tipo": "ordenar",
+      "nivel": 3,
+      "code": "VOC",
+      "es": "Hablemos de la propuesta mañana.",
+      "en": "Let's discuss the proposal tomorrow.",
+      "extra": [
+        "about",
+        "to"
+      ],
+      "explica": "Discuss va directo, sin about. Let's sin to."
+    },
+    {
+      "id": "calcos-espanol-044",
+      "tipo": "traducir",
+      "nivel": 1,
+      "code": "USO",
+      "es": "Tengo 42 años.",
+      "respuestas": [
+        "I'm 42.",
+        "I'm 42 years old.",
+        "I am 42.",
+        "I am 42 years old.",
+        "I'm forty-two.",
+        "I'm forty-two years old.",
+        "I am forty-two.",
+        "I am forty-two years old."
+      ],
+      "explica": "La edad con be: I'm 42."
+    },
+    {
+      "id": "calcos-espanol-045",
+      "tipo": "traducir",
+      "nivel": 1,
+      "code": "BE",
+      "es": "No estoy de acuerdo.",
+      "respuestas": [
+        "I don't agree.",
+        "I disagree.",
+        "I do not agree.",
+        "I don't agree with you.",
+        "I disagree with you.",
+        "I don't agree with that.",
+        "I disagree with that."
+      ],
+      "explica": "Agree es verbo: se niega con don't."
+    },
+    {
+      "id": "calcos-espanol-046",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "VOC",
+      "es": "¿Puedo hacerte una pregunta?",
+      "respuestas": [
+        "Can I ask you a question?",
+        "May I ask you a question?",
+        "Could I ask you a question?",
+        "Can I ask you something?"
+      ],
+      "explica": "Ask a question."
+    },
+    {
+      "id": "calcos-espanol-047",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "VOC",
+      "es": "Actualmente trabajo en tres campañas.",
+      "respuestas": [
+        "I'm currently working on three campaigns.",
+        "I am currently working on three campaigns.",
+        "Currently, I'm working on three campaigns.",
+        "Currently I'm working on three campaigns.",
+        "Currently, I am working on three campaigns.",
+        "Currently I am working on three campaigns.",
+        "I currently work on three campaigns.",
+        "Right now I'm working on three campaigns.",
+        "Right now, I'm working on three campaigns.",
+        "At the moment I'm working on three campaigns.",
+        "At the moment, I'm working on three campaigns."
+      ],
+      "explica": "«Actualmente» es currently (o right now, at the moment). Nunca actually."
+    },
+    {
+      "id": "calcos-espanol-048",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "VOC",
+      "es": "Depende del presupuesto.",
+      "respuestas": [
+        "It depends on the budget.",
+        "That depends on the budget."
+      ],
+      "explica": "It depends on, con sujeto it."
+    },
+    {
+      "id": "calcos-espanol-049",
+      "tipo": "traducir",
+      "nivel": 3,
+      "code": "USO",
+      "es": "La gente dice que el tráfico está peor.",
+      "respuestas": [
+        "People say the traffic is worse.",
+        "People say that the traffic is worse.",
+        "People say traffic is worse.",
+        "People say that traffic is worse.",
+        "People say the traffic is getting worse.",
+        "People say that the traffic is getting worse.",
+        "People say traffic is getting worse.",
+        "People say that traffic is getting worse."
+      ],
+      "explica": "People (sin the) + say (plural, sin -s)."
+    },
+    {
+      "id": "calcos-espanol-050",
+      "tipo": "escuchar",
+      "nivel": 1,
+      "code": "USO",
+      "texto": "I'm 35 years old and I agree with you.",
+      "respuestas": [
+        "I'm 35 years old and I agree with you.",
+        "I am 35 years old and I agree with you.",
+        "I'm thirty-five years old and I agree with you.",
+        "I am thirty-five years old and I agree with you."
+      ],
+      "explica": "Dos calcos en una frase: edad con be y agree sin am."
+    },
+    {
+      "id": "calcos-espanol-051",
+      "tipo": "escuchar",
+      "nivel": 2,
+      "code": "VOC",
+      "texto": "Can I ask you a question about the budget?",
+      "respuestas": [
+        "Can I ask you a question about the budget?"
+      ],
+      "explica": "Ask you a question: la persona va pegada a ask."
+    },
+    {
+      "id": "calcos-espanol-052",
+      "tipo": "hablar",
+      "nivel": 1,
+      "code": "USO",
+      "consigna": "Preséntate con tu edad, di que estás de acuerdo con una idea de Laura y pide que te expliquen el nuevo cronograma. Tres frases sin calcos.",
+      "objetivo": "I'm… / I agree with… / Could you explain … to me?",
+      "ejemplo": "Hi, I'm Jonathan, I'm 38. I agree with Laura: the video is too long. Could you explain the new timeline to me?",
+      "explica": "Tres calcos a evitar: I have X years → I'm X; I am agree → I agree; explain me → explain … to me."
+    },
+    {
+      "id": "calcos-espanol-053",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "VOC",
+      "consigna": "Cuenta qué hiciste ayer en el trabajo usando: asistir a una reunión, hacer una pregunta y discutir el presupuesto.",
+      "objetivo": "attended a meeting / asked a question / discussed the budget (sin to, sin about)",
+      "ejemplo": "Yesterday I attended a meeting with Honda. I asked a few questions about the timeline, and then we discussed the budget for Q4.",
+      "explica": "Attend a meeting (sin to), ask a question (no make), discuss the budget (sin about)."
+    },
+    {
+      "id": "calcos-espanol-054",
+      "tipo": "hablar",
+      "nivel": 3,
+      "code": "VOC",
+      "consigna": "Describe a dos personas de tu equipo: con quién está casada una, si el otro es sensible al feedback, y de qué depende que lleguen a tiempo a la oficina.",
+      "objetivo": "married to / sensitive / depends on",
+      "ejemplo": "Camila is married to a designer, and they have two kids. Andrés is very sensitive to feedback, so I'm careful with him. Whether they arrive on time depends on the traffic, of course.",
+      "explica": "Married to (no with), sensitive (sensible en español; sensible en inglés es sensato) y depend on (no of)."
+    },
+    {
+      "id": "calcos-espanol-055",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "USO",
+      "consigna": "Explica en qué trabajas actualmente en la agencia y qué hace la gente de tu equipo, sin usar «actually» ni «the people».",
+      "objetivo": "currently / right now / people are",
+      "ejemplo": "I'm currently leading the Honda account. People on my team are mostly planners and creatives. Right now we're working on a campaign for Q4.",
+      "explica": "«Actualmente» es currently o right now (actually es «en realidad»); la gente en general es people, sin the, con verbo en plural."
+    }
+  ]
+}

@@ -1,0 +1,980 @@
+{
+  "id": "pasado-continuo",
+  "titulo": "Pasado continuo",
+  "grupo": "Tiempos verbales",
+  "orden": 50,
+  "nivel": "A2",
+  "resumen": "Acciones en progreso en un momento del pasado y el fondo de una historia. Llave was/were + verbo-ing.",
+  "llave": "was / were",
+  "teoria": {
+    "paraQue": "Para decir qué estaba pasando en un momento concreto del pasado: una acción en progreso (At 8 pm I was having dinner), el fondo de una historia (Everyone was dancing) o una acción larga que algo interrumpió (I was driving when you called).",
+    "llave": "La llave es be en pasado: was (I, he, she, it) y were (you, we, they). Siempre va acompañada del verbo con -ing: las dos piezas juntas o no hay continuo. Negativa: wasn't / weren't + -ing. Pregunta: Was / Were delante del sujeto. Respuesta corta: Yes, I was. / No, they weren't. Did nunca entra aquí: What did you doing es imposible.",
+    "formulas": [
+      {
+        "tipo": "Afirmativa",
+        "formula": "Sujeto + was / were + verbo-ing",
+        "ejemplo": "She [[was]] {{sleep((ing))}} at 11."
+      },
+      {
+        "tipo": "Negativa",
+        "formula": "Sujeto + wasn't / weren't + verbo-ing",
+        "ejemplo": "They [[were]]n't {{listen((ing))}}."
+      },
+      {
+        "tipo": "Pregunta",
+        "formula": "Was / Were + sujeto + verbo-ing?",
+        "ejemplo": "[[Were]] you {{sleep((ing))}}?"
+      },
+      {
+        "tipo": "Pregunta con Wh-",
+        "formula": "Wh- + was / were + sujeto + verbo-ing?",
+        "ejemplo": "What [[were]] you {{do((ing))}} at 10?"
+      },
+      {
+        "tipo": "Respuesta corta",
+        "formula": "Yes, sujeto + was / were · No, sujeto + wasn't / weren't",
+        "ejemplo": "Yes, I [[was]]. / No, we [[were]]n't."
+      }
+    ],
+    "reglas": [
+      "Was con I, he, she, it (y sujetos singulares: the client, my boss, everyone). Were con you, we, they (y plurales: the kids, my colleagues). You siempre va con were, aunque sea una sola persona.",
+      "Be + -ing van juntos. Sin was/were no hay continuo (I working ✗) y sin -ing tampoco (I was cook ✗).",
+      "En la pregunta la llave es was/were, nunca did: What were you doing? (no What did you doing?).",
+      "Ortografía del -ing: make → making (se va la -e), run → running, sit → sitting, plan → planning (consonante doble), lie → lying, study → studying (la y se queda).",
+      "Los verbos de estado no van en continuo: know, want, need, like, love, hate, believe, understand, seem, own. I knew the answer (no I was knowing).",
+      "Señales: at 8 pm yesterday, at that moment, all day / all night yesterday, while, when. Cuando preguntas por un momento exacto del pasado, el continuo es la respuesta natural."
+    ],
+    "senales": [
+      "at 8 pm yesterday",
+      "at that moment",
+      "at this time yesterday",
+      "all day yesterday",
+      "all night",
+      "while",
+      "when (+ la interrupción)",
+      "the whole morning"
+    ],
+    "usos": [
+      {
+        "uso": "Qué estabas haciendo a una hora concreta",
+        "contexto": "diario",
+        "ejemplo": "At 7 am I [[was]] {{drive((ing))}} to the gym."
+      },
+      {
+        "uso": "El fondo de una historia (ambiente, varias personas a la vez)",
+        "contexto": "diario",
+        "ejemplo": "It [[was]] {{rain((ing))}}, the kids [[were]] {{sleep((ing))}} and I [[was]] {{read((ing))}} on the sofa."
+      },
+      {
+        "uso": "Explicar por qué no contestaste",
+        "contexto": "diario",
+        "ejemplo": "Sorry, I [[was]] {{cook((ing))}} and I didn't hear the phone."
+      },
+      {
+        "uso": "Qué estaba haciendo el equipo en un momento del día",
+        "contexto": "trabajo",
+        "ejemplo": "At 10 am the designers [[were]] {{work((ing))}} on the banners."
+      },
+      {
+        "uso": "Acción larga interrumpida en el trabajo",
+        "contexto": "trabajo",
+        "ejemplo": "We [[were]] {{present((ing))}} when the projector stopped working."
+      },
+      {
+        "uso": "Disculparte por no prestar atención en una reunión",
+        "contexto": "trabajo",
+        "ejemplo": "Sorry, I [[was]]n't {{listen((ing))}}. Could you repeat that?"
+      }
+    ],
+    "errores": [
+      {
+        "mal": "What did you doing last night?",
+        "bien": "What were you doing last night?",
+        "porque": "La llave del continuo es was/were; did es la llave del simple y nunca va con -ing.",
+        "code": "LL"
+      },
+      {
+        "mal": "They was playing football.",
+        "bien": "They were playing football.",
+        "porque": "They → were.",
+        "code": "WW"
+      },
+      {
+        "mal": "I was cook when you arrived.",
+        "bien": "I was cooking when you arrived.",
+        "porque": "Falta el -ing: be + -ing van juntos.",
+        "code": "ING"
+      },
+      {
+        "mal": "I working on the report at 9.",
+        "bien": "I was working on the report at 9.",
+        "porque": "Falta la llave: sin was/were no hay continuo.",
+        "code": "ING"
+      },
+      {
+        "mal": "I was knowing the answer.",
+        "bien": "I knew the answer.",
+        "porque": "Know es verbo de estado: no va en continuo.",
+        "code": "EST"
+      },
+      {
+        "mal": "Was you sleeping?",
+        "bien": "Were you sleeping?",
+        "porque": "You siempre va con were.",
+        "code": "WW"
+      },
+      {
+        "mal": "She was writeing an email.",
+        "bien": "She was writing an email.",
+        "porque": "Verbos en -e pierden la e antes de -ing: write → writing.",
+        "code": "VOC"
+      }
+    ],
+    "contraste": [
+      {
+        "a": "I {{work((ed))}} late yesterday.",
+        "b": "I [[was]] {{work((ing))}} at 9 pm yesterday.",
+        "nota": "Simple: hecho completo. Continuo: en progreso en un momento concreto."
+      },
+      {
+        "a": "What [[did]] you {{do}} last night?",
+        "b": "What [[were]] you {{do((ing))}} at 10 last night?",
+        "nota": "Did pide el verbo en base; were pide -ing. Una llave por frase."
+      },
+      {
+        "a": "I[['m]] {{work((ing))}} now.",
+        "b": "I [[was]] {{work((ing))}} at that moment.",
+        "nota": "Misma estructura be + -ing; solo cambia la fila: presente (am) o pasado (was)."
+      }
+    ],
+    "frases": [
+      {
+        "en": "What were you doing at 8?",
+        "es": "¿Qué estabas haciendo a las 8?",
+        "contexto": "diario"
+      },
+      {
+        "en": "I was just leaving.",
+        "es": "Ya me iba.",
+        "contexto": "diario"
+      },
+      {
+        "en": "Sorry, I was driving.",
+        "es": "Perdón, estaba manejando.",
+        "contexto": "diario"
+      },
+      {
+        "en": "Were you sleeping?",
+        "es": "¿Estabas dormido?",
+        "contexto": "diario"
+      },
+      {
+        "en": "It was raining all day.",
+        "es": "Estuvo lloviendo todo el día.",
+        "contexto": "diario"
+      },
+      {
+        "en": "Sorry, I wasn't listening.",
+        "es": "Perdón, no estaba escuchando.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "We were still working at midnight.",
+        "es": "Todavía estábamos trabajando a medianoche.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I was in a meeting. I was presenting.",
+        "es": "Estaba en una reunión. Estaba presentando.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Who were you talking to?",
+        "es": "¿Con quién hablabas?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "The whole team was working on the pitch.",
+        "es": "Todo el equipo estaba trabajando en el pitch.",
+        "contexto": "trabajo"
+      }
+    ],
+    "tip": "El continuo siempre viene en pareja: la llave be y el -ing. Si una de las dos falta, la frase se cae. Y did nunca es la pareja del -ing: cuando veas -ing en pasado, la llave tiene que ser was o were."
+  },
+  "ejercicios": [
+    {
+      "id": "pasado-continuo-001",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "LL",
+      "q": "What ___ you doing at 8 pm yesterday?",
+      "opciones": [
+        "did",
+        "were",
+        "was",
+        "do"
+      ],
+      "a": 1,
+      "explica": "El -ing pide la llave be: What were you doing? Did es la llave del simple y nunca acompaña al -ing."
+    },
+    {
+      "id": "pasado-continuo-002",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "WW",
+      "q": "I ___ watching a series when you called.",
+      "opciones": [
+        "was",
+        "were",
+        "did",
+        "am"
+      ],
+      "a": 0,
+      "explica": "I → was. Am es presente; did no va con -ing."
+    },
+    {
+      "id": "pasado-continuo-003",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "WW",
+      "q": "They ___ working on the pitch all night.",
+      "opciones": [
+        "was",
+        "were",
+        "did",
+        "are"
+      ],
+      "a": 1,
+      "explica": "They → were. Are sería presente."
+    },
+    {
+      "id": "pasado-continuo-004",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "ING",
+      "q": "She was ___ to the client when I arrived.",
+      "opciones": [
+        "talk",
+        "talked",
+        "talking",
+        "talks"
+      ],
+      "a": 2,
+      "explica": "Después de was/were el verbo lleva -ing: was talking."
+    },
+    {
+      "id": "pasado-continuo-005",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "WW",
+      "q": "We ___ listening, sorry. Can you repeat that?",
+      "opciones": [
+        "wasn't",
+        "weren't",
+        "didn't",
+        "don't"
+      ],
+      "a": 1,
+      "explica": "We → weren't. Didn't no va con -ing."
+    },
+    {
+      "id": "pasado-continuo-006",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "LL",
+      "q": "___ you sleeping when I texted you?",
+      "opciones": [
+        "Did",
+        "Was",
+        "Were",
+        "Do"
+      ],
+      "a": 2,
+      "explica": "You → Were. La pregunta del continuo abre con was/were, no con did."
+    },
+    {
+      "id": "pasado-continuo-007",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "ING",
+      "q": "At 10 am Andrés ___ in the war room.",
+      "opciones": [
+        "was working",
+        "were working",
+        "working",
+        "was work"
+      ],
+      "a": 0,
+      "explica": "Andrés = he → was + working. Sin la llave (working solo) o sin el -ing (was work) no hay continuo."
+    },
+    {
+      "id": "pasado-continuo-008",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "LL",
+      "q": "Why ___ the baby crying last night?",
+      "opciones": [
+        "was",
+        "were",
+        "did",
+        "is"
+      ],
+      "a": 0,
+      "explica": "The baby = it → was. Did no acompaña al -ing."
+    },
+    {
+      "id": "pasado-continuo-009",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "ING",
+      "q": "I ___ the news when the lights went out.",
+      "opciones": [
+        "was reading",
+        "were reading",
+        "was read",
+        "reading"
+      ],
+      "a": 0,
+      "explica": "I → was + reading: las dos piezas juntas."
+    },
+    {
+      "id": "pasado-continuo-010",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "WW",
+      "q": "It ___ raining, so we stayed home.",
+      "opciones": [
+        "was",
+        "were",
+        "did",
+        "is"
+      ],
+      "a": 0,
+      "explica": "It → was. La frase está en pasado (stayed), así que is no sirve."
+    },
+    {
+      "id": "pasado-continuo-011",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "WW",
+      "q": "The client ___ paying attention during the presentation.",
+      "opciones": [
+        "wasn't",
+        "weren't",
+        "didn't",
+        "no was"
+      ],
+      "a": 0,
+      "explica": "The client = he/she → wasn't. Didn't es del simple."
+    },
+    {
+      "id": "pasado-continuo-012",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "LL",
+      "q": "What ___ when the boss walked in?",
+      "opciones": [
+        "were you doing",
+        "did you doing",
+        "you were doing",
+        "were you do"
+      ],
+      "a": 0,
+      "explica": "Pregunta: were + you + doing. La llave pasa delante del sujeto y el verbo lleva -ing."
+    },
+    {
+      "id": "pasado-continuo-013",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "WW",
+      "q": "Camila and Mike ___ about the budget at lunch.",
+      "opciones": [
+        "was talking",
+        "were talking",
+        "were talk",
+        "talked were"
+      ],
+      "a": 1,
+      "explica": "Dos personas = they → were + talking."
+    },
+    {
+      "id": "pasado-continuo-014",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "LL",
+      "q": "Who ___ you talking to on the phone?",
+      "opciones": [
+        "did",
+        "were",
+        "was",
+        "do"
+      ],
+      "a": 1,
+      "explica": "Who + were + you + talking. You siempre va con were."
+    },
+    {
+      "id": "pasado-continuo-015",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "WW",
+      "q": "Everyone ___ laughing at the joke.",
+      "opciones": [
+        "were",
+        "was",
+        "did",
+        "are"
+      ],
+      "a": 1,
+      "explica": "Everyone es singular en inglés: was laughing."
+    },
+    {
+      "id": "pasado-continuo-016",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "ING",
+      "q": "At 9 pm I ___ (have) dinner with my family.",
+      "respuestas": [
+        "was having"
+      ],
+      "explica": "At 9 pm marca un momento concreto: was + having."
+    },
+    {
+      "id": "pasado-continuo-017",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "WW",
+      "q": "They ___ (not / listen) to the presentation.",
+      "respuestas": [
+        "weren't listening",
+        "were not listening"
+      ],
+      "explica": "They → weren't + listening."
+    },
+    {
+      "id": "pasado-continuo-018",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "LL",
+      "q": "What ___ (you / do) when I called?",
+      "respuestas": [
+        "were you doing"
+      ],
+      "explica": "What + were + you + doing. Nunca did con -ing."
+    },
+    {
+      "id": "pasado-continuo-019",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "ING",
+      "q": "She ___ (write) an email when the system crashed.",
+      "respuestas": [
+        "was writing"
+      ],
+      "explica": "Was + writing (write pierde la -e antes de -ing)."
+    },
+    {
+      "id": "pasado-continuo-020",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "WW",
+      "q": "We ___ (wait) for the client for an hour.",
+      "respuestas": [
+        "were waiting"
+      ],
+      "explica": "We → were + waiting."
+    },
+    {
+      "id": "pasado-continuo-021",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "LL",
+      "q": "___ (it / rain) when you left the office?",
+      "respuestas": [
+        "Was it raining"
+      ],
+      "explica": "Pregunta: Was + it + raining."
+    },
+    {
+      "id": "pasado-continuo-022",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "ING",
+      "q": "Historia (1/4): It was a normal Monday. The sun ___ (shine) and the office was quiet.",
+      "respuestas": [
+        "was shining"
+      ],
+      "explica": "El fondo de la historia va en continuo: was shining."
+    },
+    {
+      "id": "pasado-continuo-023",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "WW",
+      "q": "Historia (2/4): Laura ___ (talk) to a client on the phone.",
+      "respuestas": [
+        "was talking"
+      ],
+      "explica": "Laura = she → was + talking."
+    },
+    {
+      "id": "pasado-continuo-024",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "WW",
+      "q": "Historia (3/4): The designers ___ (not / work); they were having coffee in the kitchen.",
+      "respuestas": [
+        "weren't working",
+        "were not working"
+      ],
+      "explica": "Plural → weren't + working. Las dos piezas: llave negativa y -ing."
+    },
+    {
+      "id": "pasado-continuo-025",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "ING",
+      "q": "Historia (4/4): And I ___ (sleep) at my desk when the CEO walked in.",
+      "respuestas": [
+        "was sleeping"
+      ],
+      "explica": "La acción larga (was sleeping) es el fondo; la interrupción (walked in) va en simple."
+    },
+    {
+      "id": "pasado-continuo-026",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "LL",
+      "q": "Why ___ (Andrés / shout) at the meeting?",
+      "respuestas": [
+        "was Andrés shouting"
+      ],
+      "explica": "Why + was + Andrés + shouting. La llave pasa delante del sujeto."
+    },
+    {
+      "id": "pasado-continuo-027",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "ING",
+      "q": "Mike ___ (run) late, so he took a taxi.",
+      "respuestas": [
+        "was running"
+      ],
+      "explica": "Run → running (consonante doble). Was running late = iba tarde."
+    },
+    {
+      "id": "pasado-continuo-028",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "LL",
+      "es": "¿Qué estabas haciendo a las 8?",
+      "en": "What were you doing at 8?",
+      "extra": [
+        "did",
+        "was"
+      ],
+      "explica": "What + were + you + doing. Did es la trampa: nunca va con -ing."
+    },
+    {
+      "id": "pasado-continuo-029",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "WW",
+      "es": "Estaba durmiendo cuando llamaste.",
+      "en": "I was sleeping when you called.",
+      "extra": [
+        "were",
+        "slept"
+      ],
+      "explica": "I → was + sleeping. Slept sería simple."
+    },
+    {
+      "id": "pasado-continuo-030",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "WW",
+      "es": "No estábamos escuchando.",
+      "en": "We weren't listening.",
+      "extra": [
+        "wasn't",
+        "didn't"
+      ],
+      "explica": "We → weren't. Didn't no acompaña al -ing."
+    },
+    {
+      "id": "pasado-continuo-031",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "LL",
+      "es": "¿Estaba lloviendo esta mañana?",
+      "en": "Was it raining this morning?",
+      "extra": [
+        "Did",
+        "Were"
+      ],
+      "explica": "It → Was. La pregunta abre con la llave be."
+    },
+    {
+      "id": "pasado-continuo-032",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "WW",
+      "es": "El equipo estaba trabajando en el pitch.",
+      "en": "The team was working on the pitch.",
+      "extra": [
+        "were",
+        "worked"
+      ],
+      "explica": "The team es singular en inglés americano: was working."
+    },
+    {
+      "id": "pasado-continuo-033",
+      "tipo": "ordenar",
+      "nivel": 3,
+      "code": "LL",
+      "es": "¿Con quién estabas hablando?",
+      "en": "Who were you talking to?",
+      "extra": [
+        "did",
+        "was"
+      ],
+      "explica": "Who + were + you + talking + to. La preposición va al final."
+    },
+    {
+      "id": "pasado-continuo-034",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "WW",
+      "es": "Ella no estaba prestando atención.",
+      "en": "She wasn't paying attention.",
+      "extra": [
+        "didn't",
+        "weren't"
+      ],
+      "explica": "She → wasn't + paying."
+    },
+    {
+      "id": "pasado-continuo-035",
+      "tipo": "ordenar",
+      "nivel": 3,
+      "code": "ING",
+      "es": "A medianoche todavía estábamos trabajando en la oficina.",
+      "en": "At midnight we were still working in the office.",
+      "extra": [
+        "was",
+        "worked"
+      ],
+      "explica": "We → were. Still va entre la llave y el verbo: were still working."
+    },
+    {
+      "id": "pasado-continuo-036",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "LL",
+      "frase": "What did you doing last night?",
+      "correcta": false,
+      "correccion": [
+        "What were you doing last night?"
+      ],
+      "explica": "Did no va con -ing. La llave del continuo es were: What were you doing?"
+    },
+    {
+      "id": "pasado-continuo-037",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "WW",
+      "frase": "They was playing football in the park.",
+      "correcta": false,
+      "correccion": [
+        "They were playing football in the park."
+      ],
+      "explica": "They → were."
+    },
+    {
+      "id": "pasado-continuo-038",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "ING",
+      "frase": "I was cook dinner when you arrived.",
+      "correcta": false,
+      "correccion": [
+        "I was cooking dinner when you arrived."
+      ],
+      "explica": "Falta el -ing: was cooking."
+    },
+    {
+      "id": "pasado-continuo-039",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "WW",
+      "frase": "We were waiting for the client at 3 pm.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Correcta: we → were + waiting, con un momento concreto."
+    },
+    {
+      "id": "pasado-continuo-040",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "ING",
+      "frase": "She working on the deck all morning.",
+      "correcta": false,
+      "correccion": [
+        "She was working on the deck all morning."
+      ],
+      "explica": "Falta la llave: she was working."
+    },
+    {
+      "id": "pasado-continuo-041",
+      "tipo": "corregir",
+      "nivel": 3,
+      "code": "EST",
+      "frase": "I was knowing the answer.",
+      "correcta": false,
+      "correccion": [
+        "I knew the answer."
+      ],
+      "explica": "Know es verbo de estado: pasado simple (knew), nunca continuo."
+    },
+    {
+      "id": "pasado-continuo-042",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "WW",
+      "frase": "Was you sleeping at 10?",
+      "correcta": false,
+      "correccion": [
+        "Were you sleeping at 10?"
+      ],
+      "explica": "You siempre va con were."
+    },
+    {
+      "id": "pasado-continuo-043",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "ING",
+      "frase": "The clients were talk about the budget.",
+      "correcta": false,
+      "correccion": [
+        "The clients were talking about the budget."
+      ],
+      "explica": "Falta el -ing: were talking."
+    },
+    {
+      "id": "pasado-continuo-044",
+      "tipo": "transformar",
+      "nivel": 1,
+      "code": "WW",
+      "frase": "She was reading the brief.",
+      "instruccion": "Pásala a negativa.",
+      "respuestas": [
+        "She wasn't reading the brief.",
+        "She was not reading the brief."
+      ],
+      "explica": "Negativa: wasn't + -ing. El not se pega a la llave."
+    },
+    {
+      "id": "pasado-continuo-045",
+      "tipo": "transformar",
+      "nivel": 1,
+      "code": "LL",
+      "frase": "They were having lunch.",
+      "instruccion": "Pásala a pregunta.",
+      "respuestas": [
+        "Were they having lunch?"
+      ],
+      "explica": "La llave were pasa delante del sujeto."
+    },
+    {
+      "id": "pasado-continuo-046",
+      "tipo": "transformar",
+      "nivel": 3,
+      "code": "ING",
+      "frase": "I am working on the report.",
+      "instruccion": "Pásala a pasado continuo (yesterday at 9).",
+      "respuestas": [
+        "I was working on the report yesterday at 9.",
+        "Yesterday at 9 I was working on the report.",
+        "I was working on the report."
+      ],
+      "explica": "Misma estructura be + -ing; solo cambia la llave: am → was."
+    },
+    {
+      "id": "pasado-continuo-047",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "LL",
+      "frase": "You were doing something at 10.",
+      "instruccion": "Pásala a pregunta con What.",
+      "respuestas": [
+        "What were you doing at 10?"
+      ],
+      "explica": "What + were + you + doing. Nunca What did you doing."
+    },
+    {
+      "id": "pasado-continuo-048",
+      "tipo": "transformar",
+      "nivel": 1,
+      "code": "WW",
+      "frase": "He was driving to the office.",
+      "instruccion": "Pásala a negativa.",
+      "respuestas": [
+        "He wasn't driving to the office.",
+        "He was not driving to the office."
+      ],
+      "explica": "He → wasn't + driving."
+    },
+    {
+      "id": "pasado-continuo-049",
+      "tipo": "transformar",
+      "nivel": 3,
+      "code": "LL",
+      "frase": "I was talking to Laura.",
+      "instruccion": "Hazme la pregunta por la persona (Who…?).",
+      "respuestas": [
+        "Who were you talking to?",
+        "Who were you talking with?",
+        "To whom were you talking?"
+      ],
+      "explica": "Who + were + you + talking to. En la pregunta la preposición se queda al final."
+    },
+    {
+      "id": "pasado-continuo-050",
+      "tipo": "traducir",
+      "nivel": 1,
+      "code": "ING",
+      "es": "Estaba cocinando cuando llamaste.",
+      "respuestas": [
+        "I was cooking when you called.",
+        "I was cooking when you called me."
+      ],
+      "explica": "I was cooking: la acción larga en continuo."
+    },
+    {
+      "id": "pasado-continuo-051",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "LL",
+      "es": "¿Qué estabas haciendo ayer a las 8?",
+      "respuestas": [
+        "What were you doing yesterday at 8?",
+        "What were you doing at 8 yesterday?",
+        "What were you doing at 8 pm yesterday?",
+        "What were you doing yesterday at 8 pm?"
+      ],
+      "explica": "What + were + you + doing. La llave es were, no did."
+    },
+    {
+      "id": "pasado-continuo-052",
+      "tipo": "traducir",
+      "nivel": 3,
+      "code": "WW",
+      "es": "No estábamos trabajando; estábamos almorzando.",
+      "respuestas": [
+        "We weren't working; we were having lunch.",
+        "We weren't working, we were having lunch.",
+        "We weren't working; we were eating lunch.",
+        "We weren't working, we were eating lunch.",
+        "We were not working; we were having lunch."
+      ],
+      "explica": "We → weren't / were. Almorzar = have lunch."
+    },
+    {
+      "id": "pasado-continuo-053",
+      "tipo": "traducir",
+      "nivel": 1,
+      "code": "WW",
+      "es": "Ella estaba hablando con el cliente.",
+      "respuestas": [
+        "She was talking to the client.",
+        "She was talking with the client.",
+        "She was speaking to the client.",
+        "She was speaking with the client."
+      ],
+      "explica": "She → was + talking. Talk to es lo más natural en inglés americano."
+    },
+    {
+      "id": "pasado-continuo-054",
+      "tipo": "traducir",
+      "nivel": 3,
+      "code": "LL",
+      "es": "¿Estaban durmiendo los niños?",
+      "respuestas": [
+        "Were the kids sleeping?",
+        "Were the children sleeping?"
+      ],
+      "explica": "Pregunta: Were + the kids + sleeping. En inglés el sujeto va entre la llave y el verbo."
+    },
+    {
+      "id": "pasado-continuo-055",
+      "tipo": "identificar",
+      "nivel": 1,
+      "code": "TPO",
+      "frase": "We were reviewing the numbers at 5.",
+      "opciones": [
+        "Pasado continuo",
+        "Pasado simple",
+        "Presente continuo",
+        "Presente simple"
+      ],
+      "a": 0,
+      "explica": "Were + -ing = pasado continuo. Are + -ing sería presente continuo."
+    },
+    {
+      "id": "pasado-continuo-056",
+      "tipo": "identificar",
+      "nivel": 2,
+      "code": "TPO",
+      "frase": "Elige la frase que está en pasado continuo.",
+      "opciones": [
+        "I was writing the email.",
+        "I wrote the email.",
+        "I write emails.",
+        "I'm writing the email."
+      ],
+      "a": 0,
+      "explica": "Solo la primera tiene was + -ing. Wrote es simple; write es presente; 'm writing es presente continuo."
+    },
+    {
+      "id": "pasado-continuo-057",
+      "tipo": "escuchar",
+      "nivel": 2,
+      "code": "LL",
+      "texto": "What were you doing when I called you?",
+      "respuestas": [
+        "What were you doing when I called you?"
+      ],
+      "explica": "Fíjate en were you doing: la llave suena antes del sujeto y el verbo lleva -ing."
+    },
+    {
+      "id": "pasado-continuo-058",
+      "tipo": "escuchar",
+      "nivel": 1,
+      "code": "WW",
+      "texto": "They were working late last night.",
+      "respuestas": [
+        "They were working late last night."
+      ],
+      "explica": "They were working: were + -ing."
+    },
+    {
+      "id": "pasado-continuo-059",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "WW",
+      "consigna": "Describe qué estaba pasando en la oficina ayer a las 10 de la mañana: tres personas, tres acciones distintas.",
+      "objetivo": "was/were + -ing en afirmativa, como fondo de una escena. Cuida was (una persona) y were (varias).",
+      "ejemplo": "At 10 am Laura was talking to a client, Andrés was designing the banners, and the account team was reviewing the budget. I was answering emails.",
+      "explica": "Cada persona lleva su llave: Laura was, the designers were. Y cada verbo lleva su -ing."
+    },
+    {
+      "id": "pasado-continuo-060",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "ING",
+      "consigna": "Cuéntame qué estabas haciendo ayer a las 8 de la noche, qué estaba haciendo tu familia y qué no estabas haciendo.",
+      "objetivo": "was/were + -ing en afirmativa y negativa (I was…, my wife was…, the kids were…, I wasn't…).",
+      "ejemplo": "At 8 pm I was watching a series on the sofa. My wife was cooking and the kids were doing their homework. I wasn't working, for once!",
+      "explica": "I → was, the kids → were. La negativa pega el not a la llave: wasn't / weren't."
+    }
+  ]
+}

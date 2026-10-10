@@ -1,0 +1,899 @@
+{
+  "id": "emails",
+  "titulo": "Emails de trabajo",
+  "grupo": "Inglés para el trabajo",
+  "orden": 220,
+  "nivel": "A2–B1",
+  "resumen": "Saludos y cierres, explicar el motivo, adjuntar, pedir con cortesía, hacer seguimiento, mover una reunión y disculparse por la demora.",
+  "llave": "fórmulas fijas",
+  "teoria": {
+    "paraQue": "Para escribir emails de trabajo claros y corteses sin pensar cada frase. Casi todo un email son piezas fijas que se aprenden enteras y se combinan: saludo + motivo + pedido + cierre.",
+    "llave": "Fórmulas fijas. El email no se traduce del español, se arma con piezas: *Hi Mike,* → *I'm writing to…* → *Please find attached…* → *Could you…?* → *Let me know if…* → *Best regards,*. Si una frase no está en la lista, probablemente es un calco.",
+    "formulas": [
+      {
+        "tipo": "Saludo",
+        "formula": "Hi + nombre, / Dear + apellido, / Hi all, / Hi team,",
+        "ejemplo": "Hi Sarah, / Dear Mr. Johnson, / Hi all,"
+      },
+      {
+        "tipo": "Motivo",
+        "formula": "I'm writing to + verbo / I'm reaching out about…",
+        "ejemplo": "I[['m]] {{writ((ing))}} to {{confirm}} our meeting on Thursday."
+      },
+      {
+        "tipo": "Adjunto",
+        "formula": "Please find attached… / I've attached… / Attached is…",
+        "ejemplo": "Please {{find}} attached the proposal for Q1."
+      },
+      {
+        "tipo": "Pedido",
+        "formula": "Could you (please) + verbo…? / Would you mind + -ing?",
+        "ejemplo": "[[Could]] you {{send}} me the final files by Friday?"
+      },
+      {
+        "tipo": "Lo que quieres",
+        "formula": "I'd like to + verbo / I'd like you to + verbo",
+        "ejemplo": "I[['d]] like to {{schedule}} a call next week."
+      },
+      {
+        "tipo": "Seguimiento",
+        "formula": "I'm following up on… / Just a quick reminder about…",
+        "ejemplo": "I[['m]] {{follow((ing))}} up on the proposal I sent last week."
+      },
+      {
+        "tipo": "Mover una reunión",
+        "formula": "Could we move our meeting to…? / Would + día/hora + work for you?",
+        "ejemplo": "[[Could]] we {{move}} our meeting to Thursday? [[Would]] 10 a.m. {{work}} for you?"
+      },
+      {
+        "tipo": "Disculpa",
+        "formula": "Sorry for the late reply. / Apologies for the delay.",
+        "ejemplo": "Sorry for the late reply, I [[was]] out of the office."
+      },
+      {
+        "tipo": "Cierre",
+        "formula": "Let me know if… / Looking forward to hearing from you. / Best regards,",
+        "ejemplo": "Let me {{know}} if you have any questions. Best regards, Jonathan"
+      }
+    ],
+    "reglas": [
+      "El saludo lleva coma, no dos puntos: *Hi Mike,*. Con desconocidos: *Dear Ms. Johnson,* (título + apellido, nunca *Mrs. Sarah*).",
+      "El motivo va en continuo: *I'm writing to…* (no *I write you to*).",
+      "Adjuntar: *Please find attached…* o *I've attached…*. Nunca *I send you attached*.",
+      "Pedir: *Could you…?* + verbo base, sin *to*. Es más cortés que *Can you…?* y mucho más que *Send me…*.",
+      "«Quiero que me envíes» no es *I want that you send me*: es *I'd like you to send me* o, mejor, *Could you send me…?*",
+      "*Looking forward to* va con -ing: *hearing from you*, *meeting you*, *working with you*.",
+      "*Let me know if you have any questions*: *questions* en plural.",
+      "Cierres: *Best regards,* / *Kind regards,* / *Best,* / *Thanks,*. Nunca *Attentively* ni *A hug*."
+    ],
+    "senales": [
+      "I'm writing to",
+      "Please find attached",
+      "Could you",
+      "I'd like to",
+      "Let me know",
+      "following up",
+      "Looking forward to",
+      "Best regards"
+    ],
+    "usos": [
+      {
+        "uso": "Confirmar una reserva o una cita",
+        "contexto": "diario",
+        "ejemplo": "I[['m]] {{writ((ing))}} to {{confirm}} my reservation for Saturday."
+      },
+      {
+        "uso": "Pedir información a un hotel o una escuela",
+        "contexto": "diario",
+        "ejemplo": "[[Could]] you {{send}} me more information about the course?"
+      },
+      {
+        "uso": "Enviar la propuesta a un cliente",
+        "contexto": "trabajo",
+        "ejemplo": "Please {{find}} attached the proposal for the Q1 campaign."
+      },
+      {
+        "uso": "Pedir aprobación o feedback",
+        "contexto": "trabajo",
+        "ejemplo": "[[Could]] you {{send}} us your feedback by Friday?"
+      },
+      {
+        "uso": "Mover una reunión",
+        "contexto": "trabajo",
+        "ejemplo": "[[Could]] we {{move}} our call to Thursday at 10?"
+      },
+      {
+        "uso": "Hacer seguimiento a un cliente que no responde",
+        "contexto": "trabajo",
+        "ejemplo": "I[['m]] {{follow((ing))}} up on the proposal I sent last week."
+      }
+    ],
+    "errores": [
+      {
+        "mal": "I send you attached the proposal.",
+        "bien": "Please find attached the proposal.",
+        "porque": "Es la fórmula fija; «te envío adjunto» no se traduce.",
+        "code": "USO"
+      },
+      {
+        "mal": "Sorry for the late.",
+        "bien": "Sorry for the late reply.",
+        "porque": "Late es adjetivo y necesita un sustantivo: late reply. O: Sorry for the delay.",
+        "code": "USO"
+      },
+      {
+        "mal": "I write you to ask about the invoice.",
+        "bien": "I'm writing to ask about the invoice.",
+        "porque": "El motivo del email va en continuo y sin you.",
+        "code": "ING"
+      },
+      {
+        "mal": "I look forward to hear from you.",
+        "bien": "I look forward to hearing from you.",
+        "porque": "Después de look forward to va -ing.",
+        "code": "USO"
+      },
+      {
+        "mal": "I want that you send me the brief.",
+        "bien": "Could you send me the brief? / I'd like you to send me the brief.",
+        "porque": "Want that + frase no existe en inglés. Y en un email, pedir es Could you…?",
+        "code": "USO"
+      },
+      {
+        "mal": "Let me know if you have any question.",
+        "bien": "Let me know if you have any questions.",
+        "porque": "Any + contable va en plural.",
+        "code": "CUA"
+      },
+      {
+        "mal": "Can we change the meeting for Wednesday?",
+        "bien": "Could we move the meeting to Wednesday?",
+        "porque": "Mover una reunión es move … to. Change … for es un calco.",
+        "code": "USO"
+      },
+      {
+        "mal": "Attentively, Jonathan",
+        "bien": "Best regards, Jonathan",
+        "porque": "«Atentamente» no se traduce. Los cierres son Best regards, Kind regards, Best.",
+        "code": "USO"
+      }
+    ],
+    "contraste": [
+      {
+        "a": "Hi Mike,",
+        "b": "Dear Mr. Johnson,",
+        "nota": "Hi + nombre para gente que conoces o que ya te escribió así; Dear + título y apellido para la primera vez con alguien formal."
+      },
+      {
+        "a": "[[Could]] you {{send}} me the files?",
+        "b": "Send me the files.",
+        "nota": "La segunda es una orden. En emails de trabajo, casi siempre Could you…?"
+      }
+    ],
+    "frases": [
+      {
+        "en": "Hi Sarah,",
+        "es": "Hola, Sarah:",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Dear Mr. Johnson,",
+        "es": "Estimado señor Johnson:",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Hi all,",
+        "es": "Hola a todos:",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I hope you're doing well.",
+        "es": "Espero que estés bien.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'm writing to confirm our meeting on Thursday.",
+        "es": "Te escribo para confirmar nuestra reunión del jueves.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'm reaching out about the Q4 budget.",
+        "es": "Te escribo por el tema del presupuesto del Q4.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Please find attached the proposal.",
+        "es": "Adjunto la propuesta.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I've attached the final version of the deck.",
+        "es": "Adjunté la versión final de la presentación.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Could you send me the logo in high resolution?",
+        "es": "¿Podrías enviarme el logo en alta resolución?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Could you please confirm by Friday?",
+        "es": "¿Podrías confirmar para el viernes, por favor?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Would you mind sharing the report with the team?",
+        "es": "¿Te molestaría compartir el informe con el equipo?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'd like to schedule a call next week.",
+        "es": "Me gustaría agendar una llamada la próxima semana.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Would Thursday at 10 a.m. work for you?",
+        "es": "¿Te sirve el jueves a las 10?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Could we move our meeting to Wednesday?",
+        "es": "¿Podríamos mover la reunión al miércoles?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Sorry for the short notice.",
+        "es": "Perdón por avisar con tan poco tiempo.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'm following up on my email from last week.",
+        "es": "Te escribo para hacer seguimiento a mi correo de la semana pasada.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Just a quick reminder about tomorrow's deadline.",
+        "es": "Un recordatorio rápido sobre la entrega de mañana.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Did you have a chance to look at the proposal?",
+        "es": "¿Alcanzaste a mirar la propuesta?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Sorry for the late reply.",
+        "es": "Perdón por la demora en responder.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Apologies for the delay.",
+        "es": "Disculpas por la demora.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Let me know if you have any questions.",
+        "es": "Avísame si tienes alguna pregunta.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Looking forward to hearing from you.",
+        "es": "Quedo a la espera de tu respuesta.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Thanks in advance.",
+        "es": "Gracias de antemano.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Best regards,",
+        "es": "Saludos cordiales,",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'm writing to confirm my reservation for Saturday night.",
+        "es": "Escribo para confirmar mi reserva del sábado en la noche.",
+        "contexto": "diario"
+      }
+    ],
+    "tip": "Arma el email con cuatro piezas y nada más: saludo, motivo (I'm writing to…), pedido (Could you…?), cierre (Let me know… + Best regards). Si te sobra una frase, seguramente es un calco."
+  },
+  "ejercicios": [
+    {
+      "id": "emails-001",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Empiezas un email a una clienta que ya conoces y tratas de tú:",
+      "opciones": [
+        "Hi Sarah,",
+        "Dear Sarah Johnson, Esq.,",
+        "Hello Mrs. Sarah,"
+      ],
+      "a": 0,
+      "explica": "Con alguien conocido: Hi + nombre + coma. El título (Mrs., Mr.) nunca va con el nombre de pila."
+    },
+    {
+      "id": "emails-002",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Adjuntas la propuesta:",
+      "opciones": [
+        "Please find attached the proposal.",
+        "I send you attached the proposal.",
+        "Attached I send the proposal."
+      ],
+      "a": 0,
+      "explica": "Please find attached… es la fórmula fija. «Te envío adjunto» no se traduce."
+    },
+    {
+      "id": "emails-003",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "ING",
+      "q": "Explicas el motivo del email:",
+      "opciones": [
+        "I'm writing to confirm our meeting on Thursday.",
+        "I write you to confirm our meeting on Thursday.",
+        "I'm writing you for confirm our meeting on Thursday."
+      ],
+      "a": 0,
+      "explica": "El motivo va en continuo y con to + verbo: I'm writing to confirm."
+    },
+    {
+      "id": "emails-004",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "MOD",
+      "q": "Pides el logo en alta resolución:",
+      "opciones": [
+        "Could you send me the logo in high resolution?",
+        "Could you to send me the logo in high resolution?",
+        "You can send me the logo in high resolution?"
+      ],
+      "a": 0,
+      "explica": "Could you + verbo base, sin to. You can…? con entonación no es una pregunta cortés en inglés."
+    },
+    {
+      "id": "emails-005",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Respondes un email con tres días de retraso:",
+      "opciones": [
+        "Sorry for the late reply.",
+        "Sorry for the late.",
+        "Sorry for answer late."
+      ],
+      "a": 0,
+      "explica": "Late necesita sustantivo: late reply. Sorry for + verbo base no existe."
+    },
+    {
+      "id": "emails-006",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Cierras el email pidiendo respuesta:",
+      "opciones": [
+        "Looking forward to hearing from you.",
+        "I look forward to hear from you.",
+        "Waiting your answer."
+      ],
+      "a": 0,
+      "explica": "Look forward to + -ing: hearing. Waiting your answer es un calco seco."
+    },
+    {
+      "id": "emails-007",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Quieres mover la reunión del martes al miércoles:",
+      "opciones": [
+        "Could we move our meeting to Wednesday?",
+        "Can we change the meeting for Wednesday?",
+        "Is possible to move the meeting to Wednesday?"
+      ],
+      "a": 0,
+      "explica": "Move … to + día. Change for es calco de «cambiar para» y Is possible no tiene sujeto (Is it possible…)."
+    },
+    {
+      "id": "emails-008",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Preguntas si una hora le sirve al cliente:",
+      "opciones": [
+        "Would 3 p.m. work for you?",
+        "Does 3 p.m. serve for you?",
+        "3 p.m. is good for you?"
+      ],
+      "a": 0,
+      "explica": "«¿Te sirve?» es Would … work for you? Serve es servir comida, y una afirmación con signo de pregunta no es una pregunta cortés."
+    },
+    {
+      "id": "emails-009",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Haces seguimiento a un email que no te respondieron:",
+      "opciones": [
+        "I'm following up on my email from last week.",
+        "I'm doing follow-up to my email of last week.",
+        "I write you again for my email of last week."
+      ],
+      "a": 0,
+      "explica": "Follow up on es el verbo fijo; «de la semana pasada» es from last week."
+    },
+    {
+      "id": "emails-010",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Cierre formal pero cercano para un cliente:",
+      "opciones": [
+        "Best regards,",
+        "Attentively,",
+        "A hug,"
+      ],
+      "a": 0,
+      "explica": "Best regards es el cierre estándar. «Atentamente» y «un abrazo» no se traducen."
+    },
+    {
+      "id": "emails-011",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Quieres agendar una llamada:",
+      "opciones": [
+        "I'd like to schedule a call next week.",
+        "I would like schedule a call next week.",
+        "I want that we schedule a call next week."
+      ],
+      "a": 0,
+      "explica": "I'd like to + verbo base. Want that + frase no existe en inglés."
+    },
+    {
+      "id": "emails-012",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "CUA",
+      "q": "Ofreces ayuda al final del email:",
+      "opciones": [
+        "Let me know if you have any questions.",
+        "Let me know if you have any question.",
+        "Say me if you have some question."
+      ],
+      "a": 0,
+      "explica": "Any + contable en plural: any questions. Y «decirme» es tell me, nunca say me."
+    },
+    {
+      "id": "emails-013",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "USO",
+      "q": "Avisas que el adjunto es la versión final:",
+      "opciones": [
+        "I've attached the final version of the deck.",
+        "I attach you the final version of the deck.",
+        "Here I send you the final version of the deck."
+      ],
+      "a": 0,
+      "explica": "I've attached… (o Please find attached…). Attach no lleva you."
+    },
+    {
+      "id": "emails-014",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Please ___ attached the brief for the new campaign.",
+      "respuestas": [
+        "find"
+      ],
+      "explica": "Please find attached es una pieza fija."
+    },
+    {
+      "id": "emails-015",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "ING",
+      "q": "I'm ___ to confirm our call on Monday.",
+      "respuestas": [
+        "writing"
+      ],
+      "explica": "El motivo del email va en continuo: I'm writing to…"
+    },
+    {
+      "id": "emails-016",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "MOD",
+      "q": "___ you send me the final numbers by Friday? (con cortesía)",
+      "respuestas": [
+        "Could",
+        "Can",
+        "Would"
+      ],
+      "explica": "Could you…? es la forma cortés de pedir; Can you…? también sirve, más directa."
+    },
+    {
+      "id": "emails-017",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Sorry for the ___ reply, I was out of the office yesterday.",
+      "respuestas": [
+        "late",
+        "delayed",
+        "slow"
+      ],
+      "explica": "Sorry for the late reply: late es adjetivo y necesita reply."
+    },
+    {
+      "id": "emails-018",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Let me ___ if Thursday works for you.",
+      "respuestas": [
+        "know"
+      ],
+      "explica": "Let me know = avísame. Let + me + verbo base."
+    },
+    {
+      "id": "emails-019",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "USO",
+      "q": "I'm following ___ on the proposal I sent last week.",
+      "respuestas": [
+        "up"
+      ],
+      "explica": "Follow up on = hacer seguimiento a."
+    },
+    {
+      "id": "emails-020",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "USO",
+      "q": "Looking forward to ___ (hear) from you.",
+      "respuestas": [
+        "hearing"
+      ],
+      "explica": "Después de look forward to va -ing, aunque parezca que debería ir el infinitivo."
+    },
+    {
+      "id": "emails-021",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "USO",
+      "es": "Adjunto encontrarás la propuesta.",
+      "en": "Please find attached the proposal.",
+      "extra": [
+        "send",
+        "you"
+      ],
+      "explica": "Please find attached + cosa. Nada de send you."
+    },
+    {
+      "id": "emails-022",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "ING",
+      "es": "Te escribo para confirmar la reunión.",
+      "en": "I'm writing to confirm the meeting.",
+      "extra": [
+        "write",
+        "for"
+      ],
+      "explica": "I'm writing to + verbo. No I write ni for."
+    },
+    {
+      "id": "emails-023",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "MOD",
+      "es": "¿Podrías enviarme el logo?",
+      "en": "Could you send me the logo?",
+      "extra": [
+        "to",
+        "sent"
+      ],
+      "explica": "Could you + verbo base (send), sin to."
+    },
+    {
+      "id": "emails-024",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "USO",
+      "es": "Perdón por la demora en responder.",
+      "en": "Sorry for the late reply.",
+      "extra": [
+        "answer",
+        "lately"
+      ],
+      "explica": "Late reply: adjetivo + sustantivo. Lately significa «últimamente»."
+    },
+    {
+      "id": "emails-025",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "CUA",
+      "es": "Avísame si tienes alguna pregunta.",
+      "en": "Let me know if you have any questions.",
+      "extra": [
+        "question",
+        "some"
+      ],
+      "explica": "Any questions en plural; some no va en condicionales."
+    },
+    {
+      "id": "emails-026",
+      "tipo": "ordenar",
+      "nivel": 3,
+      "code": "USO",
+      "es": "¿Podríamos mover la reunión al jueves?",
+      "en": "Could we move our meeting to Thursday?",
+      "extra": [
+        "for",
+        "on"
+      ],
+      "explica": "Move … to Thursday. For es calco de «para el jueves»."
+    },
+    {
+      "id": "emails-027",
+      "tipo": "ordenar",
+      "nivel": 3,
+      "code": "USO",
+      "es": "Quedo a la espera de tu respuesta.",
+      "en": "Looking forward to hearing from you.",
+      "extra": [
+        "hear",
+        "for"
+      ],
+      "explica": "Look forward to + hearing (-ing) + from you."
+    },
+    {
+      "id": "emails-028",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "USO",
+      "frase": "I send you attached the report.",
+      "correcta": false,
+      "correccion": [
+        "Please find attached the report.",
+        "I've attached the report.",
+        "I have attached the report.",
+        "Attached is the report.",
+        "Please find the report attached."
+      ],
+      "explica": "Adjuntar se dice con Please find attached o I've attached."
+    },
+    {
+      "id": "emails-029",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "USO",
+      "frase": "Sorry for the late.",
+      "correcta": false,
+      "correccion": [
+        "Sorry for the late reply.",
+        "Sorry for the delay.",
+        "Sorry I'm late."
+      ],
+      "explica": "Late es adjetivo: necesita reply. O Sorry for the delay."
+    },
+    {
+      "id": "emails-030",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "ING",
+      "frase": "I write you to ask about the invoice.",
+      "correcta": false,
+      "correccion": [
+        "I'm writing to ask about the invoice.",
+        "I am writing to ask about the invoice."
+      ],
+      "explica": "El motivo va en continuo y sin you."
+    },
+    {
+      "id": "emails-031",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "I look forward to hear from you.",
+      "correcta": false,
+      "correccion": [
+        "I look forward to hearing from you.",
+        "Looking forward to hearing from you."
+      ],
+      "explica": "Look forward to + -ing."
+    },
+    {
+      "id": "emails-032",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "MOD",
+      "frase": "Could you send me the signed contract by Friday?",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Correcta: Could you + verbo base + by + día."
+    },
+    {
+      "id": "emails-033",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "CUA",
+      "frase": "Let me know if you have any question.",
+      "correcta": false,
+      "correccion": [
+        "Let me know if you have any questions."
+      ],
+      "explica": "Any + contable va en plural: any questions."
+    },
+    {
+      "id": "emails-034",
+      "tipo": "corregir",
+      "nivel": 3,
+      "code": "USO",
+      "frase": "I want that you send me the brief today.",
+      "correcta": false,
+      "correccion": [
+        "I'd like you to send me the brief today.",
+        "I would like you to send me the brief today.",
+        "Could you send me the brief today?",
+        "Could you please send me the brief today?",
+        "I want you to send me the brief today."
+      ],
+      "explica": "Want / would like + persona + to + verbo. Nunca want that + frase."
+    },
+    {
+      "id": "emails-035",
+      "tipo": "traducir",
+      "nivel": 1,
+      "code": "USO",
+      "es": "Adjunto la propuesta.",
+      "respuestas": [
+        "Please find attached the proposal.",
+        "I've attached the proposal.",
+        "I have attached the proposal.",
+        "Attached is the proposal.",
+        "Please find the proposal attached.",
+        "I'm attaching the proposal.",
+        "I am attaching the proposal."
+      ],
+      "explica": "Please find attached… o I've attached…"
+    },
+    {
+      "id": "emails-036",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "MOD",
+      "es": "¿Podrías enviarme el archivo final?",
+      "respuestas": [
+        "Could you send me the final file?",
+        "Can you send me the final file?",
+        "Could you please send me the final file?",
+        "Can you please send me the final file?",
+        "Would you send me the final file?",
+        "Could you send me the final version?"
+      ],
+      "explica": "Could you send me + cosa. Sin to después de could."
+    },
+    {
+      "id": "emails-037",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "ING",
+      "es": "Te escribo para confirmar la reunión del jueves.",
+      "respuestas": [
+        "I'm writing to confirm our meeting on Thursday.",
+        "I'm writing to confirm the meeting on Thursday.",
+        "I am writing to confirm our meeting on Thursday.",
+        "I am writing to confirm the meeting on Thursday.",
+        "I'm writing to confirm Thursday's meeting.",
+        "I am writing to confirm Thursday's meeting.",
+        "I'm writing to confirm our Thursday meeting.",
+        "I am writing to confirm our Thursday meeting."
+      ],
+      "explica": "I'm writing to confirm + reunión + on Thursday."
+    },
+    {
+      "id": "emails-038",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "CUA",
+      "es": "Avísame si tienes alguna pregunta.",
+      "respuestas": [
+        "Let me know if you have any questions.",
+        "Please let me know if you have any questions.",
+        "Let me know if you have questions."
+      ],
+      "explica": "Let me know if you have any questions, con questions en plural."
+    },
+    {
+      "id": "emails-039",
+      "tipo": "traducir",
+      "nivel": 3,
+      "code": "USO",
+      "es": "Perdón por la demora en responder.",
+      "respuestas": [
+        "Sorry for the late reply.",
+        "Sorry for the delay.",
+        "Apologies for the late reply.",
+        "Apologies for the delay.",
+        "Sorry for the delayed reply.",
+        "I'm sorry for the late reply.",
+        "I am sorry for the late reply.",
+        "I apologize for the late reply.",
+        "I apologize for the delay.",
+        "Sorry for the slow reply.",
+        "Sorry for my late reply."
+      ],
+      "explica": "Sorry for the late reply o Apologies for the delay. Nunca Sorry for the late."
+    },
+    {
+      "id": "emails-040",
+      "tipo": "escuchar",
+      "nivel": 1,
+      "code": "USO",
+      "texto": "Please find attached the proposal.",
+      "respuestas": [
+        "Please find attached the proposal."
+      ],
+      "explica": "La fórmula fija para adjuntar."
+    },
+    {
+      "id": "emails-041",
+      "tipo": "escuchar",
+      "nivel": 2,
+      "code": "CUA",
+      "texto": "Let me know if you have any questions.",
+      "respuestas": [
+        "Let me know if you have any questions."
+      ],
+      "explica": "Escucha la -s de questions."
+    },
+    {
+      "id": "emails-042",
+      "tipo": "hablar",
+      "nivel": 1,
+      "code": "USO",
+      "consigna": "Dicta en voz alta un email corto a una clienta: saludo, adjuntas la propuesta, pides feedback para el viernes y cierras.",
+      "objetivo": "Hi… / Please find attached… / Could you…? / Let me know… / Best regards",
+      "ejemplo": "Hi Sarah, I hope you're doing well. Please find attached the proposal for the Q1 campaign. Could you send us your feedback by Friday? Let me know if you have any questions. Best regards, Jonathan.",
+      "explica": "Las cuatro piezas: Hi + nombre, Please find attached…, Could you… by Friday?, Let me know if… + Best regards."
+    },
+    {
+      "id": "emails-043",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "USO",
+      "consigna": "Dicta un email para mover la reunión del martes al jueves y disculparte por el cambio de última hora.",
+      "objetivo": "Sorry for the short notice / Could we move…? / Would … work for you?",
+      "ejemplo": "Hi Mike, sorry for the short notice, but could we move our meeting from Tuesday to Thursday? Something came up with another client. Would 10 a.m. work for you? Thanks for understanding. Best, Jonathan.",
+      "explica": "Sorry for the short notice + Could we move our meeting to…? + Would … work for you? Mover es move to; no change for."
+    },
+    {
+      "id": "emails-044",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "USO",
+      "consigna": "Dicta un email de seguimiento: enviaste una propuesta hace una semana y no has recibido respuesta.",
+      "objetivo": "I'm following up on… / Did you have a chance to…? / Let me know…",
+      "ejemplo": "Hi Laura, I'm following up on the proposal I sent last week. Did you have a chance to look at it? Let me know if you need anything else from our side. Looking forward to hearing from you. Best regards, Jonathan.",
+      "explica": "I'm following up on + lo que enviaste; Did you have a chance to…?; cierre con Looking forward to hearing from you (con -ing)."
+    },
+    {
+      "id": "emails-045",
+      "tipo": "hablar",
+      "nivel": 3,
+      "code": "USO",
+      "consigna": "Dicta un email respondiendo tarde a un cliente que pidió los resultados de la campaña: disculpa, adjunto, un dato y propuesta de llamada.",
+      "objetivo": "Sorry for the late reply / Please find attached / I'd like to… / Would … work for you?",
+      "ejemplo": "Hi Andrés, sorry for the late reply, I was traveling this week. Please find attached the results of the campaign. The video had two million views, and engagement was up 30%. I'd like to go over the numbers with you on a call. Would Thursday work for you? Best, Jonathan.",
+      "explica": "Sorry for the late reply (no sorry for the late) + Please find attached + I'd like to + verbo + Would … work for you?"
+    }
+  ]
+}

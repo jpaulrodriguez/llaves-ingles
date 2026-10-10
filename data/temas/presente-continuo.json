@@ -1,0 +1,980 @@
+{
+  "id": "presente-continuo",
+  "titulo": "Presente continuo",
+  "grupo": "Tiempos verbales",
+  "orden": 20,
+  "nivel": "A1–A2",
+  "resumen": "Lo que pasa ahora o en este periodo, situaciones temporales y planes ya organizados.",
+  "llave": "am / is / are",
+  "teoria": {
+    "paraQue": "Sirve para hablar de lo que está pasando ahora mismo o en este periodo (esta semana, este mes), de situaciones temporales y de planes ya organizados para el futuro cercano (We're meeting the client tomorrow).",
+    "llave": "La llave es be: am (I), is (he, she, it), are (you, we, they). Siempre va acompañada del verbo en -ing: las dos piezas van juntas. Negativa: be + not (isn't, aren't, I'm not). Pregunta: be delante del sujeto (Are you listening?). Respuesta corta: Yes, I am. / No, she isn't. Nunca se usa do/does/did como llave del continuo: What are you doing? (no What do you doing?).",
+    "formulas": [
+      {
+        "tipo": "Afirmativa",
+        "formula": "Sujeto + am / is / are + verbo-ing",
+        "ejemplo": "They [[are]] {{work((ing))}} on the pitch now."
+      },
+      {
+        "tipo": "Negativa",
+        "formula": "Sujeto + am / is / are + not + verbo-ing",
+        "ejemplo": "He [[is]]((n't)) {{work((ing))}} today."
+      },
+      {
+        "tipo": "Pregunta",
+        "formula": "Am / Is / Are + sujeto + verbo-ing?",
+        "ejemplo": "[[Are]] you {{listen((ing))}}?"
+      },
+      {
+        "tipo": "Pregunta con Wh-",
+        "formula": "Wh- + am / is / are + sujeto + verbo-ing?",
+        "ejemplo": "What [[are]] you {{do((ing))}}?"
+      }
+    ],
+    "reglas": [
+      "Las dos piezas van juntas: be + -ing. Sin be no hay continuo (I working ✗) y sin -ing tampoco (I am work ✗).",
+      "Ortografía del -ing: se va la -e muda (make → making, write → writing); consonante doble en sílaba corta acentuada (run → running, sit → sitting, begin → beginning); -ie → -ying (lie → lying, die → dying); -y se queda (study → studying, play → playing).",
+      "Verbos de estado no van en continuo: know, want, need, like, love, hate, believe, understand, seem, own, prefer, remember, mean, agree. Se dicen en presente simple: I know, I want, I understand.",
+      "Planes ya organizados para el futuro cercano (con fecha, hora o acuerdo) también van en presente continuo: We're presenting on Thursday.",
+      "Be es su propia llave: nunca lleva do/does delante (What are you doing?, no What do you doing?)."
+    ],
+    "senales": [
+      "now",
+      "right now",
+      "at the moment",
+      "today",
+      "this week",
+      "this month",
+      "this year",
+      "currently",
+      "these days",
+      "Look!",
+      "Listen!",
+      "tomorrow (plan)",
+      "next week (plan)"
+    ],
+    "usos": [
+      {
+        "uso": "Lo que pasa ahora mismo",
+        "contexto": "diario",
+        "ejemplo": "I[['m]] {{cook((ing))}}, can I call you back?"
+      },
+      {
+        "uso": "Situación temporal o de este periodo",
+        "contexto": "diario",
+        "ejemplo": "I[['m]] {{learn((ing))}} English this year."
+      },
+      {
+        "uso": "Un plan personal ya organizado",
+        "contexto": "diario",
+        "ejemplo": "We[['re]] {{fly((ing))}} to Cartagena on Saturday."
+      },
+      {
+        "uso": "Lo que haces en el trabajo esta semana",
+        "contexto": "trabajo",
+        "ejemplo": "I[['m]] {{work((ing))}} on a new pitch this week."
+      },
+      {
+        "uso": "Lo que pasa en una reunión o llamada ahora",
+        "contexto": "trabajo",
+        "ejemplo": "Sorry, you[['re]] {{break((ing))}} up. Can you hear me?"
+      },
+      {
+        "uso": "Un plan de trabajo ya acordado",
+        "contexto": "trabajo",
+        "ejemplo": "We[['re]] {{present((ing))}} the campaign to the client tomorrow."
+      }
+    ],
+    "errores": [
+      {
+        "mal": "I preparing the deck.",
+        "bien": "I'm preparing the deck.",
+        "porque": "Falta la llave be: sin am/is/are no hay continuo.",
+        "code": "ING"
+      },
+      {
+        "mal": "I am work on the report now.",
+        "bien": "I am working on the report now.",
+        "porque": "Falta el -ing: be siempre va con verbo-ing.",
+        "code": "ING"
+      },
+      {
+        "mal": "What do you doing?",
+        "bien": "What are you doing?",
+        "porque": "La llave del continuo es be, no do.",
+        "code": "ING"
+      },
+      {
+        "mal": "I'm understanding the brief.",
+        "bien": "I understand the brief.",
+        "porque": "Understand es verbo de estado: no va en continuo.",
+        "code": "EST"
+      },
+      {
+        "mal": "They is working late.",
+        "bien": "They are working late.",
+        "porque": "They → are.",
+        "code": "WW"
+      },
+      {
+        "mal": "She is writeing an email.",
+        "bien": "She is writing an email.",
+        "porque": "La -e muda se va antes de -ing.",
+        "code": "ING"
+      },
+      {
+        "mal": "He is runing late.",
+        "bien": "He is running late.",
+        "porque": "Sílaba corta acentuada: consonante doble antes de -ing.",
+        "code": "ING"
+      },
+      {
+        "mal": "Is raining in Bogotá.",
+        "bien": "It's raining in Bogotá.",
+        "porque": "El sujeto it no se omite.",
+        "code": "SUJ"
+      }
+    ],
+    "contraste": [
+      {
+        "a": "I {{work}} at an agency.",
+        "b": "I[['m]] {{work((ing))}} from home this week.",
+        "nota": "General vs. temporal (ver el tema de contraste)."
+      }
+    ],
+    "frases": [
+      {
+        "en": "What are you working on?",
+        "es": "¿En qué estás trabajando?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'm working on the pitch this week.",
+        "es": "Esta semana estoy trabajando en el pitch.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "We're meeting the client tomorrow.",
+        "es": "Nos reunimos con el cliente mañana.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'm sharing my screen now.",
+        "es": "Estoy compartiendo pantalla ahora.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "You're breaking up. Can you hear me?",
+        "es": "Se te corta. ¿Me escuchas?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'm still waiting for the client's feedback.",
+        "es": "Todavía estoy esperando el feedback del cliente.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'm running late.",
+        "es": "Voy tarde.",
+        "contexto": "diario"
+      },
+      {
+        "en": "What are you doing this weekend?",
+        "es": "¿Qué vas a hacer este fin de semana?",
+        "contexto": "diario"
+      },
+      {
+        "en": "I'm cooking, can I call you back?",
+        "es": "Estoy cocinando, ¿te llamo luego?",
+        "contexto": "diario"
+      },
+      {
+        "en": "It's raining again.",
+        "es": "Está lloviendo otra vez.",
+        "contexto": "diario"
+      },
+      {
+        "en": "I'm learning English this year.",
+        "es": "Este año estoy aprendiendo inglés.",
+        "contexto": "diario"
+      },
+      {
+        "en": "Are you kidding?",
+        "es": "¿Estás bromeando?",
+        "contexto": "diario"
+      }
+    ],
+    "tip": "Be y -ing son dos imanes: si pones uno, el otro tiene que aparecer. Si en tu frase ves un -ing, busca su am/is/are; si ves am/is/are con una acción, busca el -ing."
+  },
+  "ejercicios": [
+    {
+      "id": "presente-continuo-001",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "ING",
+      "q": "I ___ the deck for tomorrow.",
+      "opciones": [
+        "preparing",
+        "am preparing",
+        "am prepare",
+        "prepare now"
+      ],
+      "a": 1,
+      "explica": "Las dos piezas van juntas: am + preparing."
+    },
+    {
+      "id": "presente-continuo-002",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "ING",
+      "q": "What ___ you doing?",
+      "opciones": [
+        "do",
+        "are",
+        "does",
+        "is"
+      ],
+      "a": 1,
+      "explica": "La llave del continuo es be: What are you doing? (no What do you doing?)."
+    },
+    {
+      "id": "presente-continuo-003",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "WW",
+      "q": "They ___ working late tonight.",
+      "opciones": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "a": 2,
+      "explica": "They → are."
+    },
+    {
+      "id": "presente-continuo-004",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "ING",
+      "q": "She is ___ an email to the client.",
+      "opciones": [
+        "writeing",
+        "writing",
+        "writting",
+        "write"
+      ],
+      "a": 1,
+      "explica": "La -e muda se va antes de -ing: writing."
+    },
+    {
+      "id": "presente-continuo-005",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "ING",
+      "q": "Look! It ___.",
+      "opciones": [
+        "rains",
+        "is raining",
+        "raining",
+        "is rain"
+      ],
+      "a": 1,
+      "explica": "Look! señala algo que pasa ahora: is + raining."
+    },
+    {
+      "id": "presente-continuo-006",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "EST",
+      "q": "Sorry, I ___ what you mean.",
+      "opciones": [
+        "am not understanding",
+        "don't understand",
+        "not understand",
+        "am not understand"
+      ],
+      "a": 1,
+      "explica": "Understand es verbo de estado: va en presente simple, no en continuo."
+    },
+    {
+      "id": "presente-continuo-007",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "ING",
+      "q": "He ___ late again.",
+      "opciones": [
+        "is runing",
+        "is running",
+        "running",
+        "runs now"
+      ],
+      "a": 1,
+      "explica": "Run tiene sílaba corta acentuada: consonante doble, running."
+    },
+    {
+      "id": "presente-continuo-008",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "FUT",
+      "q": "We ___ the campaign to the client tomorrow at 10.",
+      "opciones": [
+        "present",
+        "are presenting",
+        "presenting",
+        "are present"
+      ],
+      "a": 1,
+      "explica": "Un plan ya organizado (hora fija) va en presente continuo."
+    },
+    {
+      "id": "presente-continuo-009",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "EST",
+      "q": "I ___ a coffee. Do you want one?",
+      "opciones": [
+        "am wanting",
+        "want",
+        "wanting",
+        "am want"
+      ],
+      "a": 1,
+      "explica": "Want es verbo de estado: I want."
+    },
+    {
+      "id": "presente-continuo-010",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "ING",
+      "q": "The kids ___ on the sofa.",
+      "opciones": [
+        "are lying",
+        "are lieing",
+        "are laying",
+        "is lying"
+      ],
+      "a": 0,
+      "explica": "Lie → lying (-ie pasa a -y); the kids → are."
+    },
+    {
+      "id": "presente-continuo-011",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "ING",
+      "q": "___ Laura working from home today?",
+      "opciones": [
+        "Does",
+        "Is",
+        "Do",
+        "Are"
+      ],
+      "a": 1,
+      "explica": "Laura = she → Is. Be es su propia llave, sin does."
+    },
+    {
+      "id": "presente-continuo-012",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "ING",
+      "q": "The team ___ on three campaigns this month.",
+      "opciones": [
+        "is working",
+        "working",
+        "is work",
+        "are working on"
+      ],
+      "a": 0,
+      "explica": "The team = it → is working. This month marca un periodo temporal."
+    },
+    {
+      "id": "presente-continuo-013",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "EST",
+      "q": "I ___ with your idea, but let's test it first.",
+      "opciones": [
+        "am agreeing",
+        "agree",
+        "am agree",
+        "agreeing"
+      ],
+      "a": 1,
+      "explica": "Agree es verbo de estado (y no es adjetivo): I agree."
+    },
+    {
+      "id": "presente-continuo-014",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "ING",
+      "q": "The client ___ to the proposal right now.",
+      "opciones": [
+        "isn't listening",
+        "doesn't listening",
+        "isn't listen",
+        "not listening"
+      ],
+      "a": 0,
+      "explica": "Negativa: is + not + verbo-ing. Doesn't no va con -ing."
+    },
+    {
+      "id": "presente-continuo-015",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "ING",
+      "q": "Why ___ everyone ___ about the new logo?",
+      "opciones": [
+        "is / talking",
+        "are / talking",
+        "does / talking",
+        "is / talk"
+      ],
+      "a": 0,
+      "explica": "Everyone va en singular → is talking."
+    },
+    {
+      "id": "presente-continuo-016",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "ING",
+      "q": "I ___ (cook) dinner right now.",
+      "respuestas": [
+        "am cooking"
+      ],
+      "explica": "I → am + cooking."
+    },
+    {
+      "id": "presente-continuo-017",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "ING",
+      "q": "Mike ___ (make) coffee in the kitchen.",
+      "respuestas": [
+        "is making"
+      ],
+      "explica": "Make → making (se va la -e); Mike → is."
+    },
+    {
+      "id": "presente-continuo-018",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "WW",
+      "q": "We ___ (wait) for the client.",
+      "respuestas": [
+        "are waiting"
+      ],
+      "explica": "We → are + waiting."
+    },
+    {
+      "id": "presente-continuo-019",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "ING",
+      "q": "The kids ___ (play) in the park.",
+      "respuestas": [
+        "are playing"
+      ],
+      "explica": "Play → playing (la -y se queda); the kids → are."
+    },
+    {
+      "id": "presente-continuo-020",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "ING",
+      "q": "Camila ___ (sit) next to the creative director.",
+      "respuestas": [
+        "is sitting"
+      ],
+      "explica": "Sit tiene sílaba corta acentuada: sitting."
+    },
+    {
+      "id": "presente-continuo-021",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "ING",
+      "q": "What ___ (you / do) this weekend?",
+      "respuestas": [
+        "are you doing"
+      ],
+      "explica": "Wh- + are + sujeto + verbo-ing. Un plan del fin de semana va en continuo."
+    },
+    {
+      "id": "presente-continuo-022",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "ING",
+      "q": "The client ___ (not / answer) our emails this week.",
+      "respuestas": [
+        "isn't answering",
+        "is not answering"
+      ],
+      "explica": "Negativa: is + not + verbo-ing."
+    },
+    {
+      "id": "presente-continuo-023",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "ING",
+      "q": "Andrés ___ (study) for his certification this month.",
+      "respuestas": [
+        "is studying"
+      ],
+      "explica": "Study → studying: la -y se queda antes de -ing."
+    },
+    {
+      "id": "presente-continuo-024",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "EST",
+      "q": "I ___ (know) the answer, but let me check.",
+      "respuestas": [
+        "know"
+      ],
+      "explica": "Know es verbo de estado: presente simple, aunque sea ahora."
+    },
+    {
+      "id": "presente-continuo-025",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "ING",
+      "q": "Sorry, you ___ (break) up. Can you hear me?",
+      "respuestas": [
+        "are breaking",
+        "'re breaking"
+      ],
+      "explica": "You → are + breaking."
+    },
+    {
+      "id": "presente-continuo-026",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "ING",
+      "q": "Why ___ (the team / work) late tonight?",
+      "respuestas": [
+        "is the team working"
+      ],
+      "explica": "The team = it → is; el sujeto va entre la llave y el verbo-ing."
+    },
+    {
+      "id": "presente-continuo-027",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "ING",
+      "q": "The agency ___ (begin) a new project with a bank next week.",
+      "respuestas": [
+        "is beginning"
+      ],
+      "explica": "Begin: la última sílaba va acentuada → beginning (doble n). Plan ya organizado → continuo."
+    },
+    {
+      "id": "presente-continuo-028",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "EST",
+      "q": "The client ___ (prefer) the second option.",
+      "respuestas": [
+        "prefers"
+      ],
+      "explica": "Prefer es verbo de estado: presente simple con -s."
+    },
+    {
+      "id": "presente-continuo-029",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "ING",
+      "es": "Estoy preparando el deck.",
+      "en": "I am preparing the deck.",
+      "extra": [
+        "prepare",
+        "do"
+      ],
+      "explica": "Am + preparing: las dos piezas juntas."
+    },
+    {
+      "id": "presente-continuo-030",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "ING",
+      "es": "¿Qué estás haciendo?",
+      "en": "What are you doing?",
+      "extra": [
+        "do",
+        "does"
+      ],
+      "explica": "La llave del continuo es are, no do."
+    },
+    {
+      "id": "presente-continuo-031",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "WW",
+      "es": "Ellos están trabajando hasta tarde.",
+      "en": "They are working late.",
+      "extra": [
+        "is",
+        "work"
+      ],
+      "explica": "They → are + working."
+    },
+    {
+      "id": "presente-continuo-032",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "ING",
+      "es": "Ella no está trabajando hoy.",
+      "en": "She isn't working today.",
+      "extra": [
+        "doesn't",
+        "works"
+      ],
+      "explica": "Negativa con be: isn't + working."
+    },
+    {
+      "id": "presente-continuo-033",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "FUT",
+      "es": "Nos reunimos con el cliente mañana.",
+      "en": "We are meeting the client tomorrow.",
+      "extra": [
+        "meet",
+        "will"
+      ],
+      "explica": "Plan ya organizado → presente continuo."
+    },
+    {
+      "id": "presente-continuo-034",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "ING",
+      "es": "¿Está lloviendo en Bogotá?",
+      "en": "Is it raining in Bogotá?",
+      "extra": [
+        "Does",
+        "rains"
+      ],
+      "explica": "Pregunta: Is + it + raining. El sujeto it no se omite."
+    },
+    {
+      "id": "presente-continuo-035",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "ING",
+      "es": "¿En qué estás trabajando esta semana?",
+      "en": "What are you working on this week?",
+      "extra": [
+        "do",
+        "work"
+      ],
+      "explica": "Wh- + are + you + working on."
+    },
+    {
+      "id": "presente-continuo-036",
+      "tipo": "ordenar",
+      "nivel": 3,
+      "code": "ING",
+      "es": "El equipo está esperando el feedback del cliente.",
+      "en": "The team is waiting for the client's feedback.",
+      "extra": [
+        "are",
+        "waits"
+      ],
+      "explica": "The team = it → is waiting."
+    },
+    {
+      "id": "presente-continuo-037",
+      "tipo": "ordenar",
+      "nivel": 3,
+      "code": "ING",
+      "es": "¿Por qué está trabajando Mike desde casa?",
+      "en": "Why is Mike working from home?",
+      "extra": [
+        "does",
+        "works"
+      ],
+      "explica": "Wh- + is + sujeto + verbo-ing."
+    },
+    {
+      "id": "presente-continuo-038",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "ING",
+      "frase": "I preparing the presentation for the client.",
+      "correcta": false,
+      "correccion": [
+        "I am preparing the presentation for the client.",
+        "I'm preparing the presentation for the client."
+      ],
+      "explica": "Falta la llave: am + preparing."
+    },
+    {
+      "id": "presente-continuo-039",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "ING",
+      "frase": "What do you doing?",
+      "correcta": false,
+      "correccion": [
+        "What are you doing?"
+      ],
+      "explica": "La llave del continuo es be, no do."
+    },
+    {
+      "id": "presente-continuo-040",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "ING",
+      "frase": "She is work on the report now.",
+      "correcta": false,
+      "correccion": [
+        "She is working on the report now.",
+        "She's working on the report now."
+      ],
+      "explica": "Falta el -ing: is working."
+    },
+    {
+      "id": "presente-continuo-041",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "EST",
+      "frase": "I'm understanding the brief now.",
+      "correcta": false,
+      "correccion": [
+        "I understand the brief now."
+      ],
+      "explica": "Understand es verbo de estado: no va en continuo."
+    },
+    {
+      "id": "presente-continuo-042",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "ING",
+      "frase": "We're having lunch with the client tomorrow.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Correcta: un plan ya organizado va en presente continuo, y have como acción (comer) sí admite -ing."
+    },
+    {
+      "id": "presente-continuo-043",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "WW",
+      "frase": "The designers is working on the key visual.",
+      "correcta": false,
+      "correccion": [
+        "The designers are working on the key visual."
+      ],
+      "explica": "The designers = they → are."
+    },
+    {
+      "id": "presente-continuo-044",
+      "tipo": "corregir",
+      "nivel": 3,
+      "code": "ING",
+      "frase": "He is runing to the meeting because he is late.",
+      "correcta": false,
+      "correccion": [
+        "He is running to the meeting because he is late.",
+        "He's running to the meeting because he's late."
+      ],
+      "explica": "Run → running: consonante doble."
+    },
+    {
+      "id": "presente-continuo-045",
+      "tipo": "corregir",
+      "nivel": 3,
+      "code": "SUJ",
+      "frase": "Is raining a lot this week.",
+      "correcta": false,
+      "correccion": [
+        "It is raining a lot this week.",
+        "It's raining a lot this week."
+      ],
+      "explica": "El sujeto it no se omite, aunque en español no exista."
+    },
+    {
+      "id": "presente-continuo-046",
+      "tipo": "transformar",
+      "nivel": 1,
+      "code": "ING",
+      "frase": "I am working from home today.",
+      "instruccion": "Pásala a negativa",
+      "respuestas": [
+        "I am not working from home today.",
+        "I'm not working from home today."
+      ],
+      "explica": "Negativa: am + not + working."
+    },
+    {
+      "id": "presente-continuo-047",
+      "tipo": "transformar",
+      "nivel": 1,
+      "code": "ING",
+      "frase": "Sarah is talking to the client.",
+      "instruccion": "Pásala a pregunta",
+      "respuestas": [
+        "Is Sarah talking to the client?"
+      ],
+      "explica": "La llave is pasa delante del sujeto."
+    },
+    {
+      "id": "presente-continuo-048",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "ING",
+      "frase": "They are reviewing the budget.",
+      "instruccion": "Pregunta por qué cosa (What…?)",
+      "respuestas": [
+        "What are they reviewing?"
+      ],
+      "explica": "Wh- + are + they + reviewing."
+    },
+    {
+      "id": "presente-continuo-049",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "ING",
+      "frase": "I usually have lunch at one.",
+      "instruccion": "Dilo como algo que pasa ahora (right now)",
+      "respuestas": [
+        "I am having lunch right now.",
+        "I'm having lunch right now.",
+        "Right now I am having lunch.",
+        "Right now I'm having lunch."
+      ],
+      "explica": "Ahora mismo → am + having. Have como acción (comer) sí va en -ing."
+    },
+    {
+      "id": "presente-continuo-050",
+      "tipo": "transformar",
+      "nivel": 3,
+      "code": "ING",
+      "frase": "The client is waiting in the lobby.",
+      "instruccion": "Pregunta por el lugar (Where…?)",
+      "respuestas": [
+        "Where is the client waiting?"
+      ],
+      "explica": "Wh- + is + sujeto + verbo-ing."
+    },
+    {
+      "id": "presente-continuo-051",
+      "tipo": "transformar",
+      "nivel": 3,
+      "code": "WW",
+      "frase": "He is working on the pitch this week.",
+      "instruccion": "Cámbiala a they (The designers…)",
+      "respuestas": [
+        "The designers are working on the pitch this week."
+      ],
+      "explica": "Al pasar a they, la llave cambia a are."
+    },
+    {
+      "id": "presente-continuo-052",
+      "tipo": "traducir",
+      "nivel": 1,
+      "code": "ING",
+      "es": "Estoy cocinando, ¿te llamo luego?",
+      "respuestas": [
+        "I am cooking, can I call you back?",
+        "I'm cooking, can I call you back?",
+        "I am cooking. Can I call you back?",
+        "I'm cooking. Can I call you back?"
+      ],
+      "explica": "Am + cooking para lo que pasa ahora."
+    },
+    {
+      "id": "presente-continuo-053",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "ING",
+      "es": "¿En qué estás trabajando?",
+      "respuestas": [
+        "What are you working on?"
+      ],
+      "explica": "La preposición on va al final: What are you working on?"
+    },
+    {
+      "id": "presente-continuo-054",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "FUT",
+      "es": "Presentamos la campaña el jueves.",
+      "respuestas": [
+        "We are presenting the campaign on Thursday.",
+        "We're presenting the campaign on Thursday.",
+        "We are presenting the campaign this Thursday."
+      ],
+      "explica": "Plan ya organizado → presente continuo."
+    },
+    {
+      "id": "presente-continuo-055",
+      "tipo": "traducir",
+      "nivel": 3,
+      "code": "ING",
+      "es": "El cliente no está contestando nuestros correos.",
+      "respuestas": [
+        "The client isn't answering our emails.",
+        "The client is not answering our emails.",
+        "The client isn't replying to our emails.",
+        "The client is not replying to our emails."
+      ],
+      "explica": "Negativa: is + not + verbo-ing."
+    },
+    {
+      "id": "presente-continuo-056",
+      "tipo": "identificar",
+      "nivel": 1,
+      "code": "ING",
+      "frase": "Are you listening to me?",
+      "opciones": [
+        "Presente continuo: pregunta",
+        "Presente simple: pregunta",
+        "Presente continuo: afirmativa"
+      ],
+      "a": 0,
+      "explica": "Are delante del sujeto + verbo-ing: pregunta del presente continuo."
+    },
+    {
+      "id": "presente-continuo-057",
+      "tipo": "escuchar",
+      "nivel": 2,
+      "code": "ING",
+      "texto": "We are working on a new pitch this week.",
+      "respuestas": [
+        "We are working on a new pitch this week.",
+        "We're working on a new pitch this week."
+      ],
+      "explica": "Escucha las dos piezas: are + working."
+    },
+    {
+      "id": "presente-continuo-058",
+      "tipo": "hablar",
+      "nivel": 1,
+      "code": "ING",
+      "consigna": "Imagina que te llaman mientras haces algo en casa. Di qué estás haciendo tú y qué están haciendo dos personas más.",
+      "objetivo": "am / is / are + -ing con tres sujetos distintos",
+      "ejemplo": "I'm cooking dinner. My girlfriend is watching a series and the dog is sleeping on the sofa.",
+      "explica": "Lo que pasa ahora → be + -ing; la llave cambia con el sujeto: I'm, she's, the dog is."
+    },
+    {
+      "id": "presente-continuo-059",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "ING",
+      "consigna": "Un colega te pregunta en qué está tu equipo esta semana. Cuenta tres cosas en las que están trabajando y una que no están haciendo.",
+      "objetivo": "Presente continuo para el periodo actual, afirmativa y negativa",
+      "ejemplo": "This week we're working on the pitch for the bank. Camila is designing the key visual and Andrés is writing the copy. We aren't posting on social media this week.",
+      "explica": "Lo de este periodo (this week) va en continuo; la negativa es be + not + -ing (we aren't posting)."
+    },
+    {
+      "id": "presente-continuo-060",
+      "tipo": "hablar",
+      "nivel": 3,
+      "code": "FUT",
+      "consigna": "Cuenta tus planes ya organizados para los próximos días: dos del trabajo y dos personales, con día u hora.",
+      "objetivo": "Presente continuo para planes organizados",
+      "ejemplo": "On Monday I'm presenting the campaign to the client at 10. On Wednesday we're having lunch with the new account manager. On Friday I'm flying to Medellín and on Saturday I'm having dinner with my parents.",
+      "explica": "Un plan ya organizado con día u hora va en presente continuo, no en simple."
+    }
+  ]
+}

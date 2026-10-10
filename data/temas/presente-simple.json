@@ -1,0 +1,990 @@
+{
+  "id": "presente-simple",
+  "titulo": "Presente simple",
+  "grupo": "Tiempos verbales",
+  "orden": 10,
+  "nivel": "A1–A2",
+  "resumen": "Hábitos, rutinas, hechos, gustos y estados. También presentarte y explicar tu trabajo.",
+  "llave": "do / does",
+  "teoria": {
+    "paraQue": "Sirve para hablar de lo que pasa en general: hábitos y rutinas, hechos y verdades, gustos y estados. Es el tiempo con el que te presentas y explicas a qué te dedicas.",
+    "llave": "La llave es do (I, you, we, they) y does (he, she, it). En la afirmativa está escondida: su marca se queda pegada al verbo como -s (works). En la negativa y la pregunta la llave sale a la luz y se lleva la -s: She doesn't work · Does she work? Respuesta corta: Yes, I do. / No, she doesn't. El verbo be no usa do: es su propia llave (I'm not tired · Are you ready?).",
+    "formulas": [
+      {
+        "tipo": "Afirmativa",
+        "formula": "Sujeto + verbo (+s con he/she/it)",
+        "ejemplo": "She {{work((s))}} in Bogotá."
+      },
+      {
+        "tipo": "Negativa",
+        "formula": "Sujeto + don't / doesn't + verbo base",
+        "ejemplo": "She [[does]]n't {{work}} on Sundays."
+      },
+      {
+        "tipo": "Pregunta",
+        "formula": "Do / Does + sujeto + verbo base?",
+        "ejemplo": "[[Does]] she {{work}} here?"
+      },
+      {
+        "tipo": "Pregunta con Wh-",
+        "formula": "Wh- + do/does + sujeto + verbo base?",
+        "ejemplo": "Where [[does]] she {{work}}?"
+      },
+      {
+        "tipo": "Be afirmativa",
+        "formula": "Sujeto + am / is / are",
+        "ejemplo": "I [[am]] in charge of the account."
+      },
+      {
+        "tipo": "Be negativa y pregunta",
+        "formula": "Sujeto + am/is/are + not · Am/Is/Are + sujeto?",
+        "ejemplo": "She [[is]]n't here today. [[Are]] you ready?"
+      }
+    ],
+    "reglas": [
+      "He/she/it en afirmativa → el verbo lleva -s: works, lives, needs.",
+      "Ortografía de la -s: verbos en -s, -sh, -ch, -x, -o → -es (watches, finishes, goes, does); consonante + y → -ies (studies, tries); vocal + y → -s (plays, enjoys); have → has.",
+      "Con does / doesn't el verbo pierde la -s: Does he work? (nunca Does he works?).",
+      "Be no usa do: I'm not tired · Are you ready? · Is she the account manager?",
+      "Los adverbios de frecuencia van antes del verbo principal (I always drink coffee) y después de be (I'm always late).",
+      "La edad, el hambre, el frío y la sed se dicen con be: I'm 35 · I'm hungry · She's cold.",
+      "Sujeto siempre visible, también it: It rains a lot in Bogotá."
+    ],
+    "senales": [
+      "always",
+      "usually",
+      "often",
+      "sometimes",
+      "rarely",
+      "never",
+      "every day",
+      "every week",
+      "on Mondays",
+      "once a week",
+      "twice a month",
+      "in the morning"
+    ],
+    "usos": [
+      {
+        "uso": "Rutinas y hábitos",
+        "contexto": "diario",
+        "ejemplo": "I {{go}} to the gym three times a week."
+      },
+      {
+        "uso": "Gustos y estados",
+        "contexto": "diario",
+        "ejemplo": "My girlfriend {{love((s))}} Thai food."
+      },
+      {
+        "uso": "Hechos y verdades",
+        "contexto": "diario",
+        "ejemplo": "Bogotá {{sit((s))}} at 2,600 meters above sea level."
+      },
+      {
+        "uso": "Presentarte y explicar tu trabajo",
+        "contexto": "trabajo",
+        "ejemplo": "I {{lead}} a team of six people at an advertising agency."
+      },
+      {
+        "uso": "Lo que hace tu equipo o tu cliente en general",
+        "contexto": "trabajo",
+        "ejemplo": "The client {{approve((s))}} the budget every quarter."
+      },
+      {
+        "uso": "Horarios y procesos fijos",
+        "contexto": "trabajo",
+        "ejemplo": "The status meeting {{start((s))}} at 9 on Mondays."
+      }
+    ],
+    "errores": [
+      {
+        "mal": "My boss go to the office every day.",
+        "bien": "My boss goes to the office every day.",
+        "porque": "He/she/it → verbo + s (go → goes).",
+        "code": "3S"
+      },
+      {
+        "mal": "She don't like the idea.",
+        "bien": "She doesn't like the idea.",
+        "porque": "He/she/it usa does, no do.",
+        "code": "LL"
+      },
+      {
+        "mal": "Does he works here?",
+        "bien": "Does he work here?",
+        "porque": "La -s se fue con la llave does: el verbo queda en base.",
+        "code": "DM"
+      },
+      {
+        "mal": "You like coffee?",
+        "bien": "Do you like coffee?",
+        "porque": "En inglés la pregunta necesita la llave, no basta la entonación.",
+        "code": "LL"
+      },
+      {
+        "mal": "I am agree with you.",
+        "bien": "I agree with you.",
+        "porque": "Agree es verbo, no adjetivo: no lleva be.",
+        "code": "BE"
+      },
+      {
+        "mal": "I have 35 years.",
+        "bien": "I am 35 (years old).",
+        "porque": "La edad se dice con be.",
+        "code": "USO"
+      },
+      {
+        "mal": "I am leading the team always.",
+        "bien": "I always lead the team.",
+        "porque": "Hábito → presente simple; always va antes del verbo.",
+        "code": "TPO"
+      },
+      {
+        "mal": "He has not a car.",
+        "bien": "He doesn't have a car.",
+        "porque": "Have como verbo normal usa la llave do/does.",
+        "code": "LL"
+      }
+    ],
+    "contraste": [
+      {
+        "a": "I {{work}} at an agency.",
+        "b": "I[['m]] {{work((ing))}} on a pitch this week.",
+        "nota": "General vs. temporal (ver el tema de contraste)."
+      }
+    ],
+    "frases": [
+      {
+        "en": "What do you do?",
+        "es": "¿A qué te dedicas?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'm in charge of the account.",
+        "es": "Estoy a cargo de la cuenta.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I lead a team of six people.",
+        "es": "Dirijo un equipo de seis personas.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "We have a status meeting every Monday.",
+        "es": "Tenemos reunión de estado todos los lunes.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I agree. / I don't agree.",
+        "es": "Estoy de acuerdo. / No estoy de acuerdo.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "How often do you travel for work?",
+        "es": "¿Qué tan seguido viajas por trabajo?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I live in Bogotá with my girlfriend.",
+        "es": "Vivo en Bogotá con mi novia.",
+        "contexto": "diario"
+      },
+      {
+        "en": "I usually get up at six.",
+        "es": "Normalmente me levanto a las seis.",
+        "contexto": "diario"
+      },
+      {
+        "en": "I don't eat meat.",
+        "es": "No como carne.",
+        "contexto": "diario"
+      },
+      {
+        "en": "Do you like it here?",
+        "es": "¿Te gusta este lugar?",
+        "contexto": "diario"
+      },
+      {
+        "en": "I'm 35.",
+        "es": "Tengo 35 años.",
+        "contexto": "diario"
+      },
+      {
+        "en": "It depends.",
+        "es": "Depende.",
+        "contexto": "diario"
+      }
+    ],
+    "tip": "Piensa en la -s como una moneda: la frase solo tiene una. En la afirmativa la lleva el verbo (works); si aparece does o doesn't, la moneda pasa a la llave y el verbo se queda sin ella (does work)."
+  },
+  "ejercicios": [
+    {
+      "id": "presente-simple-001",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "3S",
+      "q": "My boss ___ to the office every day.",
+      "opciones": [
+        "go",
+        "goes",
+        "going",
+        "is go"
+      ],
+      "a": 1,
+      "explica": "He/she/it en afirmativa lleva -s; go termina en -o, así que es goes."
+    },
+    {
+      "id": "presente-simple-002",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "LL",
+      "q": "She ___ like the new logo.",
+      "opciones": [
+        "don't",
+        "doesn't",
+        "not",
+        "isn't"
+      ],
+      "a": 1,
+      "explica": "La negativa de he/she/it usa doesn't + verbo base. Like no es adjetivo, así que no va con isn't."
+    },
+    {
+      "id": "presente-simple-003",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "DM",
+      "q": "___ he ___ in Medellín?",
+      "opciones": [
+        "Does / lives",
+        "Does / live",
+        "Do / live",
+        "Is / live"
+      ],
+      "a": 1,
+      "explica": "Does ya lleva la -s de tercera persona: el verbo queda en base (live)."
+    },
+    {
+      "id": "presente-simple-004",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "BE",
+      "q": "I ___ with you on that point.",
+      "opciones": [
+        "am agree",
+        "agree",
+        "am agreeing",
+        "agreed"
+      ],
+      "a": 1,
+      "explica": "Agree es un verbo, no un adjetivo: I agree, sin be."
+    },
+    {
+      "id": "presente-simple-005",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "My daughter ___ seven years old.",
+      "opciones": [
+        "has",
+        "is",
+        "have",
+        "does"
+      ],
+      "a": 1,
+      "explica": "La edad se dice con be: she is seven."
+    },
+    {
+      "id": "presente-simple-006",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "3S",
+      "q": "Camila ___ the social media accounts.",
+      "opciones": [
+        "manage",
+        "manages",
+        "is manage",
+        "managing"
+      ],
+      "a": 1,
+      "explica": "Camila = she → el verbo lleva -s: manages."
+    },
+    {
+      "id": "presente-simple-007",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "3S",
+      "q": "Where ___ your parents live?",
+      "opciones": [
+        "does",
+        "do",
+        "are",
+        "is"
+      ],
+      "a": 1,
+      "explica": "Your parents = they → la llave es do."
+    },
+    {
+      "id": "presente-simple-008",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "3S",
+      "q": "The client ___ a lot of questions in every meeting.",
+      "opciones": [
+        "ask",
+        "asks",
+        "askes",
+        "is ask"
+      ],
+      "a": 1,
+      "explica": "The client = he/she → asks. La terminación -es solo va después de -s, -sh, -ch, -x, -o."
+    },
+    {
+      "id": "presente-simple-009",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Choose the correct position: I ___ late for meetings.",
+      "opciones": [
+        "never am",
+        "am never",
+        "never be",
+        "don't never"
+      ],
+      "a": 1,
+      "explica": "Con be, el adverbio de frecuencia va después del verbo: I am never late."
+    },
+    {
+      "id": "presente-simple-010",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Choose the correct position: We ___ the deck before the meeting.",
+      "opciones": [
+        "review always",
+        "always review",
+        "are always review",
+        "review always do"
+      ],
+      "a": 1,
+      "explica": "Con un verbo normal, el adverbio de frecuencia va antes del verbo: We always review."
+    },
+    {
+      "id": "presente-simple-011",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "3S",
+      "q": "Andrés ___ English every Saturday.",
+      "opciones": [
+        "studys",
+        "studies",
+        "study",
+        "studyes"
+      ],
+      "a": 1,
+      "explica": "Consonante + y → -ies: study → studies."
+    },
+    {
+      "id": "presente-simple-012",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "LL",
+      "q": "___ you have a minute?",
+      "opciones": [
+        "Have",
+        "Are",
+        "Do",
+        "Does"
+      ],
+      "a": 2,
+      "explica": "Have como verbo normal pregunta con la llave do: Do you have…?"
+    },
+    {
+      "id": "presente-simple-013",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "LL",
+      "q": "Sarah ___ in the Bogotá office; she works from New York.",
+      "opciones": [
+        "doesn't work",
+        "don't work",
+        "isn't work",
+        "not works"
+      ],
+      "a": 0,
+      "explica": "He/she/it → doesn't + verbo base."
+    },
+    {
+      "id": "presente-simple-014",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "LL",
+      "q": "___ the account manager available this afternoon?",
+      "opciones": [
+        "Does",
+        "Do",
+        "Is",
+        "Has"
+      ],
+      "a": 2,
+      "explica": "Available es un adjetivo: la frase va con be, y be es su propia llave (Is she available?)."
+    },
+    {
+      "id": "presente-simple-015",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "3S",
+      "q": "Everyone on the team ___ the brand guidelines.",
+      "opciones": [
+        "know",
+        "knows",
+        "are knowing",
+        "knowing"
+      ],
+      "a": 1,
+      "explica": "Everyone va en singular (= he/she), así que el verbo lleva -s: knows."
+    },
+    {
+      "id": "presente-simple-016",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "3S",
+      "q": "Laura ___ (watch) Netflix every night.",
+      "respuestas": [
+        "watches"
+      ],
+      "explica": "Verbos en -ch → -es: watches."
+    },
+    {
+      "id": "presente-simple-017",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "3S",
+      "q": "My brother ___ (have) two kids.",
+      "respuestas": [
+        "has"
+      ],
+      "explica": "Have es irregular en tercera persona: has."
+    },
+    {
+      "id": "presente-simple-018",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "LL",
+      "q": "I ___ (not / eat) meat.",
+      "respuestas": [
+        "don't eat",
+        "do not eat"
+      ],
+      "explica": "Con I la negativa es don't + verbo base."
+    },
+    {
+      "id": "presente-simple-019",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "WW",
+      "q": "We ___ (be) a team of six people.",
+      "respuestas": [
+        "are"
+      ],
+      "explica": "Be con we → are."
+    },
+    {
+      "id": "presente-simple-020",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "3S",
+      "q": "The creative director ___ (finish) work at seven.",
+      "respuestas": [
+        "finishes"
+      ],
+      "explica": "Verbos en -sh → -es: finishes."
+    },
+    {
+      "id": "presente-simple-021",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "3S",
+      "q": "Mike ___ (try) to answer every email the same day.",
+      "respuestas": [
+        "tries"
+      ],
+      "explica": "Consonante + y → -ies: try → tries."
+    },
+    {
+      "id": "presente-simple-022",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "LL",
+      "q": "The client ___ (not / want) a TV campaign this year.",
+      "respuestas": [
+        "doesn't want",
+        "does not want"
+      ],
+      "explica": "He/she/it → doesn't + verbo base; la -s se queda en la llave."
+    },
+    {
+      "id": "presente-simple-023",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "LL",
+      "q": "How often ___ (you / travel) for work?",
+      "respuestas": [
+        "do you travel"
+      ],
+      "explica": "Pregunta Wh- → Wh- + do + sujeto + verbo base."
+    },
+    {
+      "id": "presente-simple-024",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "3S",
+      "q": "Camila ___ (play) tennis on weekends.",
+      "respuestas": [
+        "plays"
+      ],
+      "explica": "Vocal + y → solo -s: plays (no playes ni plaies)."
+    },
+    {
+      "id": "presente-simple-025",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Put the adverb in the right place: She ___ (always / arrive) early.",
+      "respuestas": [
+        "always arrives"
+      ],
+      "explica": "Always va antes del verbo, y she pide -s: always arrives."
+    },
+    {
+      "id": "presente-simple-026",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "LL",
+      "q": "Where ___ (your team / have) lunch?",
+      "respuestas": [
+        "does your team have"
+      ],
+      "explica": "Your team es singular (it) → does; have queda en base."
+    },
+    {
+      "id": "presente-simple-027",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "LL",
+      "q": "The budget ___ (not / include) production costs.",
+      "respuestas": [
+        "doesn't include",
+        "does not include"
+      ],
+      "explica": "The budget = it → doesn't include."
+    },
+    {
+      "id": "presente-simple-028",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "USO",
+      "q": "Put the adverb in the right place: The brief ___ (usually / be) clear.",
+      "respuestas": [
+        "is usually"
+      ],
+      "explica": "Con be, el adverbio va después: is usually clear."
+    },
+    {
+      "id": "presente-simple-029",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "3S",
+      "es": "Mi jefe trabaja desde casa los viernes.",
+      "en": "My boss works from home on Fridays.",
+      "extra": [
+        "work",
+        "is"
+      ],
+      "explica": "My boss = he/she → works."
+    },
+    {
+      "id": "presente-simple-030",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "LL",
+      "es": "¿Te gusta el café?",
+      "en": "Do you like coffee?",
+      "extra": [
+        "Are",
+        "likes"
+      ],
+      "explica": "La pregunta necesita la llave do delante del sujeto."
+    },
+    {
+      "id": "presente-simple-031",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "USO",
+      "es": "Siempre llego tarde.",
+      "en": "I am always late.",
+      "extra": [
+        "never",
+        "arrive"
+      ],
+      "explica": "Con be, always va después del verbo: I am always late."
+    },
+    {
+      "id": "presente-simple-032",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "LL",
+      "es": "Ella no vive en Bogotá.",
+      "en": "She doesn't live in Bogotá.",
+      "extra": [
+        "don't",
+        "lives"
+      ],
+      "explica": "She → doesn't + verbo base (live)."
+    },
+    {
+      "id": "presente-simple-033",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "LL",
+      "es": "¿A qué hora empieza la reunión?",
+      "en": "What time does the meeting start?",
+      "extra": [
+        "starts",
+        "do"
+      ],
+      "explica": "The meeting = it → does; el verbo queda en base: start."
+    },
+    {
+      "id": "presente-simple-034",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "USO",
+      "es": "Normalmente revisamos el deck antes de la reunión.",
+      "en": "We usually review the deck before the meeting.",
+      "extra": [
+        "reviews",
+        "are"
+      ],
+      "explica": "Usually va antes del verbo; we no lleva -s."
+    },
+    {
+      "id": "presente-simple-035",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "LL",
+      "es": "¿Tiene tu equipo reunión los lunes?",
+      "en": "Does your team have a meeting on Mondays?",
+      "extra": [
+        "Has",
+        "has"
+      ],
+      "explica": "Have como verbo normal pregunta con does; have queda en base."
+    },
+    {
+      "id": "presente-simple-036",
+      "tipo": "ordenar",
+      "nivel": 3,
+      "code": "LL",
+      "es": "¿Qué tan seguido va el cliente a la agencia?",
+      "en": "How often does the client come to the agency?",
+      "extra": [
+        "comes",
+        "do"
+      ],
+      "explica": "How often + does + sujeto + verbo base."
+    },
+    {
+      "id": "presente-simple-037",
+      "tipo": "ordenar",
+      "nivel": 3,
+      "code": "BE",
+      "es": "No estoy de acuerdo con la propuesta.",
+      "en": "I don't agree with the proposal.",
+      "extra": [
+        "am",
+        "not"
+      ],
+      "explica": "Agree es verbo: la negativa va con don't, no con am not."
+    },
+    {
+      "id": "presente-simple-038",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "3S",
+      "frase": "My boss go to the office every day.",
+      "correcta": false,
+      "correccion": [
+        "My boss goes to the office every day."
+      ],
+      "explica": "He/she/it → goes."
+    },
+    {
+      "id": "presente-simple-039",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "LL",
+      "frase": "You like the new campaign?",
+      "correcta": false,
+      "correccion": [
+        "Do you like the new campaign?"
+      ],
+      "explica": "La pregunta necesita la llave do delante del sujeto."
+    },
+    {
+      "id": "presente-simple-040",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "BE",
+      "frase": "I am agree with the client.",
+      "correcta": false,
+      "correccion": [
+        "I agree with the client."
+      ],
+      "explica": "Agree es verbo: sin be."
+    },
+    {
+      "id": "presente-simple-041",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "DM",
+      "frase": "Does she works on weekends?",
+      "correcta": false,
+      "correccion": [
+        "Does she work on weekends?"
+      ],
+      "explica": "Does ya lleva la -s: el verbo queda en base."
+    },
+    {
+      "id": "presente-simple-042",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "She doesn't usually work on Fridays.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Correcta: el adverbio va después de la llave y antes del verbo (doesn't usually work)."
+    },
+    {
+      "id": "presente-simple-043",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "I have 35 years.",
+      "correcta": false,
+      "correccion": [
+        "I am 35.",
+        "I am 35 years old.",
+        "I'm 35.",
+        "I'm 35 years old."
+      ],
+      "explica": "La edad se dice con be."
+    },
+    {
+      "id": "presente-simple-044",
+      "tipo": "corregir",
+      "nivel": 3,
+      "code": "LL",
+      "frase": "The client has not a big budget this year.",
+      "correcta": false,
+      "correccion": [
+        "The client doesn't have a big budget this year.",
+        "The client does not have a big budget this year."
+      ],
+      "explica": "Have como verbo normal se niega con doesn't have."
+    },
+    {
+      "id": "presente-simple-045",
+      "tipo": "corregir",
+      "nivel": 3,
+      "code": "TPO",
+      "frase": "I am leading the creative team always.",
+      "correcta": false,
+      "correccion": [
+        "I always lead the creative team."
+      ],
+      "explica": "Un hábito permanente va en presente simple y always va antes del verbo."
+    },
+    {
+      "id": "presente-simple-046",
+      "tipo": "transformar",
+      "nivel": 1,
+      "code": "LL",
+      "frase": "She works in Medellín.",
+      "instruccion": "Pásala a negativa",
+      "respuestas": [
+        "She doesn't work in Medellín.",
+        "She does not work in Medellín."
+      ],
+      "explica": "La -s pasa a la llave: doesn't work."
+    },
+    {
+      "id": "presente-simple-047",
+      "tipo": "transformar",
+      "nivel": 1,
+      "code": "LL",
+      "frase": "They have a meeting every Monday.",
+      "instruccion": "Pásala a pregunta",
+      "respuestas": [
+        "Do they have a meeting every Monday?"
+      ],
+      "explica": "They → Do + sujeto + verbo base."
+    },
+    {
+      "id": "presente-simple-048",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "DM",
+      "frase": "Andrés speaks three languages.",
+      "instruccion": "Pásala a pregunta",
+      "respuestas": [
+        "Does Andrés speak three languages?"
+      ],
+      "explica": "Does se lleva la -s; speak queda en base."
+    },
+    {
+      "id": "presente-simple-049",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "3S",
+      "frase": "I check my email at 8 am.",
+      "instruccion": "Cámbiala a he (My boss…)",
+      "respuestas": [
+        "My boss checks his email at 8 am.",
+        "My boss checks his email at 8 a.m.",
+        "My boss checks the email at 8 am.",
+        "My boss checks my email at 8 am."
+      ],
+      "explica": "Al pasar a he, el verbo toma -s: checks."
+    },
+    {
+      "id": "presente-simple-050",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "WW",
+      "frase": "I am in charge of the account.",
+      "instruccion": "Pásala a pregunta con you",
+      "respuestas": [
+        "Are you in charge of the account?"
+      ],
+      "explica": "Be es su propia llave: Are you…? (sin do)."
+    },
+    {
+      "id": "presente-simple-051",
+      "tipo": "transformar",
+      "nivel": 3,
+      "code": "LL",
+      "frase": "The agency opens at 8:30.",
+      "instruccion": "Pregunta por la hora (What time…?)",
+      "respuestas": [
+        "What time does the agency open?"
+      ],
+      "explica": "Wh- + does + sujeto + verbo base: open sin -s."
+    },
+    {
+      "id": "presente-simple-052",
+      "tipo": "traducir",
+      "nivel": 1,
+      "code": "USO",
+      "es": "Tengo 35 años.",
+      "respuestas": [
+        "I am 35.",
+        "I am 35 years old.",
+        "I am thirty-five.",
+        "I am thirty-five years old."
+      ],
+      "explica": "La edad se dice con be, no con have."
+    },
+    {
+      "id": "presente-simple-053",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "3S",
+      "es": "Mi novia no come carne.",
+      "respuestas": [
+        "My girlfriend doesn't eat meat.",
+        "My girlfriend does not eat meat."
+      ],
+      "explica": "She → doesn't + verbo base."
+    },
+    {
+      "id": "presente-simple-054",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "LL",
+      "es": "¿A qué te dedicas?",
+      "respuestas": [
+        "What do you do?",
+        "What do you do for a living?"
+      ],
+      "explica": "La frase hecha es What do you do?: el primer do es la llave y el segundo, el verbo."
+    },
+    {
+      "id": "presente-simple-055",
+      "tipo": "traducir",
+      "nivel": 3,
+      "code": "3S",
+      "es": "El cliente aprueba el presupuesto cada trimestre.",
+      "respuestas": [
+        "The client approves the budget every quarter.",
+        "The client approves the budget each quarter."
+      ],
+      "explica": "The client = he/she → approves."
+    },
+    {
+      "id": "presente-simple-056",
+      "tipo": "identificar",
+      "nivel": 1,
+      "code": "LL",
+      "frase": "Does your team work on Saturdays?",
+      "opciones": [
+        "Presente simple: pregunta",
+        "Presente simple: afirmativa",
+        "Presente continuo: pregunta"
+      ],
+      "a": 0,
+      "explica": "La llave does delante del sujeto marca la pregunta del presente simple."
+    },
+    {
+      "id": "presente-simple-057",
+      "tipo": "escuchar",
+      "nivel": 2,
+      "code": "3S",
+      "texto": "She usually finishes work at seven.",
+      "respuestas": [
+        "She usually finishes work at seven.",
+        "She usually finishes work at 7."
+      ],
+      "explica": "Escucha la -es de finishes: es la marca de tercera persona."
+    },
+    {
+      "id": "presente-simple-058",
+      "tipo": "hablar",
+      "nivel": 1,
+      "code": "3S",
+      "consigna": "Preséntate en cuatro frases: dónde vives, a qué te dedicas, qué haces en tu trabajo y una rutina tuya.",
+      "objetivo": "Presente simple con I; be para presentarte (I'm…)",
+      "ejemplo": "I live in Bogotá. I'm a director at an advertising agency. I lead a team of six people and I talk to clients every day. I usually go to the gym in the morning.",
+      "explica": "Para presentarte usas be (I'm a director) y presente simple para lo que haces en general (I lead, I live)."
+    },
+    {
+      "id": "presente-simple-059",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "3S",
+      "consigna": "Describe la rutina de una persona de tu equipo o de tu familia (he/she): tres cosas que hace y una que no hace.",
+      "objetivo": "-s de tercera persona y doesn't",
+      "ejemplo": "Camila manages our social media accounts. She checks the comments every morning and writes the weekly report. She doesn't work on Fridays.",
+      "explica": "He/she → cada verbo lleva -s (manages, checks, writes) y la negativa es doesn't + verbo base."
+    },
+    {
+      "id": "presente-simple-060",
+      "tipo": "hablar",
+      "nivel": 3,
+      "code": "LL",
+      "consigna": "Imagina que conoces a un colega nuevo. Hazle cuatro preguntas sobre su trabajo y su rutina.",
+      "objetivo": "Preguntas con do/does y con be",
+      "ejemplo": "What do you do? Where do you live? How often do you travel for work? Are you in charge of the new account?",
+      "explica": "Toda pregunta lleva la llave delante del sujeto: do/does con verbos normales, am/is/are cuando el verbo es be."
+    }
+  ]
+}

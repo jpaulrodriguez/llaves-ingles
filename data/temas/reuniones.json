@@ -1,0 +1,1013 @@
+{
+  "id": "reuniones",
+  "titulo": "Reuniones: opinar, acordar y comprometerse",
+  "grupo": "Inglés para el trabajo",
+  "orden": 210,
+  "nivel": "A2–B1",
+  "resumen": "Abrir y cerrar una reunión, dar tu opinión, estar de acuerdo o en desacuerdo con cortesía, interrumpir, pedir aclaración, proponer y comprometerte con fechas.",
+  "llave": "I think · I agree · I'll",
+  "teoria": {
+    "paraQue": "Para participar en una reunión en lugar de quedarte callado: decir lo que piensas, mostrar acuerdo o desacuerdo sin sonar brusco, interrumpir con cortesía, pedir que te aclaren algo, proponer una alternativa y comprometerte con una fecha.",
+    "llave": "Tres llaves. *I think* abre la opinión. *I agree* es un verbo, no un adjetivo: se dice *I agree* (nunca *I am agree*) y se niega con *don't* (*I don't agree*). *I'll* + verbo base es la promesa que haces en el momento: *I'll send it by Friday* (nunca *I will to send* ni *I send it tomorrow*).",
+    "formulas": [
+      {
+        "tipo": "Opinar",
+        "formula": "I think (that)… / In my opinion… / From my point of view…",
+        "ejemplo": "I {{think}} we should {{test}} the idea first."
+      },
+      {
+        "tipo": "Acuerdo",
+        "formula": "I agree (with you). / That's a good point. / Exactly.",
+        "ejemplo": "I {{agree}} with Laura. That[['s]] a good point."
+      },
+      {
+        "tipo": "Desacuerdo suave",
+        "formula": "I see your point, but… / I'm not sure about that. / I understand, but…",
+        "ejemplo": "I {{see}} your point, but I {{think}} the budget is too tight."
+      },
+      {
+        "tipo": "Interrumpir",
+        "formula": "Sorry to interrupt, but… / Can I just add something?",
+        "ejemplo": "Sorry to {{interrupt}}, but the deadline changed yesterday."
+      },
+      {
+        "tipo": "Pedir aclaración",
+        "formula": "What do you mean by…? / Could you clarify…?",
+        "ejemplo": "What [[do]] you {{mean}} by «scope»?"
+      },
+      {
+        "tipo": "Proponer",
+        "formula": "Why don't we…? / How about + -ing? / We could…",
+        "ejemplo": "Why [[don't]] we {{ask}} the client for feedback first?"
+      },
+      {
+        "tipo": "Comprometerse",
+        "formula": "I'll + verbo + by + fecha",
+        "ejemplo": "I[['ll]] {{send}} you the report by Friday."
+      },
+      {
+        "tipo": "Abrir y cerrar",
+        "formula": "Let's get started. / To sum up… / Next steps: …",
+        "ejemplo": "OK, to {{sum}} up: Laura [[will]] {{send}} the brief and I[['ll]] {{call}} the client."
+      }
+    ],
+    "reglas": [
+      "*Agree* es verbo: *I agree* / *I don't agree* / *Do you agree?* Nunca *I am agree* ni *I'm not agree*.",
+      "Para no estar de acuerdo, primero reconoce (*I see your point*) y después contrasta (*but…*). *You're wrong* cierra la conversación.",
+      "*I'll* es la promesa que haces en el momento: *I'll call him*. El presente (*I call him tomorrow*) no sirve para comprometerse.",
+      "Después de *will*, *could*, *should* y *let's* va el verbo base, sin *to*: *I'll send*, *Let's start*.",
+      "La fecha límite va con *by*: *by Friday* = a más tardar el viernes. *Until Friday* significa «hasta el viernes (todo el tiempo)», y *for Friday* es un calco.",
+      "Para preguntar qué significa algo: *What does X mean?* / *What do you mean by X?* (nunca *What means X?*).",
+      "*Why don't we…?* lleva la llave *don't* antes de *we*: *Why don't we wait?* (no *Why we don't wait?*)."
+    ],
+    "senales": [
+      "I think",
+      "I agree",
+      "I see your point, but",
+      "Sorry to interrupt",
+      "What do you mean by",
+      "Why don't we",
+      "I'll … by Friday",
+      "To sum up",
+      "next steps"
+    ],
+    "usos": [
+      {
+        "uso": "Opinar sobre un plan con amigos",
+        "contexto": "diario",
+        "ejemplo": "I {{think}} we should {{go}} to the coast in December."
+      },
+      {
+        "uso": "Ofrecerte en casa",
+        "contexto": "diario",
+        "ejemplo": "Don't worry, I[['ll]] {{pick}} up the kids."
+      },
+      {
+        "uso": "No estar de acuerdo con tu pareja sin pelear",
+        "contexto": "diario",
+        "ejemplo": "I {{see}} your point, but that hotel is too expensive."
+      },
+      {
+        "uso": "Dar tu opinión sobre una pieza creativa",
+        "contexto": "trabajo",
+        "ejemplo": "I {{think}} the headline is too long for Instagram."
+      },
+      {
+        "uso": "No estar de acuerdo con el cliente",
+        "contexto": "trabajo",
+        "ejemplo": "I {{see}} your point, but we should {{test}} it with a small budget first."
+      },
+      {
+        "uso": "Comprometerte con una fecha",
+        "contexto": "trabajo",
+        "ejemplo": "I[['ll]] {{have}} the first draft ready by Wednesday."
+      },
+      {
+        "uso": "Cerrar con próximos pasos",
+        "contexto": "trabajo",
+        "ejemplo": "To {{sum}} up: Andrés [[will]] {{share}} the media plan by Friday."
+      }
+    ],
+    "errores": [
+      {
+        "mal": "I am agree with you.",
+        "bien": "I agree with you.",
+        "porque": "Agree es verbo: no lleva am.",
+        "code": "BE"
+      },
+      {
+        "mal": "I'm not agree with the deadline.",
+        "bien": "I don't agree with the deadline.",
+        "porque": "Como es verbo, se niega con don't.",
+        "code": "BE"
+      },
+      {
+        "mal": "I will to send the report tomorrow.",
+        "bien": "I'll send the report tomorrow.",
+        "porque": "Después de will va el verbo base, sin to.",
+        "code": "MOD"
+      },
+      {
+        "mal": "OK, I send you the deck tonight.",
+        "bien": "OK, I'll send you the deck tonight.",
+        "porque": "El compromiso que acabas de tomar va con I'll, no en presente.",
+        "code": "FUT"
+      },
+      {
+        "mal": "I'll have it ready until Friday.",
+        "bien": "I'll have it ready by Friday.",
+        "porque": "La fecha límite es by. Until es «hasta» de duración.",
+        "code": "USO"
+      },
+      {
+        "mal": "What means «scope»?",
+        "bien": "What does «scope» mean?",
+        "porque": "Mean es un verbo normal: necesita la llave does en la pregunta.",
+        "code": "LL"
+      },
+      {
+        "mal": "Let's to start with the media plan.",
+        "bien": "Let's start with the media plan.",
+        "porque": "Let's + verbo base, sin to.",
+        "code": "USO"
+      },
+      {
+        "mal": "Why we don't test it first?",
+        "bien": "Why don't we test it first?",
+        "porque": "En la pregunta, don't va antes del sujeto.",
+        "code": "LL"
+      }
+    ],
+    "contraste": [
+      {
+        "a": "I[['ll]] {{send}} it this afternoon.",
+        "b": "I[['m]] {{send((ing))}} it this afternoon.",
+        "nota": "I'll = lo decides y prometes ahora. I'm sending = ya estaba planeado. En reunión, para comprometerte, usa I'll."
+      },
+      {
+        "a": "I [[don't]] {{agree}}.",
+        "b": "I {{see}} your point, but…",
+        "nota": "Las dos son correctas; la segunda es la que se usa con clientes."
+      }
+    ],
+    "frases": [
+      {
+        "en": "OK, let's get started.",
+        "es": "Bueno, empecemos.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "The goal of this meeting is to approve the media plan.",
+        "es": "El objetivo de esta reunión es aprobar el plan de medios.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I think we should test it first.",
+        "es": "Creo que deberíamos probarlo primero.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "In my opinion, the video is too long.",
+        "es": "En mi opinión, el video es demasiado largo.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "What do you think?",
+        "es": "¿Qué opinas?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I agree with you.",
+        "es": "Estoy de acuerdo contigo.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "That's a good point.",
+        "es": "Buen punto.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Exactly.",
+        "es": "Exacto.",
+        "contexto": "diario"
+      },
+      {
+        "en": "I see your point, but we need more time.",
+        "es": "Entiendo tu punto, pero necesitamos más tiempo.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'm not sure about that.",
+        "es": "No estoy seguro de eso.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I understand, but the budget is very tight.",
+        "es": "Entiendo, pero el presupuesto está muy ajustado.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Sorry to interrupt, but I have a question.",
+        "es": "Perdón por interrumpir, pero tengo una pregunta.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Can I just add something?",
+        "es": "¿Puedo agregar algo?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "What do you mean by «always-on»?",
+        "es": "¿Qué quieres decir con «always-on»?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Could you clarify the deadline?",
+        "es": "¿Podrías aclarar la fecha de entrega?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Why don't we ask the client first?",
+        "es": "¿Por qué no le preguntamos al cliente primero?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "How about launching a teaser first?",
+        "es": "¿Qué tal si lanzamos un teaser primero?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "We could start with a small budget.",
+        "es": "Podríamos empezar con un presupuesto pequeño.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'll send you the report by Friday.",
+        "es": "Te envío el informe para el viernes.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'll have the first draft ready by Wednesday.",
+        "es": "Tendré el primer borrador listo para el miércoles.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'll take care of it.",
+        "es": "Yo me encargo.",
+        "contexto": "diario"
+      },
+      {
+        "en": "Don't worry, I'll call him.",
+        "es": "Tranquilo, yo lo llamo.",
+        "contexto": "diario"
+      },
+      {
+        "en": "So, to sum up…",
+        "es": "Entonces, para resumir…",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Before we wrap up, let's go over the next steps.",
+        "es": "Antes de cerrar, repasemos los próximos pasos.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Thanks, everyone. Talk soon.",
+        "es": "Gracias a todos. Hablamos pronto.",
+        "contexto": "trabajo"
+      }
+    ],
+    "tip": "Para no estar de acuerdo usa la fórmula del sándwich: reconoce (I see your point), contrasta (but…) y propón (Why don't we…?). Tres piezas, siempre en ese orden."
+  },
+  "ejercicios": [
+    {
+      "id": "reuniones-001",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Quieres dar tu opinión sobre el guion del comercial:",
+      "opciones": [
+        "I think we should shorten the script.",
+        "I am think we should shorten the script.",
+        "For me, I am agree to shorten the script."
+      ],
+      "a": 0,
+      "explica": "La opinión abre con I think + frase. Think es verbo normal: sin am."
+    },
+    {
+      "id": "reuniones-002",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "BE",
+      "q": "El cliente propone lanzar en noviembre y tú estás de acuerdo:",
+      "opciones": [
+        "I agree.",
+        "I am agree.",
+        "I'm agree with that."
+      ],
+      "a": 0,
+      "explica": "Agree es un verbo: I agree, sin am."
+    },
+    {
+      "id": "reuniones-003",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "FUT",
+      "q": "Te comprometes a enviar el informe:",
+      "opciones": [
+        "I'll send you the report by Friday.",
+        "I send you the report by Friday.",
+        "I will to send you the report by Friday."
+      ],
+      "a": 0,
+      "explica": "El compromiso va con I'll + verbo base. Ni presente simple ni will + to."
+    },
+    {
+      "id": "reuniones-004",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "No estás de acuerdo con el director de arte y quieres decirlo con cortesía:",
+      "opciones": [
+        "I see your point, but I think the headline is too long.",
+        "No, you are wrong, the headline is too long.",
+        "I am not agree, the headline is too long."
+      ],
+      "a": 0,
+      "explica": "Primero reconoces (I see your point), después contrastas (but…). You're wrong es brusco y I am not agree es un calco."
+    },
+    {
+      "id": "reuniones-005",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Necesitas interrumpir para agregar un dato importante:",
+      "opciones": [
+        "Sorry to interrupt, but the budget changed yesterday.",
+        "Wait, wait, the budget changed yesterday.",
+        "Sorry for interrupt, but the budget changed yesterday."
+      ],
+      "a": 0,
+      "explica": "La fórmula es Sorry to interrupt, but… Sorry for + verbo base no existe, y Wait, wait es brusco."
+    },
+    {
+      "id": "reuniones-006",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "LL",
+      "q": "No entiendes a qué se refiere el cliente con «scope»:",
+      "opciones": [
+        "What do you mean by «scope»?",
+        "What means «scope»?",
+        "What you mean with «scope»?"
+      ],
+      "a": 0,
+      "explica": "Mean es verbo normal: la pregunta lleva do y la preposición es by."
+    },
+    {
+      "id": "reuniones-007",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "LL",
+      "q": "Quieres proponer probar la idea antes de lanzarla:",
+      "opciones": [
+        "Why don't we test it first?",
+        "Why we don't test it first?",
+        "Why not we test it first?"
+      ],
+      "a": 0,
+      "explica": "En la propuesta Why don't we…?, la llave don't va antes de we."
+    },
+    {
+      "id": "reuniones-008",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Ya llegaron todos y abres la reunión:",
+      "opciones": [
+        "OK, let's get started.",
+        "OK, let's to start.",
+        "OK, we start."
+      ],
+      "a": 0,
+      "explica": "Let's + verbo base, sin to. Let's get started es la frase fija para arrancar."
+    },
+    {
+      "id": "reuniones-009",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "No te quedó clara la fecha de entrega. Pides aclaración:",
+      "opciones": [
+        "Sorry, could you clarify the deadline?",
+        "Sorry, can you clarify me the deadline?",
+        "Sorry, explain me the deadline."
+      ],
+      "a": 0,
+      "explica": "Could you clarify + cosa. Clarify y explain no llevan me pegado: explain it to me."
+    },
+    {
+      "id": "reuniones-010",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Vas a resumir al final de la reunión:",
+      "opciones": [
+        "So, to sum up: Laura will send the brief and I'll call the client.",
+        "So, for resume: Laura sends the brief and I call the client.",
+        "So, in resume: Laura will send the brief and I call the client."
+      ],
+      "a": 0,
+      "explica": "«Para resumir» es to sum up (resume significa reanudar). Los compromisos van con will / I'll."
+    },
+    {
+      "id": "reuniones-011",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "USO",
+      "q": "El cliente dice algo que no te convence del todo y quieres frenar sin chocar:",
+      "opciones": [
+        "I'm not sure about that. Can we look at the numbers first?",
+        "That's not true. We look at the numbers first.",
+        "I don't think so, no. Look at the numbers."
+      ],
+      "a": 0,
+      "explica": "I'm not sure about that suaviza el desacuerdo y la pregunta propone un camino. Las otras dos son secas o imperativas."
+    },
+    {
+      "id": "reuniones-012",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Alguien del equipo acaba de dar un buen argumento:",
+      "opciones": [
+        "That's a good point.",
+        "That's a good punctual.",
+        "You have reason."
+      ],
+      "a": 0,
+      "explica": "«Buen punto» es That's a good point. «Tienes razón» es You're right, no you have reason."
+    },
+    {
+      "id": "reuniones-013",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "FUT",
+      "q": "Tu jefe pregunta «Who can talk to the client today?». Te ofreces:",
+      "opciones": [
+        "I'll do it.",
+        "I do it.",
+        "I will to do it."
+      ],
+      "a": 0,
+      "explica": "Ofrecerte en el momento es I'll + verbo base. El presente no sirve para ofrecerse y will no lleva to."
+    },
+    {
+      "id": "reuniones-014",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "LL",
+      "q": "Quieres saber la opinión del equipo:",
+      "opciones": [
+        "What do you think?",
+        "What you think?",
+        "How do you think?"
+      ],
+      "a": 0,
+      "explica": "Think es verbo normal → What do you think? How do you think? pregunta por el método, no por la opinión."
+    },
+    {
+      "id": "reuniones-015",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "USO",
+      "q": "Quedan cinco minutos y quieres cerrar confirmando los próximos pasos:",
+      "opciones": [
+        "Before we wrap up, let's go over the next steps.",
+        "Before we finish up, let's to review the next steps.",
+        "Before to finish, let's see the next steps."
+      ],
+      "a": 0,
+      "explica": "Before + sujeto + verbo (before we wrap up) y let's + verbo base. Before to finish es un calco."
+    },
+    {
+      "id": "reuniones-016",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Te piden una fecha para el primer borrador:",
+      "opciones": [
+        "I'll have the first draft ready by Wednesday.",
+        "I have the first draft ready for Wednesday.",
+        "I'll have the first draft ready until Wednesday."
+      ],
+      "a": 0,
+      "explica": "La fecha límite es by Wednesday. Until es «hasta» de duración, y for es un calco de «para»."
+    },
+    {
+      "id": "reuniones-017",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "BE",
+      "q": "I ___ with Laura: the video is too long.",
+      "respuestas": [
+        "agree"
+      ],
+      "explica": "Agree es verbo y va solo: I agree with…"
+    },
+    {
+      "id": "reuniones-018",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "FUT",
+      "q": "Don't worry, I ___ call the client this afternoon.",
+      "respuestas": [
+        "will",
+        "'ll"
+      ],
+      "explica": "La promesa en el momento va con will / 'll."
+    },
+    {
+      "id": "reuniones-019",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "I see your ___, but I think we need more time.",
+      "respuestas": [
+        "point"
+      ],
+      "explica": "I see your point = entiendo tu punto. Es la entrada suave al desacuerdo."
+    },
+    {
+      "id": "reuniones-020",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Sorry to ___, but we only have ten minutes left.",
+      "respuestas": [
+        "interrupt"
+      ],
+      "explica": "Sorry to interrupt, but… Verbo base después de to."
+    },
+    {
+      "id": "reuniones-021",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "LL",
+      "q": "What do you ___ by «engagement»?",
+      "respuestas": [
+        "mean"
+      ],
+      "explica": "What do you mean by…? es la pregunta para pedir que te aclaren un término."
+    },
+    {
+      "id": "reuniones-022",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "LL",
+      "q": "Why ___ we ask the client for feedback first?",
+      "respuestas": [
+        "don't"
+      ],
+      "explica": "Why don't we…? es la propuesta en forma de pregunta; don't va antes de we."
+    },
+    {
+      "id": "reuniones-023",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "USO",
+      "q": "To ___ up: we launch on Monday and Andrés sends the report on Friday.",
+      "respuestas": [
+        "sum",
+        "wrap"
+      ],
+      "explica": "To sum up (o to wrap up) abre el resumen final."
+    },
+    {
+      "id": "reuniones-024",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "USO",
+      "q": "I'll send you the final numbers ___ Friday. (a más tardar el viernes)",
+      "respuestas": [
+        "by"
+      ],
+      "explica": "La fecha límite es by. Until sería «hasta el viernes» como duración."
+    },
+    {
+      "id": "reuniones-025",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "USO",
+      "es": "Creo que es una buena idea.",
+      "en": "I think it's a good idea.",
+      "extra": [
+        "am",
+        "are"
+      ],
+      "explica": "I think + frase. Think no lleva am."
+    },
+    {
+      "id": "reuniones-026",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "BE",
+      "es": "Estoy de acuerdo contigo.",
+      "en": "I agree with you.",
+      "extra": [
+        "am",
+        "to"
+      ],
+      "explica": "I agree with you: sin am y con with."
+    },
+    {
+      "id": "reuniones-027",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "FUT",
+      "es": "Te envío la propuesta el viernes. (compromiso)",
+      "en": "I'll send you the proposal on Friday.",
+      "extra": [
+        "sending",
+        "to"
+      ],
+      "explica": "I'll + send (base). El presente I send no sirve para comprometerse."
+    },
+    {
+      "id": "reuniones-028",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "USO",
+      "es": "Entiendo tu punto, pero necesitamos más tiempo.",
+      "en": "I see your point, but we need more time.",
+      "extra": [
+        "am",
+        "needs"
+      ],
+      "explica": "I see your point, but… We → need sin -s."
+    },
+    {
+      "id": "reuniones-029",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "LL",
+      "es": "¿Qué quieres decir con «alcance» (scope)?",
+      "en": "What do you mean by scope?",
+      "extra": [
+        "means",
+        "with"
+      ],
+      "explica": "La pregunta lleva la llave do, el verbo en base (mean) y la preposición by."
+    },
+    {
+      "id": "reuniones-030",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "LL",
+      "es": "¿Por qué no lo probamos primero?",
+      "en": "Why don't we test it first?",
+      "extra": [
+        "not",
+        "do"
+      ],
+      "explica": "Why don't we + verbo base. Don't va antes de we."
+    },
+    {
+      "id": "reuniones-031",
+      "tipo": "ordenar",
+      "nivel": 3,
+      "code": "USO",
+      "es": "Perdón por interrumpir, pero tengo una pregunta.",
+      "en": "Sorry to interrupt, but I have a question.",
+      "extra": [
+        "for",
+        "make"
+      ],
+      "explica": "Sorry to interrupt (no for interrupt) y have a question (no make)."
+    },
+    {
+      "id": "reuniones-032",
+      "tipo": "ordenar",
+      "nivel": 3,
+      "code": "USO",
+      "es": "Tendré el primer borrador listo para el miércoles.",
+      "en": "I'll have the first draft ready by Wednesday.",
+      "extra": [
+        "until",
+        "will"
+      ],
+      "explica": "I'll have … ready by + día. Until es una trampa del español «hasta»."
+    },
+    {
+      "id": "reuniones-033",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "BE",
+      "frase": "I am agree with you.",
+      "correcta": false,
+      "correccion": [
+        "I agree with you."
+      ],
+      "explica": "Agree es verbo: no lleva am."
+    },
+    {
+      "id": "reuniones-034",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "MOD",
+      "frase": "I will to send the report tomorrow.",
+      "correcta": false,
+      "correccion": [
+        "I will send the report tomorrow.",
+        "I'll send the report tomorrow."
+      ],
+      "explica": "Después de will va el verbo base, sin to."
+    },
+    {
+      "id": "reuniones-035",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "Explain me the idea again, please.",
+      "correcta": false,
+      "correccion": [
+        "Explain the idea to me again, please.",
+        "Could you explain the idea to me again, please?",
+        "Could you explain the idea again, please?",
+        "Explain it to me again, please.",
+        "Can you explain the idea to me again, please?"
+      ],
+      "explica": "Explain lleva primero la cosa y después to me: explain the idea to me."
+    },
+    {
+      "id": "reuniones-036",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "BE",
+      "frase": "I'm not agree with the new deadline.",
+      "correcta": false,
+      "correccion": [
+        "I don't agree with the new deadline.",
+        "I disagree with the new deadline."
+      ],
+      "explica": "Como agree es verbo, se niega con don't: I don't agree."
+    },
+    {
+      "id": "reuniones-037",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "LL",
+      "frase": "What means «KPI»?",
+      "correcta": false,
+      "correccion": [
+        "What does «KPI» mean?",
+        "What does KPI mean?"
+      ],
+      "explica": "Mean es verbo normal: la pregunta necesita does y el verbo en base."
+    },
+    {
+      "id": "reuniones-038",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "Let's to start with the media plan.",
+      "correcta": false,
+      "correccion": [
+        "Let's start with the media plan."
+      ],
+      "explica": "Let's + verbo base, sin to."
+    },
+    {
+      "id": "reuniones-039",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "I see your point, but I think we should wait.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Correcta: reconoce, contrasta con but y opina con I think."
+    },
+    {
+      "id": "reuniones-040",
+      "tipo": "corregir",
+      "nivel": 3,
+      "code": "FUT",
+      "frase": "OK, I send you the deck tonight. (compromiso que acabas de tomar)",
+      "correcta": false,
+      "correccion": [
+        "OK, I'll send you the deck tonight.",
+        "OK, I will send you the deck tonight."
+      ],
+      "explica": "El compromiso que decides en el momento va con I'll, no en presente simple."
+    },
+    {
+      "id": "reuniones-041",
+      "tipo": "traducir",
+      "nivel": 1,
+      "code": "BE",
+      "es": "Estoy de acuerdo.",
+      "respuestas": [
+        "I agree.",
+        "I agree with you."
+      ],
+      "explica": "I agree, sin am."
+    },
+    {
+      "id": "reuniones-042",
+      "tipo": "traducir",
+      "nivel": 1,
+      "code": "USO",
+      "es": "Creo que deberíamos esperar.",
+      "respuestas": [
+        "I think we should wait.",
+        "I think that we should wait."
+      ],
+      "explica": "I think (that) + sujeto + should + verbo base."
+    },
+    {
+      "id": "reuniones-043",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "FUT",
+      "es": "Te llamo mañana. (compromiso)",
+      "respuestas": [
+        "I'll call you tomorrow.",
+        "I will call you tomorrow."
+      ],
+      "explica": "En español lo decimos en presente, pero en inglés el compromiso va con I'll."
+    },
+    {
+      "id": "reuniones-044",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "USO",
+      "es": "No estoy seguro de eso.",
+      "respuestas": [
+        "I'm not sure about that.",
+        "I am not sure about that.",
+        "I'm not sure about it.",
+        "I am not sure about it."
+      ],
+      "explica": "I'm not sure about that: la forma suave de dudar en una reunión."
+    },
+    {
+      "id": "reuniones-045",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "LL",
+      "es": "¿Qué opinas?",
+      "respuestas": [
+        "What do you think?",
+        "What do you think about it?",
+        "What do you think about that?",
+        "What's your opinion?",
+        "What is your opinion?"
+      ],
+      "explica": "What do you think? con la llave do."
+    },
+    {
+      "id": "reuniones-046",
+      "tipo": "traducir",
+      "nivel": 3,
+      "code": "USO",
+      "es": "Entiendo tu punto, pero el presupuesto está muy ajustado.",
+      "respuestas": [
+        "I see your point, but the budget is very tight.",
+        "I see your point, but the budget is too tight.",
+        "I understand your point, but the budget is very tight.",
+        "I understand your point, but the budget is too tight.",
+        "I see your point, but the budget is really tight.",
+        "I understand your point, but the budget is really tight."
+      ],
+      "explica": "I see your point, but… + el argumento. «Ajustado» para presupuesto es tight."
+    },
+    {
+      "id": "reuniones-047",
+      "tipo": "traducir",
+      "nivel": 3,
+      "code": "USO",
+      "es": "Para resumir: lanzamos el lunes.",
+      "respuestas": [
+        "To sum up: we launch on Monday.",
+        "To sum up, we launch on Monday.",
+        "To sum up: we're launching on Monday.",
+        "To sum up, we're launching on Monday.",
+        "To sum up: we are launching on Monday.",
+        "To sum up, we are launching on Monday.",
+        "To summarize: we launch on Monday.",
+        "To summarize, we launch on Monday.",
+        "To summarize: we're launching on Monday.",
+        "To summarize, we're launching on Monday.",
+        "In summary, we launch on Monday.",
+        "In summary, we're launching on Monday.",
+        "So, to sum up, we launch on Monday.",
+        "So, to sum up, we're launching on Monday."
+      ],
+      "explica": "To sum up (no «for resume»). El plan puede ir en presente o en continuo."
+    },
+    {
+      "id": "reuniones-048",
+      "tipo": "escuchar",
+      "nivel": 1,
+      "code": "BE",
+      "texto": "I agree with you.",
+      "respuestas": [
+        "I agree with you."
+      ],
+      "explica": "Fíjate: no suena ningún am antes de agree."
+    },
+    {
+      "id": "reuniones-049",
+      "tipo": "escuchar",
+      "nivel": 2,
+      "code": "FUT",
+      "texto": "I'll send you the report by Friday.",
+      "respuestas": [
+        "I'll send you the report by Friday.",
+        "I will send you the report by Friday."
+      ],
+      "explica": "I'll suena casi como «ail»; escúchalo antes de send."
+    },
+    {
+      "id": "reuniones-050",
+      "tipo": "escuchar",
+      "nivel": 3,
+      "code": "USO",
+      "texto": "I see your point, but we need to test it first.",
+      "respuestas": [
+        "I see your point, but we need to test it first."
+      ],
+      "explica": "La estructura del desacuerdo cortés: I see your point, but…"
+    },
+    {
+      "id": "reuniones-051",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "USO",
+      "consigna": "El cliente quiere lanzar la campaña en dos semanas y tú crees que es muy pronto. Dile que entiendes, explica por qué no estás de acuerdo y propón una alternativa.",
+      "objetivo": "I see your point, but… / I think… / Why don't we…?",
+      "ejemplo": "I see your point, and I know timing is important. But I think two weeks is too tight: we still need to shoot the video. Why don't we launch the teaser in two weeks and the full campaign in a month?",
+      "explica": "El sándwich del desacuerdo: I see your point (reconoces) + but I think… (contrastas) + Why don't we…? (propones). Nunca you're wrong ni I am not agree."
+    },
+    {
+      "id": "reuniones-052",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "FUT",
+      "consigna": "Cierra la reunión: resume tres próximos pasos, cada uno con responsable y fecha.",
+      "objetivo": "To sum up… / Laura will… by… / I'll… by…",
+      "ejemplo": "OK, to sum up: Laura will send the revised brief by Wednesday. I'll call the client tomorrow morning to confirm the budget. And Andrés will share the media plan by Friday. Thanks, everyone.",
+      "explica": "To sum up abre el resumen; cada paso lleva will / I'll + verbo base + by + día. Nada de presente simple para los compromisos."
+    },
+    {
+      "id": "reuniones-053",
+      "tipo": "hablar",
+      "nivel": 1,
+      "code": "LL",
+      "consigna": "En una reunión, Sarah usa un término que no entiendes («always-on»). Interrumpe con cortesía y pide que lo aclare.",
+      "objetivo": "Sorry to interrupt… / What do you mean by…?",
+      "ejemplo": "Sorry to interrupt, Sarah. What do you mean by «always-on»? Do you mean content every day, or just a longer campaign?",
+      "explica": "Sorry to interrupt + nombre, y la pregunta What do you mean by…? con la llave do y el verbo mean en base."
+    },
+    {
+      "id": "reuniones-054",
+      "tipo": "hablar",
+      "nivel": 3,
+      "code": "USO",
+      "consigna": "Tu jefe presenta una idea (influencers para un cliente de motos) y te pregunta qué opinas. Da tu opinión con un argumento a favor y una duda.",
+      "objetivo": "I think… / That's a good point, but… / I'm not sure about…",
+      "ejemplo": "I think it's a strong idea, especially for younger riders. I'm not sure about the budget, though. Influencers are expensive, and we only have two months. Why don't we start with two or three smaller creators?",
+      "explica": "I think + argumento; la duda con I'm not sure about… o …, though. Think y agree son verbos: nunca I am think / I am agree."
+    },
+    {
+      "id": "reuniones-055",
+      "tipo": "hablar",
+      "nivel": 1,
+      "code": "FUT",
+      "consigna": "Comprométete en voz alta con tres cosas que harás esta semana para un cliente, cada una con un día.",
+      "objetivo": "I'll + verbo + by + día",
+      "ejemplo": "I'll send the proposal by Tuesday. I'll review the creative with the team on Wednesday. And I'll have the final budget ready by Friday.",
+      "explica": "I'll + verbo base + by + día para cada compromiso. Will no lleva to, y la fecha límite es by (no until ni for)."
+    }
+  ]
+}

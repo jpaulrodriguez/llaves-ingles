@@ -1,0 +1,842 @@
+{
+  "id": "contraste-pasados",
+  "titulo": "Pasado simple vs. continuo",
+  "grupo": "Tiempos verbales",
+  "orden": 60,
+  "nivel": "A2",
+  "resumen": "Elegir entre did y was/were: la acción larga en continuo, la corta y las secuencias en simple; when y while.",
+  "llave": "did ↔ was/were",
+  "teoria": {
+    "paraQue": "Para contar una historia con dos planos: lo que estaba pasando (el fondo, en continuo) y lo que pasó (los hechos, en simple). La dificultad no está en formar los tiempos sino en elegir cuál va en cada parte.",
+    "llave": "Dos llaves que se reparten la frase: was/were + -ing para la acción larga o el fondo, y did (escondida en la afirmativa) para la acción corta, la interrupción o la secuencia. When suele traer la acción corta en simple; while trae la acción larga en continuo.",
+    "formulas": [
+      {
+        "tipo": "Interrupción: continuo + when + simple",
+        "formula": "Sujeto + was/were + -ing + when + sujeto + verbo en pasado",
+        "ejemplo": "I [[was]] {{hav((ing))}} dinner when the phone {{rang}}."
+      },
+      {
+        "tipo": "Acción larga: While + continuo, simple",
+        "formula": "While + sujeto + was/were + -ing, + sujeto + verbo en pasado",
+        "ejemplo": "While we [[were]] {{present((ing))}}, the client {{got}} a call."
+      },
+      {
+        "tipo": "Dos acciones paralelas",
+        "formula": "Sujeto + was/were + -ing + while + sujeto + was/were + -ing",
+        "ejemplo": "Mike [[was]] {{writ((ing))}} the copy while Sarah [[was]] {{design((ing))}} the layout."
+      },
+      {
+        "tipo": "Secuencia de hechos",
+        "formula": "Verbo en pasado, verbo en pasado and verbo en pasado",
+        "ejemplo": "She {{open((ed))}} the door, {{turn((ed))}} on the light and {{sat}} down."
+      },
+      {
+        "tipo": "Fondo + hecho",
+        "formula": "Fondo en continuo (ambiente) + hechos en simple",
+        "ejemplo": "It [[was]] {{rain((ing))}} and everyone [[was]] {{work((ing))}}. Suddenly the lights {{went}} out."
+      }
+    ],
+    "reglas": [
+      "La acción larga (la que ya estaba en curso) va en continuo; la acción corta que la interrumpe va en simple. I was cooking when the phone rang.",
+      "When + pasado simple presenta la interrupción. While + pasado continuo presenta la acción larga. Las dos frases dicen lo mismo con el orden cambiado.",
+      "Dos acciones largas al mismo tiempo: las dos en continuo, unidas por while. I was cooking while she was working.",
+      "Una secuencia de hechos (uno tras otro) va toda en pasado simple: I got up, took a shower and left.",
+      "Si pones las dos acciones en simple (I had dinner when the phone rang) dices que una pasó después de la otra, no que una interrumpió a la otra.",
+      "La trampa principal: refugiarse en el simple porque es más cómodo (While we worked ✗). Si la acción era larga y estaba en curso, pide was/were + -ing."
+    ],
+    "senales": [
+      "when + simple (la interrupción)",
+      "while + continuo (la acción larga)",
+      "suddenly",
+      "at that moment",
+      "first… then… after that",
+      "as soon as"
+    ],
+    "usos": [
+      {
+        "uso": "Anécdota de vida diaria con interrupción",
+        "contexto": "diario",
+        "ejemplo": "I [[was]] {{tak((ing))}} a shower when the doorbell {{rang}}."
+      },
+      {
+        "uso": "Contar tu mañana en orden",
+        "contexto": "diario",
+        "ejemplo": "I {{woke}} up at 6, {{made}} coffee and {{left}} at 7."
+      },
+      {
+        "uso": "Describir qué pasaba cuando llegaste a un lugar",
+        "contexto": "diario",
+        "ejemplo": "When I {{got}} home, the kids [[were]] {{sleep((ing))}} and my wife [[was]] {{read((ing))}}."
+      },
+      {
+        "uso": "Anécdota de trabajo: algo salió mal en una presentación",
+        "contexto": "trabajo",
+        "ejemplo": "We [[were]] {{present((ing))}} when the projector {{stopped}} working."
+      },
+      {
+        "uso": "Reportar qué hacía cada uno cuando llegó el cliente",
+        "contexto": "trabajo",
+        "ejemplo": "When the client {{arrived}}, the designers [[were]] still {{finish((ing))}} the deck."
+      },
+      {
+        "uso": "Resumir el proceso de un proyecto paso a paso",
+        "contexto": "trabajo",
+        "ejemplo": "We {{got}} the brief, {{brainstorm((ed))}} for two days and {{present((ed))}} on Friday."
+      }
+    ],
+    "errores": [
+      {
+        "mal": "While we worked on the pitch, the client called.",
+        "bien": "While we were working on the pitch, the client called.",
+        "porque": "While presenta la acción larga: va en continuo.",
+        "code": "TPO"
+      },
+      {
+        "mal": "I had dinner when the phone rang.",
+        "bien": "I was having dinner when the phone rang.",
+        "porque": "La acción que estaba en curso (dinner) va en continuo; la interrupción (rang) en simple.",
+        "code": "TPO"
+      },
+      {
+        "mal": "When I was cooking, the phone was ringing.",
+        "bien": "When I was cooking, the phone rang.",
+        "porque": "La interrupción es corta: pasado simple.",
+        "code": "TPO"
+      },
+      {
+        "mal": "What did you doing when the boss arrived?",
+        "bien": "What were you doing when the boss arrived?",
+        "porque": "El -ing pide la llave were, nunca did.",
+        "code": "LL"
+      },
+      {
+        "mal": "She was opening the door, was turning on the light and was sitting down.",
+        "bien": "She opened the door, turned on the light and sat down.",
+        "porque": "Una secuencia de hechos va en simple.",
+        "code": "TPO"
+      },
+      {
+        "mal": "I was seeing Andrés at the gym yesterday.",
+        "bien": "I saw Andrés at the gym yesterday.",
+        "porque": "Ver a alguien es un hecho puntual: simple. See no se usa en continuo con ese sentido.",
+        "code": "EST"
+      }
+    ],
+    "contraste": [
+      {
+        "a": "I [[was]] {{hav((ing))}} dinner when the phone {{rang}}.",
+        "b": "I {{had}} dinner when the phone {{rang}}.",
+        "nota": "A: la llamada interrumpió la cena. B: primero sonó el teléfono y después cené. Son dos historias distintas."
+      },
+      {
+        "a": "While I [[was]] {{driv((ing))}}, it {{started}} to rain.",
+        "b": "I [[was]] {{driv((ing))}} when it {{started}} to rain.",
+        "nota": "Mismo significado: while va con la larga, when con la corta."
+      },
+      {
+        "a": "Mike [[was]] {{writ((ing))}} while Sarah [[was]] {{design((ing))}}.",
+        "b": "Mike {{wrote}} the copy and then Sarah {{design((ed))}} the layout.",
+        "nota": "A: a la vez. B: uno después del otro."
+      }
+    ],
+    "frases": [
+      {
+        "en": "I was driving when you called.",
+        "es": "Estaba manejando cuando llamaste.",
+        "contexto": "diario"
+      },
+      {
+        "en": "While I was cooking, the power went out.",
+        "es": "Mientras cocinaba, se fue la luz.",
+        "contexto": "diario"
+      },
+      {
+        "en": "When I got home, everyone was sleeping.",
+        "es": "Cuando llegué a casa, todos estaban dormidos.",
+        "contexto": "diario"
+      },
+      {
+        "en": "I woke up, took a shower and left.",
+        "es": "Me levanté, me bañé y salí.",
+        "contexto": "diario"
+      },
+      {
+        "en": "We were presenting when the projector died.",
+        "es": "Estábamos presentando cuando se murió el proyector.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "The client called while we were having lunch.",
+        "es": "El cliente llamó mientras almorzábamos.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "What were you doing when the system crashed?",
+        "es": "¿Qué estabas haciendo cuando se cayó el sistema?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "We got the brief, brainstormed and presented on Friday.",
+        "es": "Recibimos el brief, hicimos lluvia de ideas y presentamos el viernes.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Suddenly, the lights went out.",
+        "es": "De repente, se fue la luz.",
+        "contexto": "diario"
+      }
+    ],
+    "tip": "Imagina una película: el fondo que ya estaba rodando (was/were + -ing) y el momento en que alguien entra en escena (simple). Si varias cosas pasan una tras otra, es una lista: todo en simple."
+  },
+  "ejercicios": [
+    {
+      "id": "contraste-pasados-001",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "TPO",
+      "q": "I ___ dinner when the phone rang.",
+      "opciones": [
+        "was having",
+        "had",
+        "were having",
+        "have"
+      ],
+      "a": 0,
+      "explica": "La cena estaba en curso (acción larga) y la llamada la interrumpió: was having … when … rang."
+    },
+    {
+      "id": "contraste-pasados-002",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "TPO",
+      "q": "While we ___ on the pitch, the client called.",
+      "opciones": [
+        "were working",
+        "worked",
+        "work",
+        "was working"
+      ],
+      "a": 0,
+      "explica": "While presenta la acción larga: pasado continuo. We → were working."
+    },
+    {
+      "id": "contraste-pasados-003",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "TPO",
+      "q": "When the boss walked in, everyone ___ talking.",
+      "opciones": [
+        "stopped",
+        "was stopping",
+        "stop",
+        "were stopping"
+      ],
+      "a": 0,
+      "explica": "Stop talking es la reacción corta: pasado simple."
+    },
+    {
+      "id": "contraste-pasados-004",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "TPO",
+      "q": "She ___ her coffee, opened her laptop and started working.",
+      "opciones": [
+        "finished",
+        "was finishing",
+        "finish",
+        "were finishing"
+      ],
+      "a": 0,
+      "explica": "Secuencia de hechos (uno tras otro): todo en pasado simple."
+    },
+    {
+      "id": "contraste-pasados-005",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "TPO",
+      "q": "We were presenting when the projector ___ working.",
+      "opciones": [
+        "stopped",
+        "was stopping",
+        "stop",
+        "stops"
+      ],
+      "a": 0,
+      "explica": "La interrupción es corta: stopped. Presenting era el fondo."
+    },
+    {
+      "id": "contraste-pasados-006",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "ING",
+      "q": "Dos acciones largas a la vez: I ___ to music while my wife was cooking.",
+      "opciones": [
+        "was listening",
+        "were listening",
+        "was listen",
+        "listening"
+      ],
+      "a": 0,
+      "explica": "Dos acciones paralelas: las dos en continuo. I → was listening."
+    },
+    {
+      "id": "contraste-pasados-007",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "LL",
+      "q": "What ___ at the moment the lights went out?",
+      "opciones": [
+        "were you doing",
+        "did you doing",
+        "you were doing",
+        "was you doing"
+      ],
+      "a": 0,
+      "explica": "At the moment pide continuo: were + you + doing. Did nunca va con -ing."
+    },
+    {
+      "id": "contraste-pasados-008",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "TPO",
+      "q": "Yesterday I ___ up at 6, ___ a shower and ___ to the gym.",
+      "opciones": [
+        "got / took / went",
+        "was getting / was taking / was going",
+        "get / take / go",
+        "got / taked / goed"
+      ],
+      "a": 0,
+      "explica": "Tres acciones en orden: pasado simple. Got, took y went son irregulares."
+    },
+    {
+      "id": "contraste-pasados-009",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "TPO",
+      "q": "The client called while I ___ lunch.",
+      "opciones": [
+        "was having",
+        "had",
+        "have",
+        "were having"
+      ],
+      "a": 0,
+      "explica": "While + la acción larga (lunch) en continuo; la llamada en simple."
+    },
+    {
+      "id": "contraste-pasados-010",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "TPO",
+      "q": "When I ___ home, my kids were sleeping.",
+      "opciones": [
+        "got",
+        "was getting",
+        "get",
+        "were getting"
+      ],
+      "a": 0,
+      "explica": "Llegar es el hecho puntual (simple); los niños dormían como fondo (continuo)."
+    },
+    {
+      "id": "contraste-pasados-011",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "ING",
+      "q": "Sorry, I ___ attention. What did you say?",
+      "opciones": [
+        "wasn't paying",
+        "weren't paying",
+        "didn't paying",
+        "wasn't pay"
+      ],
+      "a": 0,
+      "explica": "Lo que pasaba en ese momento: wasn't paying attention (be + -ing completo)."
+    },
+    {
+      "id": "contraste-pasados-012",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "TPO",
+      "q": "Dos acciones largas a la vez: Mike was writing the email while Sarah ___ to the client.",
+      "opciones": [
+        "was talking",
+        "talked",
+        "talk",
+        "were talking"
+      ],
+      "a": 0,
+      "explica": "Paralelas: las dos en continuo. Sarah → was talking."
+    },
+    {
+      "id": "contraste-pasados-013",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "TPO",
+      "q": "First we ___ the brief, then we ___ ideas and finally we ___ the deck.",
+      "opciones": [
+        "read / brainstormed / built",
+        "were reading / were brainstorming / were building",
+        "read / were brainstorming / built",
+        "reading / brainstorming / building"
+      ],
+      "a": 0,
+      "explica": "First, then, finally: secuencia de pasos, todo en simple."
+    },
+    {
+      "id": "contraste-pasados-014",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "TPO",
+      "q": "I ___ (take) a shower when the doorbell rang.",
+      "respuestas": [
+        "was taking"
+      ],
+      "explica": "La ducha estaba en curso: was taking. El timbre (rang) la interrumpió."
+    },
+    {
+      "id": "contraste-pasados-015",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "TPO",
+      "q": "While we were presenting, the client ___ (receive) a call.",
+      "respuestas": [
+        "received",
+        "got"
+      ],
+      "explica": "La acción corta que interrumpe va en simple: received."
+    },
+    {
+      "id": "contraste-pasados-016",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "IRR",
+      "q": "She walked in, ___ (sit) down and opened her laptop.",
+      "respuestas": [
+        "sat"
+      ],
+      "explica": "Secuencia: walked in, sat down, opened. Sit → sat."
+    },
+    {
+      "id": "contraste-pasados-017",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "TPO",
+      "q": "When I arrived, they ___ (still / discuss) the budget.",
+      "respuestas": [
+        "were still discussing"
+      ],
+      "explica": "Lo que ya estaba en curso cuando llegué: were still discussing."
+    },
+    {
+      "id": "contraste-pasados-018",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "TPO",
+      "q": "The sun ___ (shine) and the birds were singing when we left the house.",
+      "respuestas": [
+        "was shining"
+      ],
+      "explica": "Fondo de la historia: was shining, were singing. Left es el hecho."
+    },
+    {
+      "id": "contraste-pasados-019",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "TPO",
+      "q": "Everyone was working quietly. Suddenly, the system ___ (crash).",
+      "respuestas": [
+        "crashed"
+      ],
+      "explica": "Suddenly presenta el hecho puntual: crashed (simple)."
+    },
+    {
+      "id": "contraste-pasados-020",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "LL",
+      "q": "What ___ (you / do) when the earthquake started?",
+      "respuestas": [
+        "were you doing"
+      ],
+      "explica": "Pregunta por la acción en curso: were you doing. Started es la interrupción."
+    },
+    {
+      "id": "contraste-pasados-021",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "TPO",
+      "q": "I ___ (not / hear) the phone because I was listening to music.",
+      "respuestas": [
+        "didn't hear",
+        "did not hear"
+      ],
+      "explica": "No oír es el hecho puntual: didn't hear. Escuchar música era el fondo."
+    },
+    {
+      "id": "contraste-pasados-022",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "IRR",
+      "q": "He ___ (fall) asleep while he was watching the movie.",
+      "respuestas": [
+        "fell"
+      ],
+      "explica": "Quedarse dormido es puntual: fell. Fall → fell."
+    },
+    {
+      "id": "contraste-pasados-023",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "TPO",
+      "q": "We ___ (work) on the proposal when the power went out.",
+      "respuestas": [
+        "were working"
+      ],
+      "explica": "La acción larga: were working. Went out la interrumpe."
+    },
+    {
+      "id": "contraste-pasados-024",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "TPO",
+      "es": "Estaba cenando cuando sonó el teléfono.",
+      "en": "I was having dinner when the phone rang.",
+      "extra": [
+        "had",
+        "ringing"
+      ],
+      "explica": "Larga en continuo (was having), corta en simple (rang)."
+    },
+    {
+      "id": "contraste-pasados-025",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "TPO",
+      "es": "Mientras trabajábamos, el cliente llamó.",
+      "en": "While we were working, the client called.",
+      "extra": [
+        "worked",
+        "was"
+      ],
+      "explica": "While + were working (larga); called (corta)."
+    },
+    {
+      "id": "contraste-pasados-026",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "WW",
+      "es": "Cuando llegué, todos estaban almorzando.",
+      "en": "When I arrived, everyone was having lunch.",
+      "extra": [
+        "were",
+        "had"
+      ],
+      "explica": "Arrived es el hecho; was having lunch es el fondo. Everyone → was."
+    },
+    {
+      "id": "contraste-pasados-027",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "TPO",
+      "es": "Ella leyó el correo, cerró el computador y se fue.",
+      "en": "She read the email, closed her laptop and left.",
+      "extra": [
+        "was",
+        "leaving"
+      ],
+      "explica": "Secuencia de tres hechos: todo en simple."
+    },
+    {
+      "id": "contraste-pasados-028",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "LL",
+      "es": "¿Qué estabas haciendo cuando te llamé?",
+      "en": "What were you doing when I called you?",
+      "extra": [
+        "did",
+        "was"
+      ],
+      "explica": "Were you doing (en curso) + called (puntual)."
+    },
+    {
+      "id": "contraste-pasados-029",
+      "tipo": "ordenar",
+      "nivel": 3,
+      "code": "TPO",
+      "es": "Mike estaba escribiendo mientras Sarah hablaba con el cliente.",
+      "en": "Mike was writing while Sarah was talking to the client.",
+      "extra": [
+        "talked",
+        "were"
+      ],
+      "explica": "Dos acciones paralelas: las dos en continuo."
+    },
+    {
+      "id": "contraste-pasados-030",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "TPO",
+      "es": "Vi a Laura mientras caminaba al trabajo.",
+      "en": "I saw Laura while I was walking to work.",
+      "extra": [
+        "walked",
+        "seeing"
+      ],
+      "explica": "Ver es puntual (saw); caminar era la acción larga (was walking)."
+    },
+    {
+      "id": "contraste-pasados-031",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "TPO",
+      "frase": "While we worked on the pitch, the client called.",
+      "correcta": false,
+      "correccion": [
+        "While we were working on the pitch, the client called."
+      ],
+      "explica": "While presenta la acción larga: pasado continuo."
+    },
+    {
+      "id": "contraste-pasados-032",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "TPO",
+      "frase": "I had dinner when the phone rang.",
+      "correcta": false,
+      "correccion": [
+        "I was having dinner when the phone rang."
+      ],
+      "explica": "Si la llamada interrumpió la cena, la cena va en continuo."
+    },
+    {
+      "id": "contraste-pasados-033",
+      "tipo": "corregir",
+      "nivel": 3,
+      "code": "TPO",
+      "frase": "When I was cooking, the phone was ringing.",
+      "correcta": false,
+      "correccion": [
+        "When I was cooking, the phone rang.",
+        "While I was cooking, the phone rang.",
+        "I was cooking when the phone rang."
+      ],
+      "explica": "La interrupción es corta: rang (simple)."
+    },
+    {
+      "id": "contraste-pasados-034",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "TPO",
+      "frase": "She was walking to the office when it started to rain.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Correcta: larga en continuo (was walking), corta en simple (started)."
+    },
+    {
+      "id": "contraste-pasados-035",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "TPO",
+      "frase": "We watched a movie when the lights went out.",
+      "correcta": false,
+      "correccion": [
+        "We were watching a movie when the lights went out."
+      ],
+      "explica": "La película estaba en curso: were watching."
+    },
+    {
+      "id": "contraste-pasados-036",
+      "tipo": "corregir",
+      "nivel": 3,
+      "code": "TPO",
+      "frase": "He opened the door, turned on the light and sat down.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Correcta: secuencia de hechos en simple."
+    },
+    {
+      "id": "contraste-pasados-037",
+      "tipo": "transformar",
+      "nivel": 1,
+      "code": "TPO",
+      "frase": "I was sleeping. The alarm went off.",
+      "instruccion": "Une las dos frases con when.",
+      "respuestas": [
+        "I was sleeping when the alarm went off.",
+        "When the alarm went off, I was sleeping."
+      ],
+      "explica": "When va con la acción corta (went off); la larga queda en continuo."
+    },
+    {
+      "id": "contraste-pasados-038",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "TPO",
+      "frase": "We were having lunch. The client arrived.",
+      "instruccion": "Une las dos frases empezando por While.",
+      "respuestas": [
+        "While we were having lunch, the client arrived."
+      ],
+      "explica": "While + la acción larga en continuo, coma, y el hecho en simple."
+    },
+    {
+      "id": "contraste-pasados-039",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "TPO",
+      "frase": "She was presenting. The projector stopped working.",
+      "instruccion": "Une las dos frases con when.",
+      "respuestas": [
+        "She was presenting when the projector stopped working.",
+        "When the projector stopped working, she was presenting."
+      ],
+      "explica": "Presenting era el fondo; stopped working es la interrupción."
+    },
+    {
+      "id": "contraste-pasados-040",
+      "tipo": "transformar",
+      "nivel": 3,
+      "code": "TPO",
+      "frase": "I was driving. I was listening to a podcast.",
+      "instruccion": "Une las dos acciones paralelas con while.",
+      "respuestas": [
+        "I was driving while I was listening to a podcast.",
+        "While I was driving, I was listening to a podcast.",
+        "I was listening to a podcast while I was driving.",
+        "While I was listening to a podcast, I was driving."
+      ],
+      "explica": "Dos acciones largas a la vez: las dos quedan en continuo, unidas por while."
+    },
+    {
+      "id": "contraste-pasados-041",
+      "tipo": "transformar",
+      "nivel": 3,
+      "code": "TPO",
+      "frase": "They were discussing the budget. The CEO walked in.",
+      "instruccion": "Une las dos frases con when.",
+      "respuestas": [
+        "They were discussing the budget when the CEO walked in.",
+        "When the CEO walked in, they were discussing the budget."
+      ],
+      "explica": "Walked in es el hecho puntual; discussing era la acción en curso."
+    },
+    {
+      "id": "contraste-pasados-042",
+      "tipo": "traducir",
+      "nivel": 1,
+      "code": "TPO",
+      "es": "Estaba manejando cuando me llamaste.",
+      "respuestas": [
+        "I was driving when you called me.",
+        "I was driving when you called."
+      ],
+      "explica": "Was driving (larga) + called (corta)."
+    },
+    {
+      "id": "contraste-pasados-043",
+      "tipo": "traducir",
+      "nivel": 3,
+      "code": "TPO",
+      "es": "Mientras ella hablaba, yo tomaba notas.",
+      "respuestas": [
+        "While she was talking, I was taking notes.",
+        "While she was speaking, I was taking notes.",
+        "I was taking notes while she was talking.",
+        "I was taking notes while she was speaking."
+      ],
+      "explica": "Dos acciones paralelas: las dos en continuo. En español el imperfecto (hablaba, tomaba) te avisa."
+    },
+    {
+      "id": "contraste-pasados-044",
+      "tipo": "traducir",
+      "nivel": 3,
+      "code": "TPO",
+      "es": "Llegué a la oficina, prendí el computador y revisé mis correos.",
+      "respuestas": [
+        "I arrived at the office, turned on my computer and checked my emails.",
+        "I arrived at the office, turned on my computer, and checked my emails.",
+        "I got to the office, turned on my computer and checked my emails.",
+        "I got to the office, turned on my computer, and checked my emails.",
+        "I arrived at the office, turned on my computer and checked my email.",
+        "I got to the office, turned on my computer and checked my email."
+      ],
+      "explica": "Secuencia de tres hechos: todo en simple (arrived, turned on, checked)."
+    },
+    {
+      "id": "contraste-pasados-045",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "TPO",
+      "es": "Cuando llegó el cliente, estábamos terminando el deck.",
+      "respuestas": [
+        "When the client arrived, we were finishing the deck.",
+        "We were finishing the deck when the client arrived."
+      ],
+      "explica": "Arrived es puntual; were finishing es lo que estaba en curso."
+    },
+    {
+      "id": "contraste-pasados-046",
+      "tipo": "identificar",
+      "nivel": 1,
+      "code": "TPO",
+      "frase": "I was taking a shower when you called.",
+      "opciones": [
+        "Acción larga interrumpida (continuo + simple)",
+        "Dos acciones paralelas (continuo + continuo)",
+        "Secuencia de hechos (simple + simple)",
+        "Hábito del pasado"
+      ],
+      "a": 0,
+      "explica": "Was taking (larga) + called (corta): interrupción."
+    },
+    {
+      "id": "contraste-pasados-047",
+      "tipo": "identificar",
+      "nivel": 2,
+      "code": "TPO",
+      "frase": "She closed the laptop, grabbed her bag and left.",
+      "opciones": [
+        "Secuencia de hechos (todo en simple)",
+        "Acción larga interrumpida",
+        "Dos acciones paralelas",
+        "Fondo de una historia"
+      ],
+      "a": 0,
+      "explica": "Tres hechos uno tras otro: pasado simple."
+    },
+    {
+      "id": "contraste-pasados-048",
+      "tipo": "escuchar",
+      "nivel": 2,
+      "code": "TPO",
+      "texto": "We were presenting when the projector stopped working.",
+      "respuestas": [
+        "We were presenting when the projector stopped working."
+      ],
+      "explica": "Were presenting (fondo) + stopped (interrupción)."
+    },
+    {
+      "id": "contraste-pasados-049",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "TPO",
+      "consigna": "Cuenta una anécdota del trabajo: qué estabas haciendo cuando pasó algo inesperado (se cayó el sistema, llegó el cliente, se fue la luz) y qué hiciste después.",
+      "objetivo": "was/were + -ing para el fondo, pasado simple para la interrupción y la reacción, unidos con when o while.",
+      "ejemplo": "Last week we were presenting the campaign when the projector stopped working. The client laughed, so we continued with the printed deck and she approved the idea.",
+      "explica": "Primero el fondo (were presenting), después el hecho (stopped) y la secuencia de reacciones en simple (laughed, continued, approved)."
+    },
+    {
+      "id": "contraste-pasados-050",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "TPO",
+      "consigna": "Cuenta cómo fue tu mañana de hoy: qué estaba pasando a tu alrededor cuando saliste de casa y qué hiciste después, en orden.",
+      "objetivo": "Fondo en continuo (it was raining, the kids were sleeping) + secuencia en simple (took, got, had).",
+      "ejemplo": "When I left home, it was raining and the kids were still sleeping. I took a taxi, got to the office at 8 and had a coffee with Andrés.",
+      "explica": "El ambiente va en continuo; cada paso de tu mañana, en simple."
+    }
+  ]
+}

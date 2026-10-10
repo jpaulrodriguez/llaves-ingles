@@ -1,0 +1,847 @@
+{
+  "id": "presentarse",
+  "titulo": "Presentarte y explicar tu trabajo",
+  "grupo": "Inglés para el trabajo",
+  "orden": 200,
+  "nivel": "A2–B1",
+  "resumen": "Decir quién eres, qué haces, cómo es tu agencia y tu equipo, y romper el hielo antes de una reunión.",
+  "llave": "presente simple + be",
+  "teoria": {
+    "paraQue": "Para presentarte en una reunión o una llamada, explicar tu cargo y lo que hace tu agencia, y hacer small talk (fin de semana, clima, tráfico, comida) sin quedarte en blanco.",
+    "llave": "Casi todo lo que dices de ti va en presente simple. Con *be* no hay llave extra: *I'm the account director. Are you based in Bogotá?* Con los demás verbos, la -s de he/she/it y *do/does* en preguntas y negativas: *My boss works from Miami. What do you do?* Nunca mezcles las dos: *I am work* ✗.",
+    "formulas": [
+      {
+        "tipo": "Presentarte",
+        "formula": "I'm + nombre / cargo",
+        "ejemplo": "Hi, I[['m]] Jonathan. I[['m]] the account director at the agency."
+      },
+      {
+        "tipo": "Tu cargo",
+        "formula": "I work as… / I'm in charge of… / I'm responsible for…",
+        "ejemplo": "I {{work}} as a creative director. I[['m]] in charge of the Honda account."
+      },
+      {
+        "tipo": "Tu empresa",
+        "formula": "We're a… / We work with… / We help + clientes + verbo",
+        "ejemplo": "We[['re]] an advertising agency. We {{help}} brands {{grow}} on social media."
+      },
+      {
+        "tipo": "Tu equipo",
+        "formula": "I lead / manage a team of + número",
+        "ejemplo": "I {{lead}} a team of six people."
+      },
+      {
+        "tipo": "Preguntar",
+        "formula": "What do you do? / Where are you based? / Who do you work for?",
+        "ejemplo": "[[Do]] you {{work}} in the Bogotá office? — No, I[['m]] based in Medellín."
+      },
+      {
+        "tipo": "Small talk",
+        "formula": "How was your…? / How's the…? / Did you…?",
+        "ejemplo": "How [[was]] your weekend? How[['s]] the weather in New York?"
+      }
+    ],
+    "reglas": [
+      "La edad va con *be*: *I'm 38* (no *I have 38 years*).",
+      "El cargo se dice con *be* o con *work as*: *I'm a planner* / *I work as a planner*; nunca *I am work*.",
+      "*In charge of* y *responsible for*: la preposición es fija, no se traduce (*responsible of* ✗).",
+      "La empresa va con *at* (*I work at Brava*) y la ciudad con *in* (*I live in Bogotá*).",
+      "Cuántos son: *There are six of us on my team* (no *We are six*).",
+      "El small talk sobre el fin de semana va en pasado: *How was your weekend? It was great.*"
+    ],
+    "senales": [
+      "Nice to meet you",
+      "What do you do?",
+      "I'm in charge of",
+      "a team of",
+      "based in",
+      "How was your weekend?",
+      "How's it going?"
+    ],
+    "usos": [
+      {
+        "uso": "Decir quién eres",
+        "contexto": "diario",
+        "ejemplo": "I[['m]] Camila. I[['m]] 34 and I {{live}} in Chapinero."
+      },
+      {
+        "uso": "Hablar de tu familia",
+        "contexto": "diario",
+        "ejemplo": "I {{have}} two kids. My wife {{work((s))}} at a bank."
+      },
+      {
+        "uso": "Explicar tu cargo",
+        "contexto": "trabajo",
+        "ejemplo": "I[['m]] the account director. I[['m]] in charge of the Honda account."
+      },
+      {
+        "uso": "Explicar qué hace la agencia",
+        "contexto": "trabajo",
+        "ejemplo": "We {{create}} campaigns for brands like Honda and Bancolombia."
+      },
+      {
+        "uso": "Romper el hielo antes de empezar",
+        "contexto": "trabajo",
+        "ejemplo": "How [[was]] your weekend, Mike? [[Did]] you {{do}} anything fun?"
+      }
+    ],
+    "errores": [
+      {
+        "mal": "I have 38 years.",
+        "bien": "I'm 38.",
+        "porque": "La edad en inglés va con be, no con have.",
+        "code": "USO"
+      },
+      {
+        "mal": "Nice to know you.",
+        "bien": "Nice to meet you.",
+        "porque": "Conocer a alguien por primera vez es meet; know es conocer de hace tiempo.",
+        "code": "USO"
+      },
+      {
+        "mal": "I am work in an agency.",
+        "bien": "I work at an agency.",
+        "porque": "Con un verbo normal no va be; y la empresa va con at.",
+        "code": "BE"
+      },
+      {
+        "mal": "My boss go to Miami every month.",
+        "bien": "My boss goes to Miami every month.",
+        "porque": "He/she/it → verbo + s. Es el error que más se te escapa al hablar.",
+        "code": "3S"
+      },
+      {
+        "mal": "I'm responsible of the digital team.",
+        "bien": "I'm responsible for the digital team.",
+        "porque": "Responsible for es fijo; «responsable de» no se traduce.",
+        "code": "VOC"
+      },
+      {
+        "mal": "I'm the responsible of the account.",
+        "bien": "I'm in charge of the account.",
+        "porque": "Responsible es adjetivo, no sustantivo. Para «el responsable» usa in charge of.",
+        "code": "VOC"
+      },
+      {
+        "mal": "We are six in my team.",
+        "bien": "There are six of us on my team.",
+        "porque": "Para decir cuántos son, el inglés usa there are… of us.",
+        "code": "USO"
+      },
+      {
+        "mal": "How is the weather? — Is raining.",
+        "bien": "It's raining.",
+        "porque": "El sujeto it es obligatorio para el clima.",
+        "code": "SUJ"
+      }
+    ],
+    "contraste": [
+      {
+        "a": "I {{work}} at an agency in Bogotá.",
+        "b": "I[['m]] {{work((ing))}} on a pitch for Honda this week.",
+        "nota": "Lo general (tu trabajo) va en simple; lo de esta semana va en continuo."
+      },
+      {
+        "a": "I[['m]] in charge of the account.",
+        "b": "I[['m]] responsible for the budget.",
+        "nota": "Las dos sirven: in charge of = lo lideras; responsible for = te lo cobran."
+      }
+    ],
+    "frases": [
+      {
+        "en": "Nice to meet you.",
+        "es": "Mucho gusto.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Nice to meet you too.",
+        "es": "Igualmente.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'm Jonathan, the account director.",
+        "es": "Soy Jonathan, el director de cuentas.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I work as a creative director at an advertising agency.",
+        "es": "Trabajo como director creativo en una agencia de publicidad.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'm in charge of the Honda account.",
+        "es": "Estoy a cargo de la cuenta de Honda.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'm responsible for the digital team.",
+        "es": "Soy responsable del equipo digital.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I lead a team of six people.",
+        "es": "Dirijo un equipo de seis personas.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "We're based in Bogotá, but we work with clients all over Latin America.",
+        "es": "Estamos en Bogotá, pero trabajamos con clientes en toda Latinoamérica.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "We help brands connect with people through campaigns and social media.",
+        "es": "Ayudamos a las marcas a conectar con la gente con campañas y redes.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "We work with clients like Honda and Bancolombia.",
+        "es": "Trabajamos con clientes como Honda y Bancolombia.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "What do you do?",
+        "es": "¿A qué te dedicas?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Where are you based?",
+        "es": "¿Desde dónde trabajas? / ¿Dónde estás ubicado?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Who do you work for?",
+        "es": "¿Para quién trabajas?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "How long have you been with the agency?",
+        "es": "¿Cuánto llevas en la agencia?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'm 38 and I live in Bogotá with my family.",
+        "es": "Tengo 38 años y vivo en Bogotá con mi familia.",
+        "contexto": "diario"
+      },
+      {
+        "en": "How's it going?",
+        "es": "¿Cómo va todo?",
+        "contexto": "diario"
+      },
+      {
+        "en": "How was your weekend?",
+        "es": "¿Cómo estuvo tu fin de semana?",
+        "contexto": "diario"
+      },
+      {
+        "en": "It was great, thanks. Pretty quiet.",
+        "es": "Muy bien, gracias. Bastante tranquilo.",
+        "contexto": "diario"
+      },
+      {
+        "en": "Did you do anything fun?",
+        "es": "¿Hiciste algo divertido?",
+        "contexto": "diario"
+      },
+      {
+        "en": "How's the weather over there?",
+        "es": "¿Cómo está el clima por allá?",
+        "contexto": "diario"
+      },
+      {
+        "en": "It's raining here, as usual.",
+        "es": "Aquí está lloviendo, como siempre.",
+        "contexto": "diario"
+      },
+      {
+        "en": "Sorry I'm late, the traffic was terrible.",
+        "es": "Perdón por llegar tarde, el tráfico estaba terrible.",
+        "contexto": "diario"
+      },
+      {
+        "en": "You should try ajiaco. It's a chicken and potato soup.",
+        "es": "Deberías probar el ajiaco. Es una sopa de pollo y papa.",
+        "contexto": "diario"
+      },
+      {
+        "en": "Have you been to Bogotá before?",
+        "es": "¿Ya habías venido a Bogotá?",
+        "contexto": "diario"
+      }
+    ],
+    "tip": "Ten lista tu presentación de 20 segundos: nombre, cargo, de qué estás a cargo y cuántos son en tu equipo. Dila en voz alta hasta que salga sin pensar."
+  },
+  "ejercicios": [
+    {
+      "id": "presentarse-001",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Te presentan a un cliente nuevo en una reunión. ¿Qué dices?",
+      "opciones": [
+        "Nice to meet you.",
+        "Nice to know you.",
+        "Nice to see you."
+      ],
+      "a": 0,
+      "explica": "Conocer a alguien por primera vez es meet. Know es conocer de hace tiempo, y see you es para alguien que ya conoces."
+    },
+    {
+      "id": "presentarse-002",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Te preguntan la edad. ¿Cómo respondes?",
+      "opciones": [
+        "I have 35 years.",
+        "I'm 35 years old.",
+        "I am 35 years."
+      ],
+      "a": 1,
+      "explica": "La edad va con be: I'm 35 o I'm 35 years old. Nunca con have, y years no va sin old."
+    },
+    {
+      "id": "presentarse-003",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "BE",
+      "q": "Te preguntan a qué te dedicas. Completa: I ___ as an account director.",
+      "opciones": [
+        "work",
+        "am work",
+        "working"
+      ],
+      "a": 0,
+      "explica": "Con un verbo normal (work) no va am. Be solo acompaña al -ing o a un sustantivo/adjetivo."
+    },
+    {
+      "id": "presentarse-004",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "I'm ___ of the Honda account.",
+      "opciones": [
+        "in charge",
+        "the responsible",
+        "charge"
+      ],
+      "a": 0,
+      "explica": "«Soy el responsable de» se dice I'm in charge of. Responsible es adjetivo, no sustantivo."
+    },
+    {
+      "id": "presentarse-005",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "I'm responsible ___ the creative team.",
+      "opciones": [
+        "for",
+        "of",
+        "to"
+      ],
+      "a": 0,
+      "explica": "Responsible for es una pareja fija. «Responsable de» no se traduce con of."
+    },
+    {
+      "id": "presentarse-006",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Quieres saber a qué se dedica tu interlocutor:",
+      "opciones": [
+        "What do you do?",
+        "What is your work?",
+        "What do you make?"
+      ],
+      "a": 0,
+      "explica": "La pregunta fija es What do you do? Make es fabricar, y What is your work? es un calco."
+    },
+    {
+      "id": "presentarse-007",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "3S",
+      "q": "My boss ___ the Latin America region from Miami.",
+      "opciones": [
+        "leads",
+        "lead",
+        "is lead"
+      ],
+      "a": 0,
+      "explica": "My boss es he/she → verbo + s. Y con un verbo normal no va is."
+    },
+    {
+      "id": "presentarse-008",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "I work ___ Brava in Bogotá.",
+      "opciones": [
+        "at",
+        "in",
+        "to"
+      ],
+      "a": 0,
+      "explica": "La empresa va con at: I work at Brava. In es para la ciudad: in Bogotá."
+    },
+    {
+      "id": "presentarse-009",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Es lunes y un colega te pregunta «How was your weekend?». La respuesta natural:",
+      "opciones": [
+        "It was great, thanks. We went to Guatavita.",
+        "It is great, thanks. We go to Guatavita.",
+        "I have a great weekend, thanks."
+      ],
+      "a": 0,
+      "explica": "El fin de semana ya pasó: la pregunta va con was y la respuesta en pasado (was, went)."
+    },
+    {
+      "id": "presentarse-010",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "SUJ",
+      "q": "Tu colega en Nueva York pregunta «How's the weather in Bogotá?». Respondes:",
+      "opciones": [
+        "It's raining, as usual.",
+        "Is raining, as usual.",
+        "There is raining, as usual."
+      ],
+      "a": 0,
+      "explica": "El clima lleva sujeto it obligatorio: It's raining. There is sirve para «hay», no para «está lloviendo»."
+    },
+    {
+      "id": "presentarse-011",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Llegas tarde a la reunión por el tráfico. Dices:",
+      "opciones": [
+        "Sorry I'm late, the traffic was terrible.",
+        "Sorry for the late, the traffic was terrible.",
+        "Sorry for arrive late, the traffic was terrible."
+      ],
+      "a": 0,
+      "explica": "La frase fija es Sorry I'm late. Late es adjetivo: no va con the ni con for + verbo base."
+    },
+    {
+      "id": "presentarse-012",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "USO",
+      "q": "Un cliente pregunta «How many people are on your team?». Respondes:",
+      "opciones": [
+        "There are eight of us.",
+        "We are eight.",
+        "We are eight persons."
+      ],
+      "a": 0,
+      "explica": "«Somos ocho» se dice There are eight of us. We are eight suena a edad, y persons no se usa en este sentido."
+    },
+    {
+      "id": "presentarse-013",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "MOD",
+      "q": "Un colega gringo te pregunta qué comida típica probar en Bogotá:",
+      "opciones": [
+        "You should try ajiaco. It's a chicken and potato soup.",
+        "You should to try ajiaco. Is a chicken and potato soup.",
+        "You must to try ajiaco. It's a soup of chicken."
+      ],
+      "a": 0,
+      "explica": "Después de should o must va el verbo base sin to, y la frase necesita sujeto: It's a soup."
+    },
+    {
+      "id": "presentarse-014",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "BE",
+      "q": "I ___ 38 years old.",
+      "respuestas": [
+        "am",
+        "'m"
+      ],
+      "explica": "La edad va con be: I'm 38 years old."
+    },
+    {
+      "id": "presentarse-015",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Nice to ___ you. I'm Camila, from the planning team.",
+      "respuestas": [
+        "meet"
+      ],
+      "explica": "Conocer a alguien por primera vez es meet, no know."
+    },
+    {
+      "id": "presentarse-016",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "3S",
+      "q": "My boss ___ (travel) to Miami every month.",
+      "respuestas": [
+        "travels"
+      ],
+      "explica": "My boss es he/she → travel + s."
+    },
+    {
+      "id": "presentarse-017",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "I'm in ___ of the digital team.",
+      "respuestas": [
+        "charge"
+      ],
+      "explica": "In charge of = a cargo de. Es la forma natural de decir que lideras algo."
+    },
+    {
+      "id": "presentarse-018",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "LL",
+      "q": "What ___ you do? — I'm a copywriter.",
+      "respuestas": [
+        "do"
+      ],
+      "explica": "Con un verbo normal, la pregunta necesita la llave do: What do you do?"
+    },
+    {
+      "id": "presentarse-019",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "USO",
+      "q": "We ___ (be) based in Bogotá, but we work with clients all over Latin America.",
+      "respuestas": [
+        "are",
+        "'re"
+      ],
+      "explica": "Based in va con be: We're based in Bogotá."
+    },
+    {
+      "id": "presentarse-020",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "How ___ your weekend? — Great, thanks.",
+      "respuestas": [
+        "was"
+      ],
+      "explica": "El fin de semana ya pasó: How was your weekend?"
+    },
+    {
+      "id": "presentarse-021",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "BE",
+      "es": "Soy el director de cuentas.",
+      "en": "I'm the account director.",
+      "extra": [
+        "am",
+        "of"
+      ],
+      "explica": "I'm + cargo. Account director va junto, sin of."
+    },
+    {
+      "id": "presentarse-022",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "BE",
+      "es": "Trabajo en una agencia de publicidad.",
+      "en": "I work at an advertising agency.",
+      "extra": [
+        "am",
+        "working"
+      ],
+      "explica": "Lo que haces en general va en presente simple sin am: I work."
+    },
+    {
+      "id": "presentarse-023",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "USO",
+      "es": "Dirijo un equipo de seis personas.",
+      "en": "I lead a team of six people.",
+      "extra": [
+        "leads",
+        "persons"
+      ],
+      "explica": "Con I no hay -s, y «personas» es people."
+    },
+    {
+      "id": "presentarse-024",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "BE",
+      "es": "Trabajamos con clientes como Honda y Bancolombia.",
+      "en": "We work with clients like Honda and Bancolombia.",
+      "extra": [
+        "works",
+        "are"
+      ],
+      "explica": "We → work sin -s y sin are."
+    },
+    {
+      "id": "presentarse-025",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "LL",
+      "es": "¿Desde dónde trabajas? (¿Dónde estás ubicado?)",
+      "en": "Where are you based?",
+      "extra": [
+        "do",
+        "you're"
+      ],
+      "explica": "Based va con be, así que la pregunta usa are, no do."
+    },
+    {
+      "id": "presentarse-026",
+      "tipo": "ordenar",
+      "nivel": 3,
+      "code": "LL",
+      "es": "Mi jefe no viaja mucho.",
+      "en": "My boss doesn't travel much.",
+      "extra": [
+        "don't",
+        "travels"
+      ],
+      "explica": "My boss → doesn't, y después de la llave el verbo va en base: travel."
+    },
+    {
+      "id": "presentarse-027",
+      "tipo": "ordenar",
+      "nivel": 3,
+      "code": "WW",
+      "es": "¿Cómo estuvo el tráfico esta mañana?",
+      "en": "How was the traffic this morning?",
+      "extra": [
+        "were",
+        "did"
+      ],
+      "explica": "Traffic es singular → was. Con be no hace falta did."
+    },
+    {
+      "id": "presentarse-028",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "USO",
+      "frase": "I have 35 years.",
+      "correcta": false,
+      "correccion": [
+        "I'm 35.",
+        "I'm 35 years old.",
+        "I am 35.",
+        "I am 35 years old."
+      ],
+      "explica": "La edad va con be, no con have."
+    },
+    {
+      "id": "presentarse-029",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "USO",
+      "frase": "Nice to know you, Sarah.",
+      "correcta": false,
+      "correccion": [
+        "Nice to meet you, Sarah."
+      ],
+      "explica": "Al conocer a alguien se dice Nice to meet you."
+    },
+    {
+      "id": "presentarse-030",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "BE",
+      "frase": "I am work as a creative director.",
+      "correcta": false,
+      "correccion": [
+        "I work as a creative director."
+      ],
+      "explica": "Work es un verbo normal: no lleva am delante."
+    },
+    {
+      "id": "presentarse-031",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "3S",
+      "frase": "My boss go to the office every day.",
+      "correcta": false,
+      "correccion": [
+        "My boss goes to the office every day."
+      ],
+      "explica": "My boss es he/she → goes."
+    },
+    {
+      "id": "presentarse-032",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "VOC",
+      "frase": "I'm responsible of the Honda account.",
+      "correcta": false,
+      "correccion": [
+        "I'm responsible for the Honda account.",
+        "I am responsible for the Honda account."
+      ],
+      "explica": "Responsible for, siempre."
+    },
+    {
+      "id": "presentarse-033",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "We're based in Bogotá, but we have an office in Miami too.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Correcta: based in con be, y have sin -s porque el sujeto es we."
+    },
+    {
+      "id": "presentarse-034",
+      "tipo": "corregir",
+      "nivel": 3,
+      "code": "USO",
+      "frase": "We are six in my team.",
+      "correcta": false,
+      "correccion": [
+        "There are six of us on my team.",
+        "There are six people on my team.",
+        "There are six of us in my team.",
+        "There are six people in my team."
+      ],
+      "explica": "«Somos seis» se dice There are six of us. We are six suena a edad."
+    },
+    {
+      "id": "presentarse-035",
+      "tipo": "traducir",
+      "nivel": 1,
+      "code": "USO",
+      "es": "Mucho gusto. Soy Andrés.",
+      "respuestas": [
+        "Nice to meet you. I'm Andrés.",
+        "Nice to meet you. I am Andrés.",
+        "Nice to meet you, I'm Andrés.",
+        "Nice to meet you, I am Andrés."
+      ],
+      "explica": "Nice to meet you + I'm + nombre."
+    },
+    {
+      "id": "presentarse-036",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "LL",
+      "es": "¿A qué te dedicas?",
+      "respuestas": [
+        "What do you do?",
+        "What do you do for a living?"
+      ],
+      "explica": "La pregunta fija es What do you do?, con la llave do."
+    },
+    {
+      "id": "presentarse-037",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "VOC",
+      "es": "Estoy a cargo de la cuenta de Honda.",
+      "respuestas": [
+        "I'm in charge of the Honda account.",
+        "I am in charge of the Honda account."
+      ],
+      "explica": "In charge of + the + cliente + account."
+    },
+    {
+      "id": "presentarse-038",
+      "tipo": "traducir",
+      "nivel": 3,
+      "code": "USO",
+      "es": "Dirijo un equipo de ocho personas en Bogotá.",
+      "respuestas": [
+        "I lead a team of eight people in Bogotá.",
+        "I manage a team of eight people in Bogotá.",
+        "I lead a team of eight in Bogotá.",
+        "I manage a team of eight in Bogotá.",
+        "I lead a team of 8 people in Bogotá.",
+        "I manage a team of 8 people in Bogotá.",
+        "I lead a team of 8 in Bogotá.",
+        "I manage a team of 8 in Bogotá."
+      ],
+      "explica": "I lead / manage a team of + número (+ people)."
+    },
+    {
+      "id": "presentarse-039",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "WW",
+      "es": "¿Cómo estuvo tu fin de semana?",
+      "respuestas": [
+        "How was your weekend?"
+      ],
+      "explica": "Small talk de lunes: How was your weekend?"
+    },
+    {
+      "id": "presentarse-040",
+      "tipo": "escuchar",
+      "nivel": 1,
+      "code": "VOC",
+      "texto": "I'm in charge of the digital team.",
+      "respuestas": [
+        "I'm in charge of the digital team.",
+        "I am in charge of the digital team."
+      ],
+      "explica": "In charge of: fíjate en of, no de."
+    },
+    {
+      "id": "presentarse-041",
+      "tipo": "escuchar",
+      "nivel": 2,
+      "code": "USO",
+      "texto": "We work with clients like Honda and Bancolombia.",
+      "respuestas": [
+        "We work with clients like Honda and Bancolombia."
+      ],
+      "explica": "Work with clients like… es la forma natural de nombrar a tus clientes."
+    },
+    {
+      "id": "presentarse-042",
+      "tipo": "hablar",
+      "nivel": 1,
+      "code": "BE",
+      "consigna": "Preséntate ante un cliente nuevo en una videollamada: nombre, cargo, de qué estás a cargo y cuánta gente tienes en tu equipo. 30–40 segundos.",
+      "objetivo": "I'm… / I work as… / I'm in charge of… / I lead a team of…",
+      "ejemplo": "Hi everyone, I'm Jonathan. I'm the account director at the agency, and I'm in charge of the Honda account. I lead a team of six people: planners, creatives and a media specialist. Nice to meet you all.",
+      "explica": "Presentación de 20–30 segundos: I'm + nombre, I'm + cargo, I'm in charge of + cuenta, I lead a team of + número. Sin am delante de work y sin have para la edad."
+    },
+    {
+      "id": "presentarse-043",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "USO",
+      "consigna": "Explica qué hace tu agencia a alguien que no es del medio publicitario, en tres o cuatro frases.",
+      "objetivo": "We're a… / We help… / We work with…",
+      "ejemplo": "We're an advertising agency based in Bogotá. We help brands connect with people through campaigns, social media and data. We work with clients like Honda and Bancolombia, and we have about 120 people in the office.",
+      "explica": "Lo que hace la agencia va en presente simple: We're a…, We help…, We work with… Sin -s porque el sujeto es we."
+    },
+    {
+      "id": "presentarse-044",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "USO",
+      "consigna": "Es lunes. Estás en la llamada con Mike, de Nueva York, y faltan dos minutos para que lleguen los demás. Haz small talk: pregúntale por su fin de semana, cuéntale del tuyo y comenta el clima o el tráfico.",
+      "objetivo": "How was your weekend? / It was… / It's raining here… / the traffic was…",
+      "ejemplo": "Hey Mike, how was your weekend? … Mine was good, pretty quiet. We had lunch with my family on Sunday. It's raining here in Bogotá, as usual, and the traffic was terrible this morning. How's the weather in New York?",
+      "explica": "El fin de semana va en pasado (How was…? It was…), el clima con it (It's raining) y el tráfico con was (the traffic was terrible)."
+    },
+    {
+      "id": "presentarse-045",
+      "tipo": "hablar",
+      "nivel": 3,
+      "code": "3S",
+      "consigna": "Describe un día normal en tu trabajo: a qué hora empiezas, qué reuniones tienes, con quién trabajas y qué hace tu jefe. Cuida la -s de he/she.",
+      "objetivo": "Presente simple con -s en he/she y adverbios de frecuencia (usually, every Monday)",
+      "ejemplo": "I usually get to the office at 8:30. We have a status meeting every Monday. My boss works from Miami, so we talk on Teams every day. I spend most of the afternoon with the creative team, and I usually leave around 6:30.",
+      "explica": "Rutinas en presente simple. Con my boss (he/she) el verbo lleva -s: works, travels. Los adverbios (usually, every Monday) van antes del verbo o al final."
+    }
+  ]
+}

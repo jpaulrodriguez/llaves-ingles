@@ -1,0 +1,7 @@
+# Datos personales: se quedan solo en el Mac
+data/progreso/
+data/bandeja/
+data/feedback/
+.DS_Store
+*.tmp-*
+node_modules/

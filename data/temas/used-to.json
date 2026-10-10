@@ -1,0 +1,700 @@
+{
+  "id": "used-to",
+  "titulo": "Used to",
+  "grupo": "Tiempos verbales",
+  "orden": 70,
+  "nivel": "A2",
+  "resumen": "Hábitos y situaciones del pasado que ya no son así. Afirmativa used to; con did pierde la -d: didn't use to, Did you use to…?",
+  "llave": "used to",
+  "teoria": {
+    "paraQue": "Para hablar de hábitos y situaciones del pasado que ya no son así: dónde vivías, qué hacías de niño, cómo trabajaba tu agencia antes. Siempre lleva implícito un «pero ahora no».",
+    "llave": "Used to funciona como una llave fija delante del verbo base: I used to live… Para la negativa y la pregunta entra did, y entonces used pierde la -d, como cualquier verbo con su llave: I didn't use to…, Did you use to…? Respuesta corta: Yes, I did. / No, I didn't.",
+    "formulas": [
+      {
+        "tipo": "Afirmativa",
+        "formula": "Sujeto + used to + verbo base",
+        "ejemplo": "I [[used to]] {{live}} in Medellín."
+      },
+      {
+        "tipo": "Negativa",
+        "formula": "Sujeto + didn't use to + verbo base",
+        "ejemplo": "I [[did]]n't [[use to]] {{like}} coffee."
+      },
+      {
+        "tipo": "Pregunta",
+        "formula": "Did + sujeto + use to + verbo base?",
+        "ejemplo": "[[Did]] you [[use to]] {{play}} soccer?"
+      },
+      {
+        "tipo": "Pregunta con Wh-",
+        "formula": "Wh- + did + sujeto + use to + verbo base?",
+        "ejemplo": "Where [[did]] you [[use to]] {{work}}?"
+      },
+      {
+        "tipo": "Contraste con el presente",
+        "formula": "Sujeto + used to + verbo…, but now + presente simple",
+        "ejemplo": "I [[used to]] {{smoke}}, but now I {{go}} to the gym."
+      }
+    ],
+    "reglas": [
+      "Used to solo existe en pasado. No hay «use to» para hábitos de ahora: para el presente se usa el presente simple con usually.",
+      "Con did / didn't, used pierde la -d: didn't use to, Did you use to…? La marca de pasado se va con la llave.",
+      "Después de used to el verbo va en base, igual para todas las personas: She used to work (sin -s, sin -ed).",
+      "Used to es para hábitos o situaciones repetidas o duraderas. Para un hecho que pasó una sola vez se usa el pasado simple: Yesterday I went to the gym (no used to go).",
+      "El contraste típico es used to + but now + presente: I used to drive to work, but now I take the bus.",
+      "No lo confundas con be used to + -ing (estar acostumbrado): I'm used to waking up early = estoy acostumbrado; I used to wake up early = antes lo hacía y ya no."
+    ],
+    "senales": [
+      "when I was a child",
+      "when I was younger",
+      "years ago",
+      "before",
+      "in the past",
+      "but now",
+      "anymore",
+      "back then"
+    ],
+    "usos": [
+      {
+        "uso": "Dónde vivías o qué hacías antes",
+        "contexto": "diario",
+        "ejemplo": "I [[used to]] {{live}} in Medellín when I was a kid."
+      },
+      {
+        "uso": "Hábitos de niño o de joven",
+        "contexto": "diario",
+        "ejemplo": "I [[used to]] {{play}} soccer every weekend."
+      },
+      {
+        "uso": "Gustos que cambiaron",
+        "contexto": "diario",
+        "ejemplo": "I [[did]]n't [[use to]] {{like}} coffee, but now I love it."
+      },
+      {
+        "uso": "Cómo trabajaba la agencia antes",
+        "contexto": "trabajo",
+        "ejemplo": "We [[used to]] {{send}} reports by email; now we use a dashboard."
+      },
+      {
+        "uso": "Dónde trabajaba alguien antes",
+        "contexto": "trabajo",
+        "ejemplo": "My boss [[used to]] {{work}} at Ogilvy."
+      },
+      {
+        "uso": "Preguntar por la experiencia pasada de un colega",
+        "contexto": "trabajo",
+        "ejemplo": "[[Did]] you [[use to]] {{manage}} big accounts?"
+      }
+    ],
+    "errores": [
+      {
+        "mal": "I use to live in Cali.",
+        "bien": "I used to live in Cali.",
+        "porque": "En la afirmativa used lleva la -d: es pasado.",
+        "code": "UT"
+      },
+      {
+        "mal": "She didn't used to like sushi.",
+        "bien": "She didn't use to like sushi.",
+        "porque": "Con didn't la marca de pasado se va con la llave: use to.",
+        "code": "UT"
+      },
+      {
+        "mal": "Did you used to work here?",
+        "bien": "Did you use to work here?",
+        "porque": "Did ya lleva el pasado: use to.",
+        "code": "UT"
+      },
+      {
+        "mal": "Yesterday I used to go to the gym.",
+        "bien": "Yesterday I went to the gym.",
+        "porque": "Used to es para hábitos, no para un hecho de un día concreto.",
+        "code": "TPO"
+      },
+      {
+        "mal": "I am used to live in Bogotá when I was a kid.",
+        "bien": "I used to live in Bogotá when I was a kid.",
+        "porque": "Am used to significa estar acostumbrado y va con -ing. El hábito pasado es used to + base.",
+        "code": "UT"
+      },
+      {
+        "mal": "He used to works in sales.",
+        "bien": "He used to work in sales.",
+        "porque": "Después de used to el verbo va en base, sin -s.",
+        "code": "UT"
+      }
+    ],
+    "contraste": [
+      {
+        "a": "I [[used to]] {{go}} to the gym every day.",
+        "b": "I {{went}} to the gym yesterday.",
+        "nota": "Hábito que ya no tienes vs. hecho puntual."
+      },
+      {
+        "a": "I [[used to]] {{live}} in Medellín.",
+        "b": "I {{live}} in Bogotá now.",
+        "nota": "Antes vs. ahora: used to + but now + presente."
+      },
+      {
+        "a": "I [[used to]] {{wake}} up early.",
+        "b": "I[['m]] [[used to]] {{wak((ing))}} up early.",
+        "nota": "Hábito pasado (ya no) vs. estar acostumbrado (ahora)."
+      }
+    ],
+    "frases": [
+      {
+        "en": "I used to live in Medellín.",
+        "es": "Antes vivía en Medellín.",
+        "contexto": "diario"
+      },
+      {
+        "en": "I used to play soccer, but now I go to the gym.",
+        "es": "Antes jugaba fútbol, pero ahora voy al gimnasio.",
+        "contexto": "diario"
+      },
+      {
+        "en": "I didn't use to like coffee.",
+        "es": "Antes no me gustaba el café.",
+        "contexto": "diario"
+      },
+      {
+        "en": "Did you use to play an instrument?",
+        "es": "¿Tocabas algún instrumento?",
+        "contexto": "diario"
+      },
+      {
+        "en": "We used to send reports by email.",
+        "es": "Antes mandábamos los reportes por correo.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "My boss used to work at Ogilvy.",
+        "es": "Mi jefe trabajaba antes en Ogilvy.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Where did you use to work?",
+        "es": "¿Dónde trabajabas antes?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "We used to meet every day; now it's once a week.",
+        "es": "Antes nos reuníamos todos los días; ahora es una vez por semana.",
+        "contexto": "trabajo"
+      }
+    ],
+    "tip": "Used to es «antes sí, ahora no». Y cuando entra did, la d de used se la lleva la llave: didn't use to, Did you use to…?"
+  },
+  "ejercicios": [
+    {
+      "id": "used-to-001",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "UT",
+      "q": "I ___ live in Medellín, but now I live in Bogotá.",
+      "opciones": [
+        "used to",
+        "use to",
+        "was used to",
+        "used"
+      ],
+      "a": 0,
+      "explica": "Hábito pasado que ya no es así: used to + verbo base."
+    },
+    {
+      "id": "used-to-002",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "UT",
+      "q": "She ___ like coffee, but now she drinks it every day.",
+      "opciones": [
+        "didn't use to",
+        "didn't used to",
+        "don't use to",
+        "not used to"
+      ],
+      "a": 0,
+      "explica": "Negativa: didn't + use to (sin -d, porque did ya lleva el pasado)."
+    },
+    {
+      "id": "used-to-003",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "UT",
+      "q": "___ you ___ play soccer when you were a kid?",
+      "opciones": [
+        "Did / use to",
+        "Did / used to",
+        "Do / use to",
+        "Were / used to"
+      ],
+      "a": 0,
+      "explica": "Pregunta: Did + sujeto + use to + verbo. Used pierde la -d con did."
+    },
+    {
+      "id": "used-to-004",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "UT",
+      "q": "We ___ send reports by email; now we use a dashboard.",
+      "opciones": [
+        "used to",
+        "use to",
+        "were sending",
+        "are used to"
+      ],
+      "a": 0,
+      "explica": "Antes sí, ahora no: used to + send."
+    },
+    {
+      "id": "used-to-005",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "TPO",
+      "q": "Last year we ___ the campaign in March. It was a one-time event.",
+      "opciones": [
+        "launched",
+        "used to launch",
+        "use to launch",
+        "were used to launch"
+      ],
+      "a": 0,
+      "explica": "Un hecho único y fechado va en pasado simple. Used to es solo para hábitos repetidos."
+    },
+    {
+      "id": "used-to-006",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "UT",
+      "q": "My boss ___ work at Ogilvy before Brava.",
+      "opciones": [
+        "used to",
+        "use to",
+        "uses to",
+        "is used to"
+      ],
+      "a": 0,
+      "explica": "Situación pasada que ya no es: used to work. Uses to no existe."
+    },
+    {
+      "id": "used-to-007",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "UT",
+      "q": "I didn't ___ get up early, but now I go to the gym at 6.",
+      "opciones": [
+        "use to",
+        "used to",
+        "using to",
+        "use"
+      ],
+      "a": 0,
+      "explica": "Después de didn't: use to (la -d se fue con la llave)."
+    },
+    {
+      "id": "used-to-008",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "UT",
+      "q": "Did Camila ___ work in Medellín?",
+      "opciones": [
+        "use to",
+        "used to",
+        "uses to",
+        "be use to"
+      ],
+      "a": 0,
+      "explica": "Después de Did: use to."
+    },
+    {
+      "id": "used-to-009",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "TPO",
+      "q": "Yesterday I ___ my old boss at the mall.",
+      "opciones": [
+        "saw",
+        "used to see",
+        "use to see",
+        "was used to see"
+      ],
+      "a": 0,
+      "explica": "Yesterday = un hecho puntual: pasado simple (saw). Used to no sirve para una sola vez."
+    },
+    {
+      "id": "used-to-010",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "UT",
+      "q": "He ___ be shy, but now he presents to clients every week.",
+      "opciones": [
+        "used to",
+        "use to",
+        "didn't use to",
+        "uses to"
+      ],
+      "a": 0,
+      "explica": "Antes era tímido y ya no: used to be. Didn't use to diría lo contrario."
+    },
+    {
+      "id": "used-to-011",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "UT",
+      "q": "I ___ (used to / smoke), but I quit two years ago.",
+      "respuestas": [
+        "used to smoke"
+      ],
+      "explica": "Afirmativa: used to + verbo base."
+    },
+    {
+      "id": "used-to-012",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "UT",
+      "q": "We ___ (not / used to / have) a design team; now we have five designers.",
+      "respuestas": [
+        "didn't use to have",
+        "did not use to have"
+      ],
+      "explica": "Negativa: didn't use to + have. Used pierde la -d."
+    },
+    {
+      "id": "used-to-013",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "UT",
+      "q": "___ (you / used to / live) in Cali?",
+      "respuestas": [
+        "Did you use to live"
+      ],
+      "explica": "Pregunta: Did + you + use to + live."
+    },
+    {
+      "id": "used-to-014",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "UT",
+      "q": "When I was a kid, my dad ___ (used to / drive) me to school every day.",
+      "respuestas": [
+        "used to drive"
+      ],
+      "explica": "Hábito repetido del pasado: used to drive."
+    },
+    {
+      "id": "used-to-015",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "UT",
+      "q": "Laura ___ (used to / work) in sales before she joined the creative team.",
+      "respuestas": [
+        "used to work"
+      ],
+      "explica": "Used to + verbo base; sin -s aunque sea she."
+    },
+    {
+      "id": "used-to-016",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "UT",
+      "q": "Where ___ (you / used to / go) on vacation when you were a child?",
+      "respuestas": [
+        "did you use to go"
+      ],
+      "explica": "Where + did + you + use to + go."
+    },
+    {
+      "id": "used-to-017",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "UT",
+      "q": "I ___ (not / used to / like) presentations, but now I enjoy them.",
+      "respuestas": [
+        "didn't use to like",
+        "did not use to like"
+      ],
+      "explica": "Didn't use to + like. El contraste con but now es la señal típica."
+    },
+    {
+      "id": "used-to-018",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "UT",
+      "q": "___ (your team / used to / meet) every day?",
+      "respuestas": [
+        "Did your team use to meet"
+      ],
+      "explica": "Did + your team + use to + meet."
+    },
+    {
+      "id": "used-to-019",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "UT",
+      "es": "Yo vivía en Medellín.",
+      "en": "I used to live in Medellín.",
+      "extra": [
+        "use",
+        "was"
+      ],
+      "explica": "Afirmativa: used (con -d) + to + live."
+    },
+    {
+      "id": "used-to-020",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "UT",
+      "es": "Ella no solía tomar café.",
+      "en": "She didn't use to drink coffee.",
+      "extra": [
+        "used",
+        "doesn't"
+      ],
+      "explica": "Negativa: didn't + use to. La -d se va con la llave."
+    },
+    {
+      "id": "used-to-021",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "UT",
+      "es": "¿Solías jugar fútbol?",
+      "en": "Did you use to play soccer?",
+      "extra": [
+        "used",
+        "Do"
+      ],
+      "explica": "Pregunta: Did + you + use to + play."
+    },
+    {
+      "id": "used-to-022",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "UT",
+      "es": "Antes mandábamos reportes por correo.",
+      "en": "We used to send reports by email.",
+      "extra": [
+        "use",
+        "sent"
+      ],
+      "explica": "Used to + send (base). Sent sería pasado simple sin used to."
+    },
+    {
+      "id": "used-to-023",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "UT",
+      "es": "Yo solía ser muy tímido, pero ahora hablo con todos.",
+      "en": "I used to be very shy, but now I talk to everyone.",
+      "extra": [
+        "use",
+        "was"
+      ],
+      "explica": "Used to be + adjetivo; el presente (talk) va después de but now."
+    },
+    {
+      "id": "used-to-024",
+      "tipo": "ordenar",
+      "nivel": 3,
+      "code": "UT",
+      "es": "¿Dónde solía trabajar tu jefe?",
+      "en": "Where did your boss use to work?",
+      "extra": [
+        "used",
+        "does"
+      ],
+      "explica": "Where + did + your boss + use to + work."
+    },
+    {
+      "id": "used-to-025",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "UT",
+      "frase": "I use to live in Cali.",
+      "correcta": false,
+      "correccion": [
+        "I used to live in Cali."
+      ],
+      "explica": "En la afirmativa used lleva la -d."
+    },
+    {
+      "id": "used-to-026",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "UT",
+      "frase": "She didn't used to like sushi.",
+      "correcta": false,
+      "correccion": [
+        "She didn't use to like sushi."
+      ],
+      "explica": "Con didn't, used pierde la -d."
+    },
+    {
+      "id": "used-to-027",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "UT",
+      "frase": "Did you used to work here?",
+      "correcta": false,
+      "correccion": [
+        "Did you use to work here?"
+      ],
+      "explica": "Con Did, use to (sin -d)."
+    },
+    {
+      "id": "used-to-028",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "UT",
+      "frase": "We used to have meetings every Monday, but now we have them on Fridays.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Correcta: hábito pasado + but now + presente."
+    },
+    {
+      "id": "used-to-029",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "TPO",
+      "frase": "Yesterday I used to go to the gym.",
+      "correcta": false,
+      "correccion": [
+        "Yesterday I went to the gym."
+      ],
+      "explica": "Un hecho de un día concreto va en pasado simple; used to es para hábitos."
+    },
+    {
+      "id": "used-to-030",
+      "tipo": "transformar",
+      "nivel": 1,
+      "code": "UT",
+      "frase": "I used to eat a lot of junk food.",
+      "instruccion": "Pásala a negativa.",
+      "respuestas": [
+        "I didn't use to eat a lot of junk food.",
+        "I did not use to eat a lot of junk food."
+      ],
+      "explica": "Didn't use to + verbo. La -d de used se va con la llave."
+    },
+    {
+      "id": "used-to-031",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "UT",
+      "frase": "They used to work on weekends.",
+      "instruccion": "Pásala a pregunta.",
+      "respuestas": [
+        "Did they use to work on weekends?"
+      ],
+      "explica": "Did + they + use to + work."
+    },
+    {
+      "id": "used-to-032",
+      "tipo": "transformar",
+      "nivel": 3,
+      "code": "UT",
+      "frase": "He used to live in Miami.",
+      "instruccion": "Hazla pregunta con Where.",
+      "respuestas": [
+        "Where did he use to live?"
+      ],
+      "explica": "Where + did + he + use to + live."
+    },
+    {
+      "id": "used-to-033",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "UT",
+      "frase": "I play video games every day.",
+      "instruccion": "Conviértela en un hábito del pasado que ya no tienes.",
+      "respuestas": [
+        "I used to play video games every day.",
+        "I used to play video games."
+      ],
+      "explica": "Presente (hábito actual) → used to + base (hábito que ya no)."
+    },
+    {
+      "id": "used-to-034",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "UT",
+      "es": "Antes no me gustaba el café, pero ahora lo tomo todos los días.",
+      "respuestas": [
+        "I didn't use to like coffee, but now I drink it every day.",
+        "I didn't use to like coffee, but now I have it every day."
+      ],
+      "explica": "Didn't use to + like; el presente después de but now."
+    },
+    {
+      "id": "used-to-035",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "UT",
+      "es": "¿Solías trabajar en una agencia?",
+      "respuestas": [
+        "Did you use to work at an agency?",
+        "Did you use to work in an agency?",
+        "Did you use to work for an agency?"
+      ],
+      "explica": "Did + you + use to + work."
+    },
+    {
+      "id": "used-to-036",
+      "tipo": "traducir",
+      "nivel": 3,
+      "code": "UT",
+      "es": "Solíamos presentar con diapositivas; ahora usamos videos.",
+      "respuestas": [
+        "We used to present with slides; now we use videos.",
+        "We used to present with slides, but now we use videos.",
+        "We used to present with slides. Now we use videos."
+      ],
+      "explica": "Used to + present; el presente (use) para lo de ahora."
+    },
+    {
+      "id": "used-to-037",
+      "tipo": "identificar",
+      "nivel": 1,
+      "code": "UT",
+      "frase": "I used to run every morning.",
+      "opciones": [
+        "Hábito del pasado que ya no existe",
+        "Acción única en el pasado",
+        "Hábito actual",
+        "Acción en progreso en el pasado"
+      ],
+      "a": 0,
+      "explica": "Used to = antes sí, ahora no. Un hecho único iría en pasado simple (I ran)."
+    },
+    {
+      "id": "used-to-038",
+      "tipo": "escuchar",
+      "nivel": 1,
+      "code": "UT",
+      "texto": "I used to live in Medellín, but now I live in Bogotá.",
+      "respuestas": [
+        "I used to live in Medellín, but now I live in Bogotá."
+      ],
+      "explica": "Used to suena /juːstə/: la -d casi no se oye, pero se escribe."
+    },
+    {
+      "id": "used-to-039",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "UT",
+      "consigna": "Cuenta tres cosas que hacías antes y ya no haces (de niño, en la universidad o en tu primer trabajo) y qué haces ahora en su lugar.",
+      "objetivo": "used to / didn't use to + but now + presente simple.",
+      "ejemplo": "I used to play soccer every weekend, but now I go to the gym. I didn't use to drink coffee, but now I drink three cups a day. I used to live with my parents; now I live with my wife.",
+      "explica": "Used to para el antes, presente simple para el ahora. Recuerda didn't use to (sin -d) para lo que no hacías."
+    },
+    {
+      "id": "used-to-040",
+      "tipo": "hablar",
+      "nivel": 3,
+      "code": "UT",
+      "consigna": "Compara cómo trabajaba tu agencia hace cinco años y cómo trabaja ahora: herramientas, reuniones, clientes.",
+      "objetivo": "We used to… ; now we… (hábitos de equipo).",
+      "ejemplo": "We used to send reports by email; now we use a dashboard. We used to meet in person every day, but now we have one meeting a week. We didn't use to work with AI tools, and now we use them every day.",
+      "explica": "Alterna afirmativa y negativa: we used to…, we didn't use to…, y cierra con now we…."
+    }
+  ]
+}

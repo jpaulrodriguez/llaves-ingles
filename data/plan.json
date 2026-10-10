@@ -1,0 +1,56 @@
+{
+  "actualizado": "10 oct 2026",
+  "mensaje": "Tu diagnóstico dio 72 %. El pasado simple está firme (8/8); la llave que más se rompe es [[be]] + {{-ing}}: «I preparing», «What did you doing». Esta semana: los dos continuos contrastados con el simple, modales sin «to» y, en paralelo, presente perfecto para tu bucket list del 21–22.",
+  "foco": [
+    { "tema": "pasado-continuo", "peso": 3 },
+    { "tema": "presente-continuo", "peso": 2 },
+    { "tema": "contraste-pasados", "peso": 2 },
+    { "tema": "modales", "peso": 1 },
+    { "tema": "presente-perfecto", "peso": 1 },
+    { "tema": "reuniones", "peso": 1 }
+  ],
+  "codigos": ["ING", "WW", "MOD", "3S"],
+  "consignas": [
+    {
+      "id": "v-001",
+      "consigna": "¿Qué estabas haciendo ayer a las 8 pm? Cuenta algo que pasó mientras lo hacías.",
+      "objetivo": "Pasado continuo + simple · was/were + -ing · when / while",
+      "ejemplo": "At 8 pm I was cooking dinner when my sister called. While we were talking, the rice burned, so we ordered pizza."
+    },
+    {
+      "id": "v-002",
+      "consigna": "Un colega te llama y estás ocupado. Explícale en qué estás trabajando esta semana y ofrécele algo para mañana.",
+      "objetivo": "Presente continuo + I'll",
+      "ejemplo": "Sorry, I'm finishing a presentation for a client right now. This week we're working on the new campaign. I'll call you tomorrow morning and I'll send you the numbers."
+    },
+    {
+      "id": "v-003",
+      "consigna": "En una reunión, das tu opinión sobre una propuesta y no estás de acuerdo con una parte. Cierra comprometiéndote a algo.",
+      "objetivo": "I think… · I see your point, but… · I'll…",
+      "ejemplo": "I think the idea is strong. I see your point about the budget, but I don't agree with the timeline. I'll review the plan and send you a new version by Friday."
+    },
+    {
+      "id": "v-004",
+      "consigna": "Tu bucket list: tres cosas que nunca has hecho y quieres hacer, y una que ya hiciste.",
+      "objetivo": "Presente perfecto · I've never… · I've always wanted to… · I've already…",
+      "ejemplo": "I've never been to Japan, and I've always wanted to see Kyoto. I've never run a marathon. I've already visited Mexico City, and I loved it."
+    }
+  ],
+  "lineaBase": {
+    "fuente": "Diagnóstico 10-oct-2026 · 72 % (43/60)",
+    "areas": [
+      { "area": "Pasado simple", "pct": 100 },
+      { "area": "Used to", "pct": 100 },
+      { "area": "Sujeto (it / there)", "pct": 100 },
+      { "area": "Modales", "pct": 83 },
+      { "area": "Presente simple", "pct": 80 },
+      { "area": "Comparativos", "pct": 75 },
+      { "area": "Uso cotidiano y profesional", "pct": 67 },
+      { "area": "Presente continuo", "pct": 60 },
+      { "area": "Cuantificadores", "pct": 50 },
+      { "area": "Pronombres indefinidos", "pct": 50 },
+      { "area": "Conectores", "pct": 50 },
+      { "area": "Pasado continuo", "pct": 25 }
+    ]
+  }
+}

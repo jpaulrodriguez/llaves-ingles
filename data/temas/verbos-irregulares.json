@@ -1,0 +1,1039 @@
+{
+  "id": "verbos-irregulares",
+  "titulo": "Verbos irregulares",
+  "grupo": "Vocabulario",
+  "orden": 300,
+  "nivel": "A2",
+  "resumen": "Los ~60 irregulares más frecuentes agrupados por sonido: base → pasado → participio, siempre dentro de una frase.",
+  "llave": "base → pasado → participio",
+  "teoria": {
+    "paraQue": "Los verbos irregulares no llevan -ed: cambian de forma. Son pocos (unos 60 cubren casi todo lo que se habla) pero son los más usados: go, have, make, get, say, take, see. Sin ellos no se puede contar nada en pasado.",
+    "llave": "Cada verbo tiene tres formas: base → pasado → participio. La base va después de las llaves (did, didn't, will, used to). El pasado va solo en la afirmativa del pasado simple. El participio va después de have/has (presente perfecto) y de be (pasiva). Aprenderlos por familias de sonido es más fácil que en orden alfabético.",
+    "formulas": [
+      {
+        "tipo": "Base (después de una llave)",
+        "formula": "did / didn't / will / can + base",
+        "ejemplo": "[[Did]] you {{buy}} it? I [[did]]n't {{buy}} it."
+      },
+      {
+        "tipo": "Pasado (afirmativa del pasado simple)",
+        "formula": "Sujeto + pasado",
+        "ejemplo": "I {{bought}} it yesterday."
+      },
+      {
+        "tipo": "Participio (presente perfecto)",
+        "formula": "have / has + participio",
+        "ejemplo": "I [[have]] {{bought}} it. She [[has]] {{written}} the report."
+      }
+    ],
+    "reglas": [
+      "Familia -ought / -aught (suenan igual, /ɔːt/): buy → bought → bought · bring → brought → brought · think → thought → thought · teach → taught → taught · catch → caught → caught · fight → fought → fought.",
+      "Familia i → a → u: sing → sang → sung · ring → rang → rung · drink → drank → drunk · begin → began → begun · swim → swam → swum. (Run → ran → run es la excepción.)",
+      "Familia -ew → -own: know → knew → known · grow → grew → grown · throw → threw → thrown · blow → blew → blown · fly → flew → flown · draw → drew → drawn.",
+      "Familia -o- → -en: write → wrote → written · drive → drove → driven · ride → rode → ridden · speak → spoke → spoken · break → broke → broken · choose → chose → chosen · wake → woke → woken · steal → stole → stolen · freeze → froze → frozen.",
+      "Familia -ook / -ake: take → took → taken · shake → shook → shaken · mistake → mistook → mistaken.",
+      "Familia terminada en -t (pasado = participio): send → sent · spend → spent · build → built · lend → lent · lose → lost · leave → left · feel → felt · keep → kept · sleep → slept · meet → met · mean → meant · sit → sat · get → got (participio gotten).",
+      "Familia -old / -ound / -ood (pasado = participio): tell → told · sell → sold · find → found · stand → stood · understand → understood.",
+      "Familia pasado = participio con cambio de vocal: say → said · pay → paid · make → made · have → had · hear → heard · read → read (se escribe igual, suena /red/) · win → won · wear → wore → worn.",
+      "Familia tres formas iguales: put · cut · let · cost · hit · hurt · set · shut. Put → put → put.",
+      "Los salvajes (cada uno a su manera): go → went → gone · do → did → done · see → saw → seen · eat → ate → eaten · give → gave → given · come → came → come · become → became → become · forget → forgot → forgotten · fall → fell → fallen · be → was/were → been."
+    ],
+    "senales": [
+      "yesterday",
+      "last week",
+      "ago",
+      "Did you…? (base)",
+      "have / has (participio)"
+    ],
+    "usos": [
+      {
+        "uso": "Contar tu día",
+        "contexto": "diario",
+        "ejemplo": "I {{woke}} up late, {{made}} coffee and {{took}} the bus."
+      },
+      {
+        "uso": "Compras y planes del fin de semana",
+        "contexto": "diario",
+        "ejemplo": "We {{bought}} tickets and {{saw}} a movie."
+      },
+      {
+        "uso": "Cosas que te pasaron",
+        "contexto": "diario",
+        "ejemplo": "I {{lost}} my keys and {{forgot}} my password."
+      },
+      {
+        "uso": "Reportar una reunión",
+        "contexto": "trabajo",
+        "ejemplo": "We {{met}} the client, {{told}} her the plan and she {{chose}} option B."
+      },
+      {
+        "uso": "Entregas y correos",
+        "contexto": "trabajo",
+        "ejemplo": "I {{sent}} the deck and {{brought}} the printed version."
+      },
+      {
+        "uso": "Resultados de un pitch",
+        "contexto": "trabajo",
+        "ejemplo": "We {{won}} the pitch! They {{thought}} our idea was the best."
+      }
+    ],
+    "errores": [
+      {
+        "mal": "I buyed a new phone.",
+        "bien": "I bought a new phone.",
+        "porque": "Buy es irregular: bought. No lleva -ed.",
+        "code": "IRR"
+      },
+      {
+        "mal": "She teached me English.",
+        "bien": "She taught me English.",
+        "porque": "Teach → taught (familia -aught).",
+        "code": "IRR"
+      },
+      {
+        "mal": "We drunk a lot of coffee.",
+        "bien": "We drank a lot of coffee.",
+        "porque": "Drunk es el participio; el pasado simple es drank.",
+        "code": "IRR"
+      },
+      {
+        "mal": "Did you went to the party?",
+        "bien": "Did you go to the party?",
+        "porque": "Después de did el verbo va en base.",
+        "code": "DM"
+      },
+      {
+        "mal": "He goed to the office.",
+        "bien": "He went to the office.",
+        "porque": "Go → went: ninguna regla lo predice, hay que memorizarlo.",
+        "code": "IRR"
+      },
+      {
+        "mal": "I have saw that movie.",
+        "bien": "I have seen that movie.",
+        "porque": "Después de have va el participio (seen), no el pasado (saw).",
+        "code": "PP"
+      },
+      {
+        "mal": "The client choosed option B.",
+        "bien": "The client chose option B.",
+        "porque": "Choose → chose → chosen.",
+        "code": "IRR"
+      }
+    ],
+    "frases": [
+      {
+        "en": "I bought it two days ago.",
+        "es": "Lo compré hace dos días.",
+        "contexto": "diario"
+      },
+      {
+        "en": "I forgot my password.",
+        "es": "Olvidé mi contraseña.",
+        "contexto": "diario"
+      },
+      {
+        "en": "I slept really badly last night.",
+        "es": "Dormí muy mal anoche.",
+        "contexto": "diario"
+      },
+      {
+        "en": "We ate at that new place.",
+        "es": "Comimos en ese sitio nuevo.",
+        "contexto": "diario"
+      },
+      {
+        "en": "I didn't understand the question.",
+        "es": "No entendí la pregunta.",
+        "contexto": "diario"
+      },
+      {
+        "en": "She told me about it.",
+        "es": "Ella me contó.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I sent you the deck yesterday.",
+        "es": "Te envié el deck ayer.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "We won the pitch!",
+        "es": "¡Ganamos el pitch!",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "The client chose the second option.",
+        "es": "El cliente eligió la segunda opción.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I thought it was a good idea.",
+        "es": "Pensé que era una buena idea.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "We spent the whole budget.",
+        "es": "Gastamos todo el presupuesto.",
+        "contexto": "trabajo"
+      }
+    ],
+    "tip": "Aprende cada verbo cantado en su familia (bought, brought, thought, taught) y siempre dentro de una frase tuya. Un verbo suelto se olvida; una frase se queda."
+  },
+  "ejercicios": [
+    {
+      "id": "verbos-irregulares-001",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "IRR",
+      "pares": [
+        [
+          "buy",
+          "bought"
+        ],
+        [
+          "bring",
+          "brought"
+        ],
+        [
+          "think",
+          "thought"
+        ],
+        [
+          "teach",
+          "taught"
+        ],
+        [
+          "catch",
+          "caught"
+        ]
+      ],
+      "explica": "Familia -ought / -aught: todas suenan /ɔːt/."
+    },
+    {
+      "id": "verbos-irregulares-002",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "IRR",
+      "pares": [
+        [
+          "sing",
+          "sang"
+        ],
+        [
+          "ring",
+          "rang"
+        ],
+        [
+          "drink",
+          "drank"
+        ],
+        [
+          "begin",
+          "began"
+        ],
+        [
+          "swim",
+          "swam"
+        ]
+      ],
+      "explica": "Familia i → a: el pasado cambia la i por a (el participio por u: sung, rung, drunk)."
+    },
+    {
+      "id": "verbos-irregulares-003",
+      "tipo": "emparejar",
+      "nivel": 2,
+      "code": "IRR",
+      "pares": [
+        [
+          "know",
+          "knew"
+        ],
+        [
+          "grow",
+          "grew"
+        ],
+        [
+          "throw",
+          "threw"
+        ],
+        [
+          "fly",
+          "flew"
+        ],
+        [
+          "draw",
+          "drew"
+        ]
+      ],
+      "explica": "Familia -ew: knew, grew, threw, flew, drew. Participios en -own / -awn."
+    },
+    {
+      "id": "verbos-irregulares-004",
+      "tipo": "emparejar",
+      "nivel": 2,
+      "code": "IRR",
+      "pares": [
+        [
+          "write",
+          "wrote"
+        ],
+        [
+          "drive",
+          "drove"
+        ],
+        [
+          "speak",
+          "spoke"
+        ],
+        [
+          "break",
+          "broke"
+        ],
+        [
+          "choose",
+          "chose"
+        ]
+      ],
+      "explica": "Familia con o en el pasado: wrote, drove, spoke, broke, chose. Participios en -en."
+    },
+    {
+      "id": "verbos-irregulares-005",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "IRR",
+      "pares": [
+        [
+          "send",
+          "sent"
+        ],
+        [
+          "spend",
+          "spent"
+        ],
+        [
+          "leave",
+          "left"
+        ],
+        [
+          "feel",
+          "felt"
+        ],
+        [
+          "keep",
+          "kept"
+        ],
+        [
+          "sleep",
+          "slept"
+        ]
+      ],
+      "explica": "Familia -t: el pasado y el participio son iguales (sent, sent)."
+    },
+    {
+      "id": "verbos-irregulares-006",
+      "tipo": "emparejar",
+      "nivel": 3,
+      "code": "PP",
+      "pares": [
+        [
+          "took",
+          "taken"
+        ],
+        [
+          "wrote",
+          "written"
+        ],
+        [
+          "spoke",
+          "spoken"
+        ],
+        [
+          "saw",
+          "seen"
+        ],
+        [
+          "went",
+          "gone"
+        ]
+      ],
+      "explica": "Pasado ↔ participio: el participio va después de have/has."
+    },
+    {
+      "id": "verbos-irregulares-007",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "IRR",
+      "q": "I ___ about your idea all night.",
+      "opciones": [
+        "thought",
+        "thinked",
+        "think",
+        "thinking"
+      ],
+      "a": 0,
+      "explica": "Think → thought (familia -ought)."
+    },
+    {
+      "id": "verbos-irregulares-008",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "DM",
+      "q": "Did you ___ the email to the client?",
+      "opciones": [
+        "send",
+        "sent",
+        "sended",
+        "sending"
+      ],
+      "a": 0,
+      "explica": "Después de did el verbo va en base: send."
+    },
+    {
+      "id": "verbos-irregulares-009",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "IRR",
+      "q": "She ___ me how to use the new software.",
+      "opciones": [
+        "taught",
+        "teached",
+        "teach",
+        "taugh"
+      ],
+      "a": 0,
+      "explica": "Teach → taught."
+    },
+    {
+      "id": "verbos-irregulares-010",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "IRR",
+      "q": "We ___ the pitch last week!",
+      "opciones": [
+        "won",
+        "winned",
+        "win",
+        "wan"
+      ],
+      "a": 0,
+      "explica": "Win → won → won."
+    },
+    {
+      "id": "verbos-irregulares-011",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "IRR",
+      "q": "He ___ his keys again.",
+      "opciones": [
+        "lost",
+        "losed",
+        "lose",
+        "loosed"
+      ],
+      "a": 0,
+      "explica": "Lose → lost → lost (familia -t)."
+    },
+    {
+      "id": "verbos-irregulares-012",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "IRR",
+      "q": "They ___ a new website in two weeks.",
+      "opciones": [
+        "built",
+        "builded",
+        "build",
+        "builted"
+      ],
+      "a": 0,
+      "explica": "Build → built → built."
+    },
+    {
+      "id": "verbos-irregulares-013",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "IRR",
+      "q": "I ___ three cups of coffee this morning.",
+      "opciones": [
+        "drank",
+        "drunk",
+        "drinked",
+        "drink"
+      ],
+      "a": 0,
+      "explica": "Pasado simple: drank. Drunk es el participio (have drunk)."
+    },
+    {
+      "id": "verbos-irregulares-014",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "IRR",
+      "q": "The client ___ option B.",
+      "opciones": [
+        "chose",
+        "choosed",
+        "choose",
+        "chosen"
+      ],
+      "a": 0,
+      "explica": "Choose → chose → chosen. Chosen es el participio."
+    },
+    {
+      "id": "verbos-irregulares-015",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "IRR",
+      "q": "¿Cuál verbo NO sigue el patrón i → a (sing → sang)?",
+      "opciones": [
+        "bring",
+        "sing",
+        "ring",
+        "drink"
+      ],
+      "a": 0,
+      "explica": "Bring → brought (familia -ought), aunque se parezca a ring y sing."
+    },
+    {
+      "id": "verbos-irregulares-016",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "PP",
+      "q": "¿Cuál es el participio de write?",
+      "opciones": [
+        "written",
+        "wrote",
+        "writed",
+        "wroten"
+      ],
+      "a": 0,
+      "explica": "Write → wrote → written. El participio va después de have."
+    },
+    {
+      "id": "verbos-irregulares-017",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "IRR",
+      "q": "She ___ the report and left early.",
+      "opciones": [
+        "wrote",
+        "written",
+        "writed",
+        "write"
+      ],
+      "a": 0,
+      "explica": "Pasado simple: wrote. Written solo después de have/has."
+    },
+    {
+      "id": "verbos-irregulares-018",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "IRR",
+      "q": "I ___ asleep during the movie.",
+      "opciones": [
+        "fell",
+        "felt",
+        "fall",
+        "falled"
+      ],
+      "a": 0,
+      "explica": "Fall → fell → fallen. Cuidado: felt es el pasado de feel."
+    },
+    {
+      "id": "verbos-irregulares-019",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "IRR",
+      "q": "We ___ the brief twice before the meeting.",
+      "opciones": [
+        "read",
+        "readed",
+        "red",
+        "reading"
+      ],
+      "a": 0,
+      "explica": "Read → read → read: se escribe igual, pero el pasado suena /red/."
+    },
+    {
+      "id": "verbos-irregulares-020",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "IRR",
+      "q": "The meeting ___ at 9 and finished at 11.",
+      "opciones": [
+        "began",
+        "begun",
+        "beginned",
+        "begin"
+      ],
+      "a": 0,
+      "explica": "Begin → began → begun. Begun es el participio."
+    },
+    {
+      "id": "verbos-irregulares-021",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "IRR",
+      "q": "Laura ___ (bring) the samples to the meeting.",
+      "respuestas": [
+        "brought"
+      ],
+      "explica": "Bring → brought (familia -ought)."
+    },
+    {
+      "id": "verbos-irregulares-022",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "IRR",
+      "q": "We ___ (speak) to the client yesterday.",
+      "respuestas": [
+        "spoke"
+      ],
+      "explica": "Speak → spoke → spoken."
+    },
+    {
+      "id": "verbos-irregulares-023",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "IRR",
+      "q": "I ___ (forget) my password again.",
+      "respuestas": [
+        "forgot"
+      ],
+      "explica": "Forget → forgot → forgotten."
+    },
+    {
+      "id": "verbos-irregulares-024",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "IRR",
+      "q": "He ___ (teach) me how to use the dashboard.",
+      "respuestas": [
+        "taught"
+      ],
+      "explica": "Teach → taught."
+    },
+    {
+      "id": "verbos-irregulares-025",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "IRR",
+      "q": "They ___ (build) the landing page in two days.",
+      "respuestas": [
+        "built"
+      ],
+      "explica": "Build → built."
+    },
+    {
+      "id": "verbos-irregulares-026",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "IRR",
+      "q": "I ___ (lose) my keys at the gym.",
+      "respuestas": [
+        "lost"
+      ],
+      "explica": "Lose → lost."
+    },
+    {
+      "id": "verbos-irregulares-027",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "IRR",
+      "q": "The meeting ___ (begin) late because of the traffic.",
+      "respuestas": [
+        "began"
+      ],
+      "explica": "Begin → began (pasado); begun es el participio."
+    },
+    {
+      "id": "verbos-irregulares-028",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "IRR",
+      "q": "She ___ (wear) a red dress to the party.",
+      "respuestas": [
+        "wore"
+      ],
+      "explica": "Wear → wore → worn."
+    },
+    {
+      "id": "verbos-irregulares-029",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "IRR",
+      "q": "The client ___ (choose) the second option.",
+      "respuestas": [
+        "chose"
+      ],
+      "explica": "Choose → chose → chosen."
+    },
+    {
+      "id": "verbos-irregulares-030",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "IRR",
+      "q": "We ___ (spend) the whole budget on media.",
+      "respuestas": [
+        "spent"
+      ],
+      "explica": "Spend → spent (familia -t)."
+    },
+    {
+      "id": "verbos-irregulares-031",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "IRR",
+      "q": "I ___ (understand) the brief after the second call.",
+      "respuestas": [
+        "understood"
+      ],
+      "explica": "Understand → understood (como stand → stood)."
+    },
+    {
+      "id": "verbos-irregulares-032",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "IRR",
+      "q": "Mike ___ (fly) to Miami for the shoot.",
+      "respuestas": [
+        "flew"
+      ],
+      "explica": "Fly → flew → flown (familia -ew)."
+    },
+    {
+      "id": "verbos-irregulares-033",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "IRR",
+      "es": "Compré los boletos ayer.",
+      "en": "I bought the tickets yesterday.",
+      "extra": [
+        "buyed",
+        "buy"
+      ],
+      "explica": "Buy → bought. No lleva -ed."
+    },
+    {
+      "id": "verbos-irregulares-034",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "IRR",
+      "es": "Ella me dijo la verdad.",
+      "en": "She told me the truth.",
+      "extra": [
+        "telled",
+        "tell"
+      ],
+      "explica": "Tell → told."
+    },
+    {
+      "id": "verbos-irregulares-035",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "DM",
+      "es": "¿Trajiste el contrato?",
+      "en": "Did you bring the contract?",
+      "extra": [
+        "brought",
+        "Do"
+      ],
+      "explica": "Después de Did el verbo va en base: bring. Brought solo en afirmativa."
+    },
+    {
+      "id": "verbos-irregulares-036",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "IRR",
+      "es": "Perdimos el pitch la semana pasada.",
+      "en": "We lost the pitch last week.",
+      "extra": [
+        "losed",
+        "lose"
+      ],
+      "explica": "Lose → lost."
+    },
+    {
+      "id": "verbos-irregulares-037",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "IRR",
+      "es": "Él escribió el correo anoche.",
+      "en": "He wrote the email last night.",
+      "extra": [
+        "writed",
+        "written"
+      ],
+      "explica": "Pasado simple: wrote. Written es el participio."
+    },
+    {
+      "id": "verbos-irregulares-038",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "IRR",
+      "frase": "I buyed a new phone last week.",
+      "correcta": false,
+      "correccion": [
+        "I bought a new phone last week."
+      ],
+      "explica": "Buy → bought."
+    },
+    {
+      "id": "verbos-irregulares-039",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "IRR",
+      "frase": "She teached me English at school.",
+      "correcta": false,
+      "correccion": [
+        "She taught me English at school."
+      ],
+      "explica": "Teach → taught."
+    },
+    {
+      "id": "verbos-irregulares-040",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "IRR",
+      "frase": "We drunk a lot of coffee during the workshop.",
+      "correcta": false,
+      "correccion": [
+        "We drank a lot of coffee during the workshop."
+      ],
+      "explica": "El pasado simple es drank; drunk es el participio."
+    },
+    {
+      "id": "verbos-irregulares-041",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "IRR",
+      "frase": "He goed to the office on Saturday.",
+      "correcta": false,
+      "correccion": [
+        "He went to the office on Saturday."
+      ],
+      "explica": "Go → went."
+    },
+    {
+      "id": "verbos-irregulares-042",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "IRR",
+      "frase": "I spoke to the client this morning.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Correcta: speak → spoke."
+    },
+    {
+      "id": "verbos-irregulares-043",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "IRR",
+      "frase": "They catched the bus at 7.",
+      "correcta": false,
+      "correccion": [
+        "They caught the bus at 7."
+      ],
+      "explica": "Catch → caught (familia -aught)."
+    },
+    {
+      "id": "verbos-irregulares-044",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "DM",
+      "frase": "Did you went to the party?",
+      "correcta": false,
+      "correccion": [
+        "Did you go to the party?"
+      ],
+      "explica": "Después de did, base: go."
+    },
+    {
+      "id": "verbos-irregulares-045",
+      "tipo": "transformar",
+      "nivel": 1,
+      "code": "IRR",
+      "frase": "I buy coffee every morning.",
+      "instruccion": "Pásala a pasado (yesterday).",
+      "respuestas": [
+        "I bought coffee yesterday.",
+        "Yesterday I bought coffee."
+      ],
+      "explica": "Buy → bought."
+    },
+    {
+      "id": "verbos-irregulares-046",
+      "tipo": "transformar",
+      "nivel": 1,
+      "code": "IRR",
+      "frase": "She drives to work.",
+      "instruccion": "Pásala a pasado.",
+      "respuestas": [
+        "She drove to work."
+      ],
+      "explica": "Drive → drove → driven."
+    },
+    {
+      "id": "verbos-irregulares-047",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "IRR",
+      "frase": "We send the report on Fridays.",
+      "instruccion": "Pásala a pasado (last Friday).",
+      "respuestas": [
+        "We sent the report last Friday.",
+        "Last Friday we sent the report."
+      ],
+      "explica": "Send → sent."
+    },
+    {
+      "id": "verbos-irregulares-048",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "IRR",
+      "frase": "They bring snacks to the meeting.",
+      "instruccion": "Pásala a pasado.",
+      "respuestas": [
+        "They brought snacks to the meeting."
+      ],
+      "explica": "Bring → brought."
+    },
+    {
+      "id": "verbos-irregulares-049",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "IRR",
+      "frase": "He teaches English.",
+      "instruccion": "Pásala a pasado.",
+      "respuestas": [
+        "He taught English."
+      ],
+      "explica": "Teach → taught. Sin -s en pasado."
+    },
+    {
+      "id": "verbos-irregulares-050",
+      "tipo": "transformar",
+      "nivel": 3,
+      "code": "IRR",
+      "frase": "I think it's a good idea.",
+      "instruccion": "Pásala a pasado (los dos verbos).",
+      "respuestas": [
+        "I thought it was a good idea."
+      ],
+      "explica": "Think → thought; is → was. Los dos verbos cambian al pasado."
+    },
+    {
+      "id": "verbos-irregulares-051",
+      "tipo": "traducir",
+      "nivel": 1,
+      "code": "IRR",
+      "es": "Olvidé mi contraseña.",
+      "respuestas": [
+        "I forgot my password."
+      ],
+      "explica": "Forget → forgot."
+    },
+    {
+      "id": "verbos-irregulares-052",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "IRR",
+      "es": "Ella me dio el brief ayer.",
+      "respuestas": [
+        "She gave me the brief yesterday.",
+        "Yesterday she gave me the brief."
+      ],
+      "explica": "Give → gave → given."
+    },
+    {
+      "id": "verbos-irregulares-053",
+      "tipo": "traducir",
+      "nivel": 1,
+      "code": "IRR",
+      "es": "Perdimos el cliente.",
+      "respuestas": [
+        "We lost the client."
+      ],
+      "explica": "Lose → lost."
+    },
+    {
+      "id": "verbos-irregulares-054",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "DM",
+      "es": "¿Entendiste la pregunta?",
+      "respuestas": [
+        "Did you understand the question?"
+      ],
+      "explica": "Después de Did el verbo va en base: understand (no understood)."
+    },
+    {
+      "id": "verbos-irregulares-055",
+      "tipo": "traducir",
+      "nivel": 3,
+      "code": "IRR",
+      "es": "Dormí muy mal anoche.",
+      "respuestas": [
+        "I slept very badly last night.",
+        "I slept really badly last night.",
+        "I slept very bad last night.",
+        "I slept really bad last night.",
+        "I slept terribly last night."
+      ],
+      "explica": "Sleep → slept. En inglés coloquial también se oye slept bad."
+    },
+    {
+      "id": "verbos-irregulares-056",
+      "tipo": "escuchar",
+      "nivel": 2,
+      "code": "IRR",
+      "texto": "I bought the tickets and brought them to the office.",
+      "respuestas": [
+        "I bought the tickets and brought them to the office."
+      ],
+      "explica": "Bought y brought suenan casi igual: solo cambia la r."
+    },
+    {
+      "id": "verbos-irregulares-057",
+      "tipo": "escuchar",
+      "nivel": 2,
+      "code": "IRR",
+      "texto": "We spoke to the client and she chose the second option.",
+      "respuestas": [
+        "We spoke to the client and she chose the second option."
+      ],
+      "explica": "Spoke y chose: familia con o en el pasado."
+    },
+    {
+      "id": "verbos-irregulares-058",
+      "tipo": "escuchar",
+      "nivel": 3,
+      "code": "IRR",
+      "texto": "They took the bus and shook hands with the client.",
+      "respuestas": [
+        "They took the bus and shook hands with the client."
+      ],
+      "explica": "Took y shook: familia -ook."
+    },
+    {
+      "id": "verbos-irregulares-059",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "IRR",
+      "consigna": "Cuenta cinco cosas que hiciste ayer usando solo verbos irregulares (went, had, took, made, saw, ate, bought…).",
+      "objetivo": "Pasado simple afirmativo con cinco irregulares distintos.",
+      "ejemplo": "Yesterday I woke up at 6, had breakfast with my family and took the bus to the office. At lunch I ate with Camila, and in the evening I saw a movie.",
+      "explica": "Di cada verbo en pasado con claridad: woke, had, took, ate, saw. Si dudas, repite la familia en voz alta."
+    },
+    {
+      "id": "verbos-irregulares-060",
+      "tipo": "hablar",
+      "nivel": 3,
+      "code": "IRR",
+      "consigna": "Describe la última reunión con un cliente usando al menos cinco irregulares: met, told, said, brought, gave, chose, thought.",
+      "objetivo": "Pasado simple con irregulares de trabajo.",
+      "ejemplo": "On Tuesday we met the client at her office. We brought the printed deck and told her the plan. She said she liked it, gave us some feedback and chose the second route.",
+      "explica": "Met, brought, told, said, gave, chose: ninguno lleva -ed."
+    }
+  ]
+}
