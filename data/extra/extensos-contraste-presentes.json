@@ -1,0 +1,392 @@
+{
+  "tema": "contraste-presentes",
+  "ejercicios": [
+    {
+      "id": "contraste-presentes-x3-001",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "TPO",
+      "titulo": "Not a normal Monday",
+      "instruccion": "Elige entre presente simple (lo general, la rutina) y presente continuo (ahora, temporal). Cuidado con los verbos de estado.",
+      "texto": "Normally, I {1} the week with a team meeting at nine. We {2} the calendar and everybody {3} what they plan to do. But this Monday is different: the CEO {4} the agency, so the meeting is at eight and everybody {5} a jacket. Right now Laura {6} her slides for the third time, and Mike {7} anything because he's nervous. I {8} why. The CEO is a nice guy.",
+      "huecos": [
+        {
+          "opciones": [
+            "start",
+            "am starting",
+            "starts"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "are reviewing",
+            "review",
+            "reviews"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "explains",
+            "is explaining",
+            "explain"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "visits",
+            "visit",
+            "is visiting"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "is wearing",
+            "wears",
+            "wear"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "checks",
+            "is checking",
+            "check"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "doesn't eat",
+            "isn't eating",
+            "don't eat"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "am not understanding",
+            "don't understand",
+            "doesn't understand"
+          ],
+          "a": 1
+        }
+      ],
+      "explica": "Normally, every week → simple (I start, we review, everybody explains). This Monday, right now → continuo (is visiting, is wearing, is checking, isn't eating). Understand es de estado: I don't understand, nunca I'm not understanding."
+    },
+    {
+      "id": "contraste-presentes-x3-002",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "TPO",
+      "titulo": "My sister's new schedule",
+      "instruccion": "Completa con presente simple o continuo según la pista: ¿es su rutina o es algo de este mes?",
+      "texto": "My sister Natalia {1} (work) as a nurse in Pereira. She usually {2} (start) at six in the morning, but this month she {3} (do) night shifts at the hospital, so she {4} (sleep) during the day. She {5} (not / like) the night shifts at all. When I call her, she always {6} (say) the same thing: 'I can't talk, I {7} (try) to sleep!' Next month her schedule goes back to normal, thank God.",
+      "huecos": [
+        {
+          "respuestas": [
+            "works"
+          ]
+        },
+        {
+          "respuestas": [
+            "starts"
+          ]
+        },
+        {
+          "respuestas": [
+            "is doing",
+            "'s doing"
+          ]
+        },
+        {
+          "respuestas": [
+            "is sleeping",
+            "'s sleeping"
+          ]
+        },
+        {
+          "respuestas": [
+            "doesn't like",
+            "does not like"
+          ]
+        },
+        {
+          "respuestas": [
+            "says"
+          ]
+        },
+        {
+          "respuestas": [
+            "am trying",
+            "'m trying"
+          ]
+        }
+      ],
+      "explica": "Su profesión y su horario normal son hechos → simple con -s (works, starts, says). This month → continuo (is doing, is sleeping). Like es de estado: doesn't like. Y lo que dice cuando la llamas ocurre en ese momento: I'm trying to sleep."
+    },
+    {
+      "id": "contraste-presentes-x3-003",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "TPO",
+      "titulo": "Questions for a new client",
+      "instruccion": "Completa las preguntas y respuestas. Decide: ¿pregunta por lo general (do/does) o por lo de ahora (am/is/are + -ing)?",
+      "texto": "Before I write a brief, I ask the client some questions. 'What {1} (your company / sell) exactly? Who {2} (usually / buy) your products? And this year, what {3} (your competitors / do) on social media? {4} (you / run) any campaigns at the moment?' Today's client {5} (know) her business very well, and she answers fast: 'We {6} (not / advertise) right now, because we {7} (change) our logo this month.'",
+      "huecos": [
+        {
+          "respuestas": [
+            "does your company sell"
+          ]
+        },
+        {
+          "respuestas": [
+            "usually buys"
+          ]
+        },
+        {
+          "respuestas": [
+            "are your competitors doing"
+          ]
+        },
+        {
+          "respuestas": [
+            "Are you running"
+          ]
+        },
+        {
+          "respuestas": [
+            "knows"
+          ]
+        },
+        {
+          "respuestas": [
+            "aren't advertising",
+            "are not advertising",
+            "'re not advertising"
+          ]
+        },
+        {
+          "respuestas": [
+            "are changing",
+            "'re changing"
+          ]
+        }
+      ],
+      "explica": "Lo que la empresa vende y quién compra siempre son hechos → does your company sell; con who como sujeto no hay does: Who usually buys? This year, at the moment, right now → continuo. Know es de estado: she knows."
+    },
+    {
+      "id": "contraste-presentes-x3-004",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "EST",
+      "titulo": "A message from a new colleague",
+      "instruccion": "Elige la forma correcta. Pregúntate si el verbo es una acción en progreso o un estado (gustos, saber, necesitar, entender).",
+      "texto": "Hi Jonathan, I {1} the new office! It's beautiful. I {2} at the desk next to the window, and right now I {3} at the plants on the terrace. I {4} you're busy today, so no rush, but I {5} a password for the shared drive. Also, I {6} what 'the war room' means. Is it a meeting room? I {7} for your answer. Thanks!",
+      "huecos": [
+        {
+          "opciones": [
+            "am loving",
+            "love",
+            "loves"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "sit",
+            "am sitting",
+            "sits"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "am looking",
+            "look",
+            "looks"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "know",
+            "am knowing",
+            "knows"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "am needing",
+            "need",
+            "needs"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "am not understanding",
+            "don't understand",
+            "doesn't understand"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "wait",
+            "am waiting",
+            "waits"
+          ],
+          "a": 1
+        }
+      ],
+      "explica": "Acciones que están pasando (sitting, looking, waiting) → continuo. Love, know, need y understand son verbos de estado: van en simple aunque se refieran a ahora mismo."
+    },
+    {
+      "id": "contraste-presentes-x3-005",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "TPO",
+      "titulo": "Laura's double life",
+      "texto": "Laura is the creative director at Brava. She usually rides her bike to the office; it takes her twenty-five minutes. But this month she's driving because it's raining every afternoon. She writes all her ideas in a small black notebook; she doesn't trust apps. At the moment she's leading two big projects: a campaign for a bank and a launch for a juice brand. She isn't sleeping much these days, but she says she's enjoying the pressure. 'I love this job,' she always says, 'even when it's killing me.'",
+      "preguntas": [
+        {
+          "q": "How does Laura usually get to the office?",
+          "opciones": [
+            "By car",
+            "By bike",
+            "By bus"
+          ],
+          "a": 1
+        },
+        {
+          "q": "Why is she driving this month?",
+          "opciones": [
+            "Because it's raining every afternoon",
+            "Because her bike is broken",
+            "Because she moved"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«She writes all her ideas in a small black notebook»: ¿por qué presente simple?",
+          "opciones": [
+            "Porque pasa en este momento",
+            "Porque es temporal",
+            "Porque es un hábito general"
+          ],
+          "a": 2
+        },
+        {
+          "q": "«I love this job»: ¿por qué love no va en -ing?",
+          "opciones": [
+            "Porque es pasado",
+            "Porque love es un verbo de estado",
+            "Porque es una pregunta"
+          ],
+          "a": 1
+        }
+      ],
+      "explica": "Usually, always, lo que alguien es o hace siempre → simple (rides, writes, doesn't trust). This month, at the moment, these days → continuo (is driving, is leading, isn't sleeping). Love es estado: I love this job."
+    },
+    {
+      "id": "contraste-presentes-x3-006",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "TPO",
+      "titulo": "Two friends, two lives",
+      "texto": "Felipe and I studied together, but our lives are very different now. I work at an agency, I live in Bogotá and I take the same bus every day. Felipe doesn't have an office; he's a photographer and he travels all the time. This month he's working in the Amazon for a documentary. He's sleeping in a hammock and he isn't using his phone much. I'm sitting at my desk right now, reading his message: 'The river is amazing. Come here!' I don't know. I like my bed too much.",
+      "preguntas": [
+        {
+          "q": "What does Felipe do?",
+          "opciones": [
+            "He works at an agency",
+            "He drives a bus",
+            "He's a photographer"
+          ],
+          "a": 2
+        },
+        {
+          "q": "Where is Felipe this month?",
+          "opciones": [
+            "In the Amazon",
+            "In Bogotá",
+            "At his desk"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«Felipe doesn't have an office»: ¿por qué doesn't y no isn't?",
+          "opciones": [
+            "Porque Felipe es plural",
+            "Porque have (tener) es un hecho, no algo en progreso",
+            "Porque es pasado"
+          ],
+          "a": 1
+        },
+        {
+          "q": "«I'm sitting at my desk right now»: ¿por qué continuo?",
+          "opciones": [
+            "Porque es su rutina",
+            "Porque es un verbo de estado",
+            "Porque pasa en este momento"
+          ],
+          "a": 2
+        }
+      ],
+      "explica": "Lo que cada uno es y hace en general → simple (I work, he travels, doesn't have). Lo de este mes o de ahora → continuo (he's working, he's sleeping, I'm sitting). Have como «tener» es estado: doesn't have."
+    },
+    {
+      "id": "contraste-presentes-x3-007",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "TPO",
+      "consigna": "Compara tu semana típica con esta semana: qué haces normalmente en el trabajo y qué estás haciendo distinto estos días.",
+      "requisitos": [
+        {
+          "texto": "Usa presente simple con una expresión de frecuencia (usually, normally, every day…)",
+          "patron": "\\b(usually|normally|always|often|every (day|week|morning|monday))\\b"
+        },
+        {
+          "texto": "Usa am / is / are + -ing para lo temporal",
+          "patron": "(\\bam|\\bis|\\bare|'m|'s|'re)\\s+(not\\s+|still\\s+|just\\s+)?\\w+ing\\b"
+        },
+        {
+          "texto": "Marca lo temporal (this week, these days, at the moment…)",
+          "patron": "\\b(this (week|month)|these days|at the moment|right now)\\b"
+        }
+      ],
+      "minPalabras": 50,
+      "ejemplo": "I usually get to the office at eight and I have a team meeting at nine. I normally spend the afternoon with clients and I go home at six. But this week is different. We're preparing a big pitch, so I'm staying at the office until ten every night. I'm not going to the gym and I'm eating pizza at my desk. My girlfriend isn't happy about it, but the pitch is on Friday.",
+      "explica": "La comparación pide los dos tiempos: lo de siempre en simple (I usually get, I normally spend) y lo de esta semana en continuo (we're preparing, I'm staying, I'm not going)."
+    },
+    {
+      "id": "contraste-presentes-x3-008",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "EST",
+      "consigna": "Un cliente te pregunta cómo va el proyecto. Respóndele: qué está haciendo el equipo ahora y qué opinas, con al menos dos verbos de estado (think, know, need, want, prefer…) en simple.",
+      "requisitos": [
+        {
+          "texto": "Usa dos verbos de estado (think, know, need, want, like, prefer…)",
+          "patron": "\\b(think|know|need|want|like|understand|believe|prefer|agree|love|remember)\\b(.|\\n)*\\b(think|know|need|want|like|understand|believe|prefer|agree|love|remember)\\b"
+        },
+        {
+          "texto": "Usa am / is / are + -ing para lo que pasa ahora",
+          "patron": "(\\bam|\\bis|\\bare|'m|'s|'re)\\s+(not\\s+|still\\s+|just\\s+)?\\w+ing\\b"
+        },
+        {
+          "texto": "Termina con una pregunta",
+          "patron": "\\?\\s*$"
+        }
+      ],
+      "minPalabras": 40,
+      "ejemplo": "Hi Patricia, good news. The team is working on the second version of the storyboard right now, and the designers are adjusting the colors you mentioned. I think the new version is much stronger. We know the launch date is close, so we're moving fast. We need your feedback on the music by Thursday. Do you prefer the first option or the second?",
+      "explica": "El avance del trabajo va en continuo (is working, are adjusting, we're moving). Opiniones, conocimiento y necesidades van en simple aunque sean de hoy: I think, we know, we need, do you prefer."
+    }
+  ]
+}

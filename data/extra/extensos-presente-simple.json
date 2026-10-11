@@ -1,0 +1,176 @@
+{
+  "tema": "presente-simple",
+  "ejercicios": [
+    {
+      "id": "presente-simple-x3-001",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "3S",
+      "titulo": "A typical Tuesday",
+      "instruccion": "Completa con el presente simple del verbo entre paréntesis. Fíjate en quién es el sujeto: he/she/it lleva -s en afirmativa.",
+      "texto": "My alarm {1} (go) off at 5:45, but I never {2} (get) up before six. My girlfriend {3} (not / drink) coffee, so I make a cup only for me. We {4} (leave) the apartment together at seven because she {5} (work) near my office. On the way, we usually {6} (listen) to a podcast. {7} (you / know) the funny thing? She {8} (fall) asleep in the taxi almost every morning, even for a fifteen-minute ride.",
+      "huecos": [
+        { "respuestas": ["goes"] },
+        { "respuestas": ["get"] },
+        { "respuestas": ["doesn't drink", "does not drink"] },
+        { "respuestas": ["leave"] },
+        { "respuestas": ["works"] },
+        { "respuestas": ["listen"] },
+        { "respuestas": ["Do you know"] },
+        { "respuestas": ["falls"] }
+      ],
+      "explica": "Rutinas → presente simple. La -s solo aparece con he/she/it en afirmativa (goes, works, falls); con doesn't o Do you… el verbo vuelve a la base."
+    },
+    {
+      "id": "presente-simple-x3-002",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "3S",
+      "titulo": "Meet the team",
+      "instruccion": "Elige la forma correcta en cada hueco. Es una presentación del equipo: hechos y rutinas, no cosas de ahora.",
+      "texto": "Let me introduce the team. Camila {1} our social media accounts and {2} most of the client calls. Andrés {3} the design team; he {4} come to the office on Fridays because he works from home that day. Mike and Sarah {5} the copy for all our campaigns. And me? I {6} the account and I make sure the client {7} happy. The whole team starts at 8:30, but nobody leaves before seven.",
+      "huecos": [
+        { "opciones": ["manage", "manages", "is manage"], "a": 1 },
+        { "opciones": ["takes", "take", "is taking"], "a": 0 },
+        { "opciones": ["leading", "lead", "leads"], "a": 2 },
+        { "opciones": ["don't", "doesn't", "isn't"], "a": 1 },
+        { "opciones": ["write", "writes", "are write"], "a": 0 },
+        { "opciones": ["runs", "am run", "run"], "a": 2 },
+        { "opciones": ["be", "is", "are"], "a": 1 }
+      ],
+      "explica": "Lo que cada persona hace en su trabajo es un hecho general → presente simple. Camila, Andrés, the client → -s o doesn't; Mike and Sarah, I → sin -s. Be va solo: the client is happy."
+    },
+    {
+      "id": "presente-simple-x3-003",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "LL",
+      "titulo": "Questions for a new colleague",
+      "instruccion": "Completa las preguntas y las negativas. Recuerda que la pregunta necesita la llave do/does delante del sujeto.",
+      "texto": "Hi, Sarah! Welcome to Brava. Can I ask you a few things? Where {1} (you / live)? {2} (you / take) the bus or do you drive? What time {3} (the office / open) in your old agency? {4} (your husband / work) in advertising too? And one more: {5} (you / like) spicy food? We order Mexican every Friday, and the team {6} (not / accept) excuses. Oh, and the coffee machine {7} (not / work) after 4 pm. Nobody knows why.",
+      "huecos": [
+        { "respuestas": ["do you live"] },
+        { "respuestas": ["Do you take"] },
+        { "respuestas": ["does the office open"] },
+        { "respuestas": ["Does your husband work"] },
+        { "respuestas": ["do you like"] },
+        { "respuestas": ["doesn't accept", "does not accept"] },
+        { "respuestas": ["doesn't work", "does not work"] }
+      ],
+      "explica": "En preguntas y negativas la llave sale a la luz: do (you) / does (the office, your husband, the team, the machine) y el verbo queda en base. Sin la llave, en inglés no hay pregunta."
+    },
+    {
+      "id": "presente-simple-x3-004",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "3S",
+      "titulo": "My dad's routine",
+      "instruccion": "Completa con el presente simple. Casi todo el texto habla de he: cuidado con la -s y con doesn't.",
+      "texto": "My dad is 68 and he {1} (live) in Manizales. He {2} (not / use) a smartphone; he {3} (say) it makes people stupid. Every morning he {4} (walk) to the market, {5} (buy) fresh bread and reads the newspaper on paper. He {6} (not / watch) TV, but he {7} (listen) to the radio all day. When I visit him, he always asks me the same question: 'Why {8} (you / check) your phone so often?'",
+      "huecos": [
+        { "respuestas": ["lives"] },
+        { "respuestas": ["doesn't use", "does not use"] },
+        { "respuestas": ["says"] },
+        { "respuestas": ["walks"] },
+        { "respuestas": ["buys"] },
+        { "respuestas": ["doesn't watch", "does not watch"] },
+        { "respuestas": ["listens"] },
+        { "respuestas": ["do you check"] }
+      ],
+      "explica": "He → verbo + s (lives, says, walks, buys, listens). La frase solo tiene una -s: si aparece doesn't, el verbo la pierde (doesn't use). Con you la llave es do."
+    },
+    {
+      "id": "presente-simple-x3-005",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "3S",
+      "titulo": "A morning at Brava",
+      "texto": "Brava is a mid-size agency in Bogotá with about sixty people. The day starts early: the account team arrives at 8:30 and checks emails from clients in Mexico and Miami. The creative team doesn't come in before ten; they say ideas don't wake up early. Laura, the creative director, works from home on Mondays and Fridays, but she joins every status meeting by video. The agency has three big clients and a lot of small ones. The biggest client, a bank, sends a new brief almost every week. 'They don't sleep,' Laura jokes. Lunch is at one, and on Fridays nobody works after five.",
+      "preguntas": [
+        {
+          "q": "What time does the creative team arrive?",
+          "opciones": ["At 8:30", "Not before ten", "At one"],
+          "a": 1
+        },
+        {
+          "q": "Where is Laura on Mondays?",
+          "opciones": ["In Miami", "At the bank", "At home"],
+          "a": 2
+        },
+        {
+          "q": "¿Por qué dice «The creative team doesn't come in» y no «don't come in»?",
+          "opciones": ["Porque team es singular (it) y usa does/doesn't", "Porque es una frase negativa", "Porque come es irregular"],
+          "a": 0
+        },
+        {
+          "q": "«Laura works from home on Mondays and Fridays»: ¿por qué presente simple?",
+          "opciones": ["Porque está pasando ahora", "Porque es una rutina fija", "Porque es un plan de futuro"],
+          "a": 1
+        }
+      ],
+      "explica": "Rutinas y hechos de una empresa → presente simple. Sujetos singulares como the team, the agency o the client funcionan como it: llevan -s o doesn't."
+    },
+    {
+      "id": "presente-simple-x3-006",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "LL",
+      "titulo": "Sunday lunch in Chía",
+      "texto": "Every Sunday we have lunch at my girlfriend's parents' house in Chía. Her mom, Gloria, cooks for ten people even when we are only four. Her dad, don Hernán, doesn't eat before everyone sits down; it's his rule. He asks me the same question every week: 'Do you still work with that bank?' I always say yes, and he always says banks have too much money. After lunch, Gloria takes a nap and don Hernán watches soccer. My girlfriend and I wash the dishes because nobody else does. We leave at six, full and happy, and the traffic back to Bogotá takes two hours.",
+      "preguntas": [
+        {
+          "q": "How many people does Gloria cook for?",
+          "opciones": ["Four", "Ten", "Six"],
+          "a": 1
+        },
+        {
+          "q": "What does don Hernán do after lunch?",
+          "opciones": ["He takes a nap", "He washes the dishes", "He watches soccer"],
+          "a": 2
+        },
+        {
+          "q": "«…because nobody else does»: ¿qué reemplaza does aquí?",
+          "opciones": ["wash the dishes (la llave sustituye al verbo)", "leave at six", "cook for ten people"],
+          "a": 0
+        },
+        {
+          "q": "«He asks me the same question every week»: ¿por qué asks lleva -s?",
+          "opciones": ["Porque la frase es plural", "Porque el sujeto es he y es un hábito", "Porque every week pide -s"],
+          "a": 1
+        }
+      ],
+      "explica": "Un hábito de todos los domingos → presente simple. Con he/she la -s va en el verbo (cooks, asks, takes). La llave does puede sustituir a todo el verbo: nobody else does = nadie más los lava."
+    },
+    {
+      "id": "presente-simple-x3-007",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "3S",
+      "consigna": "Presenta tu agencia y tu rol a un cliente nuevo: qué hace la agencia, qué haces tú, una cosa que tu equipo no hace y una pregunta para el cliente con do/does.",
+      "requisitos": [
+        { "texto": "Usa un verbo con -s para he/she/it (the agency, my team, the client…)", "patron": "\\b(works|leads|manages|makes|runs|has|does|goes|handles|sends|takes|creates|helps|needs|wants|approves|starts|comes|likes|lives|includes|designs|writes|produces|builds|offers|focuses|reviews|checks|plans)\\b" },
+        { "texto": "Incluye una negativa con don't / doesn't", "patron": "\\b(don't|doesn't|do not|does not)\\b" },
+        { "texto": "Haz una pregunta con Do / Does", "patron": "\\b(do|does)\\s+(you|your|the|we|they|it|he|she)\\b[^?]*\\?" }
+      ],
+      "minPalabras": 50,
+      "ejemplo": "Hi, I'm Jonathan and I work at Brava, an advertising agency in Bogotá. We create digital campaigns for banks and consumer brands. I lead the account team: I talk to clients every day, I review the briefs and I make sure the creative team has what it needs. My team doesn't produce TV commercials; we focus on social media and web. Our creative director, Laura, designs the big ideas and the designers build the visuals. One question before we start: do you have a brand guide we can read?",
+      "explica": "Presentarte y explicar lo que hace tu empresa es hablar de lo general → presente simple. I/we → verbo base; the agency, my team, Laura → -s; negativa con don't/doesn't; pregunta con Do/Does delante."
+    },
+    {
+      "id": "presente-simple-x3-008",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "3S",
+      "consigna": "Describe la rutina de una persona cercana (tu pareja, un amigo, tu papá): qué hace entre semana, qué hace el fin de semana, qué no hace nunca y un gusto suyo.",
+      "requisitos": [
+        { "texto": "Usa he/she + verbo con -s", "patron": "\\b(he|she)\\s+(always\\s+|usually\\s+|often\\s+|never\\s+)?(wakes|gets|goes|works|eats|drinks|sleeps|cooks|runs|plays|watches|reads|takes|makes|has|does|likes|loves|hates|lives|studies|drives|sees|comes|leaves|starts|finishes|calls|checks|trains|walks|spends|buys|visits|teaches|travels|listens|talks|wears|prefers|needs|wants|says)\\b" },
+        { "texto": "Incluye una negativa con doesn't", "patron": "\\b(doesn't|does not)\\b" },
+        { "texto": "Usa un adverbio o expresión de frecuencia", "patron": "\\b(always|usually|often|sometimes|never|every (day|morning|night|week|weekend|saturday|sunday))\\b" },
+        { "texto": "Menciona un gusto con likes / loves / hates / prefers", "patron": "\\b(likes|loves|hates|prefers|enjoys)\\b" }
+      ],
+      "minPalabras": 45,
+      "ejemplo": "My girlfriend, Camila, is a nutritionist. She wakes up at 5:30 every day and goes to the gym before work. She sees patients from eight to four and she usually eats lunch at her desk. On weekends she sleeps late and cooks for both of us. She doesn't drink alcohol and she never eats fast food, which is a problem when I want a burger. She loves hiking, so once a month we drive to a mountain near Bogotá.",
+      "explica": "La rutina de otra persona es la prueba de fuego de la -s: she wakes, goes, sees, eats, sleeps, cooks, loves. Los adverbios de frecuencia van antes del verbo (she usually eats, she never eats) y la negativa es doesn't + base."
+    }
+  ]
+}

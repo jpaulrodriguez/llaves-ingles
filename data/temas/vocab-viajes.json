@@ -10,12 +10,36 @@
     "paraQue": "Sobrevivir a un viaje en inglés: hacer el check-in, pedir una habitación, entender un retraso, pedir la cuenta y moverte en metro o taxi sin traducir palabra por palabra.",
     "llave": "La llave es la colocación: verbo + sustantivo que siempre van juntos. No aprendas 'room'; aprende 'book a room'. No aprendas 'tip'; aprende 'leave a tip'. Las más importantes: book a room / a flight, check in, check out, board the plane, miss the flight, pay the check, leave a tip, rent a car, go sightseeing, take the subway.",
     "formulas": [
-      { "tipo": "Pedir algo", "formula": "I'd like + sustantivo / I'd like to + verbo", "ejemplo": "I'd like a double room for two nights. · I'd like to check in, please." },
-      { "tipo": "Pedir que te den", "formula": "Can / Could I have + sustantivo, please?", "ejemplo": "Could I have the check, please?" },
-      { "tipo": "Preguntar si incluye", "formula": "Is + sustantivo + included?", "ejemplo": "Is breakfast included? · Is the tip included?" },
-      { "tipo": "Preguntar la hora", "formula": "What time is + check-in / check-out / boarding / the flight?", "ejemplo": "What time is check-out?" },
-      { "tipo": "Colocaciones de hotel", "formula": "book a room · check in at… · check out before… · have a reservation under the name…", "ejemplo": "I have a reservation under the name Gómez." },
-      { "tipo": "Colocaciones de aeropuerto", "formula": "go through security / customs · board the plane · miss / catch the flight · the flight takes off / lands", "ejemplo": "We boarded the plane at gate 12." }
+      {
+        "tipo": "Pedir algo",
+        "formula": "I'd like + sustantivo / I'd like to + verbo",
+        "ejemplo": "I'd like a double room for two nights. · I'd like to check in, please."
+      },
+      {
+        "tipo": "Pedir que te den",
+        "formula": "Can / Could I have + sustantivo, please?",
+        "ejemplo": "Could I have the check, please?"
+      },
+      {
+        "tipo": "Preguntar si incluye",
+        "formula": "Is + sustantivo + included?",
+        "ejemplo": "Is breakfast included? · Is the tip included?"
+      },
+      {
+        "tipo": "Preguntar la hora",
+        "formula": "What time is + check-in / check-out / boarding / the flight?",
+        "ejemplo": "What time is check-out?"
+      },
+      {
+        "tipo": "Colocaciones de hotel",
+        "formula": "book a room · check in at… · check out before… · have a reservation under the name…",
+        "ejemplo": "I have a reservation under the name Gómez."
+      },
+      {
+        "tipo": "Colocaciones de aeropuerto",
+        "formula": "go through security / customs · board the plane · miss / catch the flight · the flight takes off / lands",
+        "ejemplo": "We boarded the plane at gate 12."
+      }
     ],
     "reglas": [
       "Aprende cada sustantivo con su verbo: book a room, leave a tip, miss the flight, rent a car, take the subway, go sightseeing. Así no inventas verbos (nunca 'do the check-in').",
@@ -26,128 +50,2491 @@
       "Medios de transporte con by: by bus, by plane, by subway, by car; pero on foot. Y 'take' con el medio: take a cab, take the subway.",
       "Round trip = ida y vuelta (US). One-way = solo ida. En hotel: single room (una persona) / double room (dos)."
     ],
-    "senales": ["at the airport", "at the front desk", "for two nights", "under the name…", "gate 23", "flight AV 20", "the 7 a.m. flight", "boarding time", "per night", "a table for four"],
+    "senales": [
+      "at the airport",
+      "at the front desk",
+      "for two nights",
+      "under the name…",
+      "gate 23",
+      "flight AV 20",
+      "the 7 a.m. flight",
+      "boarding time",
+      "per night",
+      "a table for four"
+    ],
     "usos": [
-      { "uso": "Aeropuerto", "contexto": "diario", "ejemplo": "flight · boarding pass · gate · security · customs · delay / delayed · layover · departure · arrival · aisle seat / window seat · carry-on · take off / land · board · miss the flight" },
-      { "uso": "Hotel", "contexto": "trabajo", "ejemplo": "reservation · book a room · single / double room · front desk · check in / check out · key card · room service · breakfast included · voucher · available" },
-      { "uso": "Restaurante", "contexto": "diario", "ejemplo": "menu · waiter · order · the check · tip · receipt · buffet · a table for two" },
-      { "uso": "Transporte", "contexto": "diario", "ejemplo": "subway · cab / taxi · bus stop · platform · fare · rent a car · take the subway · by bus" },
-      { "uso": "Viaje de trabajo", "contexto": "trabajo", "ejemplo": "business trip · itinerary · round trip · one-way ticket · expense report · receipt · 'I'm here for a conference.'" },
-      { "uso": "Problemas en el viaje", "contexto": "trabajo", "ejemplo": "My flight is delayed. · They lost my luggage. · The room isn't ready. · I missed my connection. · The key card doesn't work." }
+      {
+        "uso": "Aeropuerto",
+        "contexto": "diario",
+        "ejemplo": "flight · boarding pass · gate · security · customs · delay / delayed · layover · departure · arrival · aisle seat / window seat · carry-on · take off / land · board · miss the flight"
+      },
+      {
+        "uso": "Hotel",
+        "contexto": "trabajo",
+        "ejemplo": "reservation · book a room · single / double room · front desk · check in / check out · key card · room service · breakfast included · voucher · available"
+      },
+      {
+        "uso": "Restaurante",
+        "contexto": "diario",
+        "ejemplo": "menu · waiter · order · the check · tip · receipt · buffet · a table for two"
+      },
+      {
+        "uso": "Transporte",
+        "contexto": "diario",
+        "ejemplo": "subway · cab / taxi · bus stop · platform · fare · rent a car · take the subway · by bus"
+      },
+      {
+        "uso": "Viaje de trabajo",
+        "contexto": "trabajo",
+        "ejemplo": "business trip · itinerary · round trip · one-way ticket · expense report · receipt · 'I'm here for a conference.'"
+      },
+      {
+        "uso": "Problemas en el viaje",
+        "contexto": "trabajo",
+        "ejemplo": "My flight is delayed. · They lost my luggage. · The room isn't ready. · I missed my connection. · The key card doesn't work."
+      }
     ],
     "errores": [
-      { "mal": "I have two luggages.", "bien": "I have two suitcases. / I have two pieces of luggage.", "porque": "Luggage es incontable: no tiene plural ni va con números.", "code": "VOC" },
-      { "mal": "Can you bring us the account, please?", "bien": "Can you bring us the check, please?", "porque": "La cuenta del restaurante es the check (US) o the bill (UK). Account es cuenta bancaria o cuenta de cliente.", "code": "USO" },
-      { "mal": "Keep the recipe for the expense report.", "bien": "Keep the receipt for the expense report.", "porque": "Receipt /rɪˈsiːt/ = recibo. Recipe /ˈresəpi/ = receta de cocina.", "code": "USO" },
-      { "mal": "I want to reservate a room.", "bien": "I want to book a room. / I want to reserve a room.", "porque": "'Reservate' no existe. El verbo es book (el más natural) o reserve; el sustantivo es reservation.", "code": "USO" },
-      { "mal": "We did the check-in at 3 p.m.", "bien": "We checked in at 3 p.m.", "porque": "Check in ya es el verbo. No necesita 'do' ni 'make'.", "code": "USO" },
-      { "mal": "I travel in bus to the office.", "bien": "I travel by bus to the office.", "porque": "Medios de transporte con by: by bus, by plane, by car. Solo 'on foot' es distinto.", "code": "USO" },
-      { "mal": "Where is the exit? I need to go to the door 23.", "bien": "Where is gate 23?", "porque": "La puerta de embarque es gate, no door. Y los números van sin 'the': gate 23, platform 4, room 310.", "code": "VOC" },
-      { "mal": "I want a ticket of going and coming back.", "bien": "I want a round trip ticket.", "porque": "Ida y vuelta = round trip (US). Solo ida = one-way.", "code": "VOC" }
+      {
+        "mal": "I have two luggages.",
+        "bien": "I have two suitcases. / I have two pieces of luggage.",
+        "porque": "Luggage es incontable: no tiene plural ni va con números.",
+        "code": "VOC"
+      },
+      {
+        "mal": "Can you bring us the account, please?",
+        "bien": "Can you bring us the check, please?",
+        "porque": "La cuenta del restaurante es the check (US) o the bill (UK). Account es cuenta bancaria o cuenta de cliente.",
+        "code": "USO"
+      },
+      {
+        "mal": "Keep the recipe for the expense report.",
+        "bien": "Keep the receipt for the expense report.",
+        "porque": "Receipt /rɪˈsiːt/ = recibo. Recipe /ˈresəpi/ = receta de cocina.",
+        "code": "USO"
+      },
+      {
+        "mal": "I want to reservate a room.",
+        "bien": "I want to book a room. / I want to reserve a room.",
+        "porque": "'Reservate' no existe. El verbo es book (el más natural) o reserve; el sustantivo es reservation.",
+        "code": "USO"
+      },
+      {
+        "mal": "We did the check-in at 3 p.m.",
+        "bien": "We checked in at 3 p.m.",
+        "porque": "Check in ya es el verbo. No necesita 'do' ni 'make'.",
+        "code": "USO"
+      },
+      {
+        "mal": "I travel in bus to the office.",
+        "bien": "I travel by bus to the office.",
+        "porque": "Medios de transporte con by: by bus, by plane, by car. Solo 'on foot' es distinto.",
+        "code": "USO"
+      },
+      {
+        "mal": "Where is the exit? I need to go to the door 23.",
+        "bien": "Where is gate 23?",
+        "porque": "La puerta de embarque es gate, no door. Y los números van sin 'the': gate 23, platform 4, room 310.",
+        "code": "VOC"
+      },
+      {
+        "mal": "I want a ticket of going and coming back.",
+        "bien": "I want a round trip ticket.",
+        "porque": "Ida y vuelta = round trip (US). Solo ida = one-way.",
+        "code": "VOC"
+      }
     ],
     "contraste": [
-      { "a": "What time is check-in?", "b": "What time can I check in?", "nota": "Con guion es sustantivo; sin guion es verbo." },
-      { "a": "Could I have the check, please?", "b": "Could I have the receipt, please?", "nota": "Check = lo que pagas; receipt = el papel que te dan después de pagar." },
-      { "a": "I have a lot of luggage.", "b": "I have three suitcases.", "nota": "Luggage no se cuenta; suitcases sí." },
-      { "a": "a single room", "b": "a one-way ticket", "nota": "Single es para la habitación (una persona); para el tiquete de solo ida, en US se dice one-way." }
+      {
+        "a": "What time is check-in?",
+        "b": "What time can I check in?",
+        "nota": "Con guion es sustantivo; sin guion es verbo."
+      },
+      {
+        "a": "Could I have the check, please?",
+        "b": "Could I have the receipt, please?",
+        "nota": "Check = lo que pagas; receipt = el papel que te dan después de pagar."
+      },
+      {
+        "a": "I have a lot of luggage.",
+        "b": "I have three suitcases.",
+        "nota": "Luggage no se cuenta; suitcases sí."
+      },
+      {
+        "a": "a single room",
+        "b": "a one-way ticket",
+        "nota": "Single es para la habitación (una persona); para el tiquete de solo ida, en US se dice one-way."
+      }
     ],
     "frases": [
-      { "en": "reservation /ˌrezərˈveɪʃən/", "es": "reserva", "contexto": "trabajo", "ejemplo": "I have a reservation under the name Gómez." },
-      { "en": "book a room /bʊk ə ruːm/", "es": "reservar una habitación", "contexto": "trabajo", "ejemplo": "I booked a room near the client's office." },
-      { "en": "check in /ˌtʃek ˈɪn/", "es": "registrarse (hotel), hacer el check-in (vuelo)", "contexto": "diario", "ejemplo": "You can check in after 3 p.m." },
-      { "en": "check out /ˌtʃek ˈaʊt/", "es": "dejar la habitación y pagar", "contexto": "diario", "ejemplo": "We have to check out before noon." },
-      { "en": "flight /flaɪt/", "es": "vuelo", "contexto": "diario", "ejemplo": "My flight to Miami leaves at 7 a.m." },
-      { "en": "boarding pass /ˈbɔːrdɪŋ pæs/", "es": "pasabordo, tarjeta de embarque", "contexto": "diario", "ejemplo": "Please have your boarding pass and passport ready." },
-      { "en": "gate /ɡeɪt/", "es": "puerta de embarque", "contexto": "diario", "ejemplo": "Boarding starts at gate 23 in ten minutes." },
-      { "en": "delay /dɪˈleɪ/ · delayed /dɪˈleɪd/", "es": "retraso · retrasado", "contexto": "trabajo", "ejemplo": "There's a two-hour delay. The flight is delayed." },
-      { "en": "layover /ˈleɪoʊvər/", "es": "escala", "contexto": "diario", "ejemplo": "We have a three-hour layover in Panama City." },
-      { "en": "round trip /ˌraʊnd ˈtrɪp/", "es": "ida y vuelta", "contexto": "diario", "ejemplo": "A round trip ticket to Cartagena, please." },
-      { "en": "one-way /ˌwʌn ˈweɪ/", "es": "solo ida", "contexto": "diario", "ejemplo": "I only need a one-way ticket." },
-      { "en": "luggage /ˈlʌɡɪdʒ/", "es": "equipaje (incontable)", "contexto": "diario", "ejemplo": "My luggage is too heavy." },
-      { "en": "carry-on /ˈkæri ɑːn/", "es": "equipaje de mano", "contexto": "diario", "ejemplo": "I only have a carry-on, so I don't need to wait." },
-      { "en": "passport /ˈpæspɔːrt/", "es": "pasaporte", "contexto": "diario", "ejemplo": "Don't forget your passport." },
-      { "en": "security /sɪˈkjʊrəti/", "es": "control de seguridad", "contexto": "diario", "ejemplo": "The line at security was very long." },
-      { "en": "customs /ˈkʌstəmz/", "es": "aduana", "contexto": "diario", "ejemplo": "They stopped me at customs because of the coffee." },
-      { "en": "departure /dɪˈpɑːrtʃər/ · arrival /əˈraɪvəl/", "es": "salida · llegada", "contexto": "diario", "ejemplo": "Departures are upstairs; arrivals are downstairs." },
-      { "en": "aisle seat /aɪl siːt/ · window seat /ˈwɪndoʊ siːt/", "es": "asiento de pasillo · asiento de ventana", "contexto": "diario", "ejemplo": "Can I have an aisle seat, please?" },
-      { "en": "take off /ˌteɪk ˈɔːf/ · land /lænd/", "es": "despegar · aterrizar", "contexto": "diario", "ejemplo": "The plane takes off at 6 and lands at 9." },
-      { "en": "board /bɔːrd/", "es": "abordar, embarcar", "contexto": "diario", "ejemplo": "We're boarding now. Please go to the gate." },
-      { "en": "miss the flight /mɪs ðə flaɪt/", "es": "perder el vuelo", "contexto": "trabajo", "ejemplo": "Hurry up or we'll miss the flight." },
-      { "en": "voucher /ˈvaʊtʃər/", "es": "bono, vale", "contexto": "trabajo", "ejemplo": "The airline gave us a meal voucher because of the delay." },
-      { "en": "buffet /bəˈfeɪ/", "es": "bufé", "contexto": "diario", "ejemplo": "The breakfast buffet opens at 6:30." },
-      { "en": "single room /ˈsɪŋɡəl ruːm/ · double room /ˈdʌbəl ruːm/", "es": "habitación sencilla · habitación doble", "contexto": "trabajo", "ejemplo": "A single room for three nights, please." },
-      { "en": "front desk /ˌfrʌnt ˈdesk/", "es": "recepción (del hotel)", "contexto": "diario", "ejemplo": "You can leave your luggage at the front desk." },
-      { "en": "key card /ˈkiː kɑːrd/", "es": "tarjeta llave", "contexto": "diario", "ejemplo": "My key card doesn't work." },
-      { "en": "room service /ˈruːm ˌsɜːrvɪs/", "es": "servicio a la habitación", "contexto": "trabajo", "ejemplo": "I ordered a sandwich from room service." },
-      { "en": "breakfast included /ˈbrekfəst ɪnˈkluːdɪd/", "es": "desayuno incluido", "contexto": "diario", "ejemplo": "Is breakfast included in the price?" },
-      { "en": "available /əˈveɪləbəl/", "es": "disponible", "contexto": "trabajo", "ejemplo": "Do you have any rooms available for Friday?" },
-      { "en": "the check /ðə tʃek/ · the bill /ðə bɪl/", "es": "la cuenta (restaurante)", "contexto": "diario", "ejemplo": "Could we have the check, please?" },
-      { "en": "tip /tɪp/", "es": "propina", "contexto": "diario", "ejemplo": "In the US, people leave a 15–20% tip." },
-      { "en": "receipt /rɪˈsiːt/", "es": "recibo", "contexto": "trabajo", "ejemplo": "Can I have a receipt for my expense report?" },
-      { "en": "menu /ˈmenjuː/ · waiter /ˈweɪtər/ · order /ˈɔːrdər/", "es": "carta · mesero · pedir", "contexto": "diario", "ejemplo": "The waiter brought the menu and we ordered." },
-      { "en": "sightseeing /ˈsaɪtˌsiːɪŋ/", "es": "turismo, recorrer lugares", "contexto": "diario", "ejemplo": "We went sightseeing in the old city." },
-      { "en": "tourist /ˈtʊrɪst/", "es": "turista", "contexto": "diario", "ejemplo": "Cartagena is full of tourists in December." },
-      { "en": "business trip /ˈbɪznəs trɪp/", "es": "viaje de trabajo", "contexto": "trabajo", "ejemplo": "I'm in São Paulo on a business trip." },
-      { "en": "itinerary /aɪˈtɪnəreri/", "es": "itinerario", "contexto": "trabajo", "ejemplo": "The agency sent me the itinerary for the trip." },
-      { "en": "rent a car /rent ə kɑːr/", "es": "alquilar un carro", "contexto": "diario", "ejemplo": "We rented a car to visit the coffee region." },
-      { "en": "subway /ˈsʌbweɪ/", "es": "metro", "contexto": "diario", "ejemplo": "Take the subway; it's faster than a cab." },
-      { "en": "cab /kæb/ · taxi /ˈtæksi/", "es": "taxi", "contexto": "diario", "ejemplo": "Let's take a cab to the hotel." },
-      { "en": "bus stop /ˈbʌs stɑːp/ · platform /ˈplætfɔːrm/", "es": "parada de bus · andén", "contexto": "diario", "ejemplo": "The train leaves from platform 4." },
-      { "en": "fare /fer/", "es": "tarifa, pasaje", "contexto": "diario", "ejemplo": "The subway fare is $2.90." },
-      { "en": "cancel /ˈkænsəl/", "es": "cancelar", "contexto": "trabajo", "ejemplo": "They cancelled my flight because of the storm." }
+      {
+        "en": "reservation /ˌrezərˈveɪʃən/",
+        "es": "reserva",
+        "contexto": "trabajo",
+        "ejemplo": "I have a reservation under the name Gómez."
+      },
+      {
+        "en": "book a room /bʊk ə ruːm/",
+        "es": "reservar una habitación",
+        "contexto": "trabajo",
+        "ejemplo": "I booked a room near the client's office."
+      },
+      {
+        "en": "check in /ˌtʃek ˈɪn/",
+        "es": "registrarse (hotel), hacer el check-in (vuelo)",
+        "contexto": "diario",
+        "ejemplo": "You can check in after 3 p.m."
+      },
+      {
+        "en": "check out /ˌtʃek ˈaʊt/",
+        "es": "dejar la habitación y pagar",
+        "contexto": "diario",
+        "ejemplo": "We have to check out before noon."
+      },
+      {
+        "en": "flight /flaɪt/",
+        "es": "vuelo",
+        "contexto": "diario",
+        "ejemplo": "My flight to Miami leaves at 7 a.m."
+      },
+      {
+        "en": "boarding pass /ˈbɔːrdɪŋ pæs/",
+        "es": "pasabordo, tarjeta de embarque",
+        "contexto": "diario",
+        "ejemplo": "Please have your boarding pass and passport ready."
+      },
+      {
+        "en": "gate /ɡeɪt/",
+        "es": "puerta de embarque",
+        "contexto": "diario",
+        "ejemplo": "Boarding starts at gate 23 in ten minutes."
+      },
+      {
+        "en": "delay /dɪˈleɪ/ · delayed /dɪˈleɪd/",
+        "es": "retraso · retrasado",
+        "contexto": "trabajo",
+        "ejemplo": "There's a two-hour delay. The flight is delayed."
+      },
+      {
+        "en": "layover /ˈleɪoʊvər/",
+        "es": "escala",
+        "contexto": "diario",
+        "ejemplo": "We have a three-hour layover in Panama City."
+      },
+      {
+        "en": "round trip /ˌraʊnd ˈtrɪp/",
+        "es": "ida y vuelta",
+        "contexto": "diario",
+        "ejemplo": "A round trip ticket to Cartagena, please."
+      },
+      {
+        "en": "one-way /ˌwʌn ˈweɪ/",
+        "es": "solo ida",
+        "contexto": "diario",
+        "ejemplo": "I only need a one-way ticket."
+      },
+      {
+        "en": "luggage /ˈlʌɡɪdʒ/",
+        "es": "equipaje (incontable)",
+        "contexto": "diario",
+        "ejemplo": "My luggage is too heavy."
+      },
+      {
+        "en": "carry-on /ˈkæri ɑːn/",
+        "es": "equipaje de mano",
+        "contexto": "diario",
+        "ejemplo": "I only have a carry-on, so I don't need to wait."
+      },
+      {
+        "en": "passport /ˈpæspɔːrt/",
+        "es": "pasaporte",
+        "contexto": "diario",
+        "ejemplo": "Don't forget your passport."
+      },
+      {
+        "en": "security /sɪˈkjʊrəti/",
+        "es": "control de seguridad",
+        "contexto": "diario",
+        "ejemplo": "The line at security was very long."
+      },
+      {
+        "en": "customs /ˈkʌstəmz/",
+        "es": "aduana",
+        "contexto": "diario",
+        "ejemplo": "They stopped me at customs because of the coffee."
+      },
+      {
+        "en": "departure /dɪˈpɑːrtʃər/ · arrival /əˈraɪvəl/",
+        "es": "salida · llegada",
+        "contexto": "diario",
+        "ejemplo": "Departures are upstairs; arrivals are downstairs."
+      },
+      {
+        "en": "aisle seat /aɪl siːt/ · window seat /ˈwɪndoʊ siːt/",
+        "es": "asiento de pasillo · asiento de ventana",
+        "contexto": "diario",
+        "ejemplo": "Can I have an aisle seat, please?"
+      },
+      {
+        "en": "take off /ˌteɪk ˈɔːf/ · land /lænd/",
+        "es": "despegar · aterrizar",
+        "contexto": "diario",
+        "ejemplo": "The plane takes off at 6 and lands at 9."
+      },
+      {
+        "en": "board /bɔːrd/",
+        "es": "abordar, embarcar",
+        "contexto": "diario",
+        "ejemplo": "We're boarding now. Please go to the gate."
+      },
+      {
+        "en": "miss the flight /mɪs ðə flaɪt/",
+        "es": "perder el vuelo",
+        "contexto": "trabajo",
+        "ejemplo": "Hurry up or we'll miss the flight."
+      },
+      {
+        "en": "voucher /ˈvaʊtʃər/",
+        "es": "bono, vale",
+        "contexto": "trabajo",
+        "ejemplo": "The airline gave us a meal voucher because of the delay."
+      },
+      {
+        "en": "buffet /bəˈfeɪ/",
+        "es": "bufé",
+        "contexto": "diario",
+        "ejemplo": "The breakfast buffet opens at 6:30."
+      },
+      {
+        "en": "single room /ˈsɪŋɡəl ruːm/ · double room /ˈdʌbəl ruːm/",
+        "es": "habitación sencilla · habitación doble",
+        "contexto": "trabajo",
+        "ejemplo": "A single room for three nights, please."
+      },
+      {
+        "en": "front desk /ˌfrʌnt ˈdesk/",
+        "es": "recepción (del hotel)",
+        "contexto": "diario",
+        "ejemplo": "You can leave your luggage at the front desk."
+      },
+      {
+        "en": "key card /ˈkiː kɑːrd/",
+        "es": "tarjeta llave",
+        "contexto": "diario",
+        "ejemplo": "My key card doesn't work."
+      },
+      {
+        "en": "room service /ˈruːm ˌsɜːrvɪs/",
+        "es": "servicio a la habitación",
+        "contexto": "trabajo",
+        "ejemplo": "I ordered a sandwich from room service."
+      },
+      {
+        "en": "breakfast included /ˈbrekfəst ɪnˈkluːdɪd/",
+        "es": "desayuno incluido",
+        "contexto": "diario",
+        "ejemplo": "Is breakfast included in the price?"
+      },
+      {
+        "en": "available /əˈveɪləbəl/",
+        "es": "disponible",
+        "contexto": "trabajo",
+        "ejemplo": "Do you have any rooms available for Friday?"
+      },
+      {
+        "en": "the check /ðə tʃek/ · the bill /ðə bɪl/",
+        "es": "la cuenta (restaurante)",
+        "contexto": "diario",
+        "ejemplo": "Could we have the check, please?"
+      },
+      {
+        "en": "tip /tɪp/",
+        "es": "propina",
+        "contexto": "diario",
+        "ejemplo": "In the US, people leave a 15–20% tip."
+      },
+      {
+        "en": "receipt /rɪˈsiːt/",
+        "es": "recibo",
+        "contexto": "trabajo",
+        "ejemplo": "Can I have a receipt for my expense report?"
+      },
+      {
+        "en": "menu /ˈmenjuː/ · waiter /ˈweɪtər/ · order /ˈɔːrdər/",
+        "es": "carta · mesero · pedir",
+        "contexto": "diario",
+        "ejemplo": "The waiter brought the menu and we ordered."
+      },
+      {
+        "en": "sightseeing /ˈsaɪtˌsiːɪŋ/",
+        "es": "turismo, recorrer lugares",
+        "contexto": "diario",
+        "ejemplo": "We went sightseeing in the old city."
+      },
+      {
+        "en": "tourist /ˈtʊrɪst/",
+        "es": "turista",
+        "contexto": "diario",
+        "ejemplo": "Cartagena is full of tourists in December."
+      },
+      {
+        "en": "business trip /ˈbɪznəs trɪp/",
+        "es": "viaje de trabajo",
+        "contexto": "trabajo",
+        "ejemplo": "I'm in São Paulo on a business trip."
+      },
+      {
+        "en": "itinerary /aɪˈtɪnəreri/",
+        "es": "itinerario",
+        "contexto": "trabajo",
+        "ejemplo": "The agency sent me the itinerary for the trip."
+      },
+      {
+        "en": "rent a car /rent ə kɑːr/",
+        "es": "alquilar un carro",
+        "contexto": "diario",
+        "ejemplo": "We rented a car to visit the coffee region."
+      },
+      {
+        "en": "subway /ˈsʌbweɪ/",
+        "es": "metro",
+        "contexto": "diario",
+        "ejemplo": "Take the subway; it's faster than a cab."
+      },
+      {
+        "en": "cab /kæb/ · taxi /ˈtæksi/",
+        "es": "taxi",
+        "contexto": "diario",
+        "ejemplo": "Let's take a cab to the hotel."
+      },
+      {
+        "en": "bus stop /ˈbʌs stɑːp/ · platform /ˈplætfɔːrm/",
+        "es": "parada de bus · andén",
+        "contexto": "diario",
+        "ejemplo": "The train leaves from platform 4."
+      },
+      {
+        "en": "fare /fer/",
+        "es": "tarifa, pasaje",
+        "contexto": "diario",
+        "ejemplo": "The subway fare is $2.90."
+      },
+      {
+        "en": "cancel /ˈkænsəl/",
+        "es": "cancelar",
+        "contexto": "trabajo",
+        "ejemplo": "They cancelled my flight because of the storm."
+      }
     ],
     "tip": "Antes de un viaje, repite en voz alta las cinco frases que seguro vas a decir: 'I have a reservation under…', 'Is breakfast included?', 'An aisle seat, please', 'Could I have the check?' y 'Can I have a receipt?'."
   },
+  "palabras": [
+    {
+      "id": "flight",
+      "en": "flight",
+      "ipa": "/flaɪt/",
+      "es": "vuelo",
+      "clase": "sustantivo",
+      "orden": 1,
+      "ejemplo": "My flight to Miami leaves at 7 a.m.",
+      "hueco": {
+        "frase": "My ___ to Miami leaves at 7 a.m. (vuelo)",
+        "respuestas": [
+          "flight"
+        ]
+      },
+      "nota": "the 7 a.m. flight · flight AV 20 · a direct flight"
+    },
+    {
+      "id": "reservation",
+      "en": "reservation",
+      "ipa": "/ˌrezərˈveɪʃən/",
+      "es": "reserva",
+      "clase": "sustantivo",
+      "orden": 2,
+      "ejemplo": "I have a reservation under the name Gómez.",
+      "hueco": {
+        "frase": "I have a ___ under the name Gómez. (reserva)",
+        "respuestas": [
+          "reservation"
+        ]
+      },
+      "nota": "have / make a reservation · 'reservate' no existe"
+    },
+    {
+      "id": "book",
+      "en": "book",
+      "ipa": "/bʊk/",
+      "es": "reservar",
+      "clase": "verbo",
+      "orden": 3,
+      "formas": {
+        "s": "books",
+        "pasado": "booked",
+        "participio": "booked",
+        "ing": "booking"
+      },
+      "comp": [
+        "a room",
+        "a flight",
+        "a table for two"
+      ],
+      "ejemplo": "I booked a room near the client's office.",
+      "hueco": {
+        "frase": "I ___ a room near the client's office last week. (reservar)",
+        "respuestas": [
+          "booked"
+        ]
+      },
+      "nota": "book a room / a flight / a table · también reserve"
+    },
+    {
+      "id": "check-in",
+      "en": "check in",
+      "ipa": "/ˌtʃek ˈɪn/",
+      "es": "registrarse (hotel), hacer el check-in (vuelo)",
+      "clase": "phrasal verb",
+      "orden": 4,
+      "formas": {
+        "s": "checks in",
+        "pasado": "checked in",
+        "participio": "checked in",
+        "ing": "checking in"
+      },
+      "comp": [
+        "at the hotel",
+        "online"
+      ],
+      "ejemplo": "You can check in after 3 p.m.",
+      "hueco": {
+        "frase": "You can ___ after 3 p.m. (registrarse)",
+        "respuestas": [
+          "check in"
+        ]
+      },
+      "nota": "Verbo: check in (dos palabras). Sustantivo: check-in (con guion)."
+    },
+    {
+      "id": "check-out",
+      "en": "check out",
+      "ipa": "/ˌtʃek ˈaʊt/",
+      "es": "dejar la habitación y pagar",
+      "clase": "phrasal verb",
+      "orden": 5,
+      "formas": {
+        "s": "checks out",
+        "pasado": "checked out",
+        "participio": "checked out",
+        "ing": "checking out"
+      },
+      "comp": [
+        "before noon",
+        "of the hotel"
+      ],
+      "ejemplo": "We have to check out before noon.",
+      "hueco": {
+        "frase": "We have to ___ before noon. (dejar la habitación)",
+        "respuestas": [
+          "check out"
+        ]
+      },
+      "nota": "What time is check-out? (sustantivo, con guion)"
+    },
+    {
+      "id": "luggage",
+      "en": "luggage",
+      "ipa": "/ˈlʌɡɪdʒ/",
+      "es": "equipaje (incontable)",
+      "clase": "sustantivo",
+      "orden": 6,
+      "ejemplo": "My luggage is too heavy.",
+      "hueco": {
+        "frase": "My ___ is too heavy. (equipaje)",
+        "respuestas": [
+          "luggage",
+          "baggage"
+        ]
+      },
+      "nota": "Incontable: my luggage is… Nunca 'two luggages': two suitcases / bags."
+    },
+    {
+      "id": "boarding-pass",
+      "en": "boarding pass",
+      "ipa": "/ˈbɔːrdɪŋ pæs/",
+      "es": "pasabordo, tarjeta de embarque",
+      "clase": "sustantivo",
+      "orden": 7,
+      "ejemplo": "Please have your boarding pass and passport ready.",
+      "hueco": {
+        "frase": "Please have your ___ and passport ready. (pasabordo)",
+        "respuestas": [
+          "boarding pass"
+        ]
+      }
+    },
+    {
+      "id": "gate",
+      "en": "gate",
+      "ipa": "/ɡeɪt/",
+      "es": "puerta de embarque",
+      "clase": "sustantivo",
+      "orden": 8,
+      "ejemplo": "Boarding starts at gate 23 in ten minutes.",
+      "hueco": {
+        "frase": "Boarding starts at ___ 23 in ten minutes. (puerta de embarque)",
+        "respuestas": [
+          "gate"
+        ]
+      }
+    },
+    {
+      "id": "delay",
+      "en": "delay",
+      "ipa": "/dɪˈleɪ/",
+      "es": "retraso",
+      "clase": "sustantivo",
+      "orden": 9,
+      "ejemplo": "There's a two-hour delay.",
+      "hueco": {
+        "frase": "There's a two-hour ___. (retraso)",
+        "respuestas": [
+          "delay"
+        ]
+      },
+      "nota": "a two-hour delay · because of the delay"
+    },
+    {
+      "id": "delayed",
+      "en": "delayed",
+      "ipa": "/dɪˈleɪd/",
+      "es": "retrasado",
+      "clase": "adjetivo",
+      "orden": 10,
+      "opuesto": "on time",
+      "ejemplo": "The flight is delayed.",
+      "hueco": {
+        "frase": "The flight is ___. (retrasado)",
+        "respuestas": [
+          "delayed"
+        ]
+      },
+      "nota": "My flight is delayed. · 'The flight has delay' es un calco."
+    },
+    {
+      "id": "passport",
+      "en": "passport",
+      "ipa": "/ˈpæspɔːrt/",
+      "es": "pasaporte",
+      "clase": "sustantivo",
+      "orden": 11,
+      "ejemplo": "Don't forget your passport.",
+      "hueco": {
+        "frase": "Don't forget your ___. (pasaporte)",
+        "respuestas": [
+          "passport"
+        ]
+      }
+    },
+    {
+      "id": "security",
+      "en": "security",
+      "ipa": "/sɪˈkjʊrəti/",
+      "es": "control de seguridad",
+      "clase": "sustantivo",
+      "orden": 12,
+      "ejemplo": "The line at security was very long.",
+      "hueco": {
+        "frase": "The line at ___ was very long. (control de seguridad)",
+        "respuestas": [
+          "security"
+        ]
+      },
+      "nota": "go through security"
+    },
+    {
+      "id": "customs",
+      "en": "customs",
+      "ipa": "/ˈkʌstəmz/",
+      "es": "aduana",
+      "clase": "sustantivo",
+      "orden": 13,
+      "ejemplo": "They stopped me at customs because of the coffee.",
+      "hueco": {
+        "frase": "They stopped me at ___ because of the coffee. (aduana)",
+        "respuestas": [
+          "customs"
+        ]
+      },
+      "nota": "Siempre con -s. go through customs"
+    },
+    {
+      "id": "check",
+      "en": "check",
+      "ipa": "/tʃek/",
+      "es": "la cuenta (restaurante, EE. UU.)",
+      "clase": "sustantivo",
+      "orden": 14,
+      "ejemplo": "Could we have the check, please?",
+      "hueco": {
+        "frase": "Could we have the ___, please? (cuenta)",
+        "respuestas": [
+          "check",
+          "bill"
+        ]
+      },
+      "nota": "US: the check. UK: the bill. Nunca 'the account'."
+    },
+    {
+      "id": "tip",
+      "en": "tip",
+      "ipa": "/tɪp/",
+      "es": "propina",
+      "clase": "sustantivo",
+      "orden": 15,
+      "ejemplo": "In the US, people leave a 15–20% tip.",
+      "hueco": {
+        "frase": "In the US, people leave a 15–20% ___. (propina)",
+        "respuestas": [
+          "tip"
+        ]
+      },
+      "nota": "leave a tip · Is the tip included?"
+    },
+    {
+      "id": "receipt",
+      "en": "receipt",
+      "ipa": "/rɪˈsiːt/",
+      "es": "recibo",
+      "clase": "sustantivo",
+      "orden": 16,
+      "ejemplo": "Can I have a receipt for my expense report?",
+      "hueco": {
+        "frase": "Can I have a ___ for my expense report? (recibo)",
+        "respuestas": [
+          "receipt"
+        ]
+      },
+      "nota": "La p no suena: /rɪˈsiːt/. Recipe = receta de cocina."
+    },
+    {
+      "id": "front-desk",
+      "en": "front desk",
+      "ipa": "/ˌfrʌnt ˈdesk/",
+      "es": "recepción (del hotel)",
+      "clase": "sustantivo",
+      "orden": 17,
+      "ejemplo": "You can leave your luggage at the front desk.",
+      "hueco": {
+        "frase": "You can leave your luggage at the ___. (recepción)",
+        "respuestas": [
+          "front desk",
+          "reception"
+        ]
+      }
+    },
+    {
+      "id": "key-card",
+      "en": "key card",
+      "ipa": "/ˈkiː kɑːrd/",
+      "es": "tarjeta llave",
+      "clase": "sustantivo",
+      "orden": 18,
+      "ejemplo": "My key card doesn't work.",
+      "hueco": {
+        "frase": "My ___ doesn't work. (tarjeta llave)",
+        "respuestas": [
+          "key card"
+        ]
+      }
+    },
+    {
+      "id": "double-room",
+      "en": "double room",
+      "ipa": "/ˈdʌbəl ruːm/",
+      "es": "habitación doble",
+      "clase": "sustantivo",
+      "orden": 19,
+      "ejemplo": "I'd like a double room for two nights.",
+      "hueco": {
+        "frase": "I'd like a ___ for two nights. (habitación doble)",
+        "respuestas": [
+          "double room"
+        ]
+      }
+    },
+    {
+      "id": "single-room",
+      "en": "single room",
+      "ipa": "/ˈsɪŋɡəl ruːm/",
+      "es": "habitación sencilla",
+      "clase": "sustantivo",
+      "orden": 20,
+      "ejemplo": "A single room for three nights, please.",
+      "hueco": {
+        "frase": "A ___ for three nights, please. (habitación sencilla)",
+        "respuestas": [
+          "single room"
+        ]
+      }
+    },
+    {
+      "id": "breakfast-included",
+      "en": "breakfast included",
+      "ipa": "/ˈbrekfəst ɪnˈkluːdɪd/",
+      "es": "desayuno incluido",
+      "clase": "expresión",
+      "orden": 21,
+      "ejemplo": "Is breakfast included in the price?",
+      "hueco": {
+        "frase": "Is breakfast ___ in the price? (incluido)",
+        "respuestas": [
+          "included"
+        ]
+      },
+      "nota": "Is … included? · Is the tip included?"
+    },
+    {
+      "id": "available",
+      "en": "available",
+      "ipa": "/əˈveɪləbəl/",
+      "es": "disponible",
+      "clase": "adjetivo",
+      "orden": 22,
+      "opuesto": "full",
+      "ejemplo": "Do you have any rooms available for Friday?",
+      "hueco": {
+        "frase": "Do you have any rooms ___ for Friday? (disponibles)",
+        "respuestas": [
+          "available"
+        ]
+      }
+    },
+    {
+      "id": "round-trip",
+      "en": "round trip",
+      "ipa": "/ˌraʊnd ˈtrɪp/",
+      "es": "ida y vuelta",
+      "clase": "sustantivo",
+      "orden": 23,
+      "ejemplo": "A round trip ticket to Cartagena, please.",
+      "hueco": {
+        "frase": "A ___ ticket to Cartagena, please. (ida y vuelta)",
+        "respuestas": [
+          "round trip",
+          "round-trip"
+        ]
+      },
+      "nota": "US: round trip. UK: return."
+    },
+    {
+      "id": "one-way",
+      "en": "one-way",
+      "ipa": "/ˌwʌn ˈweɪ/",
+      "es": "solo ida",
+      "clase": "adjetivo",
+      "orden": 24,
+      "opuesto": "round trip",
+      "ejemplo": "I only need a one-way ticket.",
+      "hueco": {
+        "frase": "I only need a ___ ticket. (solo ida)",
+        "respuestas": [
+          "one-way",
+          "one way"
+        ]
+      }
+    },
+    {
+      "id": "carry-on",
+      "en": "carry-on",
+      "ipa": "/ˈkæri ɑːn/",
+      "es": "equipaje de mano",
+      "clase": "sustantivo",
+      "orden": 25,
+      "ejemplo": "I only have a carry-on, so I don't need to wait.",
+      "hueco": {
+        "frase": "I only have a ___, so I don't need to wait. (equipaje de mano)",
+        "respuestas": [
+          "carry-on",
+          "carry on"
+        ]
+      }
+    },
+    {
+      "id": "layover",
+      "en": "layover",
+      "ipa": "/ˈleɪoʊvər/",
+      "es": "escala",
+      "clase": "sustantivo",
+      "orden": 26,
+      "ejemplo": "We have a three-hour layover in Panama City.",
+      "hueco": {
+        "frase": "We have a three-hour ___ in Panama City. (escala)",
+        "respuestas": [
+          "layover",
+          "stopover"
+        ]
+      }
+    },
+    {
+      "id": "departure",
+      "en": "departure",
+      "ipa": "/dɪˈpɑːrtʃər/",
+      "es": "salida",
+      "clase": "sustantivo",
+      "orden": 27,
+      "ejemplo": "Departures are upstairs.",
+      "hueco": {
+        "frase": "___ are upstairs; arrivals are downstairs. (salidas)",
+        "respuestas": [
+          "Departures",
+          "departures"
+        ]
+      }
+    },
+    {
+      "id": "arrival",
+      "en": "arrival",
+      "ipa": "/əˈraɪvəl/",
+      "es": "llegada",
+      "clase": "sustantivo",
+      "orden": 28,
+      "ejemplo": "Arrivals are downstairs.",
+      "hueco": {
+        "frase": "Departures are upstairs; ___ are downstairs. (llegadas)",
+        "respuestas": [
+          "arrivals"
+        ]
+      }
+    },
+    {
+      "id": "aisle-seat",
+      "en": "aisle seat",
+      "ipa": "/aɪl siːt/",
+      "es": "asiento de pasillo",
+      "clase": "sustantivo",
+      "orden": 29,
+      "ejemplo": "Can I have an aisle seat, please?",
+      "hueco": {
+        "frase": "Can I have an ___, please? (asiento de pasillo)",
+        "respuestas": [
+          "aisle seat"
+        ]
+      },
+      "nota": "La s no suena: /aɪl/."
+    },
+    {
+      "id": "window-seat",
+      "en": "window seat",
+      "ipa": "/ˈwɪndoʊ siːt/",
+      "es": "asiento de ventana",
+      "clase": "sustantivo",
+      "orden": 30,
+      "ejemplo": "I prefer a window seat on long flights.",
+      "hueco": {
+        "frase": "I prefer a ___ on long flights. (asiento de ventana)",
+        "respuestas": [
+          "window seat"
+        ]
+      }
+    },
+    {
+      "id": "board",
+      "en": "board",
+      "ipa": "/bɔːrd/",
+      "es": "abordar, embarcar",
+      "clase": "verbo",
+      "orden": 31,
+      "formas": {
+        "s": "boards",
+        "pasado": "boarded",
+        "participio": "boarded",
+        "ing": "boarding"
+      },
+      "comp": [
+        "the plane",
+        "at gate 12"
+      ],
+      "ejemplo": "We boarded the plane at gate 12.",
+      "hueco": {
+        "frase": "We ___ the plane at gate 12. (abordar, pasado)",
+        "respuestas": [
+          "boarded"
+        ]
+      },
+      "nota": "We're boarding now."
+    },
+    {
+      "id": "take-off",
+      "en": "take off",
+      "ipa": "/ˌteɪk ˈɔːf/",
+      "es": "despegar",
+      "clase": "phrasal verb",
+      "orden": 32,
+      "formas": {
+        "s": "takes off",
+        "pasado": "took off",
+        "participio": "taken off",
+        "ing": "taking off"
+      },
+      "irregular": true,
+      "ejemplo": "The plane takes off at 6.",
+      "hueco": {
+        "frase": "The plane ___ at 6 and lands at 9. (despega)",
+        "respuestas": [
+          "takes off"
+        ]
+      }
+    },
+    {
+      "id": "land",
+      "en": "land",
+      "ipa": "/lænd/",
+      "es": "aterrizar",
+      "clase": "verbo",
+      "orden": 33,
+      "formas": {
+        "s": "lands",
+        "pasado": "landed",
+        "participio": "landed",
+        "ing": "landing"
+      },
+      "ejemplo": "The plane lands at 9.",
+      "hueco": {
+        "frase": "The plane takes off at 6 and ___ at 9. (aterriza)",
+        "respuestas": [
+          "lands"
+        ]
+      }
+    },
+    {
+      "id": "miss",
+      "en": "miss",
+      "ipa": "/mɪs/",
+      "es": "perder (un vuelo, un bus)",
+      "clase": "verbo",
+      "orden": 34,
+      "formas": {
+        "s": "misses",
+        "pasado": "missed",
+        "participio": "missed",
+        "ing": "missing"
+      },
+      "comp": [
+        "the flight",
+        "my connection",
+        "the bus"
+      ],
+      "ejemplo": "Hurry up or we'll miss the flight.",
+      "hueco": {
+        "frase": "Hurry up or we'll ___ the flight. (perder)",
+        "respuestas": [
+          "miss"
+        ]
+      },
+      "nota": "miss the flight / the bus. Nunca 'lose the flight'."
+    },
+    {
+      "id": "cancel",
+      "en": "cancel",
+      "ipa": "/ˈkænsəl/",
+      "es": "cancelar",
+      "clase": "verbo",
+      "orden": 35,
+      "formas": {
+        "s": "cancels",
+        "pasado": "cancelled",
+        "participio": "cancelled",
+        "ing": "cancelling"
+      },
+      "comp": [
+        "the flight",
+        "the reservation"
+      ],
+      "ejemplo": "They cancelled my flight because of the storm.",
+      "hueco": {
+        "frase": "They ___ my flight because of the storm. (cancelar, pasado)",
+        "respuestas": [
+          "cancelled",
+          "canceled"
+        ]
+      },
+      "nota": "US: canceled · UK: cancelled. Las dos se aceptan."
+    },
+    {
+      "id": "voucher",
+      "en": "voucher",
+      "ipa": "/ˈvaʊtʃər/",
+      "es": "bono, vale",
+      "clase": "sustantivo",
+      "orden": 36,
+      "ejemplo": "The airline gave us a meal voucher because of the delay.",
+      "hueco": {
+        "frase": "The airline gave us a meal ___ because of the delay. (bono)",
+        "respuestas": [
+          "voucher"
+        ]
+      }
+    },
+    {
+      "id": "buffet",
+      "en": "buffet",
+      "ipa": "/bəˈfeɪ/",
+      "es": "bufé",
+      "clase": "sustantivo",
+      "orden": 37,
+      "ejemplo": "The breakfast buffet opens at 6:30.",
+      "hueco": {
+        "frase": "The breakfast ___ opens at 6:30. (bufé)",
+        "respuestas": [
+          "buffet"
+        ]
+      },
+      "nota": "La t no suena: /bəˈfeɪ/."
+    },
+    {
+      "id": "room-service",
+      "en": "room service",
+      "ipa": "/ˈruːm ˌsɜːrvɪs/",
+      "es": "servicio a la habitación",
+      "clase": "sustantivo",
+      "orden": 38,
+      "ejemplo": "I ordered a sandwich from room service.",
+      "hueco": {
+        "frase": "I ordered a sandwich from ___. (servicio a la habitación)",
+        "respuestas": [
+          "room service"
+        ]
+      }
+    },
+    {
+      "id": "menu",
+      "en": "menu",
+      "ipa": "/ˈmenjuː/",
+      "es": "carta (del restaurante)",
+      "clase": "sustantivo",
+      "orden": 39,
+      "ejemplo": "The waiter brought the menu.",
+      "hueco": {
+        "frase": "The waiter brought the ___ and we ordered. (carta)",
+        "respuestas": [
+          "menu"
+        ]
+      },
+      "nota": "La carta = the menu. 'The letter' es una carta de correo."
+    },
+    {
+      "id": "waiter",
+      "en": "waiter",
+      "ipa": "/ˈweɪtər/",
+      "es": "mesero",
+      "clase": "sustantivo",
+      "orden": 40,
+      "ejemplo": "The waiter brought the menu and we ordered.",
+      "hueco": {
+        "frase": "The ___ brought the menu and we ordered. (mesero)",
+        "respuestas": [
+          "waiter",
+          "server"
+        ]
+      },
+      "nota": "waiter / waitress; hoy también server"
+    },
+    {
+      "id": "order",
+      "en": "order",
+      "ipa": "/ˈɔːrdər/",
+      "es": "pedir (comida)",
+      "clase": "verbo",
+      "orden": 41,
+      "formas": {
+        "s": "orders",
+        "pasado": "ordered",
+        "participio": "ordered",
+        "ing": "ordering"
+      },
+      "comp": [
+        "a coffee",
+        "the fish",
+        "dessert"
+      ],
+      "ejemplo": "The waiter brought the menu and we ordered.",
+      "hueco": {
+        "frase": "The waiter brought the menu and we ___. (pedir, pasado)",
+        "respuestas": [
+          "ordered"
+        ]
+      },
+      "nota": "Are you ready to order? · I'd like to order…"
+    },
+    {
+      "id": "go-sightseeing",
+      "en": "go sightseeing",
+      "ipa": "/ɡoʊ ˈsaɪtˌsiːɪŋ/",
+      "es": "hacer turismo, recorrer lugares",
+      "clase": "expresión",
+      "orden": 42,
+      "ejemplo": "We went sightseeing in the old city.",
+      "hueco": {
+        "frase": "We went ___ in the old city. (hacer turismo)",
+        "respuestas": [
+          "sightseeing"
+        ]
+      },
+      "nota": "go sightseeing (nunca 'make tourism')"
+    },
+    {
+      "id": "tourist",
+      "en": "tourist",
+      "ipa": "/ˈtʊrɪst/",
+      "es": "turista",
+      "clase": "sustantivo",
+      "orden": 43,
+      "ejemplo": "Cartagena is full of tourists in December.",
+      "hueco": {
+        "frase": "Cartagena is full of ___ in December. (turistas)",
+        "respuestas": [
+          "tourists"
+        ]
+      }
+    },
+    {
+      "id": "business-trip",
+      "en": "business trip",
+      "ipa": "/ˈbɪznəs trɪp/",
+      "es": "viaje de trabajo",
+      "clase": "sustantivo",
+      "orden": 44,
+      "ejemplo": "I'm in São Paulo on a business trip.",
+      "hueco": {
+        "frase": "I'm in São Paulo on a ___. (viaje de trabajo)",
+        "respuestas": [
+          "business trip"
+        ]
+      },
+      "nota": "on a business trip"
+    },
+    {
+      "id": "itinerary",
+      "en": "itinerary",
+      "ipa": "/aɪˈtɪnəreri/",
+      "es": "itinerario",
+      "clase": "sustantivo",
+      "orden": 45,
+      "ejemplo": "The agency sent me the itinerary for the trip.",
+      "hueco": {
+        "frase": "The agency sent me the ___ for the trip. (itinerario)",
+        "respuestas": [
+          "itinerary"
+        ]
+      }
+    },
+    {
+      "id": "rent",
+      "en": "rent",
+      "ipa": "/rent/",
+      "es": "alquilar",
+      "clase": "verbo",
+      "orden": 46,
+      "formas": {
+        "s": "rents",
+        "pasado": "rented",
+        "participio": "rented",
+        "ing": "renting"
+      },
+      "comp": [
+        "a car",
+        "a bike",
+        "an apartment"
+      ],
+      "ejemplo": "We rented a car to visit the coffee region.",
+      "hueco": {
+        "frase": "We ___ a car to visit the coffee region. (alquilar, pasado)",
+        "respuestas": [
+          "rented"
+        ]
+      },
+      "nota": "rent a car · a rental car"
+    },
+    {
+      "id": "subway",
+      "en": "subway",
+      "ipa": "/ˈsʌbweɪ/",
+      "es": "metro",
+      "clase": "sustantivo",
+      "orden": 47,
+      "ejemplo": "Take the subway; it's faster than a cab.",
+      "hueco": {
+        "frase": "Take the ___; it's faster than a cab. (metro)",
+        "respuestas": [
+          "subway",
+          "metro"
+        ]
+      },
+      "nota": "US: subway · UK: underground / tube"
+    },
+    {
+      "id": "cab",
+      "en": "cab",
+      "ipa": "/kæb/",
+      "es": "taxi",
+      "clase": "sustantivo",
+      "orden": 48,
+      "ejemplo": "Let's take a cab to the hotel.",
+      "hueco": {
+        "frase": "Let's take a ___ to the hotel. (taxi)",
+        "respuestas": [
+          "cab",
+          "taxi"
+        ]
+      },
+      "nota": "take a cab / a taxi"
+    },
+    {
+      "id": "bus-stop",
+      "en": "bus stop",
+      "ipa": "/ˈbʌs stɑːp/",
+      "es": "parada de bus",
+      "clase": "sustantivo",
+      "orden": 49,
+      "ejemplo": "The bus stop is in front of the hotel.",
+      "hueco": {
+        "frase": "The ___ is in front of the hotel. (parada de bus)",
+        "respuestas": [
+          "bus stop"
+        ]
+      }
+    },
+    {
+      "id": "platform",
+      "en": "platform",
+      "ipa": "/ˈplætfɔːrm/",
+      "es": "andén",
+      "clase": "sustantivo",
+      "orden": 50,
+      "ejemplo": "The train leaves from platform 4.",
+      "hueco": {
+        "frase": "The train leaves from ___ 4. (andén)",
+        "respuestas": [
+          "platform"
+        ]
+      }
+    },
+    {
+      "id": "fare",
+      "en": "fare",
+      "ipa": "/fer/",
+      "es": "tarifa, pasaje",
+      "clase": "sustantivo",
+      "orden": 51,
+      "ejemplo": "The subway fare is $2.90.",
+      "hueco": {
+        "frase": "The subway ___ is $2.90. (tarifa)",
+        "respuestas": [
+          "fare"
+        ]
+      },
+      "nota": "Suena igual que fair."
+    },
+    {
+      "id": "leave-a-tip",
+      "en": "leave a tip",
+      "ipa": "/ˌliːv ə ˈtɪp/",
+      "es": "dejar propina",
+      "clase": "expresión",
+      "orden": 52,
+      "ejemplo": "The service was great, so we left a big tip.",
+      "hueco": {
+        "frase": "The service was great, so we ___ a big tip. (dejar, pasado)",
+        "respuestas": [
+          "left"
+        ]
+      },
+      "nota": "leave a tip (nunca 'give a tip' para el mesero… aunque se entiende)"
+    },
+    {
+      "id": "a-table-for-two",
+      "en": "a table for two",
+      "ipa": "/ə ˌteɪbəl fər ˈtuː/",
+      "es": "una mesa para dos",
+      "clase": "expresión",
+      "orden": 53,
+      "ejemplo": "A table for two, please.",
+      "hueco": {
+        "frase": "A ___ for two, please. (mesa)",
+        "respuestas": [
+          "table"
+        ]
+      },
+      "nota": "a table for four · Do you have a table by the window?"
+    },
+    {
+      "id": "under-the-name",
+      "en": "under the name",
+      "ipa": "/ˌʌndər ðə ˈneɪm/",
+      "es": "a nombre de",
+      "clase": "expresión",
+      "orden": 54,
+      "ejemplo": "I have a reservation under the name Gómez.",
+      "hueco": {
+        "frase": "I have a reservation ___ the name Gómez. (a nombre de)",
+        "respuestas": [
+          "under"
+        ]
+      },
+      "nota": "under the name + apellido"
+    }
+  ],
   "ejercicios": [
-    { "id": "vocab-viajes-001", "tipo": "emparejar", "nivel": 1, "code": "VOC", "pares": [["flight", "vuelo"], ["gate", "puerta de embarque"], ["boarding pass", "pasabordo"], ["luggage", "equipaje"], ["passport", "pasaporte"]], "explica": "Vocabulario básico de aeropuerto. Gate es la puerta de embarque, nunca door." },
-    { "id": "vocab-viajes-002", "tipo": "emparejar", "nivel": 1, "code": "VOC", "pares": [["reservation", "reserva"], ["single room", "habitación sencilla"], ["double room", "habitación doble"], ["front desk", "recepción"], ["key card", "tarjeta llave"]], "explica": "Vocabulario de hotel. La recepción es the front desk (o reception); la persona es the receptionist." },
-    { "id": "vocab-viajes-003", "tipo": "emparejar", "nivel": 1, "code": "VOC", "pares": [["the check", "la cuenta"], ["tip", "propina"], ["menu", "carta"], ["waiter", "mesero"], ["buffet", "bufé"]], "explica": "Vocabulario de restaurante. En US la cuenta es the check; the bill también se entiende." },
-    { "id": "vocab-viajes-004", "tipo": "emparejar", "nivel": 1, "code": "VOC", "pares": [["round trip", "ida y vuelta"], ["one-way", "solo ida"], ["delay", "retraso"], ["layover", "escala"], ["departure", "salida"], ["arrival", "llegada"]], "explica": "Tipos de tiquete y momentos del vuelo. Layover es la escala entre dos vuelos." },
-    { "id": "vocab-viajes-005", "tipo": "emparejar", "nivel": 2, "code": "VOC", "pares": [["book", "a room"], ["pack", "your suitcase"], ["miss", "the bus"], ["board", "the plane"], ["leave", "a tip"]], "explica": "Colocaciones verbo + sustantivo. Apréndelas juntas: book a room, pack your suitcase, miss the bus, board the plane, leave a tip." },
-    { "id": "vocab-viajes-006", "tipo": "emparejar", "nivel": 2, "code": "VOC", "pares": [["aisle seat", "asiento de pasillo"], ["window seat", "asiento de ventana"], ["carry-on", "equipaje de mano"], ["customs", "aduana"], ["security", "control de seguridad"]], "explica": "Aisle se pronuncia /aɪl/, la s es muda. Customs (aduana) siempre lleva s; custom sin s es costumbre." },
-    { "id": "vocab-viajes-007", "tipo": "emparejar", "nivel": 2, "code": "VOC", "pares": [["room service", "servicio a la habitación"], ["voucher", "bono, vale"], ["breakfast included", "desayuno incluido"], ["available", "disponible"], ["receipt", "recibo"]], "explica": "Receipt /rɪˈsiːt/: la p es muda. No confundir con recipe (receta de cocina)." },
-    { "id": "vocab-viajes-008", "tipo": "emparejar", "nivel": 2, "code": "VOC", "pares": [["sightseeing", "turismo, recorrer lugares"], ["tourist", "turista"], ["business trip", "viaje de trabajo"], ["itinerary", "itinerario"], ["rent a car", "alquilar un carro"]], "explica": "Hacer turismo = go sightseeing. Viaje de trabajo = business trip (no 'work travel')." },
-    { "id": "vocab-viajes-009", "tipo": "emparejar", "nivel": 2, "code": "VOC", "pares": [["subway", "metro"], ["cab", "taxi"], ["platform", "andén"], ["fare", "tarifa del pasaje"], ["bus stop", "parada de bus"]], "explica": "Transporte en US: subway (metro), cab (taxi). Fare es lo que pagas por el pasaje; price se usa para cosas, fare para transporte." },
-    { "id": "vocab-viajes-010", "tipo": "emparejar", "nivel": 1, "code": "VOC", "pares": [["take off", "despegar"], ["land", "aterrizar"], ["cancel", "cancelar"], ["board", "abordar"], ["book", "reservar"]], "explica": "Verbos del vuelo. Book es reservar (un vuelo, una habitación, una mesa); 'reservate' no existe." },
-    { "id": "vocab-viajes-011", "tipo": "emparejar", "nivel": 3, "code": "VOC", "pares": [["layover", "the time you wait between two flights"], ["boarding pass", "the document you need to get on the plane"], ["check out", "leave the hotel and pay"], ["round trip", "a ticket to go and come back"], ["tip", "extra money you leave for the waiter"]], "explica": "Empareja cada palabra con su definición en inglés para fijarla sin pasar por el español." },
-    { "id": "vocab-viajes-012", "tipo": "emparejar", "nivel": 3, "code": "VOC", "pares": [["front desk", "the place where you check in at a hotel"], ["gate", "the place where you board the plane"], ["customs", "where they check what you bring into the country"], ["voucher", "a paper or code you exchange for a service"], ["delay", "when the flight leaves later than planned"]], "explica": "Definiciones en inglés. Fíjate en la diferencia: front desk es del hotel y gate del aeropuerto." },
-    { "id": "vocab-viajes-013", "tipo": "elegir", "nivel": 1, "code": "VOC", "q": "Excuse me, where is ___ 23? My flight leaves in 20 minutes.", "opciones": ["gate", "platform", "front desk", "customs"], "a": 0, "explica": "Gate = puerta de embarque. Platform es el andén del tren; front desk es la recepción del hotel." },
-    { "id": "vocab-viajes-014", "tipo": "elegir", "nivel": 1, "code": "VOC", "q": "I'd like to ___ a double room for two nights, please.", "opciones": ["check", "book", "do", "buy"], "a": 1, "explica": "Book a room = reservar una habitación. También se dice reserve a room, pero nunca 'do' o 'buy'." },
-    { "id": "vocab-viajes-015", "tipo": "elegir", "nivel": 1, "code": "USO", "q": "Can we have ___, please? We're ready to leave the restaurant.", "opciones": ["the account", "the check", "the receipt", "the menu"], "a": 1, "explica": "La cuenta del restaurante es the check (US). The account es un calco del español; the receipt es el recibo que te dan después de pagar." },
-    { "id": "vocab-viajes-016", "tipo": "elegir", "nivel": 2, "code": "VOC", "q": "Our flight is ___ by two hours because of the rain.", "opciones": ["cancelled", "booked", "delayed", "landed"], "a": 2, "explica": "Delayed = retrasado. Si fuera cancelled no habría 'by two hours'." },
-    { "id": "vocab-viajes-017", "tipo": "elegir", "nivel": 2, "code": "VOC", "q": "I only have a ___, so I don't need to wait for my suitcase.", "opciones": ["carry-on", "voucher", "boarding pass", "key card"], "a": 0, "explica": "Carry-on = equipaje de mano, el que llevas contigo en el avión." },
-    { "id": "vocab-viajes-018", "tipo": "elegir", "nivel": 2, "code": "VOC", "q": "We have to ___ before 12, so let's pack now.", "opciones": ["check in", "check out", "take off", "book"], "a": 1, "explica": "Check out = dejar la habitación y pagar. Check in es al llegar." },
-    { "id": "vocab-viajes-019", "tipo": "elegir", "nivel": 2, "code": "VOC", "q": "Do you want an aisle seat or a ___ seat?", "opciones": ["window", "double", "single", "round"], "a": 0, "explica": "En el avión eliges aisle seat (pasillo) o window seat (ventana). Single y double son para habitaciones." },
-    { "id": "vocab-viajes-020", "tipo": "elegir", "nivel": 2, "code": "VOC", "q": "The service was great, so we left a 15% ___.", "opciones": ["check", "fare", "tip", "receipt"], "a": 2, "explica": "Tip = propina, y la colocación es leave a tip." },
-    { "id": "vocab-viajes-021", "tipo": "elegir", "nivel": 2, "code": "VOC", "q": "I need a ___ ticket: Bogotá to Miami and back.", "opciones": ["one-way", "round trip", "single", "double"], "a": 1, "explica": "Round trip = ida y vuelta. One-way = solo ida." },
-    { "id": "vocab-viajes-022", "tipo": "elegir", "nivel": 3, "code": "VOC", "q": "Your room isn't ready yet. You can leave your ___ at the front desk.", "opciones": ["luggages", "luggage", "baggages", "equipage"], "a": 1, "explica": "Luggage es incontable: nunca lleva -s. Lo mismo pasa con baggage." },
-    { "id": "vocab-viajes-023", "tipo": "elegir", "nivel": 3, "code": "VOC", "q": "Our flight isn't direct: we have a three-hour ___ in Panama City.", "opciones": ["delay", "layover", "departure", "check-in"], "a": 1, "explica": "Layover = escala. Un delay es un retraso, no una parada planeada." },
-    { "id": "vocab-viajes-024", "tipo": "escribir", "nivel": 1, "code": "VOC", "q": "Good evening. I have a ___ (reserva) for tonight under the name Gómez.", "respuestas": ["reservation", "booking"], "explica": "Reserva = reservation (o booking). El verbo es book o reserve." },
-    { "id": "vocab-viajes-025", "tipo": "escribir", "nivel": 1, "code": "VOC", "q": "Please show your ___ (pasabordo) and your passport.", "respuestas": ["boarding pass"], "explica": "Boarding pass = pasabordo. Viene de board (abordar)." },
-    { "id": "vocab-viajes-026", "tipo": "escribir", "nivel": 1, "code": "VOC", "q": "Is breakfast ___ (incluido) in the price?", "respuestas": ["included"], "explica": "Included = incluido. Pregunta clave en cualquier hotel." },
-    { "id": "vocab-viajes-027", "tipo": "escribir", "nivel": 1, "code": "VOC", "q": "You can ___ (registrarse) at the hotel after 3 p.m.", "respuestas": ["check in"], "explica": "Check in = registrarse en el hotel o hacer el check-in del vuelo. Sin guion cuando es verbo." },
-    { "id": "vocab-viajes-028", "tipo": "escribir", "nivel": 2, "code": "VOC", "q": "I ordered a sandwich from ___ (servicio a la habitación) at midnight.", "respuestas": ["room service"], "explica": "Room service = servicio a la habitación. Se pide 'from room service'." },
-    { "id": "vocab-viajes-029", "tipo": "escribir", "nivel": 2, "code": "VOC", "q": "The ___ (propina) is not included in the price.", "respuestas": ["tip"], "explica": "Tip = propina. En US suele ser del 15 al 20 %." },
-    { "id": "vocab-viajes-030", "tipo": "escribir", "nivel": 3, "code": "VOC", "q": "I'd like an ___ (asiento de pasillo), please. I don't like the window.", "respuestas": ["aisle seat"], "explica": "Aisle seat = asiento de pasillo. Aisle se pronuncia /aɪl/." },
-    { "id": "vocab-viajes-031", "tipo": "escribir", "nivel": 3, "code": "VOC", "q": "Tomorrow we're going ___ (a hacer turismo) in Cartagena.", "respuestas": ["sightseeing"], "explica": "Hacer turismo = go sightseeing. No se dice 'do tourism'." },
-    { "id": "vocab-viajes-032", "tipo": "escuchar", "nivel": 1, "code": "VOC", "texto": "boarding pass", "respuestas": ["boarding pass"], "explica": "Boarding pass = pasabordo." },
-    { "id": "vocab-viajes-033", "tipo": "escuchar", "nivel": 1, "code": "VOC", "texto": "I have a reservation.", "respuestas": ["I have a reservation"], "explica": "La frase que abre todo check-in. Reservation con -tion, no 'reserve'." },
-    { "id": "vocab-viajes-034", "tipo": "escuchar", "nivel": 2, "code": "VOC", "texto": "Can I have the check, please?", "respuestas": ["Can I have the check, please", "Can I have the check please"], "explica": "Pedir la cuenta en US: the check." },
-    { "id": "vocab-viajes-035", "tipo": "escuchar", "nivel": 2, "code": "VOC", "texto": "The flight is delayed.", "respuestas": ["The flight is delayed"], "explica": "Delayed = retrasado. Se oye en todos los aeropuertos." },
-    { "id": "vocab-viajes-036", "tipo": "escuchar", "nivel": 3, "code": "VOC", "texto": "What time is check-out?", "respuestas": ["What time is check-out", "What time is check out", "What time is checkout"], "explica": "Check-out como sustantivo (la hora de salida). Se escribe con guion o junto." },
-    { "id": "vocab-viajes-037", "tipo": "traducir", "nivel": 1, "code": "VOC", "es": "Quiero reservar una habitación doble.", "respuestas": ["I want to book a double room", "I'd like to book a double room", "I would like to book a double room", "I want to reserve a double room", "I'd like to reserve a double room", "I would like to reserve a double room"], "explica": "Reservar = book o reserve. 'I'd like to' es más cortés que 'I want to'." },
-    { "id": "vocab-viajes-038", "tipo": "traducir", "nivel": 1, "code": "VOC", "es": "¿Dónde está la puerta de embarque?", "respuestas": ["Where is the gate", "Where's the gate", "Where is the boarding gate", "Where's the boarding gate"], "explica": "Puerta de embarque = gate. Nunca door." },
-    { "id": "vocab-viajes-039", "tipo": "traducir", "nivel": 2, "code": "USO", "es": "La cuenta, por favor.", "respuestas": ["The check, please", "The bill, please", "Check, please", "Can I have the check, please", "Can we have the check, please", "Could I have the check, please", "Could we have the check, please", "Can I have the bill, please", "Can we have the bill, please", "Could we have the bill, please"], "explica": "La cuenta = the check (US) o the bill. Nunca 'the account'." },
-    { "id": "vocab-viajes-040", "tipo": "traducir", "nivel": 2, "code": "VOC", "es": "Mi vuelo tiene un retraso de dos horas.", "respuestas": ["My flight is delayed two hours", "My flight is delayed by two hours", "My flight is two hours late", "My flight has a two-hour delay", "My flight has a two hour delay", "My flight is delayed for two hours", "There is a two-hour delay on my flight"], "explica": "Lo más natural: 'My flight is delayed (by) two hours'. Delay es el sustantivo; delayed el adjetivo." },
-    { "id": "vocab-viajes-041", "tipo": "traducir", "nivel": 3, "code": "VOC", "es": "¿El desayuno está incluido?", "respuestas": ["Is breakfast included", "Is the breakfast included"], "explica": "Breakfast normalmente va sin artículo: Is breakfast included?" },
-    { "id": "vocab-viajes-042", "tipo": "traducir", "nivel": 3, "code": "VOC", "es": "Necesito un tiquete de ida y vuelta a Medellín.", "respuestas": ["I need a round trip ticket to Medellín", "I need a round-trip ticket to Medellín", "I need a round trip ticket to Medellin", "I need a round-trip ticket to Medellin", "I need a round trip to Medellín", "I need a round trip to Medellin"], "explica": "Ida y vuelta = round trip (US). El orden es round trip ticket, no 'ticket round trip'." },
-    { "id": "vocab-viajes-043", "tipo": "corregir", "nivel": 2, "code": "VOC", "frase": "I have two luggages.", "correcta": false, "correccion": ["I have two suitcases.", "I have two bags.", "I have two pieces of luggage."], "explica": "Luggage es incontable. Para contar usa suitcases, bags o pieces of luggage." },
-    { "id": "vocab-viajes-044", "tipo": "corregir", "nivel": 2, "code": "USO", "frase": "Can you bring us the account, please?", "correcta": false, "correccion": ["Can you bring us the check, please?", "Can you bring us the bill, please?"], "explica": "Calco del español. La cuenta del restaurante es the check (US) o the bill." },
-    { "id": "vocab-viajes-045", "tipo": "corregir", "nivel": 2, "code": "USO", "frase": "Keep the recipe; you need it for your expense report.", "correcta": false, "correccion": ["Keep the receipt; you need it for your expense report."], "explica": "Falso amigo: recipe es receta de cocina. El recibo es receipt /rɪˈsiːt/." },
-    { "id": "vocab-viajes-046", "tipo": "corregir", "nivel": 1, "code": "VOC", "frase": "You have to check out before noon.", "correcta": true, "correccion": [], "explica": "Correcta. Check out (verbo, sin guion) = dejar la habitación. Noon = las 12 del día." },
-    { "id": "vocab-viajes-047", "tipo": "corregir", "nivel": 3, "code": "USO", "frase": "I want to reservate a table for four.", "correcta": false, "correccion": ["I want to reserve a table for four.", "I want to book a table for four.", "I'd like to reserve a table for four.", "I'd like to book a table for four."], "explica": "'Reservate' no existe. El verbo es book o reserve; reservation es el sustantivo." },
-    { "id": "vocab-viajes-048", "tipo": "hablar", "nivel": 2, "code": "VOC", "consigna": "Estás en la recepción de un hotel en Miami. Haz el check-in: di que tienes una reserva, el tipo de habitación, cuántas noches y pregunta si el desayuno está incluido.", "objetivo": "I have a reservation under the name… / a single / double room for … nights / Is breakfast included? / What time is check-out?", "ejemplo": "Good evening. I have a reservation under the name Gómez: a single room for three nights. Is breakfast included? And what time is check-out?", "explica": "El guion del check-in: I have a reservation under the name… + tipo de habitación + for … nights + Is breakfast included? Reservation, no 'reserve'." },
-    { "id": "vocab-viajes-049", "tipo": "hablar", "nivel": 2, "code": "VOC", "consigna": "Cuéntale a un colega cómo fue tu último viaje de trabajo: el vuelo (¿hubo retraso?), el hotel y si tuviste tiempo para hacer turismo.", "objetivo": "business trip · flight / delayed / layover · hotel / room service · go sightseeing", "ejemplo": "Last month I went on a business trip to Mexico City. The flight was delayed two hours, so I arrived late. The hotel was nice, and I ordered room service the first night. On Saturday I went sightseeing downtown.", "explica": "Usa las colocaciones: go on a business trip, the flight was delayed, order room service, go sightseeing. Nunca 'do tourism' ni 'make the check-in'." },
-    { "id": "vocab-viajes-050", "tipo": "hablar", "nivel": 3, "code": "VOC", "consigna": "Termina una cena de trabajo en un restaurante: pide la cuenta, pregunta si la propina está incluida y pide el recibo para tu informe de gastos.", "objetivo": "Could we have the check, please? / Is the tip included? / Could I have a receipt?", "ejemplo": "Excuse me, could we have the check, please? Is the tip included? And could I have a receipt? I need it for my expense report.", "explica": "La cuenta es the check (nunca the account), la propina es the tip y el recibo es the receipt (no recipe). Pide con Could I / we have…, please?" }
+    {
+      "id": "vocab-viajes-001",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "VOC",
+      "pares": [
+        [
+          "flight",
+          "vuelo"
+        ],
+        [
+          "gate",
+          "puerta de embarque"
+        ],
+        [
+          "boarding pass",
+          "pasabordo"
+        ],
+        [
+          "luggage",
+          "equipaje"
+        ],
+        [
+          "passport",
+          "pasaporte"
+        ]
+      ],
+      "explica": "Vocabulario básico de aeropuerto. Gate es la puerta de embarque, nunca door."
+    },
+    {
+      "id": "vocab-viajes-002",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "VOC",
+      "pares": [
+        [
+          "reservation",
+          "reserva"
+        ],
+        [
+          "single room",
+          "habitación sencilla"
+        ],
+        [
+          "double room",
+          "habitación doble"
+        ],
+        [
+          "front desk",
+          "recepción"
+        ],
+        [
+          "key card",
+          "tarjeta llave"
+        ]
+      ],
+      "explica": "Vocabulario de hotel. La recepción es the front desk (o reception); la persona es the receptionist."
+    },
+    {
+      "id": "vocab-viajes-003",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "VOC",
+      "pares": [
+        [
+          "the check",
+          "la cuenta"
+        ],
+        [
+          "tip",
+          "propina"
+        ],
+        [
+          "menu",
+          "carta"
+        ],
+        [
+          "waiter",
+          "mesero"
+        ],
+        [
+          "buffet",
+          "bufé"
+        ]
+      ],
+      "explica": "Vocabulario de restaurante. En US la cuenta es the check; the bill también se entiende."
+    },
+    {
+      "id": "vocab-viajes-004",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "VOC",
+      "pares": [
+        [
+          "round trip",
+          "ida y vuelta"
+        ],
+        [
+          "one-way",
+          "solo ida"
+        ],
+        [
+          "delay",
+          "retraso"
+        ],
+        [
+          "layover",
+          "escala"
+        ],
+        [
+          "departure",
+          "salida"
+        ],
+        [
+          "arrival",
+          "llegada"
+        ]
+      ],
+      "explica": "Tipos de tiquete y momentos del vuelo. Layover es la escala entre dos vuelos."
+    },
+    {
+      "id": "vocab-viajes-005",
+      "tipo": "emparejar",
+      "nivel": 2,
+      "code": "VOC",
+      "pares": [
+        [
+          "book",
+          "a room"
+        ],
+        [
+          "pack",
+          "your suitcase"
+        ],
+        [
+          "miss",
+          "the bus"
+        ],
+        [
+          "board",
+          "the plane"
+        ],
+        [
+          "leave",
+          "a tip"
+        ]
+      ],
+      "explica": "Colocaciones verbo + sustantivo. Apréndelas juntas: book a room, pack your suitcase, miss the bus, board the plane, leave a tip."
+    },
+    {
+      "id": "vocab-viajes-006",
+      "tipo": "emparejar",
+      "nivel": 2,
+      "code": "VOC",
+      "pares": [
+        [
+          "aisle seat",
+          "asiento de pasillo"
+        ],
+        [
+          "window seat",
+          "asiento de ventana"
+        ],
+        [
+          "carry-on",
+          "equipaje de mano"
+        ],
+        [
+          "customs",
+          "aduana"
+        ],
+        [
+          "security",
+          "control de seguridad"
+        ]
+      ],
+      "explica": "Aisle se pronuncia /aɪl/, la s es muda. Customs (aduana) siempre lleva s; custom sin s es costumbre."
+    },
+    {
+      "id": "vocab-viajes-007",
+      "tipo": "emparejar",
+      "nivel": 2,
+      "code": "VOC",
+      "pares": [
+        [
+          "room service",
+          "servicio a la habitación"
+        ],
+        [
+          "voucher",
+          "bono, vale"
+        ],
+        [
+          "breakfast included",
+          "desayuno incluido"
+        ],
+        [
+          "available",
+          "disponible"
+        ],
+        [
+          "receipt",
+          "recibo"
+        ]
+      ],
+      "explica": "Receipt /rɪˈsiːt/: la p es muda. No confundir con recipe (receta de cocina)."
+    },
+    {
+      "id": "vocab-viajes-008",
+      "tipo": "emparejar",
+      "nivel": 2,
+      "code": "VOC",
+      "pares": [
+        [
+          "sightseeing",
+          "turismo, recorrer lugares"
+        ],
+        [
+          "tourist",
+          "turista"
+        ],
+        [
+          "business trip",
+          "viaje de trabajo"
+        ],
+        [
+          "itinerary",
+          "itinerario"
+        ],
+        [
+          "rent a car",
+          "alquilar un carro"
+        ]
+      ],
+      "explica": "Hacer turismo = go sightseeing. Viaje de trabajo = business trip (no 'work travel')."
+    },
+    {
+      "id": "vocab-viajes-009",
+      "tipo": "emparejar",
+      "nivel": 2,
+      "code": "VOC",
+      "pares": [
+        [
+          "subway",
+          "metro"
+        ],
+        [
+          "cab",
+          "taxi"
+        ],
+        [
+          "platform",
+          "andén"
+        ],
+        [
+          "fare",
+          "tarifa del pasaje"
+        ],
+        [
+          "bus stop",
+          "parada de bus"
+        ]
+      ],
+      "explica": "Transporte en US: subway (metro), cab (taxi). Fare es lo que pagas por el pasaje; price se usa para cosas, fare para transporte."
+    },
+    {
+      "id": "vocab-viajes-010",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "VOC",
+      "pares": [
+        [
+          "take off",
+          "despegar"
+        ],
+        [
+          "land",
+          "aterrizar"
+        ],
+        [
+          "cancel",
+          "cancelar"
+        ],
+        [
+          "board",
+          "abordar"
+        ],
+        [
+          "book",
+          "reservar"
+        ]
+      ],
+      "explica": "Verbos del vuelo. Book es reservar (un vuelo, una habitación, una mesa); 'reservate' no existe."
+    },
+    {
+      "id": "vocab-viajes-011",
+      "tipo": "emparejar",
+      "nivel": 3,
+      "code": "VOC",
+      "pares": [
+        [
+          "layover",
+          "the time you wait between two flights"
+        ],
+        [
+          "boarding pass",
+          "the document you need to get on the plane"
+        ],
+        [
+          "check out",
+          "leave the hotel and pay"
+        ],
+        [
+          "round trip",
+          "a ticket to go and come back"
+        ],
+        [
+          "tip",
+          "extra money you leave for the waiter"
+        ]
+      ],
+      "explica": "Empareja cada palabra con su definición en inglés para fijarla sin pasar por el español."
+    },
+    {
+      "id": "vocab-viajes-012",
+      "tipo": "emparejar",
+      "nivel": 3,
+      "code": "VOC",
+      "pares": [
+        [
+          "front desk",
+          "the place where you check in at a hotel"
+        ],
+        [
+          "gate",
+          "the place where you board the plane"
+        ],
+        [
+          "customs",
+          "where they check what you bring into the country"
+        ],
+        [
+          "voucher",
+          "a paper or code you exchange for a service"
+        ],
+        [
+          "delay",
+          "when the flight leaves later than planned"
+        ]
+      ],
+      "explica": "Definiciones en inglés. Fíjate en la diferencia: front desk es del hotel y gate del aeropuerto."
+    },
+    {
+      "id": "vocab-viajes-013",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "Excuse me, where is ___ 23? My flight leaves in 20 minutes.",
+      "opciones": [
+        "gate",
+        "platform",
+        "front desk",
+        "customs"
+      ],
+      "a": 0,
+      "explica": "Gate = puerta de embarque. Platform es el andén del tren; front desk es la recepción del hotel."
+    },
+    {
+      "id": "vocab-viajes-014",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "I'd like to ___ a double room for two nights, please.",
+      "opciones": [
+        "check",
+        "book",
+        "do",
+        "buy"
+      ],
+      "a": 1,
+      "explica": "Book a room = reservar una habitación. También se dice reserve a room, pero nunca 'do' o 'buy'."
+    },
+    {
+      "id": "vocab-viajes-015",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Can we have ___, please? We're ready to leave the restaurant.",
+      "opciones": [
+        "the account",
+        "the check",
+        "the receipt",
+        "the menu"
+      ],
+      "a": 1,
+      "explica": "La cuenta del restaurante es the check (US). The account es un calco del español; the receipt es el recibo que te dan después de pagar."
+    },
+    {
+      "id": "vocab-viajes-016",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "Our flight is ___ by two hours because of the rain.",
+      "opciones": [
+        "cancelled",
+        "booked",
+        "delayed",
+        "landed"
+      ],
+      "a": 2,
+      "explica": "Delayed = retrasado. Si fuera cancelled no habría 'by two hours'."
+    },
+    {
+      "id": "vocab-viajes-017",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "I only have a ___, so I don't need to wait for my suitcase.",
+      "opciones": [
+        "carry-on",
+        "voucher",
+        "boarding pass",
+        "key card"
+      ],
+      "a": 0,
+      "explica": "Carry-on = equipaje de mano, el que llevas contigo en el avión."
+    },
+    {
+      "id": "vocab-viajes-018",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "We have to ___ before 12, so let's pack now.",
+      "opciones": [
+        "check in",
+        "check out",
+        "take off",
+        "book"
+      ],
+      "a": 1,
+      "explica": "Check out = dejar la habitación y pagar. Check in es al llegar."
+    },
+    {
+      "id": "vocab-viajes-019",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "Do you want an aisle seat or a ___ seat?",
+      "opciones": [
+        "window",
+        "double",
+        "single",
+        "round"
+      ],
+      "a": 0,
+      "explica": "En el avión eliges aisle seat (pasillo) o window seat (ventana). Single y double son para habitaciones."
+    },
+    {
+      "id": "vocab-viajes-020",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "The service was great, so we left a 15% ___.",
+      "opciones": [
+        "check",
+        "fare",
+        "tip",
+        "receipt"
+      ],
+      "a": 2,
+      "explica": "Tip = propina, y la colocación es leave a tip."
+    },
+    {
+      "id": "vocab-viajes-021",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "I need a ___ ticket: Bogotá to Miami and back.",
+      "opciones": [
+        "one-way",
+        "round trip",
+        "single",
+        "double"
+      ],
+      "a": 1,
+      "explica": "Round trip = ida y vuelta. One-way = solo ida."
+    },
+    {
+      "id": "vocab-viajes-022",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "VOC",
+      "q": "Your room isn't ready yet. You can leave your ___ at the front desk.",
+      "opciones": [
+        "luggages",
+        "luggage",
+        "baggages",
+        "equipage"
+      ],
+      "a": 1,
+      "explica": "Luggage es incontable: nunca lleva -s. Lo mismo pasa con baggage."
+    },
+    {
+      "id": "vocab-viajes-023",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "VOC",
+      "q": "Our flight isn't direct: we have a three-hour ___ in Panama City.",
+      "opciones": [
+        "delay",
+        "layover",
+        "departure",
+        "check-in"
+      ],
+      "a": 1,
+      "explica": "Layover = escala. Un delay es un retraso, no una parada planeada."
+    },
+    {
+      "id": "vocab-viajes-024",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "Good evening. I have a ___ (reserva) for tonight under the name Gómez.",
+      "respuestas": [
+        "reservation",
+        "booking"
+      ],
+      "explica": "Reserva = reservation (o booking). El verbo es book o reserve."
+    },
+    {
+      "id": "vocab-viajes-025",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "Please show your ___ (pasabordo) and your passport.",
+      "respuestas": [
+        "boarding pass"
+      ],
+      "explica": "Boarding pass = pasabordo. Viene de board (abordar)."
+    },
+    {
+      "id": "vocab-viajes-026",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "Is breakfast ___ (incluido) in the price?",
+      "respuestas": [
+        "included"
+      ],
+      "explica": "Included = incluido. Pregunta clave en cualquier hotel."
+    },
+    {
+      "id": "vocab-viajes-027",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "You can ___ (registrarse) at the hotel after 3 p.m.",
+      "respuestas": [
+        "check in"
+      ],
+      "explica": "Check in = registrarse en el hotel o hacer el check-in del vuelo. Sin guion cuando es verbo."
+    },
+    {
+      "id": "vocab-viajes-028",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "I ordered a sandwich from ___ (servicio a la habitación) at midnight.",
+      "respuestas": [
+        "room service"
+      ],
+      "explica": "Room service = servicio a la habitación. Se pide 'from room service'."
+    },
+    {
+      "id": "vocab-viajes-029",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "The ___ (propina) is not included in the price.",
+      "respuestas": [
+        "tip"
+      ],
+      "explica": "Tip = propina. En US suele ser del 15 al 20 %."
+    },
+    {
+      "id": "vocab-viajes-030",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "VOC",
+      "q": "I'd like an ___ (asiento de pasillo), please. I don't like the window.",
+      "respuestas": [
+        "aisle seat"
+      ],
+      "explica": "Aisle seat = asiento de pasillo. Aisle se pronuncia /aɪl/."
+    },
+    {
+      "id": "vocab-viajes-031",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "VOC",
+      "q": "Tomorrow we're going ___ (a hacer turismo) in Cartagena.",
+      "respuestas": [
+        "sightseeing"
+      ],
+      "explica": "Hacer turismo = go sightseeing. No se dice 'do tourism'."
+    },
+    {
+      "id": "vocab-viajes-032",
+      "tipo": "escuchar",
+      "nivel": 1,
+      "code": "VOC",
+      "texto": "boarding pass",
+      "respuestas": [
+        "boarding pass"
+      ],
+      "explica": "Boarding pass = pasabordo."
+    },
+    {
+      "id": "vocab-viajes-033",
+      "tipo": "escuchar",
+      "nivel": 1,
+      "code": "VOC",
+      "texto": "I have a reservation.",
+      "respuestas": [
+        "I have a reservation"
+      ],
+      "explica": "La frase que abre todo check-in. Reservation con -tion, no 'reserve'."
+    },
+    {
+      "id": "vocab-viajes-034",
+      "tipo": "escuchar",
+      "nivel": 2,
+      "code": "VOC",
+      "texto": "Can I have the check, please?",
+      "respuestas": [
+        "Can I have the check, please",
+        "Can I have the check please"
+      ],
+      "explica": "Pedir la cuenta en US: the check."
+    },
+    {
+      "id": "vocab-viajes-035",
+      "tipo": "escuchar",
+      "nivel": 2,
+      "code": "VOC",
+      "texto": "The flight is delayed.",
+      "respuestas": [
+        "The flight is delayed"
+      ],
+      "explica": "Delayed = retrasado. Se oye en todos los aeropuertos."
+    },
+    {
+      "id": "vocab-viajes-036",
+      "tipo": "escuchar",
+      "nivel": 3,
+      "code": "VOC",
+      "texto": "What time is check-out?",
+      "respuestas": [
+        "What time is check-out",
+        "What time is check out",
+        "What time is checkout"
+      ],
+      "explica": "Check-out como sustantivo (la hora de salida). Se escribe con guion o junto."
+    },
+    {
+      "id": "vocab-viajes-037",
+      "tipo": "traducir",
+      "nivel": 1,
+      "code": "VOC",
+      "es": "Quiero reservar una habitación doble.",
+      "respuestas": [
+        "I want to book a double room",
+        "I'd like to book a double room",
+        "I would like to book a double room",
+        "I want to reserve a double room",
+        "I'd like to reserve a double room",
+        "I would like to reserve a double room"
+      ],
+      "explica": "Reservar = book o reserve. 'I'd like to' es más cortés que 'I want to'."
+    },
+    {
+      "id": "vocab-viajes-038",
+      "tipo": "traducir",
+      "nivel": 1,
+      "code": "VOC",
+      "es": "¿Dónde está la puerta de embarque?",
+      "respuestas": [
+        "Where is the gate",
+        "Where's the gate",
+        "Where is the boarding gate",
+        "Where's the boarding gate"
+      ],
+      "explica": "Puerta de embarque = gate. Nunca door."
+    },
+    {
+      "id": "vocab-viajes-039",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "USO",
+      "es": "La cuenta, por favor.",
+      "respuestas": [
+        "The check, please",
+        "The bill, please",
+        "Check, please",
+        "Can I have the check, please",
+        "Can we have the check, please",
+        "Could I have the check, please",
+        "Could we have the check, please",
+        "Can I have the bill, please",
+        "Can we have the bill, please",
+        "Could we have the bill, please"
+      ],
+      "explica": "La cuenta = the check (US) o the bill. Nunca 'the account'."
+    },
+    {
+      "id": "vocab-viajes-040",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "VOC",
+      "es": "Mi vuelo tiene un retraso de dos horas.",
+      "respuestas": [
+        "My flight is delayed two hours",
+        "My flight is delayed by two hours",
+        "My flight is two hours late",
+        "My flight has a two-hour delay",
+        "My flight has a two hour delay",
+        "My flight is delayed for two hours",
+        "There is a two-hour delay on my flight"
+      ],
+      "explica": "Lo más natural: 'My flight is delayed (by) two hours'. Delay es el sustantivo; delayed el adjetivo."
+    },
+    {
+      "id": "vocab-viajes-041",
+      "tipo": "traducir",
+      "nivel": 3,
+      "code": "VOC",
+      "es": "¿El desayuno está incluido?",
+      "respuestas": [
+        "Is breakfast included",
+        "Is the breakfast included"
+      ],
+      "explica": "Breakfast normalmente va sin artículo: Is breakfast included?"
+    },
+    {
+      "id": "vocab-viajes-042",
+      "tipo": "traducir",
+      "nivel": 3,
+      "code": "VOC",
+      "es": "Necesito un tiquete de ida y vuelta a Medellín.",
+      "respuestas": [
+        "I need a round trip ticket to Medellín",
+        "I need a round-trip ticket to Medellín",
+        "I need a round trip ticket to Medellin",
+        "I need a round-trip ticket to Medellin",
+        "I need a round trip to Medellín",
+        "I need a round trip to Medellin"
+      ],
+      "explica": "Ida y vuelta = round trip (US). El orden es round trip ticket, no 'ticket round trip'."
+    },
+    {
+      "id": "vocab-viajes-043",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "VOC",
+      "frase": "I have two luggages.",
+      "correcta": false,
+      "correccion": [
+        "I have two suitcases.",
+        "I have two bags.",
+        "I have two pieces of luggage."
+      ],
+      "explica": "Luggage es incontable. Para contar usa suitcases, bags o pieces of luggage."
+    },
+    {
+      "id": "vocab-viajes-044",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "Can you bring us the account, please?",
+      "correcta": false,
+      "correccion": [
+        "Can you bring us the check, please?",
+        "Can you bring us the bill, please?"
+      ],
+      "explica": "Calco del español. La cuenta del restaurante es the check (US) o the bill."
+    },
+    {
+      "id": "vocab-viajes-045",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "Keep the recipe; you need it for your expense report.",
+      "correcta": false,
+      "correccion": [
+        "Keep the receipt; you need it for your expense report."
+      ],
+      "explica": "Falso amigo: recipe es receta de cocina. El recibo es receipt /rɪˈsiːt/."
+    },
+    {
+      "id": "vocab-viajes-046",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "VOC",
+      "frase": "You have to check out before noon.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Correcta. Check out (verbo, sin guion) = dejar la habitación. Noon = las 12 del día."
+    },
+    {
+      "id": "vocab-viajes-047",
+      "tipo": "corregir",
+      "nivel": 3,
+      "code": "USO",
+      "frase": "I want to reservate a table for four.",
+      "correcta": false,
+      "correccion": [
+        "I want to reserve a table for four.",
+        "I want to book a table for four.",
+        "I'd like to reserve a table for four.",
+        "I'd like to book a table for four."
+      ],
+      "explica": "'Reservate' no existe. El verbo es book o reserve; reservation es el sustantivo."
+    },
+    {
+      "id": "vocab-viajes-048",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "VOC",
+      "consigna": "Estás en la recepción de un hotel en Miami. Haz el check-in: di que tienes una reserva, el tipo de habitación, cuántas noches y pregunta si el desayuno está incluido.",
+      "objetivo": "I have a reservation under the name… / a single / double room for … nights / Is breakfast included? / What time is check-out?",
+      "ejemplo": "Good evening. I have a reservation under the name Gómez: a single room for three nights. Is breakfast included? And what time is check-out?",
+      "explica": "El guion del check-in: I have a reservation under the name… + tipo de habitación + for … nights + Is breakfast included? Reservation, no 'reserve'."
+    },
+    {
+      "id": "vocab-viajes-049",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "VOC",
+      "consigna": "Cuéntale a un colega cómo fue tu último viaje de trabajo: el vuelo (¿hubo retraso?), el hotel y si tuviste tiempo para hacer turismo.",
+      "objetivo": "business trip · flight / delayed / layover · hotel / room service · go sightseeing",
+      "ejemplo": "Last month I went on a business trip to Mexico City. The flight was delayed two hours, so I arrived late. The hotel was nice, and I ordered room service the first night. On Saturday I went sightseeing downtown.",
+      "explica": "Usa las colocaciones: go on a business trip, the flight was delayed, order room service, go sightseeing. Nunca 'do tourism' ni 'make the check-in'."
+    },
+    {
+      "id": "vocab-viajes-050",
+      "tipo": "hablar",
+      "nivel": 3,
+      "code": "VOC",
+      "consigna": "Termina una cena de trabajo en un restaurante: pide la cuenta, pregunta si la propina está incluida y pide el recibo para tu informe de gastos.",
+      "objetivo": "Could we have the check, please? / Is the tip included? / Could I have a receipt?",
+      "ejemplo": "Excuse me, could we have the check, please? Is the tip included? And could I have a receipt? I need it for my expense report.",
+      "explica": "La cuenta es the check (nunca the account), la propina es the tip y el recibo es the receipt (no recipe). Pide con Could I / we have…, please?"
+    },
+    {
+      "id": "vocab-viajes-051",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "En el aeropuerto",
+      "instruccion": "Completa con la palabra de viaje que corresponde a la pista.",
+      "texto": "My {1} (vuelo) to Miami leaves at 7 a.m., so I'm at the airport at 5. I check in online, so I only need to print my {2} (pasabordo). I have a {3} (equipaje de mano) and one big suitcase. The line at {4} (control de seguridad) is very long, but I have time. Then I see the screen: the flight is {5} (retrasado) two hours. I go to {6} (puerta de embarque) 23, buy a coffee and wait. Finally we {7} (abordar) the plane at 9:30 and the plane {8} (despega) at 10.",
+      "huecos": [
+        {
+          "respuestas": [
+            "flight"
+          ]
+        },
+        {
+          "respuestas": [
+            "boarding pass"
+          ]
+        },
+        {
+          "respuestas": [
+            "carry-on",
+            "carry on"
+          ]
+        },
+        {
+          "respuestas": [
+            "security"
+          ]
+        },
+        {
+          "respuestas": [
+            "delayed"
+          ]
+        },
+        {
+          "respuestas": [
+            "gate"
+          ]
+        },
+        {
+          "respuestas": [
+            "board"
+          ]
+        },
+        {
+          "respuestas": [
+            "takes off"
+          ]
+        }
+      ],
+      "explica": "Vocabulario de aeropuerto en orden real: flight, boarding pass, carry-on, security, delayed, gate, board the plane, take off. 'Delayed' es adjetivo: the flight is delayed."
+    },
+    {
+      "id": "vocab-viajes-052",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "En la recepción del hotel",
+      "instruccion": "Elige la palabra que encaja en cada hueco.",
+      "texto": "Good evening. I have a {1} under the name Rodríguez: a {2} for three nights. Is breakfast {3}? Great, and what time does the buffet open? 6:30, perfect. And what time is {4}? Noon, that's fine. One more thing: my {5} doesn't work; can you fix it, please? Also, tomorrow after I check out I'd like to leave my {6} at the {7} for a few hours, because my flight is at night.",
+      "huecos": [
+        {
+          "opciones": [
+            "reservation",
+            "receipt",
+            "voucher"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "single room",
+            "round trip",
+            "layover"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "included",
+            "available",
+            "delayed"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "check-out",
+            "customs",
+            "boarding"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "key card",
+            "boarding pass",
+            "fare"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "luggage",
+            "menu",
+            "tip"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "front desk",
+            "platform",
+            "gate"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Colocaciones de hotel: a reservation under the name…, a single room for three nights, Is breakfast included?, What time is check-out?, leave my luggage at the front desk."
+    },
+    {
+      "id": "vocab-viajes-053",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "Restaurante y transporte",
+      "instruccion": "Completa con la palabra en inglés. Los verbos van en pasado.",
+      "texto": "After the conference, Mike and I took the {1} (metro) to the old city. We went {2} (hacer turismo) for two hours and then found a small restaurant. The {3} (mesero) brought the {4} (carta) and we {5} (pedimos) fish and two beers. When we finished, I asked for the {6} (cuenta) and left a 20% {7} (propina). I also asked for a {8} (recibo) for my expense report. We took a cab back to the hotel because it was late.",
+      "huecos": [
+        {
+          "respuestas": [
+            "subway",
+            "metro"
+          ]
+        },
+        {
+          "respuestas": [
+            "sightseeing"
+          ]
+        },
+        {
+          "respuestas": [
+            "waiter",
+            "server"
+          ]
+        },
+        {
+          "respuestas": [
+            "menu"
+          ]
+        },
+        {
+          "respuestas": [
+            "ordered"
+          ]
+        },
+        {
+          "respuestas": [
+            "check",
+            "bill"
+          ]
+        },
+        {
+          "respuestas": [
+            "tip"
+          ]
+        },
+        {
+          "respuestas": [
+            "receipt"
+          ]
+        }
+      ],
+      "explica": "take the subway · go sightseeing · the waiter brings the menu · order (pedir) · ask for the check · leave a tip · a receipt (recibo, no 'recipe')."
+    },
+    {
+      "id": "vocab-viajes-054",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "Un viaje de trabajo complicado",
+      "texto": "Last month Laura went to São Paulo on a business trip. The agency sent her the itinerary two days before: a round trip ticket, a single room for three nights and a meeting with the client on Tuesday at 9. The problems started at the airport. Her flight was delayed three hours, so she missed her connection in Panama City. The airline gave her a meal voucher and a seat on the next flight, but she arrived in São Paulo at midnight. At the hotel, the front desk had no reservation under her name! Finally they found a double room available, with breakfast included. The next morning she took a cab to the client's office and arrived on time. 'The trip was terrible, but the meeting was great,' she said.",
+      "preguntas": [
+        {
+          "q": "What did the itinerary include?",
+          "opciones": [
+            "A round trip ticket, a single room and a meeting on Tuesday",
+            "A one-way ticket and a rental car",
+            "Two nights in a double room"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why did Laura miss her connection?",
+          "opciones": [
+            "Because her first flight was delayed three hours",
+            "Because she lost her boarding pass",
+            "Because the line at security was long"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What happened at the hotel?",
+          "opciones": [
+            "They had no reservation under her name",
+            "The key card didn't work",
+            "Breakfast was not included"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«A meal voucher» es…",
+          "opciones": [
+            "Un bono para comer",
+            "Una factura del hotel",
+            "Un asiento de ventana"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Secuencia de un viaje de trabajo: itinerary, round trip, delayed, miss the connection, voucher, reservation under the name, room available, breakfast included, take a cab."
+    },
+    {
+      "id": "vocab-viajes-055",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "Fin de semana en Cartagena",
+      "texto": "Andrés and Camila went to Cartagena for the weekend. They bought one-way tickets because they wanted to come back by bus. They only had carry-ons, so they didn't wait for luggage at arrivals. They booked a double room in the old city, and when they checked in, the woman at the front desk gave them two key cards and a map. On Saturday they went sightseeing all morning and had lunch at a small restaurant near the wall. The waiter was friendly, so they left a good tip. On Sunday they rented bikes and rode along the beach. The bus back to Bogotá left at 8 p.m. from platform 6. It was a long trip, but the fare was cheap and they slept most of the way.",
+      "preguntas": [
+        {
+          "q": "Why did they buy one-way tickets?",
+          "opciones": [
+            "Because they wanted to come back by bus",
+            "Because round trips were more expensive",
+            "Because the flight was delayed"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why didn't they wait at arrivals?",
+          "opciones": [
+            "Because they only had carry-ons",
+            "Because they lost their luggage",
+            "Because they checked in late"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What did they do on Sunday?",
+          "opciones": [
+            "They rented bikes and rode along the beach",
+            "They went sightseeing in the old city",
+            "They took a cab to the airport"
+          ],
+          "a": 0
+        },
+        {
+          "q": "¿Por qué el texto dice «luggage» y no «luggages»?",
+          "opciones": [
+            "Luggage es incontable; para contar se dice suitcases o bags",
+            "Luggage es plural",
+            "Las dos formas son correctas"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "one-way vs. round trip; carry-on (contable) vs. luggage (incontable); book a room, check in, key card, go sightseeing, leave a tip, rent bikes, platform, fare."
+    },
+    {
+      "id": "vocab-viajes-056",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "VOC",
+      "consigna": "Cuenta tu último viaje (o uno imaginario): cómo llegaste, dónde te quedaste, qué pasó en el hotel y en un restaurante, y cómo te moviste por la ciudad. Usa las colocaciones del tema.",
+      "requisitos": [
+        {
+          "texto": "Usa una colocación de hotel: book a room, check in, check out o front desk",
+          "patron": "\\b(book(ed)?\\s+a\\s+(single\\s+|double\\s+)?room|check(ed)?\\s+(in|out)|front\\s+desk|reservation)\\b"
+        },
+        {
+          "texto": "Nombra algo del aeropuerto o del vuelo: flight, gate, boarding pass, delayed, luggage, carry-on",
+          "patron": "\\b(flight|gate|boarding\\s+pass|delayed|luggage|carry-on|layover|security|customs)\\b"
+        },
+        {
+          "texto": "Usa vocabulario de restaurante: the check, a tip, the waiter, the menu, order",
+          "patron": "\\b(the\\s+check|the\\s+bill|tip|waiter|menu|order(ed)?|receipt)\\b"
+        },
+        {
+          "texto": "Usa un medio de transporte: take a cab / the subway, rent a car, by bus",
+          "patron": "\\b(cab|taxi|subway|rent(ed)?\\s+a\\s+(car|bike)|by\\s+(bus|plane|car|train)|bus\\s+stop|platform)\\b"
+        }
+      ],
+      "minPalabras": 50,
+      "ejemplo": "Last month I went to Miami on a business trip. My flight was delayed two hours, so I arrived at the hotel at midnight. I checked in, left my luggage in the room and went to sleep. The next day I had lunch near the office; the waiter was friendly and I left a 20% tip. I took the subway to the client's office because a cab was too expensive. On Friday I checked out at noon and went to the airport by bus.",
+      "explica": "Cada sustantivo con su verbo: book a room, check in / out, leave a tip, take the subway / a cab, rent a car. Luggage es incontable y los medios de transporte van con by."
+    }
   ]
 }

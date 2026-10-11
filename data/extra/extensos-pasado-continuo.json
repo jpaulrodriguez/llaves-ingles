@@ -1,0 +1,568 @@
+{
+  "tema": "pasado-continuo",
+  "ejercicios": [
+    {
+      "id": "pasado-continuo-x3-001",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "ING",
+      "titulo": "Saturday night in La Macarena",
+      "instruccion": "Completa con el pasado continuo (was / were + -ing). Estás describiendo el fondo de la escena.",
+      "texto": "Last Saturday my girlfriend and I went to a new restaurant in La Macarena. It was a busy night. A man {1} (play) the guitar near the door and a group of friends {2} (celebrate) a birthday at the big table. Two waiters {3} (run) from table to table. Next to us, an old couple {4} (not / talk); they {5} (look) at their phones. My girlfriend {6} (tell) me a story about her boss, but I {7} (not / listen). I {8} (think) about the pitch on Monday.",
+      "huecos": [
+        {
+          "respuestas": [
+            "was playing"
+          ]
+        },
+        {
+          "respuestas": [
+            "were celebrating"
+          ]
+        },
+        {
+          "respuestas": [
+            "were running"
+          ]
+        },
+        {
+          "respuestas": [
+            "weren't talking",
+            "were not talking"
+          ]
+        },
+        {
+          "respuestas": [
+            "were looking"
+          ]
+        },
+        {
+          "respuestas": [
+            "was telling"
+          ]
+        },
+        {
+          "respuestas": [
+            "wasn't listening",
+            "was not listening"
+          ]
+        },
+        {
+          "respuestas": [
+            "was thinking"
+          ]
+        }
+      ],
+      "explica": "Para pintar la escena (lo que estaba pasando alrededor) → was/were + -ing. Was con I, he, she, a man, my girlfriend; were con we, they, a group of friends, two waiters, an old couple. Negativa: wasn't/weren't + -ing."
+    },
+    {
+      "id": "pasado-continuo-x3-002",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "LL",
+      "titulo": "Nobody was paying attention",
+      "instruccion": "Elige la llave correcta: was, were (o sus negativas). Mira bien el sujeto.",
+      "texto": "Yesterday at ten we had the weekly status meeting, and nobody was paying attention. Laura {1} drawing in her notebook. Mike and Sarah {2} sending messages under the table. The client {3} looking at his watch every two minutes. Andrés {4} reading his emails. {5} I listening? Not really: I {6} thinking about lunch. When the client asked 'Any questions?', we {7} even looking at him.",
+      "huecos": [
+        {
+          "opciones": [
+            "were",
+            "was",
+            "did"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "was",
+            "did",
+            "were"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "was",
+            "were",
+            "did"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "were",
+            "was",
+            "did"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "Were",
+            "Did",
+            "Was"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "was",
+            "were",
+            "am"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "wasn't",
+            "didn't",
+            "weren't"
+          ],
+          "a": 2
+        }
+      ],
+      "explica": "La llave del pasado continuo es be: was (I, he, she, Laura, the client) y were (we, you, they, Mike and Sarah). Did nunca va con -ing. En la pregunta, was/were pasa delante: Was I listening?"
+    },
+    {
+      "id": "pasado-continuo-x3-003",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "WW",
+      "titulo": "Where were you last night?",
+      "instruccion": "Completa las preguntas y respuestas en pasado continuo. Pregunta: (Wh-) + was / were + sujeto + -ing.",
+      "texto": "On Monday my boss had some questions. 'I called you three times last night. What {1} (you / do)?' 'Sorry, I {2} (drive) back from Chía with my girlfriend.' '{3} (she / drive) at any point?' 'No, she {4} (sleep) in the passenger seat.' 'OK. And who {5} (you / talk) to at eleven? Your line was busy.' 'My dad. He {6} (watch) a soccer game and he {7} (complain) about the referee.' My boss smiled: 'I {8} (shout) at the same referee!'",
+      "huecos": [
+        {
+          "respuestas": [
+            "were you doing"
+          ]
+        },
+        {
+          "respuestas": [
+            "was driving"
+          ]
+        },
+        {
+          "respuestas": [
+            "Was she driving"
+          ]
+        },
+        {
+          "respuestas": [
+            "was sleeping"
+          ]
+        },
+        {
+          "respuestas": [
+            "were you talking"
+          ]
+        },
+        {
+          "respuestas": [
+            "was watching"
+          ]
+        },
+        {
+          "respuestas": [
+            "was complaining"
+          ]
+        },
+        {
+          "respuestas": [
+            "was shouting"
+          ]
+        }
+      ],
+      "explica": "Para preguntar qué estaba haciendo alguien en un momento: What were you doing?, Was she driving? Con who, la llave también va delante del sujeto: who were you… to? La respuesta repite la llave: I was driving, she was sleeping."
+    },
+    {
+      "id": "pasado-continuo-x3-004",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "LL",
+      "titulo": "An honest answer",
+      "instruccion": "Completa con el pasado continuo. Hay varias negativas: wasn't / weren't + -ing.",
+      "texto": "After the presentation, the client asked: 'Did your team see my email at nine?' The honest answer was no. At nine we {1} (not / check) emails. Camila {2} (not / work) yet; she {3} (have) breakfast with her kids. Andrés and Mike {4} (not / sit) at their desks; they {5} (fix) the printer downstairs. And I {6} (not / look) at my phone because I {7} (practice) the presentation in the meeting room. So I said: 'Sorry, we {8} (prepare) everything for you.'",
+      "huecos": [
+        {
+          "respuestas": [
+            "weren't checking",
+            "were not checking"
+          ]
+        },
+        {
+          "respuestas": [
+            "wasn't working",
+            "was not working"
+          ]
+        },
+        {
+          "respuestas": [
+            "was having"
+          ]
+        },
+        {
+          "respuestas": [
+            "weren't sitting",
+            "were not sitting"
+          ]
+        },
+        {
+          "respuestas": [
+            "were fixing"
+          ]
+        },
+        {
+          "respuestas": [
+            "wasn't looking",
+            "was not looking"
+          ]
+        },
+        {
+          "respuestas": [
+            "was practicing",
+            "was practising"
+          ]
+        },
+        {
+          "respuestas": [
+            "were preparing"
+          ]
+        }
+      ],
+      "explica": "Explicar qué estaba haciendo cada uno a una hora concreta (at nine) → pasado continuo. La negativa lleva el not en la llave: wasn't working, weren't sitting; el -ing se queda."
+    },
+    {
+      "id": "pasado-continuo-x3-005",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "ING",
+      "titulo": "Sunday mornings in Manizales",
+      "instruccion": "Elige la forma correcta. Las trampas: falta el -ing, falta la llave o la llave no concuerda.",
+      "texto": "When I was a kid in Manizales, Sunday mornings were always the same. At nine my dad {1} the radio in the kitchen and my mom {2} arepas. My brother and I {3} cartoons in the living room. Outside, our neighbor {4} his car, like every Sunday. One Sunday the power went off. My mom still asks me: 'What {5} when the lights went off?' The answer: I {6} a glass of hot chocolate in front of the TV. And the TV {7} anymore.",
+      "huecos": [
+        {
+          "opciones": [
+            "was listening to",
+            "was listen to",
+            "listening to"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "was make",
+            "were making",
+            "was making"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "was watching",
+            "were watching",
+            "watching"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "washing",
+            "was washing",
+            "were washing"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "were you doing",
+            "did you doing",
+            "was you doing"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "was drink",
+            "drinking",
+            "was drinking"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "didn't working",
+            "wasn't working",
+            "weren't working"
+          ],
+          "a": 1
+        }
+      ],
+      "explica": "Las dos piezas van juntas: was/were + verbo-ing. Sin -ing (was make) o sin llave (washing) no hay continuo. Did no entra: What were you doing?, the TV wasn't working."
+    },
+    {
+      "id": "pasado-continuo-x3-006",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "TPO",
+      "titulo": "The day the system crashed",
+      "instruccion": "Completa con el pasado continuo para contar qué estaba haciendo cada persona cuando todo se apagó.",
+      "texto": "It happened last October. It was five in the afternoon and the whole team {1} (finish) the presentation for the bank. Sarah {2} (edit) the video, Andrés {3} (export) the final slides and I {4} (write) the email to the client. Suddenly, the screens went black. For a second nobody said anything. Then everybody started shouting at the same time. 'What {5} (you / do)?' Andrés asked Sarah. 'Nothing! I {6} (just / save) the file!' Luckily, the IT guy {7} (still / work) in the basement, and he had a backup.",
+      "huecos": [
+        {
+          "respuestas": [
+            "was finishing"
+          ]
+        },
+        {
+          "respuestas": [
+            "was editing"
+          ]
+        },
+        {
+          "respuestas": [
+            "was exporting"
+          ]
+        },
+        {
+          "respuestas": [
+            "was writing"
+          ]
+        },
+        {
+          "respuestas": [
+            "were you doing"
+          ]
+        },
+        {
+          "respuestas": [
+            "was just saving"
+          ]
+        },
+        {
+          "respuestas": [
+            "was still working"
+          ]
+        }
+      ],
+      "explica": "En una anécdota, lo que estaba en marcha cuando pasó algo va en pasado continuo (was finishing, was editing); el golpe de la historia va en simple (the screens went black). Just y still van entre la llave y el -ing."
+    },
+    {
+      "id": "pasado-continuo-x3-007",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "TPO",
+      "titulo": "A small earthquake",
+      "texto": "Last Thursday at 3:15 there was a small earthquake in Bogotá. I was sitting in a meeting with the client from the bank on the eighth floor. Laura was presenting the new campaign and the client was taking notes. Suddenly, the glass of water on the table started to move. At first we thought it was a truck outside. Then the lamps started to swing. Mike was standing next to the window, and he was the first to run to the stairs. Five minutes later we were all in the street, and the client was still holding her notebook. 'Great presentation,' she said. 'Let's finish it on Monday.'",
+      "preguntas": [
+        {
+          "q": "Where was he when the earthquake started?",
+          "opciones": [
+            "In the street",
+            "In a meeting on the eighth floor",
+            "At home"
+          ],
+          "a": 1
+        },
+        {
+          "q": "Who was presenting the campaign?",
+          "opciones": [
+            "Mike",
+            "The client",
+            "Laura"
+          ],
+          "a": 2
+        },
+        {
+          "q": "«Laura was presenting… Suddenly, the glass started to move»: ¿qué parte es el fondo de la historia?",
+          "opciones": [
+            "Laura was presenting (acción en progreso)",
+            "the glass started to move",
+            "Suddenly"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«the client was still holding her notebook»: ¿qué expresa?",
+          "opciones": [
+            "Que lo soltó antes del temblor",
+            "Que lo agarró una sola vez",
+            "Que seguía sosteniéndolo en ese momento"
+          ],
+          "a": 2
+        }
+      ],
+      "explica": "Was/were + -ing pinta lo que estaba en marcha (was sitting, was presenting, was standing) y el pasado simple trae los hechos (started, thought, said). Still + continuo: la acción seguía en curso."
+    },
+    {
+      "id": "pasado-continuo-x3-008",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "WW",
+      "titulo": "A call at 2 a.m.",
+      "texto": "Last night my phone rang at 2 a.m. I was sleeping, of course. It was my friend Felipe. 'Were you sleeping?' he asked. 'No, I was dancing salsa,' I said. 'Of course I was sleeping! Where are you?' He was calling from the airport in Lima. His flight was delayed, his phone was dying, and he was looking for a hotel. 'Can you book me something? My card isn't working.' Ten minutes later, I was sitting on the bed with my laptop, half asleep, looking for hotels in a city I don't know. My girlfriend wasn't sleeping anymore, and she wasn't happy.",
+      "preguntas": [
+        {
+          "q": "Where was Felipe calling from?",
+          "opciones": [
+            "From a hotel",
+            "From the airport in Lima",
+            "From a salsa club"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What was Felipe looking for?",
+          "opciones": [
+            "A hotel",
+            "His phone",
+            "A new flight"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«Were you sleeping?»: ¿cómo se forma esta pregunta?",
+          "opciones": [
+            "Did + sujeto + -ing",
+            "Was + sujeto + verbo base",
+            "Were + sujeto + verbo-ing"
+          ],
+          "a": 2
+        },
+        {
+          "q": "«My girlfriend wasn't sleeping anymore»: ¿qué significa?",
+          "opciones": [
+            "Ya estaba despierta",
+            "Nunca dormía",
+            "Se durmió otra vez"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Preguntar por lo que alguien estaba haciendo: Were you sleeping? (were + sujeto + -ing). Para describir la situación de alguien en ese momento: he was calling, his phone was dying, he was looking for a hotel."
+    },
+    {
+      "id": "pasado-continuo-x3-009",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "ING",
+      "titulo": "Notes from yesterday's workshop",
+      "texto": "When I arrived at 9:30, the facilitator was explaining the rules and the client team was sitting on one side of the room. Our team was standing on the other side, drinking coffee. By eleven, everybody was working together: two groups were writing ideas on sticky notes and another group was drawing the customer journey on the wall. At lunch the client's CEO was smiling and asking questions, which was a good sign. At four we were still discussing prices. Nobody was looking at their phones. For me, that was the real success of the day.",
+      "preguntas": [
+        {
+          "q": "What were the groups doing at eleven?",
+          "opciones": [
+            "Drinking coffee",
+            "Writing ideas and drawing a journey",
+            "Having lunch"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What was the good sign at lunch?",
+          "opciones": [
+            "The CEO was smiling and asking questions",
+            "Everybody left early",
+            "The prices were low"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«Nobody was looking at their phones»: ¿por qué was y no were?",
+          "opciones": [
+            "Porque phones es plural",
+            "Porque es una pregunta",
+            "Porque nobody funciona como singular"
+          ],
+          "a": 2
+        },
+        {
+          "q": "«At four we were still discussing prices»: ¿qué tipo de acción es?",
+          "opciones": [
+            "Un hábito del pasado",
+            "Una acción en progreso a una hora concreta",
+            "Una acción corta y terminada"
+          ],
+          "a": 1
+        }
+      ],
+      "explica": "Un resumen de reunión usa mucho el pasado continuo para decir qué estaba pasando a cada hora (at 9:30, by eleven, at four). Nobody, everybody y the team llevan was; we, two groups llevan were."
+    },
+    {
+      "id": "pasado-continuo-x3-010",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "TPO",
+      "consigna": "Cuenta una anécdota: describe qué estaba pasando a tu alrededor (dónde estabas, qué estaban haciendo otras personas) justo antes de que pasara algo inesperado.",
+      "requisitos": [
+        {
+          "texto": "Usa was + -ing",
+          "patron": "\\bwas\\s+(\\w+\\s+)?\\w+ing\\b"
+        },
+        {
+          "texto": "Usa were + -ing con un sujeto plural (we, they, my friends…)",
+          "patron": "\\bwere\\s+(\\w+\\s+)?\\w+ing\\b"
+        },
+        {
+          "texto": "Usa when o while",
+          "patron": "\\b(when|while)\\b"
+        },
+        {
+          "texto": "Marca el giro con suddenly / then",
+          "patron": "\\b(suddenly|then|all of a sudden)\\b"
+        }
+      ],
+      "minPalabras": 50,
+      "ejemplo": "Last December I was having dinner with my team at a restaurant in Usaquén. We were celebrating the end of the year. Andrés was telling a long story about a client, Camila was laughing and two designers were taking photos of the food. While the waiter was bringing the desserts, suddenly the music stopped and the lights went out. For a minute nobody moved. Then someone started singing happy birthday in the dark.",
+      "explica": "El fondo de la anécdota va en continuo: I was having, we were celebrating, Andrés was telling. El hecho inesperado entra en simple: the music stopped, the lights went out."
+    },
+    {
+      "id": "pasado-continuo-x3-011",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "WW",
+      "consigna": "Tu jefe te pregunta qué estaba haciendo el equipo ayer a las 3 p. m., cuando el cliente llamó y nadie contestó. Explica dónde estaba cada uno, qué estaban haciendo y qué no estaban haciendo.",
+      "requisitos": [
+        {
+          "texto": "Usa was / were + -ing",
+          "patron": "\\b(was|were)\\s+(\\w+\\s+)?\\w+ing\\b"
+        },
+        {
+          "texto": "Incluye una negativa: wasn't / weren't + -ing",
+          "patron": "\\b(wasn't|weren't|was not|were not)\\s+(\\w+\\s+)?\\w+ing\\b"
+        },
+        {
+          "texto": "Menciona la hora (at 3, at 3 p.m.…)",
+          "patron": "\\bat\\s+\\d"
+        }
+      ],
+      "minPalabras": 45,
+      "ejemplo": "I understand the problem, but nobody was ignoring the client. At 3 p.m. Camila and Andrés were presenting a proposal to another client in Chapinero. Sarah was editing a video with headphones on. Mike wasn't working; he was having a late lunch. And I was driving back from a shoot in Chía. I'm sorry. I'm calling the client myself right now.",
+      "explica": "Para dar explicaciones sobre un momento concreto (at 3 p.m.) → was/were + -ing para cada persona. La negativa wasn't/weren't + -ing dice lo que no estaba pasando."
+    },
+    {
+      "id": "pasado-continuo-x3-012",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "ING",
+      "consigna": "Escribe el resumen de una reunión reciente para alguien que no fue: qué estaban discutiendo cuando llegaste, qué estaba haciendo el cliente y termina con una pregunta con Was / Were.",
+      "requisitos": [
+        {
+          "texto": "Usa was / were + -ing",
+          "patron": "\\b(was|were)\\s+(\\w+\\s+)?\\w+ing\\b"
+        },
+        {
+          "texto": "Usa when",
+          "patron": "\\bwhen\\b"
+        },
+        {
+          "texto": "Haz una pregunta con was / were + sujeto + -ing",
+          "patron": "\\b(was|were)\\s+(you|he|she|they|we|it|the \\w+|\\w+)\\s+\\w+ing\\b[^?]*\\?"
+        }
+      ],
+      "minPalabras": 45,
+      "ejemplo": "When I arrived at the meeting, the client and Laura were discussing the budget. The client was looking at the numbers and shaking his head. Mike was taking notes, and Sarah was showing the media plan on the screen. After twenty minutes, they agreed on a smaller budget for the first month. One thing I didn't understand: were you working on a new version of the plan last night?",
+      "explica": "Al llegar a una reunión ya empezada, lo que estaba pasando va en continuo (were discussing, was looking, was taking notes). Pregunta: were you working…? — were delante del sujeto y el verbo con -ing."
+    }
+  ]
+}

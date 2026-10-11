@@ -1,0 +1,1693 @@
+{
+  "id": "adverbios-cantidad",
+  "titulo": "Adverbios de cantidad y grado",
+  "grupo": "Adverbios y preposiciones",
+  "orden": 170,
+  "nivel": "A2–B1",
+  "resumen": "Cuánto: very, really, quite, pretty, a bit, extremely, absolutely. Too (demasiado) vs. very, too much / too many, enough (big enough / enough time), so vs. such (a), almost, hardly, at all, a lot con verbos y por qué se dice absolutely amazing y no «very amazing».",
+  "llave": "very · too · enough · so · such",
+  "teoria": {
+    "paraQue": "Para decir cuánto: muy, demasiado, suficiente, tan, bastante, casi, un poco, para nada. Sirven para reforzar o suavizar lo que dices: a bit expensive, absolutely amazing, not good enough. En el trabajo son la diferencia entre sonar brusco y dar feedback con tacto.",
+    "llave": "Cinco llaves. Very (muy) va antes del adjetivo. Too (demasiado) también, pero dice que hay un problema. Enough (suficiente) va después del adjetivo y antes del sustantivo. So (tan) va con un adjetivo solo, y such (a) con adjetivo + sustantivo. Very no va con verbos: con verbos usa really o a lot (I really like it, I like it a lot).",
+    "formulas": [
+      {
+        "tipo": "Very / really",
+        "formula": "very / really + adjetivo o adverbio",
+        "ejemplo": "The client [[is]] very happy. She {{speak((s))}} really fast."
+      },
+      {
+        "tipo": "Too",
+        "formula": "too + adjetivo (+ to + verbo)",
+        "ejemplo": "This laptop [[is]] too slow. It[['s]] too late to {{call}} him."
+      },
+      {
+        "tipo": "Too much / too many",
+        "formula": "verbo + too much · too much + incontable · too many + plural",
+        "ejemplo": "I {{work}} too much. We {{have}} too many meetings and too much work."
+      },
+      {
+        "tipo": "Enough",
+        "formula": "adjetivo + enough · enough + sustantivo",
+        "ejemplo": "The room [[is]]n't big enough. We [[do]]n't {{have}} enough time."
+      },
+      {
+        "tipo": "So / such",
+        "formula": "so + adjetivo · such a + adjetivo + sustantivo singular · such + adjetivo + plural o incontable",
+        "ejemplo": "The pitch [[was]] so good. It [[was]] such a good pitch. They[['re]] such nice people."
+      },
+      {
+        "tipo": "Adjetivos extremos",
+        "formula": "absolutely / totally / really + adjetivo extremo (amazing, perfect, exhausted, delicious)",
+        "ejemplo": "The view [[was]] absolutely amazing. I[['m]] totally exhausted."
+      },
+      {
+        "tipo": "Con verbos",
+        "formula": "verbo (+ objeto) + a lot / a bit · really / almost / hardly + verbo",
+        "ejemplo": "I {{like}} this idea a lot. I almost {{miss((ed))}} the flight. I hardly {{slept}}."
+      },
+      {
+        "tipo": "Escala",
+        "formula": "not at all → hardly → a bit / slightly → quite / pretty → very / really → extremely → absolutely / completely",
+        "ejemplo": "It[['s]] a bit cold. It[['s]] very cold. It[['s]] absolutely freezing."
+      }
+    ],
+    "reglas": [
+      "Very va antes de adjetivos y adverbios (very tired, very quickly), nunca con verbos: I really like it o I like it a lot (no «I very like it»).",
+      "Too = demasiado, y casi siempre dice que hay un problema: The hotel is too expensive (no lo podemos pagar). No uses too como «muy» para elogiar: The food is very good (no «too good»).",
+      "Too + adjetivo (too big); too much + incontable o después del verbo (too much work, I talk too much); too many + plural (too many emails).",
+      "Enough va después del adjetivo (good enough, big enough) y antes del sustantivo (enough money, enough time). Nunca «enough good».",
+      "So + adjetivo o adverbio (so tired, so fast). Such + a/an + adjetivo + sustantivo (such a long day) o such + plural/incontable (such nice people, such good news). Nunca «so a long day» ni «such tired».",
+      "Con adjetivos extremos (amazing, perfect, exhausted, delicious, freezing, terrible) usa absolutely, totally o really, no very: absolutely amazing (no «very amazing»). Y con adjetivos normales no uses absolutely: very good (no «absolutely good»).",
+      "Quite, pretty y rather = bastante, algo. Pretty es informal y muy común en EE. UU. (pretty good). Rather es más formal y suele ir con algo negativo (rather slow).",
+      "A bit, a little y slightly suavizan: The price is a bit high suena más amable que too high. Con verbo, a bit va al final: I slept a bit.",
+      "Almost y nearly = casi, antes del verbo: I almost missed the bus. Hardly = casi no, y ya es negativo: I hardly know him (no «I don't hardly know him»).",
+      "At all refuerza una negación y va al final: I don't like it at all = no me gusta para nada.",
+      "A lot va después del verbo o del objeto: I travel a lot, I like this idea a lot. Antes de un sustantivo es a lot of: a lot of work.",
+      "More y less con adjetivos largos y con verbos: more expensive, less stressful, I want to work less and travel more.",
+      "No los confundas con los cuantificadores: much, many y a lot of dicen cuántas cosas (many meetings, much time); los adverbios de grado modifican un adjetivo o un verbo (very busy, I work a lot)."
+    ],
+    "senales": [
+      "very",
+      "really",
+      "too",
+      "enough",
+      "so",
+      "such (a)",
+      "quite",
+      "pretty",
+      "a bit",
+      "almost",
+      "hardly",
+      "at all",
+      "absolutely",
+      "a lot"
+    ],
+    "usos": [
+      {
+        "uso": "Quejarte con suavidad",
+        "contexto": "diario",
+        "ejemplo": "The hotel [[was]] nice, but the room [[was]] a bit small."
+      },
+      {
+        "uso": "Reaccionar con entusiasmo",
+        "contexto": "diario",
+        "ejemplo": "The ceviche [[was]] absolutely delicious! It [[was]] such a good dinner."
+      },
+      {
+        "uso": "Decir por qué no puedes",
+        "contexto": "diario",
+        "ejemplo": "I[['m]] too tired to {{go}} out tonight."
+      },
+      {
+        "uso": "Feedback con tacto",
+        "contexto": "trabajo",
+        "ejemplo": "The idea [[is]] pretty good, but the copy [[is]]n't clear enough yet."
+      },
+      {
+        "uso": "Hablar de la presión de trabajo",
+        "contexto": "trabajo",
+        "ejemplo": "We {{have}} too many meetings and not enough time."
+      },
+      {
+        "uso": "Contar que algo casi pasa",
+        "contexto": "trabajo",
+        "ejemplo": "We almost {{miss((ed))}} the deadline, but the client [[was]] totally happy."
+      }
+    ],
+    "errores": [
+      {
+        "mal": "I very like this campaign.",
+        "bien": "I really like this campaign.",
+        "porque": "Very no va con verbos: really + verbo, o verbo + a lot.",
+        "code": "USO"
+      },
+      {
+        "mal": "The budget is not enough big.",
+        "bien": "The budget is not big enough.",
+        "porque": "Enough va después del adjetivo.",
+        "code": "USO"
+      },
+      {
+        "mal": "The presentation was very amazing.",
+        "bien": "The presentation was absolutely amazing.",
+        "porque": "Amazing ya es extremo: absolutely o really, no very.",
+        "code": "USO"
+      },
+      {
+        "mal": "It was so a long meeting.",
+        "bien": "It was such a long meeting.",
+        "porque": "Con a + adjetivo + sustantivo va such.",
+        "code": "USO"
+      },
+      {
+        "mal": "I have too much meetings today.",
+        "bien": "I have too many meetings today.",
+        "porque": "Meetings es plural: too many.",
+        "code": "CUA"
+      },
+      {
+        "mal": "Your coffee is too good!",
+        "bien": "Your coffee is very good!",
+        "porque": "Too = demasiado (un problema). Para elogiar: very o really.",
+        "code": "USO"
+      },
+      {
+        "mal": "I don't like it nothing.",
+        "bien": "I don't like it at all.",
+        "porque": "«Para nada» es at all, sin doble negación.",
+        "code": "USO"
+      },
+      {
+        "mal": "I don't hardly sleep.",
+        "bien": "I hardly sleep.",
+        "porque": "Hardly ya es negativo: sin don't.",
+        "code": "USO"
+      }
+    ],
+    "contraste": [
+      {
+        "a": "The hotel [[is]] very expensive.",
+        "b": "The hotel [[is]] too expensive.",
+        "nota": "Muy caro (un dato) vs. demasiado caro (no lo podemos pagar)."
+      },
+      {
+        "a": "The pitch [[was]] so good.",
+        "b": "It [[was]] such a good pitch.",
+        "nota": "so + adjetivo solo · such a + adjetivo + sustantivo."
+      },
+      {
+        "a": "We [[do]]n't {{have}} enough time.",
+        "b": "The room [[is]]n't big enough.",
+        "nota": "enough antes del sustantivo, después del adjetivo."
+      },
+      {
+        "a": "I {{have}} a lot of work.",
+        "b": "I {{work}} a lot.",
+        "nota": "a lot of + sustantivo (cuantificador) · verbo + a lot (adverbio)."
+      }
+    ],
+    "frases": [
+      {
+        "en": "Thanks a lot!",
+        "es": "¡Muchas gracias!",
+        "contexto": "diario"
+      },
+      {
+        "en": "That's so nice of you!",
+        "es": "¡Qué amable!",
+        "contexto": "diario"
+      },
+      {
+        "en": "I'm absolutely exhausted.",
+        "es": "Estoy muerto del cansancio.",
+        "contexto": "diario"
+      },
+      {
+        "en": "Not at all.",
+        "es": "Para nada. / No hay de qué.",
+        "contexto": "diario"
+      },
+      {
+        "en": "Pretty good, thanks.",
+        "es": "Bastante bien, gracias.",
+        "contexto": "diario"
+      },
+      {
+        "en": "I totally agree.",
+        "es": "Estoy totalmente de acuerdo.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "That's good enough for now.",
+        "es": "Así está bien por ahora.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "We're almost there.",
+        "es": "Ya casi terminamos.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "It's too late to change it.",
+        "es": "Ya es tarde para cambiarlo.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "It's a bit too expensive for us.",
+        "es": "Se nos sale un poco del presupuesto.",
+        "contexto": "trabajo"
+      }
+    ],
+    "tip": "Para no sonar brusco en una reunión, baja el grado: a bit, not very, not … enough. «The copy is a bit long» suena mucho mejor que «The copy is too long». Y guarda absolutely para lo extremo: absolutely amazing."
+  },
+  "palabras": [
+    {
+      "id": "very",
+      "en": "very",
+      "ipa": "/ˈvɛri/",
+      "es": "muy",
+      "clase": "adverbio",
+      "orden": 1,
+      "ejemplo": "The client was very happy with the video.",
+      "hueco": {
+        "frase": "The client was ___ happy with the video. (muy)",
+        "respuestas": [
+          "very",
+          "really"
+        ]
+      },
+      "nota": "Antes de adjetivos y adverbios, nunca con verbos (no «I very like»)."
+    },
+    {
+      "id": "really",
+      "en": "really",
+      "ipa": "/ˈriəli/",
+      "es": "realmente, de verdad",
+      "clase": "adverbio",
+      "orden": 2,
+      "ejemplo": "I really like your idea.",
+      "hueco": {
+        "frase": "I ___ like your idea. (de verdad)",
+        "respuestas": [
+          "really",
+          "truly"
+        ]
+      },
+      "nota": "Va con adjetivos (really good) y también con verbos (I really like it), a diferencia de very."
+    },
+    {
+      "id": "too",
+      "en": "too",
+      "ipa": "/tu/",
+      "es": "demasiado (+ adjetivo)",
+      "clase": "adverbio",
+      "orden": 3,
+      "ejemplo": "This hotel is too expensive for us.",
+      "hueco": {
+        "frase": "This hotel is ___ expensive for us. (demasiado)",
+        "respuestas": [
+          "too",
+          "way too",
+          "much too"
+        ]
+      },
+      "nota": "Dice que hay un problema. Too much + incontable, too many + plural."
+    },
+    {
+      "id": "enough",
+      "en": "enough",
+      "ipa": "/ɪˈnʌf/",
+      "es": "suficiente, lo bastante",
+      "clase": "adverbio",
+      "orden": 4,
+      "ejemplo": "The room isn't big enough for the whole team.",
+      "hueco": {
+        "frase": "The room isn't big ___ for the whole team. (suficiente)",
+        "respuestas": [
+          "enough"
+        ]
+      },
+      "nota": "Después del adjetivo (big enough), antes del sustantivo (enough time)."
+    },
+    {
+      "id": "so",
+      "en": "so",
+      "ipa": "/soʊ/",
+      "es": "tan (+ adjetivo o adverbio)",
+      "clase": "adverbio",
+      "orden": 5,
+      "ejemplo": "I'm so tired today.",
+      "hueco": {
+        "frase": "I'm ___ tired today. (tan)",
+        "respuestas": [
+          "so"
+        ]
+      },
+      "nota": "So + adjetivo solo. Con sustantivo usa such: such a long day."
+    },
+    {
+      "id": "a-lot",
+      "en": "a lot",
+      "ipa": "/ə ˈlɑt/",
+      "es": "mucho (después del verbo)",
+      "clase": "expresión",
+      "orden": 6,
+      "ejemplo": "I travel a lot for work.",
+      "hueco": {
+        "frase": "I travel ___ for work. (mucho)",
+        "respuestas": [
+          "a lot",
+          "a great deal"
+        ]
+      },
+      "nota": "Después del verbo: I travel a lot. Antes de sustantivo es a lot of."
+    },
+    {
+      "id": "a-bit",
+      "en": "a bit",
+      "ipa": "/ə ˈbɪt/",
+      "es": "un poco",
+      "clase": "expresión",
+      "orden": 7,
+      "ejemplo": "The coffee is a bit cold.",
+      "hueco": {
+        "frase": "The coffee is ___ cold. (un poco)",
+        "respuestas": [
+          "a bit",
+          "a little",
+          "a little bit",
+          "slightly"
+        ]
+      },
+      "nota": "A little es igual. Suaviza una crítica: a bit long, a bit expensive."
+    },
+    {
+      "id": "such",
+      "en": "such",
+      "ipa": "/sʌtʃ/",
+      "es": "tan… (such a + adjetivo + sustantivo)",
+      "clase": "expresión",
+      "orden": 8,
+      "ejemplo": "It was such a long day.",
+      "hueco": {
+        "frase": "It was ___ a long day. (tan)",
+        "respuestas": [
+          "such"
+        ]
+      },
+      "nota": "Such a + adjetivo + sustantivo singular; such + plural: such nice people."
+    },
+    {
+      "id": "quite",
+      "en": "quite",
+      "ipa": "/kwaɪt/",
+      "es": "bastante",
+      "clase": "adverbio",
+      "orden": 9,
+      "ejemplo": "The new office is quite big.",
+      "hueco": {
+        "frase": "The new office is ___ big. (bastante)",
+        "respuestas": [
+          "quite",
+          "pretty",
+          "fairly",
+          "rather"
+        ]
+      },
+      "nota": "No lo confundas con quiet (callado)."
+    },
+    {
+      "id": "pretty",
+      "en": "pretty",
+      "ipa": "/ˈprɪti/",
+      "es": "bien (coloquial: pretty good = bien bueno)",
+      "clase": "adverbio",
+      "orden": 10,
+      "ejemplo": "The presentation went pretty well.",
+      "hueco": {
+        "frase": "The presentation went ___ well. (bastante, coloquial)",
+        "respuestas": [
+          "pretty",
+          "quite"
+        ]
+      },
+      "nota": "Aquí no es «bonita»: pretty + adjetivo o adverbio = bastante."
+    },
+    {
+      "id": "almost",
+      "en": "almost",
+      "ipa": "/ˈɔlmoʊst/",
+      "es": "casi",
+      "clase": "adverbio",
+      "orden": 11,
+      "ejemplo": "I almost missed my flight.",
+      "hueco": {
+        "frase": "I ___ missed my flight. (casi)",
+        "respuestas": [
+          "almost",
+          "nearly"
+        ]
+      },
+      "nota": "Antes del verbo. Nearly significa lo mismo."
+    },
+    {
+      "id": "more",
+      "en": "more",
+      "ipa": "/mɔr/",
+      "es": "más",
+      "clase": "adverbio",
+      "orden": 12,
+      "ejemplo": "This version is more creative than the first one.",
+      "hueco": {
+        "frase": "This version is ___ creative than the first one. (más)",
+        "respuestas": [
+          "more"
+        ]
+      },
+      "nota": "Con adjetivos largos (more creative) y con verbos (travel more).",
+      "opuesto": "less"
+    },
+    {
+      "id": "less",
+      "en": "less",
+      "ipa": "/lɛs/",
+      "es": "menos",
+      "clase": "adverbio",
+      "orden": 13,
+      "ejemplo": "I want to work less and travel more.",
+      "hueco": {
+        "frase": "I want to work ___ and travel more. (menos)",
+        "respuestas": [
+          "less"
+        ]
+      },
+      "nota": "Lo contrario de more: less stressful, work less.",
+      "opuesto": "more"
+    },
+    {
+      "id": "at-all",
+      "en": "at all",
+      "ipa": "/æt ˈɔl/",
+      "es": "para nada, en absoluto (con negativa)",
+      "clase": "expresión",
+      "orden": 14,
+      "ejemplo": "I didn't like the movie at all.",
+      "hueco": {
+        "frase": "I didn't like the movie ___. (para nada)",
+        "respuestas": [
+          "at all"
+        ]
+      },
+      "nota": "Va al final de una frase negativa. Not at all también responde a Thank you."
+    },
+    {
+      "id": "not-very",
+      "en": "not very",
+      "ipa": "/nɑt ˈvɛri/",
+      "es": "no muy (suaviza)",
+      "clase": "expresión",
+      "orden": 15,
+      "ejemplo": "The hotel was not very clean.",
+      "hueco": {
+        "frase": "The hotel was ___ clean. (no muy)",
+        "respuestas": [
+          "not very",
+          "not that",
+          "not so",
+          "not too"
+        ]
+      },
+      "nota": "Más amable que decir dirty: not very clean, not very clear."
+    },
+    {
+      "id": "totally",
+      "en": "totally",
+      "ipa": "/ˈtoʊtəli/",
+      "es": "totalmente",
+      "clase": "adverbio",
+      "orden": 16,
+      "ejemplo": "I totally agree with you.",
+      "hueco": {
+        "frase": "I ___ agree with you. (totalmente)",
+        "respuestas": [
+          "totally",
+          "completely",
+          "absolutely",
+          "fully"
+        ]
+      },
+      "nota": "Con verbos (totally agree) y con adjetivos extremos (totally exhausted)."
+    },
+    {
+      "id": "completely",
+      "en": "completely",
+      "ipa": "/kəmˈplitli/",
+      "es": "completamente",
+      "clase": "adverbio",
+      "orden": 17,
+      "ejemplo": "I completely forgot about the meeting!",
+      "hueco": {
+        "frase": "I ___ forgot about the meeting! (completamente)",
+        "respuestas": [
+          "completely",
+          "totally"
+        ]
+      },
+      "nota": "Muy común con forget, agree, change, different."
+    },
+    {
+      "id": "absolutely",
+      "en": "absolutely",
+      "ipa": "/ˈæbsəˌlutli/",
+      "es": "absolutamente (con adjetivos extremos)",
+      "clase": "adverbio",
+      "orden": 18,
+      "ejemplo": "The view from the hotel was absolutely amazing.",
+      "hueco": {
+        "frase": "The view from the hotel was ___ amazing. (absolutamente)",
+        "respuestas": [
+          "absolutely"
+        ]
+      },
+      "nota": "Solo con adjetivos extremos: absolutely amazing, no «absolutely good». Absolutely! = ¡Claro que sí!"
+    },
+    {
+      "id": "extremely",
+      "en": "extremely",
+      "ipa": "/ɪkˈstrimli/",
+      "es": "extremadamente",
+      "clase": "adverbio",
+      "orden": 19,
+      "ejemplo": "The client is extremely busy this week.",
+      "hueco": {
+        "frase": "The client is ___ busy this week. (extremadamente)",
+        "respuestas": [
+          "extremely"
+        ]
+      },
+      "nota": "Más fuerte que very, con adjetivos normales: extremely busy, extremely important."
+    },
+    {
+      "id": "hardly",
+      "en": "hardly",
+      "ipa": "/ˈhɑrdli/",
+      "es": "apenas, casi no",
+      "clase": "adverbio",
+      "orden": 20,
+      "ejemplo": "I hardly slept last night.",
+      "hueco": {
+        "frase": "I ___ slept last night. (casi no)",
+        "respuestas": [
+          "hardly",
+          "barely"
+        ]
+      },
+      "nota": "Ya es negativo: sin don't. No tiene nada que ver con hard (duro)."
+    },
+    {
+      "id": "even",
+      "en": "even",
+      "ipa": "/ˈivən/",
+      "es": "aún, incluso (even better = aún mejor)",
+      "clase": "adverbio",
+      "orden": 21,
+      "ejemplo": "The new version is even better.",
+      "hueco": {
+        "frase": "The new version is ___ better. (aún)",
+        "respuestas": [
+          "even"
+        ]
+      },
+      "nota": "Antes de un comparativo: even better, even more expensive."
+    },
+    {
+      "id": "rather",
+      "en": "rather",
+      "ipa": "/ˈræðər/",
+      "es": "algo, más bien (formal)",
+      "clase": "adverbio",
+      "orden": 22,
+      "ejemplo": "The meeting was rather long.",
+      "hueco": {
+        "frase": "The meeting was ___ long. (más bien, algo)",
+        "respuestas": [
+          "rather",
+          "quite",
+          "pretty",
+          "a bit",
+          "a little",
+          "fairly",
+          "somewhat"
+        ]
+      },
+      "nota": "Suele ir con algo negativo: rather slow, rather expensive."
+    },
+    {
+      "id": "slightly",
+      "en": "slightly",
+      "ipa": "/ˈslaɪtli/",
+      "es": "ligeramente",
+      "clase": "adverbio",
+      "orden": 23,
+      "ejemplo": "The budget is slightly higher this year.",
+      "hueco": {
+        "frase": "The budget is ___ higher this year. (ligeramente)",
+        "respuestas": [
+          "slightly",
+          "a bit",
+          "a little"
+        ]
+      },
+      "nota": "Muy útil con comparativos: slightly higher, slightly better."
+    },
+    {
+      "id": "incredibly",
+      "en": "incredibly",
+      "ipa": "/ɪnˈkrɛdəbli/",
+      "es": "increíblemente",
+      "clase": "adverbio",
+      "orden": 24,
+      "ejemplo": "The team worked incredibly hard.",
+      "hueco": {
+        "frase": "The team worked ___ hard. (increíblemente)",
+        "respuestas": [
+          "incredibly"
+        ]
+      },
+      "nota": "Refuerza adjetivos y adverbios: incredibly fast, incredibly useful."
+    },
+    {
+      "id": "super",
+      "en": "super",
+      "ipa": "/ˈsupər/",
+      "es": "súper (coloquial)",
+      "clase": "adverbio",
+      "orden": 25,
+      "ejemplo": "The new café near the office is super nice.",
+      "hueco": {
+        "frase": "The new café near the office is ___ nice. (súper)",
+        "respuestas": [
+          "super"
+        ]
+      },
+      "nota": "Informal, para hablar con amigos o colegas cercanos; en un email al cliente usa very."
+    }
+  ],
+  "ejercicios": [
+    {
+      "id": "adverbios-cantidad-001",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "This hotel is ___ expensive. We can't pay $500 a night.",
+      "opciones": [
+        "too",
+        "enough",
+        "such"
+      ],
+      "a": 0,
+      "explica": "Too + adjetivo = demasiado: dice que hay un problema. Enough va después del adjetivo y such necesita sustantivo."
+    },
+    {
+      "id": "adverbios-cantidad-002",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "I ___ like your idea.",
+      "opciones": [
+        "really",
+        "very",
+        "too"
+      ],
+      "a": 0,
+      "explica": "Very y too no van con verbos. Con un verbo usa really (I really like it) o a lot al final."
+    },
+    {
+      "id": "adverbios-cantidad-003",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "The room isn't ___ for twenty people.",
+      "opciones": [
+        "big enough",
+        "enough big",
+        "big too"
+      ],
+      "a": 0,
+      "explica": "Enough va después del adjetivo: big enough."
+    },
+    {
+      "id": "adverbios-cantidad-004",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "It was ___ a long meeting!",
+      "opciones": [
+        "such",
+        "so",
+        "very"
+      ],
+      "a": 0,
+      "explica": "Con a + adjetivo + sustantivo va such: such a long meeting. So y very van con el adjetivo solo."
+    },
+    {
+      "id": "adverbios-cantidad-005",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "The view from the hotel was ___ amazing.",
+      "opciones": [
+        "absolutely",
+        "very",
+        "a bit"
+      ],
+      "a": 0,
+      "explica": "Amazing es un adjetivo extremo: va con absolutely o really, no con very."
+    },
+    {
+      "id": "adverbios-cantidad-006",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "CUA",
+      "q": "We have too ___ meetings this week.",
+      "opciones": [
+        "many",
+        "much",
+        "lot"
+      ],
+      "a": 0,
+      "explica": "Meetings es plural contable: too many. Too much va con incontables (too much work)."
+    },
+    {
+      "id": "adverbios-cantidad-007",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "I travel ___ for work.",
+      "opciones": [
+        "a lot",
+        "very",
+        "too many"
+      ],
+      "a": 0,
+      "explica": "Después de un verbo va a lot (I travel a lot). Very no modifica verbos."
+    },
+    {
+      "id": "adverbios-cantidad-008",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "I'm ___ tired. I slept four hours. (tan)",
+      "respuestas": [
+        "so"
+      ],
+      "explica": "So + adjetivo solo: so tired. Such necesitaría un sustantivo."
+    },
+    {
+      "id": "adverbios-cantidad-009",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "We don't have ___ time to finish the deck today. (suficiente)",
+      "respuestas": [
+        "enough"
+      ],
+      "explica": "Enough va antes del sustantivo: enough time."
+    },
+    {
+      "id": "adverbios-cantidad-010",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "I ___ missed the bus this morning. (casi)",
+      "respuestas": [
+        "almost",
+        "nearly"
+      ],
+      "explica": "Almost o nearly (casi) van antes del verbo: I almost missed."
+    },
+    {
+      "id": "adverbios-cantidad-011",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "VOC",
+      "pares": [
+        [
+          "too",
+          "demasiado"
+        ],
+        [
+          "enough",
+          "suficiente"
+        ],
+        [
+          "almost",
+          "casi"
+        ],
+        [
+          "hardly",
+          "casi no"
+        ],
+        [
+          "at all",
+          "para nada"
+        ],
+        [
+          "quite",
+          "bastante"
+        ]
+      ],
+      "explica": "Ojo con almost (casi) y hardly (casi no): la segunda ya es negativa."
+    },
+    {
+      "id": "adverbios-cantidad-012",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "USO",
+      "frase": "I very like this song.",
+      "correcta": false,
+      "correccion": [
+        "I really like this song.",
+        "I like this song a lot.",
+        "I like this song very much.",
+        "I really like this song a lot."
+      ],
+      "explica": "Very no va con verbos: really + verbo, o verbo + a lot / very much al final."
+    },
+    {
+      "id": "adverbios-cantidad-013",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "USO",
+      "frase": "The coffee is a bit cold.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "A bit + adjetivo suaviza: un poco frío. Es correcta."
+    },
+    {
+      "id": "adverbios-cantidad-014",
+      "tipo": "identificar",
+      "nivel": 1,
+      "code": "USO",
+      "frase": "This laptop is too slow for video editing.",
+      "opciones": [
+        "Es un problema: no sirve para eso",
+        "Es un elogio: funciona muy bien",
+        "Es un dato neutro, sin problema"
+      ],
+      "a": 0,
+      "explica": "Too = demasiado: siempre marca un problema. Para un dato neutro se usaría very slow."
+    },
+    {
+      "id": "adverbios-cantidad-015",
+      "tipo": "escuchar",
+      "nivel": 1,
+      "code": "USO",
+      "texto": "We don't have enough time.",
+      "respuestas": [
+        "We don't have enough time."
+      ],
+      "explica": "Enough va antes del sustantivo: enough time."
+    },
+    {
+      "id": "adverbios-cantidad-016",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Our clients in Medellín are ___ nice people.",
+      "opciones": [
+        "such",
+        "so",
+        "such a"
+      ],
+      "a": 0,
+      "explica": "Con plural no hay a: such + adjetivo + plural (such nice people). So no va antes de adjetivo + sustantivo."
+    },
+    {
+      "id": "adverbios-cantidad-017",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "The pitch was ___ good that the client signed the same day.",
+      "opciones": [
+        "so",
+        "such",
+        "very"
+      ],
+      "a": 0,
+      "explica": "So + adjetivo + that = tan… que. Very no funciona con that, y such necesita sustantivo."
+    },
+    {
+      "id": "adverbios-cantidad-018",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "I didn't like the movie ___.",
+      "opciones": [
+        "at all",
+        "nothing",
+        "never"
+      ],
+      "a": 0,
+      "explica": "Para «para nada» con una negativa va at all al final. Nothing y never harían doble negación."
+    },
+    {
+      "id": "adverbios-cantidad-019",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "I ___ know the new client. We met only once.",
+      "opciones": [
+        "hardly",
+        "don't hardly",
+        "hard"
+      ],
+      "a": 0,
+      "explica": "Hardly = casi no, y ya es negativo: no lleva don't. Hard significa «duro»."
+    },
+    {
+      "id": "adverbios-cantidad-020",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Your English is ___ for the job interview. Don't worry.",
+      "opciones": [
+        "good enough",
+        "enough good",
+        "too much good"
+      ],
+      "a": 0,
+      "explica": "Enough va después del adjetivo: good enough. Too much no va antes de un adjetivo."
+    },
+    {
+      "id": "adverbios-cantidad-021",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "CUA",
+      "q": "I drink too ___ coffee.",
+      "opciones": [
+        "much",
+        "many",
+        "a lot"
+      ],
+      "a": 0,
+      "explica": "Coffee es incontable: too much. Too many va con plurales (too many cups)."
+    },
+    {
+      "id": "adverbios-cantidad-022",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "The budget isn't ___ for a TV campaign. (grande + suficiente)",
+      "respuestas": [
+        "big enough",
+        "large enough"
+      ],
+      "explica": "Adjetivo + enough: big enough."
+    },
+    {
+      "id": "adverbios-cantidad-023",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "The ceviche was ___ delicious. (absolutamente)",
+      "respuestas": [
+        "absolutely"
+      ],
+      "explica": "Delicious es extremo: absolutely delicious, no «very delicious»."
+    },
+    {
+      "id": "adverbios-cantidad-024",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "It was ___ a good presentation! (tan)",
+      "respuestas": [
+        "such"
+      ],
+      "explica": "Such a + adjetivo + sustantivo: such a good presentation."
+    },
+    {
+      "id": "adverbios-cantidad-025",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "I like this new version ___. (mucho)",
+      "respuestas": [
+        "a lot",
+        "very much",
+        "so much",
+        "a great deal"
+      ],
+      "explica": "Después de verbo + objeto: a lot o very much al final, nunca «very like»."
+    },
+    {
+      "id": "adverbios-cantidad-026",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "USO",
+      "es": "La sala no es lo suficientemente grande.",
+      "en": "The room isn't big enough.",
+      "extra": [
+        "too",
+        "very"
+      ],
+      "explica": "Adjetivo + enough: big enough."
+    },
+    {
+      "id": "adverbios-cantidad-027",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "USO",
+      "es": "Fue un día tan largo.",
+      "en": "It was such a long day.",
+      "extra": [
+        "so",
+        "very"
+      ],
+      "explica": "Such a + adjetivo + sustantivo singular."
+    },
+    {
+      "id": "adverbios-cantidad-028",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "CUA",
+      "es": "Tenemos demasiadas reuniones esta semana.",
+      "en": "We have too many meetings this week.",
+      "extra": [
+        "much",
+        "lot"
+      ],
+      "explica": "Meetings es plural: too many."
+    },
+    {
+      "id": "adverbios-cantidad-029",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "The presentation was very amazing.",
+      "correcta": false,
+      "correccion": [
+        "The presentation was absolutely amazing.",
+        "The presentation was really amazing.",
+        "The presentation was totally amazing.",
+        "The presentation was amazing."
+      ],
+      "explica": "Amazing ya es extremo: absolutely, really o totally, nunca very."
+    },
+    {
+      "id": "adverbios-cantidad-030",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "We don't have enough money for a new laptop.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Enough + sustantivo: enough money. Es correcta."
+    },
+    {
+      "id": "adverbios-cantidad-031",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "CUA",
+      "frase": "I have a lot work today.",
+      "correcta": false,
+      "correccion": [
+        "I have a lot of work today.",
+        "I have lots of work today."
+      ],
+      "explica": "Antes de un sustantivo es a lot of. A lot solo va después del verbo (I work a lot)."
+    },
+    {
+      "id": "adverbios-cantidad-032",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "The budget is too small.",
+      "instruccion": "Dilo con not + big + enough",
+      "respuestas": [
+        "The budget isn't big enough.",
+        "The budget is not big enough."
+      ],
+      "explica": "Too small = not big enough. Enough va después del adjetivo."
+    },
+    {
+      "id": "adverbios-cantidad-033",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "USO",
+      "es": "Estoy demasiado cansado para salir esta noche.",
+      "respuestas": [
+        "I'm too tired to go out tonight.",
+        "I'm too tired to go out this evening."
+      ],
+      "explica": "Too + adjetivo + to + verbo: too tired to go out."
+    },
+    {
+      "id": "adverbios-cantidad-034",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "USO",
+      "consigna": "Un cliente te muestra una campaña que no te convence del todo. Da feedback con tacto: qué te gusta mucho, qué es un poco largo o no es lo suficientemente claro, y qué está casi listo.",
+      "objetivo": "a bit / not … enough / too many / so / such a / absolutely + adjetivo extremo / almost",
+      "ejemplo": "I really like the video; the music is absolutely amazing. The copy is a bit long, and the logo isn't big enough on the last frame. We have too many versions of the banner, so let's choose two. Honestly, it's such a good idea. We're almost there.",
+      "explica": "Suaviza con a bit y not … enough; refuerza con absolutely solo lo extremo."
+    },
+    {
+      "id": "adverbios-cantidad-035",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Un fin de semana en Cartagena",
+      "instruccion": "Elige la palabra correcta en cada hueco.",
+      "texto": "Last month we went to Cartagena for a long weekend. The hotel was {1} beautiful, but the room was {2} small for four people. It was {3} hot that we stayed in the pool all afternoon. On Saturday we had dinner at {4} nice restaurant in the old city. The fish was {5} delicious. The only problem: the restaurant was {6} expensive for us, so we had pizza on Sunday. We didn't have {7} money left for a boat trip, but we didn't care {8}.",
+      "huecos": [
+        {
+          "opciones": [
+            "really",
+            "such",
+            "enough"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "too",
+            "enough",
+            "such"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "so",
+            "such",
+            "too"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "such a",
+            "so",
+            "such"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "absolutely",
+            "very",
+            "enough"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "too",
+            "too much",
+            "enough"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "enough",
+            "too",
+            "very"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "at all",
+            "nothing",
+            "never"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Too + adjetivo (problema), so + adjetivo + that, such a + adjetivo + sustantivo, absolutely con extremos, enough antes del sustantivo y at all al final de la negativa."
+    },
+    {
+      "id": "adverbios-cantidad-036",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Feedback para la agencia",
+      "instruccion": "Completa con el adverbio de cantidad o grado que indica la pista.",
+      "texto": "Hi team, thanks for the new version of the campaign. The video is {1} (absolutamente) amazing and the music is {2} (bastante) good. The copy is {3} (un poco) long, and the logo isn't {4} (grande + suficiente) on the last frame. Also, we have {5} (demasiadas) versions of the banner: please send only two. We are {6} (casi) ready to launch. I {7} (de verdad) think this will be our best campaign this year.",
+      "huecos": [
+        {
+          "respuestas": [
+            "absolutely"
+          ]
+        },
+        {
+          "respuestas": [
+            "quite",
+            "pretty",
+            "fairly",
+            "rather"
+          ]
+        },
+        {
+          "respuestas": [
+            "a bit",
+            "a little",
+            "a little bit",
+            "slightly"
+          ]
+        },
+        {
+          "respuestas": [
+            "big enough",
+            "large enough"
+          ]
+        },
+        {
+          "respuestas": [
+            "too many"
+          ]
+        },
+        {
+          "respuestas": [
+            "almost",
+            "nearly"
+          ]
+        },
+        {
+          "respuestas": [
+            "really",
+            "truly"
+          ]
+        }
+      ],
+      "explica": "Absolutely con extremos, quite/pretty = bastante, a bit suaviza, adjetivo + enough, too many + plural, almost = casi, really con verbos."
+    },
+    {
+      "id": "adverbios-cantidad-037",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "CUA",
+      "titulo": "Una semana pesada",
+      "instruccion": "Completa con la expresión que indica la pista.",
+      "texto": "This week was crazy. I worked {1} (mucho) and I {2} (casi no) slept. I had {3} (demasiadas) meetings and {4} (demasiado) work, and I didn't have {5} (suficiente) time to go to the gym. On Friday night I fell asleep on the sofa at eight. Next week I want to work {6} (menos) and sleep {7} (más). My wife says I check my phone {8} (demasiado).",
+      "huecos": [
+        {
+          "respuestas": [
+            "a lot",
+            "so much"
+          ]
+        },
+        {
+          "respuestas": [
+            "hardly",
+            "barely"
+          ]
+        },
+        {
+          "respuestas": [
+            "too many"
+          ]
+        },
+        {
+          "respuestas": [
+            "too much"
+          ]
+        },
+        {
+          "respuestas": [
+            "enough"
+          ]
+        },
+        {
+          "respuestas": [
+            "less"
+          ]
+        },
+        {
+          "respuestas": [
+            "more"
+          ]
+        },
+        {
+          "respuestas": [
+            "too much",
+            "way too much"
+          ]
+        }
+      ],
+      "explica": "Verbo + a lot; hardly = casi no; too many + plural, too much + incontable o después del verbo; enough + sustantivo; less y more con verbos."
+    },
+    {
+      "id": "adverbios-cantidad-038",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "¿So o such?",
+      "instruccion": "Elige so, such o such a.",
+      "texto": "Friday's client meeting was {1} long that I missed lunch. The client had {2} many questions! But it was {3} useful meeting: we finally agreed on the budget. Andrés presented {4} well that the client wants him in every meeting now. He is {5} good presenter. After the meeting we were {6} tired that we went home at five. It was {7} long day.",
+      "huecos": [
+        {
+          "opciones": [
+            "so",
+            "such",
+            "such a"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "so",
+            "such",
+            "such a"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "such a",
+            "so",
+            "such"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "so",
+            "such",
+            "such a"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "such a",
+            "so",
+            "such"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "so",
+            "such",
+            "such a"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "such a",
+            "so",
+            "such"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "So + adjetivo o adverbio solo (so long, so well, so many); such a + adjetivo + sustantivo singular (such a useful meeting)."
+    },
+    {
+      "id": "adverbios-cantidad-039",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Una cena en Usaquén",
+      "instruccion": "Elige la palabra correcta en cada hueco.",
+      "texto": "Last night we went to a new restaurant in Usaquén. The place was {1} nice and the food was {2} delicious. The steak was {3} perfect. The waiter was {4} friendly, but the music was {5} loud and we could {6} hear each other. At the end, I was {7} full that I couldn't eat dessert. Would I go back? {8}!",
+      "huecos": [
+        {
+          "opciones": [
+            "very",
+            "such",
+            "so a"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "absolutely",
+            "very",
+            "a bit"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "absolutely",
+            "very",
+            "too"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "very",
+            "absolutely",
+            "such"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "too",
+            "enough",
+            "such"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "hardly",
+            "hard",
+            "don't hardly"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "so",
+            "such",
+            "such a"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "Absolutely",
+            "Very",
+            "Too"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Very con adjetivos normales (nice, friendly), absolutely con extremos (delicious, perfect), too para un problema, hardly = casi no y so + adjetivo + that."
+    },
+    {
+      "id": "adverbios-cantidad-040",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Un mes pesado en Brava",
+      "texto": "Laura is a creative director at Brava. This month has been extremely busy. The team has too many projects and not enough people, so everybody is working a lot. On Tuesday the client called: the budget for the new campaign is slightly smaller than last year, but the deadline is the same. Laura was so worried that she hardly slept that night. On Wednesday, Andrés had such a good idea: a short video with real customers. It's cheap enough for the budget and quite easy to produce. The client loved it. \"It's absolutely perfect,\" she said. Now the team is almost ready, and Laura is pretty happy. She still has too much work, but she isn't stressed at all.",
+      "preguntas": [
+        {
+          "q": "What is the team's problem this month?",
+          "opciones": [
+            "Too many projects and not enough people",
+            "Too much money and not enough projects",
+            "Not enough clients"
+          ],
+          "a": 0
+        },
+        {
+          "q": "How did Laura sleep on Tuesday night?",
+          "opciones": [
+            "She hardly slept",
+            "She slept a lot",
+            "She slept enough"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why is the video a good idea?",
+          "opciones": [
+            "It's cheap enough and quite easy to produce",
+            "It's too expensive but beautiful",
+            "It's the same as last year"
+          ],
+          "a": 0
+        },
+        {
+          "q": "¿Por qué el texto dice «absolutely perfect» y no «very perfect»?",
+          "opciones": [
+            "Perfect es un adjetivo extremo: va con absolutely, no con very",
+            "Very nunca va con adjetivos",
+            "Absolutely es más informal que very"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Too many / not enough para problemas de cantidad, so + adjetivo + that, such a + sustantivo, absolutely con extremos y at all al final de la negativa."
+    },
+    {
+      "id": "adverbios-cantidad-041",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Buscando apartamento",
+      "texto": "Camila and Mike are looking for an apartment in Bogotá. The first one, in Chapinero, was really nice, but it was too small: there wasn't enough space for Mike's desk. The second one was big enough, but it was a bit far from the office and the street was so noisy that they couldn't talk. The third apartment was such a surprise. It was quite big, the kitchen was absolutely beautiful, and the price was only slightly higher than their budget. \"It's almost perfect,\" said Camila. Mike didn't like the stairs at all, but he said yes. They move next month.",
+      "preguntas": [
+        {
+          "q": "What was the problem with the first apartment?",
+          "opciones": [
+            "It was too small",
+            "It was too noisy",
+            "It was too far"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why didn't they take the second apartment?",
+          "opciones": [
+            "It was a bit far and very noisy",
+            "It wasn't big enough",
+            "The kitchen was ugly"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What did Mike think about the stairs?",
+          "opciones": [
+            "He didn't like them at all",
+            "He liked them a lot",
+            "He thought they were perfect"
+          ],
+          "a": 0
+        },
+        {
+          "q": "¿Qué significa «only slightly higher than their budget»?",
+          "opciones": [
+            "Solo un poco más caro que su presupuesto",
+            "Mucho más caro que su presupuesto",
+            "Más barato que su presupuesto"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Too small (problema) vs. big enough (suficiente); a bit y slightly suavizan; not … at all = para nada."
+    },
+    {
+      "id": "adverbios-cantidad-042",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Una semana más",
+      "texto": "Hi Sarah, thanks a lot for your feedback on the new website. We totally agree about the home page: the text is a bit too long, and the photos aren't big enough on mobile. We have fixed both things. The checkout page is a little more complicated. Your developers need more time, and we don't want to launch too early. We are almost there, but we need one more week. I know the deadline is very important for you, so we will work extremely hard to finish by the 20th. The new version is even better than the first one. I really think you will love it. Best, Andrés",
+      "preguntas": [
+        {
+          "q": "What does Andrés agree with?",
+          "opciones": [
+            "The home page text is a bit too long",
+            "The photos are too big",
+            "The checkout page is perfect"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why do they need one more week?",
+          "opciones": [
+            "The developers need more time",
+            "The client changed the brief",
+            "Andrés is on vacation"
+          ],
+          "a": 0
+        },
+        {
+          "q": "¿Qué significa «We are almost there»?",
+          "opciones": [
+            "Ya casi terminamos",
+            "Ya llegamos a la oficina",
+            "Estamos lejos de terminar"
+          ],
+          "a": 0
+        },
+        {
+          "q": "¿Por qué el correo dice «aren't big enough» y no «aren't enough big»?",
+          "opciones": [
+            "Enough va después del adjetivo",
+            "Enough siempre va al final de la frase",
+            "Las dos formas son correctas"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Adjetivo + enough, a bit too para suavizar un problema, almost = casi, even + comparativo y really con verbos."
+    },
+    {
+      "id": "adverbios-cantidad-043",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "USO",
+      "consigna": "Escribe una reseña corta de un restaurante, hotel o lugar que visitaste: qué te encantó, qué no estuvo tan bien y si volverías.",
+      "requisitos": [
+        {
+          "texto": "Usa absolutely, totally o really con un adjetivo extremo (amazing, delicious, perfect…)",
+          "patron": "\\b(absolutely|totally|really|completely)\\s+(amazing|delicious|perfect|fantastic|incredible|awful|terrible|wonderful|exhausted|freezing|huge|tiny|beautiful|gorgeous|horrible|brilliant|excellent|enormous|starving|boiling)\\b"
+        },
+        {
+          "texto": "Usa too + adjetivo, too much o too many",
+          "patron": "\\btoo\\s+(much|many|\\w+)\\b"
+        },
+        {
+          "texto": "Usa enough (big enough, enough time…)",
+          "patron": "\\benough\\b"
+        },
+        {
+          "texto": "Usa so + adjetivo o such (a) + sustantivo",
+          "patron": "\\b(so\\s+(good|nice|tired|bad|beautiful|friendly|hot|cold|expensive|cheap|big|small|noisy|quiet|busy|happy|tasty|fresh|slow|fast|long|loud|crowded|clean|comfortable|kind|helpful|delicious)|such\\s+(a\\s+|an\\s+)?\\w+)\\b"
+        }
+      ],
+      "minPalabras": 40,
+      "ejemplo": "Last weekend we went to a new Peruvian restaurant in Usaquén. The ceviche was absolutely delicious and the waiters were so friendly. It was such a nice night! The only problem was the music: it was too loud, and the tables weren't big enough for six people. It's a bit expensive, but I would go back.",
+      "explica": "Absolutely con extremos, too para lo que molesta, adjetivo + enough y such a + adjetivo + sustantivo."
+    },
+    {
+      "id": "adverbios-cantidad-044",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "USO",
+      "consigna": "Escribe un mensaje a tu jefe o a un cliente explicando cómo va un proyecto: qué está casi listo, qué problema hay (tiempo, presupuesto, personas) y qué necesitas.",
+      "requisitos": [
+        {
+          "texto": "Usa almost o nearly",
+          "patron": "\\b(almost|nearly)\\b"
+        },
+        {
+          "texto": "Usa not … enough o enough + sustantivo",
+          "patron": "\\benough\\b"
+        },
+        {
+          "texto": "Usa too many o too much",
+          "patron": "\\btoo\\s+(many|much)\\b"
+        },
+        {
+          "texto": "Suaviza con a bit, a little, slightly, quite o pretty",
+          "patron": "\\b(a bit|a little|slightly|quite|pretty|rather)\\b"
+        }
+      ],
+      "minPalabras": 40,
+      "ejemplo": "Hi Sarah, quick update on the juice campaign. The video is almost ready and it looks really good. The problem is the banners: the client sent too many changes, and we don't have enough designers this week. The deadline is a bit tight. Could we have two more days? I think the final version will be even better. Thanks, Andrés",
+      "explica": "Almost para lo que está casi listo, too many / not enough para el problema y a bit para suavizar."
+    },
+    {
+      "id": "adverbios-cantidad-045",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "CUA",
+      "consigna": "Cuenta cómo va tu rutina en esta temporada: qué haces mucho, qué casi no haces, qué es demasiado y qué no es suficiente.",
+      "requisitos": [
+        {
+          "texto": "Usa verbo + a lot (I work a lot)",
+          "patron": "\\b\\w+\\s+(\\w+\\s+)?a lot\\b(?!\\s+of)"
+        },
+        {
+          "texto": "Usa hardly (casi no)",
+          "patron": "\\bhardly\\b"
+        },
+        {
+          "texto": "Usa not … at all",
+          "patron": "\\bat all\\b"
+        },
+        {
+          "texto": "Usa too + adjetivo, too much o not … enough",
+          "patron": "\\btoo\\s+\\w+|\\benough\\b"
+        }
+      ],
+      "minPalabras": 40,
+      "ejemplo": "These days I work a lot and I hardly see my friends. I go to the gym three times a week, but I don't sleep enough: I'm always a bit tired. I drink too much coffee, and I don't read at all. Next month I want to work less, read more and sleep at least seven hours.",
+      "explica": "Verbo + a lot (no a lot of), hardly sin don't, at all al final de la negativa y too much / not enough."
+    }
+  ]
+}

@@ -1,0 +1,4488 @@
+{
+  "id": "verbos-esenciales",
+  "titulo": "Verbos esenciales y sus formas",
+  "grupo": "Vocabulario",
+  "orden": 290,
+  "nivel": "A1–B1",
+  "resumen": "Los 120 verbos que más vas a usar (be, have, do, go, get, make, work, send…) con sus cinco formas: base, -s, pasado, participio e -ing. Cuándo va cada una y cómo se escriben (studies, stopped, making).",
+  "llave": "base · -s · pasado · participio · -ing",
+  "teoria": {
+    "paraQue": "Con estos 120 verbos dices casi todo lo que necesitas en la casa y en la oficina. Pero un verbo en inglés no es una palabra: son cinco formas (work, works, worked, worked, working). Si te sabes las cinco de cada verbo, puedes moverte por todos los tiempos sin pensar: presente, pasado, continuo, perfecto y futuro.",
+    "llave": "Cada forma tiene su lugar fijo. (1) Base (work, go): con I / you / we / they en presente, y siempre después de do / does / did, will, can, could, should, let y to. (2) -s (works, goes): solo con he / she / it en presente simple afirmativo. (3) Pasado (worked, went): solo en pasado simple afirmativo; en negativa y pregunta manda did y el verbo vuelve a la base (I didn't go). (4) Participio (worked, gone): después de have / has (presente perfecto: I've finished) y en la pasiva (it was made). (5) -ing (working, going): después de am / is / are / was / were (continuos: I'm working) y después de preposiciones (before leaving). Los regulares hacen pasado y participio con -ed; los irregulares se aprenden de memoria (go → went → gone).",
+    "formulas": [
+      {
+        "tipo": "Base",
+        "formula": "I / you / we / they + base · do / does / did / will / can + base",
+        "ejemplo": "I {{work}} from the office, but I [[did]]n't {{go}} yesterday and I [[will]] {{work}} from home tomorrow."
+      },
+      {
+        "tipo": "-s",
+        "formula": "he / she / it + verbo + s (solo presente simple afirmativo)",
+        "ejemplo": "My boss {{work((s))}} from home on Fridays and {{watch((es))}} the news at night."
+      },
+      {
+        "tipo": "Pasado",
+        "formula": "sujeto + pasado (-ed o irregular), solo en afirmativa",
+        "ejemplo": "We {{finish((ed))}} the campaign and {{went}} out to celebrate."
+      },
+      {
+        "tipo": "Participio",
+        "formula": "have / has + participio (presente perfecto)",
+        "ejemplo": "I [[have]] {{finish((ed))}} the report, and Laura [[has]] {{writ((ten))}} the email."
+      },
+      {
+        "tipo": "-ing",
+        "formula": "am / is / are / was / were + verbo-ing (continuos)",
+        "ejemplo": "We [[are]] {{plan((ning))}} the launch, and Mike [[was]] {{writ((ing))}} the copy when you called."
+      }
+    ],
+    "reglas": [
+      "-s: la mayoría solo agrega s (works, plays, buys). Después de -s, -sh, -ch, -x, -o se agrega -es: finishes, watches, fixes, goes, does.",
+      "-ies: consonante + y → ies (study → studies, try → tries, carry → carries, apply → applies). Vocal + y solo agrega s (play → plays, stay → stays, buy → buys).",
+      "Tres -s irregulares que hay que saber: be → is, have → has, do → does (/dʌz/). Y says suena /sɛz/.",
+      "-ed: la mayoría agrega ed (worked, watched). Si termina en e, solo d (live → lived, change → changed, hire → hired).",
+      "-ied: consonante + y → ied (study → studied, try → tried, apply → applied). Vocal + y → ed (play → played, stay → stayed). Ojo: pay → paid y say → said son irregulares.",
+      "Consonante doble: si el verbo termina en consonante + vocal + consonante y el acento cae al final, se duplica la última letra (stop → stopped, plan → planned, begin → beginning, forget → forgetting). Si el acento no cae al final, no se duplica (visit → visited, open → opened, offer → offered, listen → listened). Nunca se duplican w, x, y (fix → fixed, play → played). En inglés de EE. UU.: travel → traveled.",
+      "-ing: la mayoría agrega ing (working, going, studying). La e muda final se va (make → making, write → writing, live → living), pero be → being, see → seeing, agree → agreeing. Misma regla de consonante doble: run → running, sit → sitting, get → getting, put → putting.",
+      "Cómo suena -ed: /t/ después de sonidos sordos (worked, stopped, watched), /d/ después de sonoros (played, called, lived) y /ɪd/ solo después de t o d (started, needed, added, decided).",
+      "Cómo suena -s: /s/ (works, stops), /z/ (plays, goes) y /ɪz/ después de s, sh, ch, x, ge (watches, finishes, fixes, changes).",
+      "Los irregulares no tienen regla, pero sí familias: cut → cut → cut (put, let, set); buy → bought (bring → brought, think → thought, teach → taught); write → wrote → written (drive → drove → driven); begin → began → begun (drink → drank → drunk)."
+    ],
+    "senales": [
+      "every day → base / -s",
+      "usually → base / -s",
+      "on Mondays → base / -s",
+      "yesterday → pasado",
+      "last week → pasado",
+      "two days ago → pasado",
+      "already → participio",
+      "yet → participio",
+      "ever → participio",
+      "since / for → participio",
+      "now / right now → -ing",
+      "at the moment → -ing",
+      "while → -ing",
+      "did / didn't → base",
+      "will / can → base"
+    ],
+    "usos": [
+      {
+        "uso": "Tu rutina (base y -s)",
+        "contexto": "diario",
+        "ejemplo": "I {{wake}} up at 5:30, and my wife {{get((s))}} up at 6."
+      },
+      {
+        "uso": "Contar el fin de semana (pasado)",
+        "contexto": "diario",
+        "ejemplo": "On Saturday we {{went}} to Villa de Leyva and {{ate}} at a great place."
+      },
+      {
+        "uso": "Lo que estás haciendo ahora (-ing)",
+        "contexto": "diario",
+        "ejemplo": "I[['m]] {{cook((ing))}} dinner. Can I call you back?"
+      },
+      {
+        "uso": "Estado de un proyecto (participio)",
+        "contexto": "trabajo",
+        "ejemplo": "We[['ve]] {{finish((ed))}} the script, but we [[have]]n't {{shot}} the video yet."
+      },
+      {
+        "uso": "Contar qué pasó en la reunión (pasado)",
+        "contexto": "trabajo",
+        "ejemplo": "The client {{like((d))}} the idea and {{ask((ed))}} for two changes."
+      },
+      {
+        "uso": "Compromisos y siguientes pasos (base después de will)",
+        "contexto": "trabajo",
+        "ejemplo": "I[['ll]] {{send}} you the deck tonight, and Laura [[will]] {{call}} the client."
+      }
+    ],
+    "errores": [
+      {
+        "mal": "Did you sent the file?",
+        "bien": "Did you send the file?",
+        "porque": "Did ya marca el pasado; el verbo vuelve a la base. Una sola marca por frase.",
+        "code": "DM"
+      },
+      {
+        "mal": "I didn't went to the gym.",
+        "bien": "I didn't go to the gym.",
+        "porque": "Didn't + base: didn't go, didn't see, didn't have.",
+        "code": "DM"
+      },
+      {
+        "mal": "My boss work from home on Fridays.",
+        "bien": "My boss works from home on Fridays.",
+        "porque": "He / she / it en presente simple → verbo + s.",
+        "code": "3S"
+      },
+      {
+        "mal": "She studys marketing.",
+        "bien": "She studies marketing.",
+        "porque": "Consonante + y → ies: studies, tries, carries.",
+        "code": "3S"
+      },
+      {
+        "mal": "I'm studing for the exam.",
+        "bien": "I'm studying for the exam.",
+        "porque": "Con -ing la y se queda: study → studying, try → trying.",
+        "code": "ING"
+      },
+      {
+        "mal": "We stoped the project.",
+        "bien": "We stopped the project.",
+        "porque": "Consonante + vocal + consonante con acento al final → doble consonante: stopped, planned.",
+        "code": "VOC"
+      },
+      {
+        "mal": "She goed to Medellín.",
+        "bien": "She went to Medellín.",
+        "porque": "Go es irregular: go → went → gone. Los irregulares no llevan -ed.",
+        "code": "IRR"
+      },
+      {
+        "mal": "Laura has wrote the email.",
+        "bien": "Laura has written the email.",
+        "porque": "Después de have / has va el participio (written), no el pasado (wrote).",
+        "code": "PP"
+      }
+    ],
+    "contraste": [
+      {
+        "a": "I {{work((ed))}} late yesterday.",
+        "b": "I[['ve]] {{work((ed))}} late all week.",
+        "nota": "Misma forma, dos funciones: sola es pasado (tiempo terminado); con have es participio (conecta con hoy)."
+      },
+      {
+        "a": "She {{went}} to Cali last month.",
+        "b": "She[['s]] {{gone}} to Cali.",
+        "nota": "Went = fue (y quizá ya volvió). Has gone = se fue y sigue allá."
+      }
+    ],
+    "frases": [
+      {
+        "en": "Let me know.",
+        "es": "Me avisas.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'll get back to you.",
+        "es": "Te respondo más tarde.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "What do you mean?",
+        "es": "¿Qué quieres decir?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Keep me posted.",
+        "es": "Mantenme al tanto.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Have you finished?",
+        "es": "¿Ya terminaste?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Make sure you send it today.",
+        "es": "Asegúrate de enviarlo hoy.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I didn't get it.",
+        "es": "No entendí.",
+        "contexto": "diario"
+      },
+      {
+        "en": "It takes twenty minutes.",
+        "es": "Se demora veinte minutos.",
+        "contexto": "diario"
+      },
+      {
+        "en": "Take your time.",
+        "es": "Tranquilo, sin afán.",
+        "contexto": "diario"
+      },
+      {
+        "en": "I've been busy.",
+        "es": "He estado ocupado.",
+        "contexto": "diario"
+      }
+    ],
+    "tip": "Aprende cada verbo como una canción de cinco notas: go · goes · went · gone · going. Dila en voz alta y arma una frase con cada nota sobre tu día: I go, my wife goes, I went, I've gone, I'm going."
+  },
+  "palabras": [
+    {
+      "id": "be",
+      "en": "be",
+      "ipa": "/bi/",
+      "es": "ser, estar",
+      "clase": "verbo",
+      "orden": 1,
+      "formas": {
+        "s": "is",
+        "pasado": "was/were",
+        "participio": "been",
+        "ing": "being"
+      },
+      "irregular": true,
+      "ejemplo": "The client was very happy with the new video.",
+      "hueco": {
+        "frase": "Yesterday the client ___ very happy with the video. (be)",
+        "respuestas": [
+          "was"
+        ]
+      },
+      "nota": "am / is / are → was / were → been. be late, be ready, be on time. Con edad: I'm 40 (no «I have 40»)."
+    },
+    {
+      "id": "have",
+      "en": "have",
+      "ipa": "/hæv/",
+      "es": "tener; tomar (comida)",
+      "clase": "verbo",
+      "orden": 2,
+      "formas": {
+        "s": "has",
+        "pasado": "had",
+        "participio": "had",
+        "ing": "having"
+      },
+      "irregular": true,
+      "comp": [
+        "breakfast",
+        "a meeting with the client"
+      ],
+      "ejemplo": "We're having a meeting with the client at 10.",
+      "hueco": {
+        "frase": "We are ___ a meeting with the client right now. (have)",
+        "respuestas": [
+          "having"
+        ]
+      },
+      "nota": "have breakfast, have a meeting, have a good time, have a look. Con he/she/it: has."
+    },
+    {
+      "id": "do",
+      "en": "do",
+      "ipa": "/du/",
+      "es": "hacer",
+      "clase": "verbo",
+      "orden": 3,
+      "formas": {
+        "s": "does",
+        "pasado": "did",
+        "participio": "done",
+        "ing": "doing"
+      },
+      "irregular": true,
+      "comp": [
+        "the dishes",
+        "exercise"
+      ],
+      "ejemplo": "She does exercise every morning before work.",
+      "hueco": {
+        "frase": "She ___ exercise every morning before work. (do)",
+        "respuestas": [
+          "does"
+        ]
+      },
+      "nota": "do exercise, do the dishes, do business, do a good job. Además es la llave del presente y del pasado (do / does / did)."
+    },
+    {
+      "id": "say",
+      "en": "say",
+      "ipa": "/seɪ/",
+      "es": "decir",
+      "clase": "verbo",
+      "orden": 4,
+      "formas": {
+        "s": "says",
+        "pasado": "said",
+        "participio": "said",
+        "ing": "saying"
+      },
+      "irregular": true,
+      "comp": [
+        "hello",
+        "no to the client"
+      ],
+      "ejemplo": "The client said that the budget is too low.",
+      "hueco": {
+        "frase": "The client ___ that the budget is too low. (say)",
+        "respuestas": [
+          "said"
+        ]
+      },
+      "nota": "say + cosa: say hello, say yes, say no. says suena /sɛz/ y said /sɛd/. Nunca «say me»: tell me."
+    },
+    {
+      "id": "go",
+      "en": "go",
+      "ipa": "/ɡoʊ/",
+      "es": "ir",
+      "clase": "verbo",
+      "orden": 5,
+      "formas": {
+        "s": "goes",
+        "pasado": "went",
+        "participio": "gone",
+        "ing": "going"
+      },
+      "irregular": true,
+      "comp": [
+        "to the gym",
+        "to the office"
+      ],
+      "ejemplo": "I go to the gym three times a week.",
+      "hueco": {
+        "frase": "Last Saturday we ___ to the beach in Santa Marta. (go)",
+        "respuestas": [
+          "went"
+        ]
+      },
+      "nota": "go to work, go home (sin to), go shopping. She's gone to Cali = se fue y sigue allá."
+    },
+    {
+      "id": "get",
+      "en": "get",
+      "ipa": "/ɡɛt/",
+      "es": "conseguir, recibir; llegar; ponerse",
+      "clase": "verbo",
+      "orden": 6,
+      "formas": {
+        "s": "gets",
+        "pasado": "got",
+        "participio": "gotten",
+        "ing": "getting"
+      },
+      "irregular": true,
+      "comp": [
+        "an email",
+        "to the office"
+      ],
+      "ejemplo": "I've gotten three emails from the client this morning.",
+      "hueco": {
+        "frase": "I have ___ three emails from the client this morning. (get)",
+        "respuestas": [
+          "gotten",
+          "got"
+        ]
+      },
+      "nota": "get to (llegar a), get home, get tired, get a job. US: gotten; UK: got. getting con doble t."
+    },
+    {
+      "id": "make",
+      "en": "make",
+      "ipa": "/meɪk/",
+      "es": "hacer, fabricar, preparar",
+      "clase": "verbo",
+      "orden": 7,
+      "formas": {
+        "s": "makes",
+        "pasado": "made",
+        "participio": "made",
+        "ing": "making"
+      },
+      "irregular": true,
+      "comp": [
+        "dinner",
+        "a decision"
+      ],
+      "ejemplo": "We made a decision after the meeting.",
+      "hueco": {
+        "frase": "Camila is ___ dinner for the family right now. (make)",
+        "respuestas": [
+          "making"
+        ]
+      },
+      "nota": "make a decision, make a mistake, make money, make dinner. make = crear o producir; do = actividad o tarea."
+    },
+    {
+      "id": "know",
+      "en": "know",
+      "ipa": "/noʊ/",
+      "es": "saber, conocer",
+      "clase": "verbo",
+      "orden": 8,
+      "formas": {
+        "s": "knows",
+        "pasado": "knew",
+        "participio": "known",
+        "ing": "knowing"
+      },
+      "irregular": true,
+      "ejemplo": "Do you know the new art director?",
+      "hueco": {
+        "frase": "I have ___ Andrés since university. (know)",
+        "respuestas": [
+          "known"
+        ]
+      },
+      "nota": "know someone, know how to, let me know. Verbo de estado: nunca «I'm knowing». La k no suena."
+    },
+    {
+      "id": "think",
+      "en": "think",
+      "ipa": "/θɪŋk/",
+      "es": "pensar, creer",
+      "clase": "verbo",
+      "orden": 9,
+      "formas": {
+        "s": "thinks",
+        "pasado": "thought",
+        "participio": "thought",
+        "ing": "thinking"
+      },
+      "irregular": true,
+      "comp": [
+        "about the campaign",
+        "about the weekend"
+      ],
+      "ejemplo": "I think the second idea is stronger.",
+      "hueco": {
+        "frase": "She ___ the second idea is stronger. (think)",
+        "respuestas": [
+          "thinks"
+        ]
+      },
+      "nota": "think about / of, I think so, I don't think so. Para opinar, presente simple: I think, no «I'm thinking that»."
+    },
+    {
+      "id": "take",
+      "en": "take",
+      "ipa": "/teɪk/",
+      "es": "tomar, llevar; demorarse",
+      "clase": "verbo",
+      "orden": 10,
+      "formas": {
+        "s": "takes",
+        "pasado": "took",
+        "participio": "taken",
+        "ing": "taking"
+      },
+      "irregular": true,
+      "comp": [
+        "a taxi",
+        "notes"
+      ],
+      "ejemplo": "I took a taxi to the airport last night.",
+      "hueco": {
+        "frase": "Mike ___ notes during every meeting. (take)",
+        "respuestas": [
+          "takes"
+        ]
+      },
+      "nota": "take a taxi, take a photo, take a break, take notes. It takes 20 minutes = se demora 20 minutos."
+    },
+    {
+      "id": "see",
+      "en": "see",
+      "ipa": "/si/",
+      "es": "ver",
+      "clase": "verbo",
+      "orden": 11,
+      "formas": {
+        "s": "sees",
+        "pasado": "saw",
+        "participio": "seen",
+        "ing": "seeing"
+      },
+      "irregular": true,
+      "comp": [
+        "a doctor",
+        "friends"
+      ],
+      "ejemplo": "We saw a great movie on Saturday.",
+      "hueco": {
+        "frase": "Have you ___ the new campaign on TV? (see)",
+        "respuestas": [
+          "seen"
+        ]
+      },
+      "nota": "see = ver (sin buscarlo); look at = mirar; watch = mirar algo que se mueve. See you later!"
+    },
+    {
+      "id": "come",
+      "en": "come",
+      "ipa": "/kʌm/",
+      "es": "venir",
+      "clase": "verbo",
+      "orden": 12,
+      "formas": {
+        "s": "comes",
+        "pasado": "came",
+        "participio": "come",
+        "ing": "coming"
+      },
+      "irregular": true,
+      "comp": [
+        "to the office",
+        "home"
+      ],
+      "ejemplo": "The client is coming to the office at 3.",
+      "hueco": {
+        "frase": "Laura ___ to the party last night. (come)",
+        "respuestas": [
+          "came"
+        ]
+      },
+      "nota": "come = venir hacia donde estás; come back, come in, come with me. come → came → come."
+    },
+    {
+      "id": "want",
+      "en": "want",
+      "ipa": "/wɑnt/",
+      "es": "querer, desear",
+      "clase": "verbo",
+      "orden": 13,
+      "formas": {
+        "s": "wants",
+        "pasado": "wanted",
+        "participio": "wanted",
+        "ing": "wanting"
+      },
+      "irregular": false,
+      "ejemplo": "I want to travel to Japan next year.",
+      "hueco": {
+        "frase": "The client ___ a new version by Friday, so we're working late. (want)",
+        "respuestas": [
+          "wants"
+        ]
+      },
+      "nota": "want + to + verbo (want to go); want + persona + to (I want you to call him). Nunca «I want that you…»."
+    },
+    {
+      "id": "look",
+      "en": "look",
+      "ipa": "/lʊk/",
+      "es": "mirar; verse, parecer",
+      "clase": "verbo",
+      "orden": 14,
+      "formas": {
+        "s": "looks",
+        "pasado": "looked",
+        "participio": "looked",
+        "ing": "looking"
+      },
+      "irregular": false,
+      "comp": [
+        "at the screen",
+        "for my keys"
+      ],
+      "ejemplo": "You look tired today.",
+      "hueco": {
+        "frase": "I'm ___ for my keys. Have you seen them? (look)",
+        "respuestas": [
+          "looking"
+        ]
+      },
+      "nota": "look at (mirar), look for (buscar), look + adjetivo (you look great), look like (parecerse)."
+    },
+    {
+      "id": "use",
+      "en": "use",
+      "ipa": "/juz/",
+      "es": "usar",
+      "clase": "verbo",
+      "orden": 15,
+      "formas": {
+        "s": "uses",
+        "pasado": "used",
+        "participio": "used",
+        "ing": "using"
+      },
+      "irregular": false,
+      "comp": [
+        "the new software",
+        "my phone"
+      ],
+      "ejemplo": "We use a shared folder for all the files.",
+      "hueco": {
+        "frase": "Last year we ___ a different studio for the photos. (use)",
+        "respuestas": [
+          "used"
+        ]
+      },
+      "nota": "use + cosa (sin «of»). used to (pasado habitual) es otra estructura. El verbo suena /juz/; el sustantivo, /jus/."
+    },
+    {
+      "id": "find",
+      "en": "find",
+      "ipa": "/faɪnd/",
+      "es": "encontrar",
+      "clase": "verbo",
+      "orden": 16,
+      "formas": {
+        "s": "finds",
+        "pasado": "found",
+        "participio": "found",
+        "ing": "finding"
+      },
+      "irregular": true,
+      "comp": [
+        "a solution",
+        "my keys"
+      ],
+      "ejemplo": "We found a cheap hotel near the beach.",
+      "hueco": {
+        "frase": "Have you ___ a solution for the client? (find)",
+        "respuestas": [
+          "found"
+        ]
+      },
+      "nota": "find = encontrar; find out = averiguar. No confundir found (de find) con founded (fundar)."
+    },
+    {
+      "id": "give",
+      "en": "give",
+      "ipa": "/ɡɪv/",
+      "es": "dar",
+      "clase": "verbo",
+      "orden": 17,
+      "formas": {
+        "s": "gives",
+        "pasado": "gave",
+        "participio": "given",
+        "ing": "giving"
+      },
+      "irregular": true,
+      "comp": [
+        "feedback",
+        "a presentation"
+      ],
+      "ejemplo": "Sarah gave a great presentation to the client.",
+      "hueco": {
+        "frase": "My boss has ___ me two days off. (give)",
+        "respuestas": [
+          "given"
+        ]
+      },
+      "nota": "give feedback, give a presentation, give someone a call. give + persona + cosa: give me the file."
+    },
+    {
+      "id": "tell",
+      "en": "tell",
+      "ipa": "/tɛl/",
+      "es": "decir, contar (a alguien)",
+      "clase": "verbo",
+      "orden": 18,
+      "formas": {
+        "s": "tells",
+        "pasado": "told",
+        "participio": "told",
+        "ing": "telling"
+      },
+      "irregular": true,
+      "comp": [
+        "the team the news",
+        "a story"
+      ],
+      "ejemplo": "I told my boss about the problem.",
+      "hueco": {
+        "frase": "Can you ___ me the price, please? (tell)",
+        "respuestas": [
+          "tell"
+        ]
+      },
+      "nota": "tell + persona: tell me, tell the team. say + cosa: say hello. Nunca «say me». tell a story, tell the truth."
+    },
+    {
+      "id": "work",
+      "en": "work",
+      "ipa": "/wɝk/",
+      "es": "trabajar; funcionar",
+      "clase": "verbo",
+      "orden": 19,
+      "formas": {
+        "s": "works",
+        "pasado": "worked",
+        "participio": "worked",
+        "ing": "working"
+      },
+      "irregular": false,
+      "comp": [
+        "from home",
+        "late"
+      ],
+      "ejemplo": "I work at an advertising agency in Bogotá.",
+      "hueco": {
+        "frase": "We were ___ late when the client called. (work)",
+        "respuestas": [
+          "working"
+        ]
+      },
+      "nota": "work for / at a company, work on a project, work out (hacer ejercicio). It doesn't work = no funciona."
+    },
+    {
+      "id": "call",
+      "en": "call",
+      "ipa": "/kɔl/",
+      "es": "llamar",
+      "clase": "verbo",
+      "orden": 20,
+      "formas": {
+        "s": "calls",
+        "pasado": "called",
+        "participio": "called",
+        "ing": "calling"
+      },
+      "irregular": false,
+      "comp": [
+        "the client",
+        "my mom"
+      ],
+      "ejemplo": "I called the client after the meeting.",
+      "hueco": {
+        "frase": "Andrés ___ his mom every Sunday. (call)",
+        "respuestas": [
+          "calls"
+        ]
+      },
+      "nota": "call someone, sin to (nunca «call to the client»). call back = devolver la llamada; make a call."
+    },
+    {
+      "id": "try",
+      "en": "try",
+      "ipa": "/traɪ/",
+      "es": "intentar, probar",
+      "clase": "verbo",
+      "orden": 21,
+      "formas": {
+        "s": "tries",
+        "pasado": "tried",
+        "participio": "tried",
+        "ing": "trying"
+      },
+      "irregular": false,
+      "comp": [
+        "the new restaurant",
+        "a different idea"
+      ],
+      "ejemplo": "We tried a new restaurant in Usaquén.",
+      "hueco": {
+        "frase": "She ___ a different idea, but the client didn't like it. (try)",
+        "respuestas": [
+          "tried"
+        ]
+      },
+      "nota": "Consonante + y: tries, tried, pero trying. try to (intentar), try on (probarse ropa), try + -ing (probar a ver qué pasa)."
+    },
+    {
+      "id": "ask",
+      "en": "ask",
+      "ipa": "/æsk/",
+      "es": "preguntar, pedir",
+      "clase": "verbo",
+      "orden": 22,
+      "formas": {
+        "s": "asks",
+        "pasado": "asked",
+        "participio": "asked",
+        "ing": "asking"
+      },
+      "irregular": false,
+      "comp": [
+        "a question",
+        "the client for feedback"
+      ],
+      "ejemplo": "Can I ask a question?",
+      "hueco": {
+        "frase": "The client ___ for two more options yesterday. (ask)",
+        "respuestas": [
+          "asked"
+        ]
+      },
+      "nota": "ask a question (no «make a question»), ask for (pedir algo), ask someone to do something."
+    },
+    {
+      "id": "need",
+      "en": "need",
+      "ipa": "/nid/",
+      "es": "necesitar",
+      "clase": "verbo",
+      "orden": 23,
+      "formas": {
+        "s": "needs",
+        "pasado": "needed",
+        "participio": "needed",
+        "ing": "needing"
+      },
+      "irregular": false,
+      "ejemplo": "We need the final version by Friday.",
+      "hueco": {
+        "frase": "She ___ a vacation. She's very tired. (need)",
+        "respuestas": [
+          "needs"
+        ]
+      },
+      "nota": "need + cosa; need + to + verbo; don't need to = no hace falta. needed: -ed suena /ɪd/."
+    },
+    {
+      "id": "feel",
+      "en": "feel",
+      "ipa": "/fil/",
+      "es": "sentir(se)",
+      "clase": "verbo",
+      "orden": 24,
+      "formas": {
+        "s": "feels",
+        "pasado": "felt",
+        "participio": "felt",
+        "ing": "feeling"
+      },
+      "irregular": true,
+      "comp": [
+        "tired",
+        "better"
+      ],
+      "ejemplo": "I felt tired after the long meeting.",
+      "hueco": {
+        "frase": "I ___ tired after the long meeting yesterday. (feel)",
+        "respuestas": [
+          "felt"
+        ]
+      },
+      "nota": "feel + adjetivo (feel good, feel sick); feel like + -ing (tener ganas de). Sin reflexivo: I feel tired, no «I feel me»."
+    },
+    {
+      "id": "become",
+      "en": "become",
+      "ipa": "/bɪˈkʌm/",
+      "es": "convertirse en, llegar a ser",
+      "clase": "verbo",
+      "orden": 25,
+      "formas": {
+        "s": "becomes",
+        "pasado": "became",
+        "participio": "become",
+        "ing": "becoming"
+      },
+      "irregular": true,
+      "comp": [
+        "more popular",
+        "a manager"
+      ],
+      "ejemplo": "She became a creative director at 32.",
+      "hueco": {
+        "frase": "The brand has ___ very popular with young people. (become)",
+        "respuestas": [
+          "become"
+        ]
+      },
+      "nota": "become + sustantivo o adjetivo. Igual que come: become → became → become."
+    },
+    {
+      "id": "leave",
+      "en": "leave",
+      "ipa": "/liv/",
+      "es": "salir, irse; dejar",
+      "clase": "verbo",
+      "orden": 26,
+      "formas": {
+        "s": "leaves",
+        "pasado": "left",
+        "participio": "left",
+        "ing": "leaving"
+      },
+      "irregular": true,
+      "comp": [
+        "the office",
+        "my keys at home"
+      ],
+      "ejemplo": "I left my laptop at the office.",
+      "hueco": {
+        "frase": "The bus ___ at 6:30 every morning. (leave)",
+        "respuestas": [
+          "leaves"
+        ]
+      },
+      "nota": "leave + lugar, sin from: leave the office. leave something somewhere = dejar algo. leave a message."
+    },
+    {
+      "id": "put",
+      "en": "put",
+      "ipa": "/pʊt/",
+      "es": "poner",
+      "clase": "verbo",
+      "orden": 27,
+      "formas": {
+        "s": "puts",
+        "pasado": "put",
+        "participio": "put",
+        "ing": "putting"
+      },
+      "irregular": true,
+      "comp": [
+        "the files on the desk",
+        "my phone away"
+      ],
+      "ejemplo": "Put your phone away during the meeting.",
+      "hueco": {
+        "frase": "She's ___ the kids to bed right now. (put)",
+        "respuestas": [
+          "putting"
+        ]
+      },
+      "nota": "put → put → put; putting con doble t. put on (ponerse ropa), put off (posponer)."
+    },
+    {
+      "id": "mean",
+      "en": "mean",
+      "ipa": "/min/",
+      "es": "significar, querer decir",
+      "clase": "verbo",
+      "orden": 28,
+      "formas": {
+        "s": "means",
+        "pasado": "meant",
+        "participio": "meant",
+        "ing": "meaning"
+      },
+      "irregular": true,
+      "ejemplo": "What does \"deadline\" mean?",
+      "hueco": {
+        "frase": "Sorry, I ___ Tuesday, not Thursday. (mean)",
+        "respuestas": [
+          "meant",
+          "mean"
+        ]
+      },
+      "nota": "What does X mean? (no «What means X?»). I mean… para aclarar. meant suena /mɛnt/."
+    },
+    {
+      "id": "keep",
+      "en": "keep",
+      "ipa": "/kip/",
+      "es": "guardar, mantener; seguir",
+      "clase": "verbo",
+      "orden": 29,
+      "formas": {
+        "s": "keeps",
+        "pasado": "kept",
+        "participio": "kept",
+        "ing": "keeping"
+      },
+      "irregular": true,
+      "comp": [
+        "the receipts",
+        "the client happy"
+      ],
+      "ejemplo": "Keep the receipts from the trip.",
+      "hueco": {
+        "frase": "We have ___ the same client for ten years. (keep)",
+        "respuestas": [
+          "kept"
+        ]
+      },
+      "nota": "keep + -ing = seguir haciendo (keep going); keep in touch, keep a secret, keep me posted."
+    },
+    {
+      "id": "let",
+      "en": "let",
+      "ipa": "/lɛt/",
+      "es": "dejar, permitir",
+      "clase": "verbo",
+      "orden": 30,
+      "formas": {
+        "s": "lets",
+        "pasado": "let",
+        "participio": "let",
+        "ing": "letting"
+      },
+      "irregular": true,
+      "comp": [
+        "me know",
+        "the team decide"
+      ],
+      "ejemplo": "Let me know if you need anything.",
+      "hueco": {
+        "frase": "My boss ___ me work from home on Fridays. (let)",
+        "respuestas": [
+          "lets",
+          "let"
+        ]
+      },
+      "nota": "let + persona + verbo base, sin to: let me know, let him go. let's = let us (propuesta)."
+    },
+    {
+      "id": "begin",
+      "en": "begin",
+      "ipa": "/bɪˈɡɪn/",
+      "es": "empezar",
+      "clase": "verbo",
+      "orden": 31,
+      "formas": {
+        "s": "begins",
+        "pasado": "began",
+        "participio": "begun",
+        "ing": "beginning"
+      },
+      "irregular": true,
+      "comp": [
+        "the meeting",
+        "a new project"
+      ],
+      "ejemplo": "The meeting began ten minutes late.",
+      "hueco": {
+        "frase": "The meeting ___ ten minutes late yesterday. (begin)",
+        "respuestas": [
+          "began"
+        ]
+      },
+      "nota": "begin = start, un poco más formal. begin → began → begun; beginning con doble n."
+    },
+    {
+      "id": "seem",
+      "en": "seem",
+      "ipa": "/sim/",
+      "es": "parecer",
+      "clase": "verbo",
+      "orden": 32,
+      "formas": {
+        "s": "seems",
+        "pasado": "seemed",
+        "participio": "seemed",
+        "ing": "seeming"
+      },
+      "irregular": false,
+      "ejemplo": "The new intern seems very smart.",
+      "hueco": {
+        "frase": "The new intern ___ very smart. He asks great questions. (seem)",
+        "respuestas": [
+          "seems"
+        ]
+      },
+      "nota": "seem + adjetivo (seem tired), seem to + verbo, it seems that… Verbo de estado."
+    },
+    {
+      "id": "help",
+      "en": "help",
+      "ipa": "/hɛlp/",
+      "es": "ayudar",
+      "clase": "verbo",
+      "orden": 33,
+      "formas": {
+        "s": "helps",
+        "pasado": "helped",
+        "participio": "helped",
+        "ing": "helping"
+      },
+      "irregular": false,
+      "comp": [
+        "the team",
+        "my son with his homework"
+      ],
+      "ejemplo": "Can you help me with this presentation?",
+      "hueco": {
+        "frase": "Laura ___ me with the presentation last night. (help)",
+        "respuestas": [
+          "helped"
+        ]
+      },
+      "nota": "help + persona + verbo base (help me finish); help with something. Can I help you?"
+    },
+    {
+      "id": "talk",
+      "en": "talk",
+      "ipa": "/tɔk/",
+      "es": "hablar, conversar",
+      "clase": "verbo",
+      "orden": 34,
+      "formas": {
+        "s": "talks",
+        "pasado": "talked",
+        "participio": "talked",
+        "ing": "talking"
+      },
+      "irregular": false,
+      "comp": [
+        "to the client",
+        "about the project"
+      ],
+      "ejemplo": "We talked about the budget for an hour.",
+      "hueco": {
+        "frase": "I'm ___ to the client right now. Can I call you back? (talk)",
+        "respuestas": [
+          "talking"
+        ]
+      },
+      "nota": "talk to / with someone, talk about something. La l no suena: /tɔk/."
+    },
+    {
+      "id": "turn",
+      "en": "turn",
+      "ipa": "/tɝn/",
+      "es": "girar, voltear; cumplir (años)",
+      "clase": "verbo",
+      "orden": 35,
+      "formas": {
+        "s": "turns",
+        "pasado": "turned",
+        "participio": "turned",
+        "ing": "turning"
+      },
+      "irregular": false,
+      "comp": [
+        "left",
+        "right at the corner"
+      ],
+      "ejemplo": "Turn left at the next traffic light.",
+      "hueco": {
+        "frase": "My daughter ___ six last month. (turn)",
+        "respuestas": [
+          "turned"
+        ]
+      },
+      "nota": "turn left / right, turn 40 (cumplir 40), turn on / off (encender / apagar)."
+    },
+    {
+      "id": "start",
+      "en": "start",
+      "ipa": "/stɑrt/",
+      "es": "empezar, arrancar",
+      "clase": "verbo",
+      "orden": 36,
+      "formas": {
+        "s": "starts",
+        "pasado": "started",
+        "participio": "started",
+        "ing": "starting"
+      },
+      "irregular": false,
+      "comp": [
+        "the meeting",
+        "a new job"
+      ],
+      "ejemplo": "I start work at 8:30.",
+      "hueco": {
+        "frase": "We haven't ___ the new project yet. (start)",
+        "respuestas": [
+          "started"
+        ]
+      },
+      "nota": "start + -ing o + to (start working / start to work); start a business. started: -ed suena /ɪd/."
+    },
+    {
+      "id": "show",
+      "en": "show",
+      "ipa": "/ʃoʊ/",
+      "es": "mostrar, enseñar",
+      "clase": "verbo",
+      "orden": 37,
+      "formas": {
+        "s": "shows",
+        "pasado": "showed",
+        "participio": "shown",
+        "ing": "showing"
+      },
+      "irregular": true,
+      "comp": [
+        "the client the new ideas",
+        "photos of the trip"
+      ],
+      "ejemplo": "I showed the client three ideas.",
+      "hueco": {
+        "frase": "Have you ___ the new video to the team? (show)",
+        "respuestas": [
+          "shown",
+          "showed"
+        ]
+      },
+      "nota": "show someone something; show up (aparecer). Participio: shown (también se oye showed)."
+    },
+    {
+      "id": "hear",
+      "en": "hear",
+      "ipa": "/hɪr/",
+      "es": "oír",
+      "clase": "verbo",
+      "orden": 38,
+      "formas": {
+        "s": "hears",
+        "pasado": "heard",
+        "participio": "heard",
+        "ing": "hearing"
+      },
+      "irregular": true,
+      "ejemplo": "Did you hear the news about the account?",
+      "hueco": {
+        "frase": "I ___ a strange noise last night. (hear)",
+        "respuestas": [
+          "heard"
+        ]
+      },
+      "nota": "hear = oír (sin querer); listen to = escuchar (con atención). heard suena /hɝd/."
+    },
+    {
+      "id": "play",
+      "en": "play",
+      "ipa": "/pleɪ/",
+      "es": "jugar; tocar (instrumento)",
+      "clase": "verbo",
+      "orden": 39,
+      "formas": {
+        "s": "plays",
+        "pasado": "played",
+        "participio": "played",
+        "ing": "playing"
+      },
+      "irregular": false,
+      "comp": [
+        "soccer",
+        "the guitar"
+      ],
+      "ejemplo": "I play soccer with friends on Saturdays.",
+      "hueco": {
+        "frase": "The kids were ___ in the park when it started to rain. (play)",
+        "respuestas": [
+          "playing"
+        ]
+      },
+      "nota": "play + deporte, sin the (play soccer); play + the + instrumento (play the guitar). Vocal + y: plays, played."
+    },
+    {
+      "id": "run",
+      "en": "run",
+      "ipa": "/rʌn/",
+      "es": "correr; dirigir (un negocio)",
+      "clase": "verbo",
+      "orden": 40,
+      "formas": {
+        "s": "runs",
+        "pasado": "ran",
+        "participio": "run",
+        "ing": "running"
+      },
+      "irregular": true,
+      "comp": [
+        "five kilometers",
+        "the meeting"
+      ],
+      "ejemplo": "I run five kilometers every morning.",
+      "hueco": {
+        "frase": "She has ___ the agency for ten years. (run)",
+        "respuestas": [
+          "run"
+        ]
+      },
+      "nota": "run → ran → run; running con doble n. run a business / a meeting = dirigir; run out of = quedarse sin."
+    },
+    {
+      "id": "move",
+      "en": "move",
+      "ipa": "/muv/",
+      "es": "mover; mudarse",
+      "clase": "verbo",
+      "orden": 41,
+      "formas": {
+        "s": "moves",
+        "pasado": "moved",
+        "participio": "moved",
+        "ing": "moving"
+      },
+      "irregular": false,
+      "comp": [
+        "the meeting to Friday",
+        "to a new apartment"
+      ],
+      "ejemplo": "We moved the meeting to Friday.",
+      "hueco": {
+        "frase": "They ___ to a new apartment last year. (move)",
+        "respuestas": [
+          "moved"
+        ]
+      },
+      "nota": "move to = mudarse a; move a meeting = correrla de fecha. Termina en e: moved, moving."
+    },
+    {
+      "id": "like",
+      "en": "like",
+      "ipa": "/laɪk/",
+      "es": "gustar",
+      "clase": "verbo",
+      "orden": 42,
+      "formas": {
+        "s": "likes",
+        "pasado": "liked",
+        "participio": "liked",
+        "ing": "liking"
+      },
+      "irregular": false,
+      "ejemplo": "I like coffee, but my wife likes tea.",
+      "hueco": {
+        "frase": "The client didn't ___ the first version. (like)",
+        "respuestas": [
+          "like"
+        ]
+      },
+      "nota": "I like it: el sujeto es la persona, no la cosa (nunca «it likes me»). like + -ing o + to."
+    },
+    {
+      "id": "live",
+      "en": "live",
+      "ipa": "/lɪv/",
+      "es": "vivir",
+      "clase": "verbo",
+      "orden": 43,
+      "formas": {
+        "s": "lives",
+        "pasado": "lived",
+        "participio": "lived",
+        "ing": "living"
+      },
+      "irregular": false,
+      "comp": [
+        "in Bogotá",
+        "with my family"
+      ],
+      "ejemplo": "I live in Bogotá with my family.",
+      "hueco": {
+        "frase": "We have ___ in this apartment since 2019. (live)",
+        "respuestas": [
+          "lived"
+        ]
+      },
+      "nota": "live in + ciudad o país, live on + calle, live with someone. Termina en e: lived, living."
+    },
+    {
+      "id": "believe",
+      "en": "believe",
+      "ipa": "/bɪˈliv/",
+      "es": "creer",
+      "clase": "verbo",
+      "orden": 44,
+      "formas": {
+        "s": "believes",
+        "pasado": "believed",
+        "participio": "believed",
+        "ing": "believing"
+      },
+      "irregular": false,
+      "ejemplo": "I believe this campaign will win an award.",
+      "hueco": {
+        "frase": "Nobody ___ him when he said the client approved the idea. (believe)",
+        "respuestas": [
+          "believed"
+        ]
+      },
+      "nota": "believe = creer que algo es verdad; believe in = creer en. Se escribe ie: believe."
+    },
+    {
+      "id": "bring",
+      "en": "bring",
+      "ipa": "/brɪŋ/",
+      "es": "traer",
+      "clase": "verbo",
+      "orden": 45,
+      "formas": {
+        "s": "brings",
+        "pasado": "brought",
+        "participio": "brought",
+        "ing": "bringing"
+      },
+      "irregular": true,
+      "comp": [
+        "coffee for everybody",
+        "my laptop"
+      ],
+      "ejemplo": "Can you bring your laptop to the meeting?",
+      "hueco": {
+        "frase": "Andrés ___ coffee for everybody this morning. (bring)",
+        "respuestas": [
+          "brought"
+        ]
+      },
+      "nota": "bring = traer (hacia aquí); take = llevar (hacia allá). brought suena /brɔt/: no lo confundas con bought (buy)."
+    },
+    {
+      "id": "happen",
+      "en": "happen",
+      "ipa": "/ˈhæpən/",
+      "es": "pasar, suceder",
+      "clase": "verbo",
+      "orden": 46,
+      "formas": {
+        "s": "happens",
+        "pasado": "happened",
+        "participio": "happened",
+        "ing": "happening"
+      },
+      "irregular": false,
+      "ejemplo": "What happened at the meeting?",
+      "hueco": {
+        "frase": "What ___ at the meeting yesterday? (happen)",
+        "respuestas": [
+          "happened"
+        ]
+      },
+      "nota": "What happened? sin did (nunca «What did happen?»). El sujeto suele ser una cosa: it happens."
+    },
+    {
+      "id": "write",
+      "en": "write",
+      "ipa": "/raɪt/",
+      "es": "escribir",
+      "clase": "verbo",
+      "orden": 47,
+      "formas": {
+        "s": "writes",
+        "pasado": "wrote",
+        "participio": "written",
+        "ing": "writing"
+      },
+      "irregular": true,
+      "comp": [
+        "an email",
+        "the copy for the ad"
+      ],
+      "ejemplo": "I wrote the copy for the new ad.",
+      "hueco": {
+        "frase": "Have you ___ the email to the client? (write)",
+        "respuestas": [
+          "written"
+        ]
+      },
+      "nota": "write → wrote → written (doble t); writing con una t. write to someone, write down."
+    },
+    {
+      "id": "sit",
+      "en": "sit",
+      "ipa": "/sɪt/",
+      "es": "sentarse",
+      "clase": "verbo",
+      "orden": 48,
+      "formas": {
+        "s": "sits",
+        "pasado": "sat",
+        "participio": "sat",
+        "ing": "sitting"
+      },
+      "irregular": true,
+      "comp": [
+        "next to the window",
+        "at the back"
+      ],
+      "ejemplo": "I usually sit next to the window.",
+      "hueco": {
+        "frase": "She was ___ at her desk when I arrived. (sit)",
+        "respuestas": [
+          "sitting"
+        ]
+      },
+      "nota": "sit down (sentarse), sit next to; sitting con doble t."
+    },
+    {
+      "id": "stand",
+      "en": "stand",
+      "ipa": "/stænd/",
+      "es": "estar de pie, pararse; aguantar",
+      "clase": "verbo",
+      "orden": 49,
+      "formas": {
+        "s": "stands",
+        "pasado": "stood",
+        "participio": "stood",
+        "ing": "standing"
+      },
+      "irregular": true,
+      "comp": [
+        "in line",
+        "near the door"
+      ],
+      "ejemplo": "We stood in line for an hour at the airport.",
+      "hueco": {
+        "frase": "Last Sunday we ___ in line for an hour at the airport. (stand)",
+        "respuestas": [
+          "stood"
+        ]
+      },
+      "nota": "stand up (pararse), stand in line (hacer fila); can't stand = no soportar."
+    },
+    {
+      "id": "lose",
+      "en": "lose",
+      "ipa": "/luz/",
+      "es": "perder",
+      "clase": "verbo",
+      "orden": 50,
+      "formas": {
+        "s": "loses",
+        "pasado": "lost",
+        "participio": "lost",
+        "ing": "losing"
+      },
+      "irregular": true,
+      "comp": [
+        "my keys",
+        "the account"
+      ],
+      "ejemplo": "We lost the account to another agency.",
+      "hueco": {
+        "frase": "I have ___ my keys again! (lose)",
+        "respuestas": [
+          "lost"
+        ]
+      },
+      "nota": "lose (perder) ≠ loose (suelto). lose weight, lose a client. Perder el bus o el vuelo = miss."
+    },
+    {
+      "id": "pay",
+      "en": "pay",
+      "ipa": "/peɪ/",
+      "es": "pagar",
+      "clase": "verbo",
+      "orden": 51,
+      "formas": {
+        "s": "pays",
+        "pasado": "paid",
+        "participio": "paid",
+        "ing": "paying"
+      },
+      "irregular": true,
+      "comp": [
+        "the bill",
+        "for dinner"
+      ],
+      "ejemplo": "I paid for dinner with my card.",
+      "hueco": {
+        "frase": "The client hasn't ___ the invoice yet. (pay)",
+        "respuestas": [
+          "paid"
+        ]
+      },
+      "nota": "pay for something (pagar algo), pay the bill, pay attention. paid, nunca «payed»."
+    },
+    {
+      "id": "meet",
+      "en": "meet",
+      "ipa": "/mit/",
+      "es": "conocer (por primera vez); reunirse",
+      "clase": "verbo",
+      "orden": 52,
+      "formas": {
+        "s": "meets",
+        "pasado": "met",
+        "participio": "met",
+        "ing": "meeting"
+      },
+      "irregular": true,
+      "comp": [
+        "the client",
+        "friends for lunch"
+      ],
+      "ejemplo": "I met the new client on Monday.",
+      "hueco": {
+        "frase": "We ___ the new client last Monday. (meet)",
+        "respuestas": [
+          "met"
+        ]
+      },
+      "nota": "meet = conocer a alguien por primera vez o reunirse (meet with, US). know = ya conocer. Nice to meet you."
+    },
+    {
+      "id": "include",
+      "en": "include",
+      "ipa": "/ɪnˈklud/",
+      "es": "incluir",
+      "clase": "verbo",
+      "orden": 53,
+      "formas": {
+        "s": "includes",
+        "pasado": "included",
+        "participio": "included",
+        "ing": "including"
+      },
+      "irregular": false,
+      "ejemplo": "The price includes breakfast.",
+      "hueco": {
+        "frase": "The new proposal ___ three ideas and a budget. Take a look. (include)",
+        "respuestas": [
+          "includes"
+        ]
+      },
+      "nota": "include + cosa; including = incluyendo. Is breakfast included?"
+    },
+    {
+      "id": "continue",
+      "en": "continue",
+      "ipa": "/kənˈtɪnju/",
+      "es": "continuar",
+      "clase": "verbo",
+      "orden": 54,
+      "formas": {
+        "s": "continues",
+        "pasado": "continued",
+        "participio": "continued",
+        "ing": "continuing"
+      },
+      "irregular": false,
+      "comp": [
+        "the meeting",
+        "the project"
+      ],
+      "ejemplo": "Let's continue the meeting after lunch.",
+      "hueco": {
+        "frase": "We ___ the meeting after lunch yesterday. (continue)",
+        "respuestas": [
+          "continued"
+        ]
+      },
+      "nota": "continue + -ing o + to; continue with something. Termina en e: continued, continuing."
+    },
+    {
+      "id": "set",
+      "en": "set",
+      "ipa": "/sɛt/",
+      "es": "poner, fijar",
+      "clase": "verbo",
+      "orden": 55,
+      "formas": {
+        "s": "sets",
+        "pasado": "set",
+        "participio": "set",
+        "ing": "setting"
+      },
+      "irregular": true,
+      "comp": [
+        "the alarm",
+        "a deadline"
+      ],
+      "ejemplo": "Let's set a deadline for the first draft.",
+      "hueco": {
+        "frase": "Every night she ___ the alarm for 5 and puts her phone away. (set)",
+        "respuestas": [
+          "sets"
+        ]
+      },
+      "nota": "set → set → set; setting con doble t. set a deadline, set the table, set up (organizar)."
+    },
+    {
+      "id": "learn",
+      "en": "learn",
+      "ipa": "/lɝn/",
+      "es": "aprender",
+      "clase": "verbo",
+      "orden": 56,
+      "formas": {
+        "s": "learns",
+        "pasado": "learned",
+        "participio": "learned",
+        "ing": "learning"
+      },
+      "irregular": false,
+      "comp": [
+        "English",
+        "a lot from the team"
+      ],
+      "ejemplo": "I'm learning English for my job.",
+      "hueco": {
+        "frase": "I ___ a lot from my first boss. (learn)",
+        "respuestas": [
+          "learned",
+          "learnt"
+        ]
+      },
+      "nota": "learn = aprender; teach = enseñar (nunca «learn me»). US: learned; UK: learnt."
+    },
+    {
+      "id": "change",
+      "en": "change",
+      "ipa": "/tʃeɪndʒ/",
+      "es": "cambiar",
+      "clase": "verbo",
+      "orden": 57,
+      "formas": {
+        "s": "changes",
+        "pasado": "changed",
+        "participio": "changed",
+        "ing": "changing"
+      },
+      "irregular": false,
+      "comp": [
+        "the logo",
+        "my password"
+      ],
+      "ejemplo": "The client changed the logo again.",
+      "hueco": {
+        "frase": "The client has ___ the logo three times. (change)",
+        "respuestas": [
+          "changed"
+        ]
+      },
+      "nota": "change + cosa; change your mind (cambiar de opinión). changes suena /ɪz/. Termina en e: changing."
+    },
+    {
+      "id": "lead",
+      "en": "lead",
+      "ipa": "/lid/",
+      "es": "dirigir, liderar",
+      "clase": "verbo",
+      "orden": 58,
+      "formas": {
+        "s": "leads",
+        "pasado": "led",
+        "participio": "led",
+        "ing": "leading"
+      },
+      "irregular": true,
+      "comp": [
+        "the team",
+        "the meeting"
+      ],
+      "ejemplo": "I lead a team of eight people.",
+      "hueco": {
+        "frase": "Camila ___ the meeting because the director was sick. (lead)",
+        "respuestas": [
+          "led"
+        ]
+      },
+      "nota": "lead → led → led (/lɛd/). lead a team, lead a project; leader = líder."
+    },
+    {
+      "id": "understand",
+      "en": "understand",
+      "ipa": "/ˌʌndɚˈstænd/",
+      "es": "entender",
+      "clase": "verbo",
+      "orden": 59,
+      "formas": {
+        "s": "understands",
+        "pasado": "understood",
+        "participio": "understood",
+        "ing": "understanding"
+      },
+      "irregular": true,
+      "ejemplo": "I don't understand the brief.",
+      "hueco": {
+        "frase": "Sorry, I didn't ___ the question. (understand)",
+        "respuestas": [
+          "understand"
+        ]
+      },
+      "nota": "Verbo de estado: I don't understand, no «I'm not understanding». understand → understood, como stand → stood."
+    },
+    {
+      "id": "watch",
+      "en": "watch",
+      "ipa": "/wɑtʃ/",
+      "es": "mirar, ver (algo que se mueve)",
+      "clase": "verbo",
+      "orden": 60,
+      "formas": {
+        "s": "watches",
+        "pasado": "watched",
+        "participio": "watched",
+        "ing": "watching"
+      },
+      "irregular": false,
+      "comp": [
+        "TV",
+        "a movie"
+      ],
+      "ejemplo": "We watched a movie on Saturday night.",
+      "hueco": {
+        "frase": "He ___ the news every night at 9. (watch)",
+        "respuestas": [
+          "watches"
+        ]
+      },
+      "nota": "watch TV, watch a game. -ch → -es: watches (suena /ɪz/)."
+    },
+    {
+      "id": "follow",
+      "en": "follow",
+      "ipa": "/ˈfɑloʊ/",
+      "es": "seguir",
+      "clase": "verbo",
+      "orden": 61,
+      "formas": {
+        "s": "follows",
+        "pasado": "followed",
+        "participio": "followed",
+        "ing": "following"
+      },
+      "irregular": false,
+      "comp": [
+        "the brief",
+        "the instructions"
+      ],
+      "ejemplo": "Follow the instructions in the email.",
+      "hueco": {
+        "frase": "Did you ___ the client's brief? (follow)",
+        "respuestas": [
+          "follow"
+        ]
+      },
+      "nota": "follow someone on social media, follow up (hacer seguimiento), as follows (a continuación)."
+    },
+    {
+      "id": "stop",
+      "en": "stop",
+      "ipa": "/stɑp/",
+      "es": "parar, dejar de",
+      "clase": "verbo",
+      "orden": 62,
+      "formas": {
+        "s": "stops",
+        "pasado": "stopped",
+        "participio": "stopped",
+        "ing": "stopping"
+      },
+      "irregular": false,
+      "comp": [
+        "the car",
+        "the video"
+      ],
+      "ejemplo": "I stopped drinking soda last year.",
+      "hueco": {
+        "frase": "It ___ raining an hour ago. (stop)",
+        "respuestas": [
+          "stopped"
+        ]
+      },
+      "nota": "stop + -ing = dejar de (stop smoking); stop to + verbo = parar para. Doble p: stopped, stopping."
+    },
+    {
+      "id": "create",
+      "en": "create",
+      "ipa": "/kriˈeɪt/",
+      "es": "crear",
+      "clase": "verbo",
+      "orden": 63,
+      "formas": {
+        "s": "creates",
+        "pasado": "created",
+        "participio": "created",
+        "ing": "creating"
+      },
+      "irregular": false,
+      "comp": [
+        "a new campaign",
+        "content"
+      ],
+      "ejemplo": "We created a new campaign for a bank.",
+      "hueco": {
+        "frase": "The team is ___ content for the launch. (create)",
+        "respuestas": [
+          "creating"
+        ]
+      },
+      "nota": "create content, create a campaign, create an account. La e se va con -ing: creating."
+    },
+    {
+      "id": "speak",
+      "en": "speak",
+      "ipa": "/spik/",
+      "es": "hablar (un idioma; más formal)",
+      "clase": "verbo",
+      "orden": 64,
+      "formas": {
+        "s": "speaks",
+        "pasado": "spoke",
+        "participio": "spoken",
+        "ing": "speaking"
+      },
+      "irregular": true,
+      "comp": [
+        "English",
+        "to the manager"
+      ],
+      "ejemplo": "Do you speak English?",
+      "hueco": {
+        "frase": "Have you ___ to the manager about the problem? (speak)",
+        "respuestas": [
+          "spoken"
+        ]
+      },
+      "nota": "speak + idioma (speak English, no «talk English»); speak to someone. speak → spoke → spoken."
+    },
+    {
+      "id": "read",
+      "en": "read",
+      "ipa": "/rid/",
+      "es": "leer",
+      "clase": "verbo",
+      "orden": 65,
+      "formas": {
+        "s": "reads",
+        "pasado": "read",
+        "participio": "read",
+        "ing": "reading"
+      },
+      "irregular": true,
+      "comp": [
+        "the brief",
+        "a book"
+      ],
+      "ejemplo": "I read the brief last night.",
+      "hueco": {
+        "frase": "She ___ a book every month. (read)",
+        "respuestas": [
+          "reads"
+        ]
+      },
+      "nota": "Se escribe igual en base, pasado y participio, pero el pasado y el participio suenan /rɛd/."
+    },
+    {
+      "id": "allow",
+      "en": "allow",
+      "ipa": "/əˈlaʊ/",
+      "es": "permitir",
+      "clase": "verbo",
+      "orden": 66,
+      "formas": {
+        "s": "allows",
+        "pasado": "allowed",
+        "participio": "allowed",
+        "ing": "allowing"
+      },
+      "irregular": false,
+      "comp": [
+        "pets",
+        "two rounds of changes"
+      ],
+      "ejemplo": "The hotel allows pets.",
+      "hueco": {
+        "frase": "Our contract ___ two rounds of changes, not five. (allow)",
+        "respuestas": [
+          "allows"
+        ]
+      },
+      "nota": "allow someone to do something; be allowed to = tener permiso. Suena /əˈlaʊ/, como how."
+    },
+    {
+      "id": "add",
+      "en": "add",
+      "ipa": "/æd/",
+      "es": "agregar",
+      "clase": "verbo",
+      "orden": 67,
+      "formas": {
+        "s": "adds",
+        "pasado": "added",
+        "participio": "added",
+        "ing": "adding"
+      },
+      "irregular": false,
+      "comp": [
+        "a slide",
+        "the logo"
+      ],
+      "ejemplo": "Can you add a slide with the results?",
+      "hueco": {
+        "frase": "I ___ two slides to the presentation last night. (add)",
+        "respuestas": [
+          "added"
+        ]
+      },
+      "nota": "add something to something. Después de d o t, -ed suena /ɪd/: added."
+    },
+    {
+      "id": "spend",
+      "en": "spend",
+      "ipa": "/spɛnd/",
+      "es": "gastar (dinero); pasar (tiempo)",
+      "clase": "verbo",
+      "orden": 68,
+      "formas": {
+        "s": "spends",
+        "pasado": "spent",
+        "participio": "spent",
+        "ing": "spending"
+      },
+      "irregular": true,
+      "comp": [
+        "money",
+        "time with my family"
+      ],
+      "ejemplo": "I spend a lot of time in meetings.",
+      "hueco": {
+        "frase": "We ___ a week in Cartagena last December. (spend)",
+        "respuestas": [
+          "spent"
+        ]
+      },
+      "nota": "spend money on something; spend time + -ing (I spent two hours fixing it). Pasar tiempo = spend, no «pass»."
+    },
+    {
+      "id": "grow",
+      "en": "grow",
+      "ipa": "/ɡroʊ/",
+      "es": "crecer; cultivar",
+      "clase": "verbo",
+      "orden": 69,
+      "formas": {
+        "s": "grows",
+        "pasado": "grew",
+        "participio": "grown",
+        "ing": "growing"
+      },
+      "irregular": true,
+      "comp": [
+        "fast",
+        "vegetables"
+      ],
+      "ejemplo": "Our team grew from five to twelve people.",
+      "hueco": {
+        "frase": "Sales have ___ 20% this year. (grow)",
+        "respuestas": [
+          "grown"
+        ]
+      },
+      "nota": "grow → grew → grown; grow up = criarse (I grew up in Medellín)."
+    },
+    {
+      "id": "open",
+      "en": "open",
+      "ipa": "/ˈoʊpən/",
+      "es": "abrir",
+      "clase": "verbo",
+      "orden": 70,
+      "formas": {
+        "s": "opens",
+        "pasado": "opened",
+        "participio": "opened",
+        "ing": "opening"
+      },
+      "irregular": false,
+      "comp": [
+        "the window",
+        "a new office"
+      ],
+      "ejemplo": "Can you open the window, please?",
+      "hueco": {
+        "frase": "The store ___ at 9 every day. (open)",
+        "respuestas": [
+          "opens"
+        ]
+      },
+      "nota": "open es verbo y adjetivo: The store is open. opened con una sola n: el acento no cae al final."
+    },
+    {
+      "id": "walk",
+      "en": "walk",
+      "ipa": "/wɔk/",
+      "es": "caminar",
+      "clase": "verbo",
+      "orden": 71,
+      "formas": {
+        "s": "walks",
+        "pasado": "walked",
+        "participio": "walked",
+        "ing": "walking"
+      },
+      "irregular": false,
+      "comp": [
+        "to work",
+        "the dog"
+      ],
+      "ejemplo": "I walk the dog every morning.",
+      "hueco": {
+        "frase": "We ___ to the restaurant because it was close. (walk)",
+        "respuestas": [
+          "walked"
+        ]
+      },
+      "nota": "walk to (caminar a), walk the dog (sacar al perro), go for a walk. La l no suena."
+    },
+    {
+      "id": "win",
+      "en": "win",
+      "ipa": "/wɪn/",
+      "es": "ganar",
+      "clase": "verbo",
+      "orden": 72,
+      "formas": {
+        "s": "wins",
+        "pasado": "won",
+        "participio": "won",
+        "ing": "winning"
+      },
+      "irregular": true,
+      "comp": [
+        "the pitch",
+        "an award"
+      ],
+      "ejemplo": "We won the pitch for a new account.",
+      "hueco": {
+        "frase": "Our agency has ___ two awards this year. (win)",
+        "respuestas": [
+          "won"
+        ]
+      },
+      "nota": "win a game, a prize, a pitch; earn = ganar dinero; beat = ganarle a alguien. won suena /wʌn/; winning con doble n."
+    },
+    {
+      "id": "offer",
+      "en": "offer",
+      "ipa": "/ˈɔfɚ/",
+      "es": "ofrecer",
+      "clase": "verbo",
+      "orden": 73,
+      "formas": {
+        "s": "offers",
+        "pasado": "offered",
+        "participio": "offered",
+        "ing": "offering"
+      },
+      "irregular": false,
+      "comp": [
+        "a discount",
+        "help"
+      ],
+      "ejemplo": "They offered me a job in Medellín.",
+      "hueco": {
+        "frase": "The hotel is ___ a discount for groups. (offer)",
+        "respuestas": [
+          "offering"
+        ]
+      },
+      "nota": "offer someone something; offer to do something. Acento en la primera sílaba: offered, sin doble r."
+    },
+    {
+      "id": "remember",
+      "en": "remember",
+      "ipa": "/rɪˈmɛmbɚ/",
+      "es": "recordar, acordarse",
+      "clase": "verbo",
+      "orden": 74,
+      "formas": {
+        "s": "remembers",
+        "pasado": "remembered",
+        "participio": "remembered",
+        "ing": "remembering"
+      },
+      "irregular": false,
+      "ejemplo": "Do you remember the client's name?",
+      "hueco": {
+        "frase": "I didn't ___ to send the invoice. (remember)",
+        "respuestas": [
+          "remember"
+        ]
+      },
+      "nota": "remember + to = no olvidar hacer algo; remember + -ing = recordar algo que pasó. Sin reflexivo: nunca «I remember me»."
+    },
+    {
+      "id": "love",
+      "en": "love",
+      "ipa": "/lʌv/",
+      "es": "amar, encantar",
+      "clase": "verbo",
+      "orden": 75,
+      "formas": {
+        "s": "loves",
+        "pasado": "loved",
+        "participio": "loved",
+        "ing": "loving"
+      },
+      "irregular": false,
+      "ejemplo": "I love Colombian coffee.",
+      "hueco": {
+        "frase": "My kids ___ the beach. (love)",
+        "respuestas": [
+          "love"
+        ]
+      },
+      "nota": "love + -ing o + to (I love cooking); I'd love to = me encantaría."
+    },
+    {
+      "id": "consider",
+      "en": "consider",
+      "ipa": "/kənˈsɪdɚ/",
+      "es": "considerar",
+      "clase": "verbo",
+      "orden": 76,
+      "formas": {
+        "s": "considers",
+        "pasado": "considered",
+        "participio": "considered",
+        "ing": "considering"
+      },
+      "irregular": false,
+      "comp": [
+        "the offer",
+        "other options"
+      ],
+      "ejemplo": "We're considering other options for the event.",
+      "hueco": {
+        "frase": "Have you ___ the client's offer? (consider)",
+        "respuestas": [
+          "considered"
+        ]
+      },
+      "nota": "consider + -ing (consider moving), nunca «consider to move»."
+    },
+    {
+      "id": "buy",
+      "en": "buy",
+      "ipa": "/baɪ/",
+      "es": "comprar",
+      "clase": "verbo",
+      "orden": 77,
+      "formas": {
+        "s": "buys",
+        "pasado": "bought",
+        "participio": "bought",
+        "ing": "buying"
+      },
+      "irregular": true,
+      "comp": [
+        "groceries",
+        "a new phone"
+      ],
+      "ejemplo": "I bought a new phone last week.",
+      "hueco": {
+        "frase": "I ___ a new phone last week. (buy)",
+        "respuestas": [
+          "bought"
+        ]
+      },
+      "nota": "buy → bought (/bɔt/); buy something for someone. No confundir bought (buy) con brought (bring)."
+    },
+    {
+      "id": "wait",
+      "en": "wait",
+      "ipa": "/weɪt/",
+      "es": "esperar (a alguien o algo)",
+      "clase": "verbo",
+      "orden": 78,
+      "formas": {
+        "s": "waits",
+        "pasado": "waited",
+        "participio": "waited",
+        "ing": "waiting"
+      },
+      "irregular": false,
+      "comp": [
+        "for the bus",
+        "for the client's answer"
+      ],
+      "ejemplo": "We waited for the client for thirty minutes.",
+      "hueco": {
+        "frase": "I'm ___ for the bus. (wait)",
+        "respuestas": [
+          "waiting"
+        ]
+      },
+      "nota": "wait for someone / something (nunca «wait the bus»). hope = esperar que (deseo); expect = esperar (prever)."
+    },
+    {
+      "id": "send",
+      "en": "send",
+      "ipa": "/sɛnd/",
+      "es": "enviar",
+      "clase": "verbo",
+      "orden": 79,
+      "formas": {
+        "s": "sends",
+        "pasado": "sent",
+        "participio": "sent",
+        "ing": "sending"
+      },
+      "irregular": true,
+      "comp": [
+        "the report",
+        "an email to the team"
+      ],
+      "ejemplo": "I sent the report on Friday.",
+      "hueco": {
+        "frase": "Have you ___ the report to the client? (send)",
+        "respuestas": [
+          "sent"
+        ]
+      },
+      "nota": "send something to someone o send someone something; send back = devolver."
+    },
+    {
+      "id": "expect",
+      "en": "expect",
+      "ipa": "/ɪkˈspɛkt/",
+      "es": "esperar (prever)",
+      "clase": "verbo",
+      "orden": 80,
+      "formas": {
+        "s": "expects",
+        "pasado": "expected",
+        "participio": "expected",
+        "ing": "expecting"
+      },
+      "irregular": false,
+      "comp": [
+        "a call",
+        "good results"
+      ],
+      "ejemplo": "We expect good results from the campaign.",
+      "hueco": {
+        "frase": "I'm ___ a call from the client. (expect)",
+        "respuestas": [
+          "expecting"
+        ]
+      },
+      "nota": "expect = esperar que algo pase; expect someone to do something. No es wait (esperar a) ni hope (ojalá)."
+    },
+    {
+      "id": "build",
+      "en": "build",
+      "ipa": "/bɪld/",
+      "es": "construir",
+      "clase": "verbo",
+      "orden": 81,
+      "formas": {
+        "s": "builds",
+        "pasado": "built",
+        "participio": "built",
+        "ing": "building"
+      },
+      "irregular": true,
+      "comp": [
+        "a website",
+        "a strong team"
+      ],
+      "ejemplo": "We built a new website for the client.",
+      "hueco": {
+        "frase": "They are ___ a new mall near my house. (build)",
+        "respuestas": [
+          "building"
+        ]
+      },
+      "nota": "build → built → built; build a brand, build a relationship."
+    },
+    {
+      "id": "stay",
+      "en": "stay",
+      "ipa": "/steɪ/",
+      "es": "quedarse, alojarse",
+      "clase": "verbo",
+      "orden": 82,
+      "formas": {
+        "s": "stays",
+        "pasado": "stayed",
+        "participio": "stayed",
+        "ing": "staying"
+      },
+      "irregular": false,
+      "comp": [
+        "at home",
+        "at a hotel"
+      ],
+      "ejemplo": "We stayed at a small hotel in Barichara.",
+      "hueco": {
+        "frase": "I ___ at home last weekend because it rained. (stay)",
+        "respuestas": [
+          "stayed"
+        ]
+      },
+      "nota": "stay at a hotel, stay home, stay in touch. Vocal + y: stays, stayed."
+    },
+    {
+      "id": "fall",
+      "en": "fall",
+      "ipa": "/fɔl/",
+      "es": "caer(se)",
+      "clase": "verbo",
+      "orden": 83,
+      "formas": {
+        "s": "falls",
+        "pasado": "fell",
+        "participio": "fallen",
+        "ing": "falling"
+      },
+      "irregular": true,
+      "comp": [
+        "asleep",
+        "off the bike"
+      ],
+      "ejemplo": "I fell asleep on the sofa.",
+      "hueco": {
+        "frase": "Sales have ___ 10% since March. (fall)",
+        "respuestas": [
+          "fallen"
+        ]
+      },
+      "nota": "fall → fell → fallen; fall asleep (quedarse dormido), fall in love, fall down."
+    },
+    {
+      "id": "cut",
+      "en": "cut",
+      "ipa": "/kʌt/",
+      "es": "cortar; recortar",
+      "clase": "verbo",
+      "orden": 84,
+      "formas": {
+        "s": "cuts",
+        "pasado": "cut",
+        "participio": "cut",
+        "ing": "cutting"
+      },
+      "irregular": true,
+      "comp": [
+        "the budget",
+        "the video"
+      ],
+      "ejemplo": "They cut the budget in half.",
+      "hueco": {
+        "frase": "The editor is ___ the video to 30 seconds. (cut)",
+        "respuestas": [
+          "cutting"
+        ]
+      },
+      "nota": "cut → cut → cut; cutting con doble t. cut costs, cut the budget, get a haircut."
+    },
+    {
+      "id": "decide",
+      "en": "decide",
+      "ipa": "/dɪˈsaɪd/",
+      "es": "decidir",
+      "clase": "verbo",
+      "orden": 85,
+      "formas": {
+        "s": "decides",
+        "pasado": "decided",
+        "participio": "decided",
+        "ing": "deciding"
+      },
+      "irregular": false,
+      "comp": [
+        "on the new name"
+      ],
+      "ejemplo": "We decided to change the slogan.",
+      "hueco": {
+        "frase": "Have you ___ where to go on vacation? (decide)",
+        "respuestas": [
+          "decided"
+        ]
+      },
+      "nota": "decide + to (decide to go), decide on something; make a decision = tomar una decisión."
+    },
+    {
+      "id": "explain",
+      "en": "explain",
+      "ipa": "/ɪkˈspleɪn/",
+      "es": "explicar",
+      "clase": "verbo",
+      "orden": 86,
+      "formas": {
+        "s": "explains",
+        "pasado": "explained",
+        "participio": "explained",
+        "ing": "explaining"
+      },
+      "irregular": false,
+      "comp": [
+        "the idea",
+        "the process to the client"
+      ],
+      "ejemplo": "Can you explain the idea to the client?",
+      "hueco": {
+        "frase": "Laura ___ the process to the new intern yesterday. (explain)",
+        "respuestas": [
+          "explained"
+        ]
+      },
+      "nota": "explain something to someone; nunca «explain me»: explain it to me."
+    },
+    {
+      "id": "carry",
+      "en": "carry",
+      "ipa": "/ˈkæri/",
+      "es": "cargar, llevar",
+      "clase": "verbo",
+      "orden": 87,
+      "formas": {
+        "s": "carries",
+        "pasado": "carried",
+        "participio": "carried",
+        "ing": "carrying"
+      },
+      "irregular": false,
+      "comp": [
+        "the bags",
+        "my laptop"
+      ],
+      "ejemplo": "I always carry my laptop in my backpack.",
+      "hueco": {
+        "frase": "He's ___ two heavy bags. (carry)",
+        "respuestas": [
+          "carrying"
+        ]
+      },
+      "nota": "Consonante + y: carries, carried; pero carrying. carry = llevar encima, cargar."
+    },
+    {
+      "id": "break",
+      "en": "break",
+      "ipa": "/breɪk/",
+      "es": "romper(se)",
+      "clase": "verbo",
+      "orden": 88,
+      "formas": {
+        "s": "breaks",
+        "pasado": "broke",
+        "participio": "broken",
+        "ing": "breaking"
+      },
+      "irregular": true,
+      "comp": [
+        "my phone",
+        "the rules"
+      ],
+      "ejemplo": "I broke my phone at the gym.",
+      "hueco": {
+        "frase": "Who has ___ the printer? (break)",
+        "respuestas": [
+          "broken"
+        ]
+      },
+      "nota": "break → broke → broken; take a break (descanso), break up (terminar), break the news."
+    },
+    {
+      "id": "receive",
+      "en": "receive",
+      "ipa": "/rɪˈsiv/",
+      "es": "recibir",
+      "clase": "verbo",
+      "orden": 89,
+      "formas": {
+        "s": "receives",
+        "pasado": "received",
+        "participio": "received",
+        "ing": "receiving"
+      },
+      "irregular": false,
+      "comp": [
+        "an email",
+        "feedback"
+      ],
+      "ejemplo": "We received the feedback this morning.",
+      "hueco": {
+        "frase": "Did you ___ my email? (receive)",
+        "respuestas": [
+          "receive"
+        ]
+      },
+      "nota": "receive (formal) = get (informal). Después de c, ei: receive."
+    },
+    {
+      "id": "agree",
+      "en": "agree",
+      "ipa": "/əˈɡri/",
+      "es": "estar de acuerdo",
+      "clase": "verbo",
+      "orden": 90,
+      "formas": {
+        "s": "agrees",
+        "pasado": "agreed",
+        "participio": "agreed",
+        "ing": "agreeing"
+      },
+      "irregular": false,
+      "ejemplo": "I agree with you.",
+      "hueco": {
+        "frase": "The client ___ with our proposal yesterday. (agree)",
+        "respuestas": [
+          "agreed"
+        ]
+      },
+      "nota": "I agree, nunca «I am agree» (agree ya es verbo). agree with someone, agree on something."
+    },
+    {
+      "id": "support",
+      "en": "support",
+      "ipa": "/səˈpɔrt/",
+      "es": "apoyar",
+      "clase": "verbo",
+      "orden": 91,
+      "formas": {
+        "s": "supports",
+        "pasado": "supported",
+        "participio": "supported",
+        "ing": "supporting"
+      },
+      "irregular": false,
+      "comp": [
+        "the team",
+        "the idea"
+      ],
+      "ejemplo": "My boss always supports the team.",
+      "hueco": {
+        "frase": "My boss always ___ the team. (support)",
+        "respuestas": [
+          "supports"
+        ]
+      },
+      "nota": "support = apoyar (no «soportar»: eso es stand o put up with). customer support."
+    },
+    {
+      "id": "plan",
+      "en": "plan",
+      "ipa": "/plæn/",
+      "es": "planear",
+      "clase": "verbo",
+      "orden": 92,
+      "formas": {
+        "s": "plans",
+        "pasado": "planned",
+        "participio": "planned",
+        "ing": "planning"
+      },
+      "irregular": false,
+      "comp": [
+        "a trip",
+        "the launch"
+      ],
+      "ejemplo": "We're planning a trip to Cartagena.",
+      "hueco": {
+        "frase": "We ___ the whole launch in two weeks. (plan)",
+        "respuestas": [
+          "planned"
+        ]
+      },
+      "nota": "Doble n: planned, planning. plan to + verbo; make plans."
+    },
+    {
+      "id": "check",
+      "en": "check",
+      "ipa": "/tʃɛk/",
+      "es": "revisar, verificar",
+      "clase": "verbo",
+      "orden": 93,
+      "formas": {
+        "s": "checks",
+        "pasado": "checked",
+        "participio": "checked",
+        "ing": "checking"
+      },
+      "irregular": false,
+      "comp": [
+        "my email",
+        "the numbers"
+      ],
+      "ejemplo": "Can you check the numbers before we send it?",
+      "hueco": {
+        "frase": "I've already ___ the numbers. (check)",
+        "respuestas": [
+          "checked"
+        ]
+      },
+      "nota": "check email, check the numbers, check in / out (hotel), double-check."
+    },
+    {
+      "id": "prepare",
+      "en": "prepare",
+      "ipa": "/prɪˈpɛr/",
+      "es": "preparar",
+      "clase": "verbo",
+      "orden": 94,
+      "formas": {
+        "s": "prepares",
+        "pasado": "prepared",
+        "participio": "prepared",
+        "ing": "preparing"
+      },
+      "irregular": false,
+      "comp": [
+        "the presentation",
+        "dinner"
+      ],
+      "ejemplo": "I'm preparing the presentation for tomorrow.",
+      "hueco": {
+        "frase": "She ___ dinner for her family last night. (prepare)",
+        "respuestas": [
+          "prepared"
+        ]
+      },
+      "nota": "prepare for something = prepararse para; get ready = alistarse."
+    },
+    {
+      "id": "finish",
+      "en": "finish",
+      "ipa": "/ˈfɪnɪʃ/",
+      "es": "terminar",
+      "clase": "verbo",
+      "orden": 95,
+      "formas": {
+        "s": "finishes",
+        "pasado": "finished",
+        "participio": "finished",
+        "ing": "finishing"
+      },
+      "irregular": false,
+      "comp": [
+        "the report",
+        "work"
+      ],
+      "ejemplo": "I finish work at 6.",
+      "hueco": {
+        "frase": "Have you ___ the report? (finish)",
+        "respuestas": [
+          "finished"
+        ]
+      },
+      "nota": "-sh → -es: finishes. finish + -ing (finish writing), nunca «finish to write»."
+    },
+    {
+      "id": "choose",
+      "en": "choose",
+      "ipa": "/tʃuz/",
+      "es": "elegir",
+      "clase": "verbo",
+      "orden": 96,
+      "formas": {
+        "s": "chooses",
+        "pasado": "chose",
+        "participio": "chosen",
+        "ing": "choosing"
+      },
+      "irregular": true,
+      "comp": [
+        "an option",
+        "the photos"
+      ],
+      "ejemplo": "The client chose the second option.",
+      "hueco": {
+        "frase": "In the end, the client ___ the second option. (choose)",
+        "respuestas": [
+          "chose"
+        ]
+      },
+      "nota": "choose → chose → chosen. choose between two things."
+    },
+    {
+      "id": "sell",
+      "en": "sell",
+      "ipa": "/sɛl/",
+      "es": "vender",
+      "clase": "verbo",
+      "orden": 97,
+      "formas": {
+        "s": "sells",
+        "pasado": "sold",
+        "participio": "sold",
+        "ing": "selling"
+      },
+      "irregular": true,
+      "comp": [
+        "cars",
+        "the idea to the client"
+      ],
+      "ejemplo": "We need to sell the idea to the client.",
+      "hueco": {
+        "frase": "They have ___ 500 units this month. (sell)",
+        "respuestas": [
+          "sold"
+        ]
+      },
+      "nota": "sell something to someone; sold out = agotado."
+    },
+    {
+      "id": "travel",
+      "en": "travel",
+      "ipa": "/ˈtrævəl/",
+      "es": "viajar",
+      "clase": "verbo",
+      "orden": 98,
+      "formas": {
+        "s": "travels",
+        "pasado": "traveled",
+        "participio": "traveled",
+        "ing": "traveling"
+      },
+      "irregular": false,
+      "comp": [
+        "to Medellín",
+        "for work"
+      ],
+      "ejemplo": "I travel to Medellín twice a month.",
+      "hueco": {
+        "frase": "Last year I ___ to Mexico for work. (travel)",
+        "respuestas": [
+          "traveled",
+          "travelled"
+        ]
+      },
+      "nota": "US: traveled, traveling (una l); UK: travelled. travel to + lugar; trip es el sustantivo."
+    },
+    {
+      "id": "share",
+      "en": "share",
+      "ipa": "/ʃɛr/",
+      "es": "compartir",
+      "clase": "verbo",
+      "orden": 99,
+      "formas": {
+        "s": "shares",
+        "pasado": "shared",
+        "participio": "shared",
+        "ing": "sharing"
+      },
+      "irregular": false,
+      "comp": [
+        "the file",
+        "an office"
+      ],
+      "ejemplo": "Can you share the file with the team?",
+      "hueco": {
+        "frase": "I'm ___ the presentation on my screen now. (share)",
+        "respuestas": [
+          "sharing"
+        ]
+      },
+      "nota": "share something with someone; share your screen."
+    },
+    {
+      "id": "improve",
+      "en": "improve",
+      "ipa": "/ɪmˈpruv/",
+      "es": "mejorar",
+      "clase": "verbo",
+      "orden": 100,
+      "formas": {
+        "s": "improves",
+        "pasado": "improved",
+        "participio": "improved",
+        "ing": "improving"
+      },
+      "irregular": false,
+      "comp": [
+        "my English",
+        "the results"
+      ],
+      "ejemplo": "I want to improve my English.",
+      "hueco": {
+        "frase": "Your English has ___ a lot! (improve)",
+        "respuestas": [
+          "improved"
+        ]
+      },
+      "nota": "improve = hacer mejor algo; get better = mejorar (sin objeto)."
+    },
+    {
+      "id": "review",
+      "en": "review",
+      "ipa": "/rɪˈvju/",
+      "es": "revisar",
+      "clase": "verbo",
+      "orden": 101,
+      "formas": {
+        "s": "reviews",
+        "pasado": "reviewed",
+        "participio": "reviewed",
+        "ing": "reviewing"
+      },
+      "irregular": false,
+      "comp": [
+        "the proposal",
+        "the contract"
+      ],
+      "ejemplo": "Let's review the proposal before the meeting.",
+      "hueco": {
+        "frase": "The director is ___ the proposal now. (review)",
+        "respuestas": [
+          "reviewing"
+        ]
+      },
+      "nota": "review = revisar a fondo; check = verificar rápido; reviews = reseñas."
+    },
+    {
+      "id": "drive",
+      "en": "drive",
+      "ipa": "/draɪv/",
+      "es": "manejar",
+      "clase": "verbo",
+      "orden": 102,
+      "formas": {
+        "s": "drives",
+        "pasado": "drove",
+        "participio": "driven",
+        "ing": "driving"
+      },
+      "irregular": true,
+      "comp": [
+        "to work",
+        "the kids to school"
+      ],
+      "ejemplo": "I drive to work when it rains.",
+      "hueco": {
+        "frase": "She has ___ to the office every day this week. (drive)",
+        "respuestas": [
+          "driven"
+        ]
+      },
+      "nota": "drive → drove → driven; driving (se va la e). drive someone to = llevar en carro."
+    },
+    {
+      "id": "eat",
+      "en": "eat",
+      "ipa": "/it/",
+      "es": "comer",
+      "clase": "verbo",
+      "orden": 103,
+      "formas": {
+        "s": "eats",
+        "pasado": "ate",
+        "participio": "eaten",
+        "ing": "eating"
+      },
+      "irregular": true,
+      "comp": [
+        "lunch",
+        "healthy food"
+      ],
+      "ejemplo": "We ate at a great restaurant in Chapinero.",
+      "hueco": {
+        "frase": "We ___ at a great restaurant last Friday. (eat)",
+        "respuestas": [
+          "ate"
+        ]
+      },
+      "nota": "eat → ate → eaten. have lunch / have dinner es más común que eat lunch."
+    },
+    {
+      "id": "drink",
+      "en": "drink",
+      "ipa": "/drɪŋk/",
+      "es": "beber, tomar",
+      "clase": "verbo",
+      "orden": 104,
+      "formas": {
+        "s": "drinks",
+        "pasado": "drank",
+        "participio": "drunk",
+        "ing": "drinking"
+      },
+      "irregular": true,
+      "comp": [
+        "coffee",
+        "water"
+      ],
+      "ejemplo": "I drink three cups of coffee a day.",
+      "hueco": {
+        "frase": "He ___ a lot of water at the gym. (drink)",
+        "respuestas": [
+          "drinks"
+        ]
+      },
+      "nota": "drink → drank → drunk. Tomar algo = have a drink."
+    },
+    {
+      "id": "sleep",
+      "en": "sleep",
+      "ipa": "/slip/",
+      "es": "dormir",
+      "clase": "verbo",
+      "orden": 105,
+      "formas": {
+        "s": "sleeps",
+        "pasado": "slept",
+        "participio": "slept",
+        "ing": "sleeping"
+      },
+      "irregular": true,
+      "comp": [
+        "eight hours",
+        "on the plane"
+      ],
+      "ejemplo": "I slept on the plane to Madrid.",
+      "hueco": {
+        "frase": "I only ___ five hours last night. (sleep)",
+        "respuestas": [
+          "slept"
+        ]
+      },
+      "nota": "sleep → slept. go to bed = acostarse; fall asleep = quedarse dormido."
+    },
+    {
+      "id": "forget",
+      "en": "forget",
+      "ipa": "/fɚˈɡɛt/",
+      "es": "olvidar",
+      "clase": "verbo",
+      "orden": 106,
+      "formas": {
+        "s": "forgets",
+        "pasado": "forgot",
+        "participio": "forgotten",
+        "ing": "forgetting"
+      },
+      "irregular": true,
+      "comp": [
+        "my keys",
+        "the password"
+      ],
+      "ejemplo": "I forgot my laptop at home.",
+      "hueco": {
+        "frase": "I have ___ my password again. (forget)",
+        "respuestas": [
+          "forgotten",
+          "forgot"
+        ]
+      },
+      "nota": "forget → forgot → forgotten; forgetting con doble t. forget + to = olvidar hacer algo. Sin reflexivo: nunca «I forgot me»."
+    },
+    {
+      "id": "teach",
+      "en": "teach",
+      "ipa": "/titʃ/",
+      "es": "enseñar",
+      "clase": "verbo",
+      "orden": 107,
+      "formas": {
+        "s": "teaches",
+        "pasado": "taught",
+        "participio": "taught",
+        "ing": "teaching"
+      },
+      "irregular": true,
+      "comp": [
+        "English",
+        "a class"
+      ],
+      "ejemplo": "My wife teaches English at a school.",
+      "hueco": {
+        "frase": "My first boss ___ me how to write a brief. (teach)",
+        "respuestas": [
+          "taught"
+        ]
+      },
+      "nota": "teach someone something / how to. teach ≠ learn. taught suena /tɔt/."
+    },
+    {
+      "id": "cook",
+      "en": "cook",
+      "ipa": "/kʊk/",
+      "es": "cocinar",
+      "clase": "verbo",
+      "orden": 108,
+      "formas": {
+        "s": "cooks",
+        "pasado": "cooked",
+        "participio": "cooked",
+        "ing": "cooking"
+      },
+      "irregular": false,
+      "comp": [
+        "dinner",
+        "pasta"
+      ],
+      "ejemplo": "I cook dinner on Sundays.",
+      "hueco": {
+        "frase": "My dad is ___ dinner right now. (cook)",
+        "respuestas": [
+          "cooking"
+        ]
+      },
+      "nota": "cook = cocinar y también cocinero; cooker = estufa. make dinner también sirve."
+    },
+    {
+      "id": "study",
+      "en": "study",
+      "ipa": "/ˈstʌdi/",
+      "es": "estudiar",
+      "clase": "verbo",
+      "orden": 109,
+      "formas": {
+        "s": "studies",
+        "pasado": "studied",
+        "participio": "studied",
+        "ing": "studying"
+      },
+      "irregular": false,
+      "comp": [
+        "English",
+        "for the exam"
+      ],
+      "ejemplo": "I study English for 20 minutes every day.",
+      "hueco": {
+        "frase": "She ___ marketing at university ten years ago. (study)",
+        "respuestas": [
+          "studied"
+        ]
+      },
+      "nota": "Consonante + y: studies, studied; pero studying (nunca «studing»)."
+    },
+    {
+      "id": "visit",
+      "en": "visit",
+      "ipa": "/ˈvɪzɪt/",
+      "es": "visitar",
+      "clase": "verbo",
+      "orden": 110,
+      "formas": {
+        "s": "visits",
+        "pasado": "visited",
+        "participio": "visited",
+        "ing": "visiting"
+      },
+      "irregular": false,
+      "comp": [
+        "my parents",
+        "the client"
+      ],
+      "ejemplo": "We visited my parents in Tunja.",
+      "hueco": {
+        "frase": "Have you ever ___ Cartagena? (visit)",
+        "respuestas": [
+          "visited"
+        ]
+      },
+      "nota": "visit + lugar o persona, sin to (nunca «visit to my parents»). Acento en la primera sílaba: visited, sin doble t."
+    },
+    {
+      "id": "answer",
+      "en": "answer",
+      "ipa": "/ˈænsɚ/",
+      "es": "responder, contestar",
+      "clase": "verbo",
+      "orden": 111,
+      "formas": {
+        "s": "answers",
+        "pasado": "answered",
+        "participio": "answered",
+        "ing": "answering"
+      },
+      "irregular": false,
+      "comp": [
+        "the phone",
+        "the client's email"
+      ],
+      "ejemplo": "Can you answer the phone, please?",
+      "hueco": {
+        "frase": "She hasn't ___ my email yet. (answer)",
+        "respuestas": [
+          "answered"
+        ]
+      },
+      "nota": "answer + cosa, sin to: answer the email, answer the question. reply to + cosa. La w no suena."
+    },
+    {
+      "id": "invite",
+      "en": "invite",
+      "ipa": "/ɪnˈvaɪt/",
+      "es": "invitar",
+      "clase": "verbo",
+      "orden": 112,
+      "formas": {
+        "s": "invites",
+        "pasado": "invited",
+        "participio": "invited",
+        "ing": "inviting"
+      },
+      "irregular": false,
+      "comp": [
+        "the team",
+        "friends to dinner"
+      ],
+      "ejemplo": "We invited the team to dinner.",
+      "hueco": {
+        "frase": "Sarah ___ us to her wedding last month. (invite)",
+        "respuestas": [
+          "invited"
+        ]
+      },
+      "nota": "invite someone to something. invite = invitar a ir, no pagar; pagar la cuenta = It's on me."
+    },
+    {
+      "id": "fix",
+      "en": "fix",
+      "ipa": "/fɪks/",
+      "es": "arreglar",
+      "clase": "verbo",
+      "orden": 113,
+      "formas": {
+        "s": "fixes",
+        "pasado": "fixed",
+        "participio": "fixed",
+        "ing": "fixing"
+      },
+      "irregular": false,
+      "comp": [
+        "the printer",
+        "the problem"
+      ],
+      "ejemplo": "The IT guy fixed my laptop.",
+      "hueco": {
+        "frase": "The IT guy is ___ my laptop. (fix)",
+        "respuestas": [
+          "fixing"
+        ]
+      },
+      "nota": "-x → -es: fixes. La x nunca se duplica: fixed, fixing. fix a problem, fix a bug."
+    },
+    {
+      "id": "close",
+      "en": "close",
+      "ipa": "/kloʊz/",
+      "es": "cerrar",
+      "clase": "verbo",
+      "orden": 114,
+      "formas": {
+        "s": "closes",
+        "pasado": "closed",
+        "participio": "closed",
+        "ing": "closing"
+      },
+      "irregular": false,
+      "comp": [
+        "the door",
+        "the deal"
+      ],
+      "ejemplo": "We closed the deal with the new client.",
+      "hueco": {
+        "frase": "The bank ___ at 4 on Saturdays. (close)",
+        "respuestas": [
+          "closes"
+        ]
+      },
+      "nota": "close the door, close a deal; closed = cerrado. El verbo suena /kloʊz/; close (cerca) suena /kloʊs/."
+    },
+    {
+      "id": "hope",
+      "en": "hope",
+      "ipa": "/hoʊp/",
+      "es": "esperar (desear), ojalá",
+      "clase": "verbo",
+      "orden": 115,
+      "formas": {
+        "s": "hopes",
+        "pasado": "hoped",
+        "participio": "hoped",
+        "ing": "hoping"
+      },
+      "irregular": false,
+      "ejemplo": "I hope the client likes the idea.",
+      "hueco": {
+        "frase": "I was ___ to finish early, but the meeting ran late. (hope)",
+        "respuestas": [
+          "hoping"
+        ]
+      },
+      "nota": "hope + presente o will (I hope you're well); I hope so / I hope not. hope ≠ wait."
+    },
+    {
+      "id": "deliver",
+      "en": "deliver",
+      "ipa": "/dɪˈlɪvɚ/",
+      "es": "entregar",
+      "clase": "verbo",
+      "orden": 116,
+      "formas": {
+        "s": "delivers",
+        "pasado": "delivered",
+        "participio": "delivered",
+        "ing": "delivering"
+      },
+      "irregular": false,
+      "comp": [
+        "the final files",
+        "results"
+      ],
+      "ejemplo": "We delivered the final files on time.",
+      "hueco": {
+        "frase": "We ___ the final files on time yesterday. (deliver)",
+        "respuestas": [
+          "delivered"
+        ]
+      },
+      "nota": "deliver a project, deliver results; delivery = domicilio, entrega."
+    },
+    {
+      "id": "apply",
+      "en": "apply",
+      "ipa": "/əˈplaɪ/",
+      "es": "postularse, solicitar; aplicar",
+      "clase": "verbo",
+      "orden": 117,
+      "formas": {
+        "s": "applies",
+        "pasado": "applied",
+        "participio": "applied",
+        "ing": "applying"
+      },
+      "irregular": false,
+      "comp": [
+        "for a job",
+        "for a visa"
+      ],
+      "ejemplo": "I applied for a visa last month.",
+      "hueco": {
+        "frase": "She is ___ for a new job. (apply)",
+        "respuestas": [
+          "applying"
+        ]
+      },
+      "nota": "apply for (un trabajo, una visa), apply to (una empresa o universidad). Consonante + y: applies, applied."
+    },
+    {
+      "id": "hire",
+      "en": "hire",
+      "ipa": "/haɪɚ/",
+      "es": "contratar",
+      "clase": "verbo",
+      "orden": 118,
+      "formas": {
+        "s": "hires",
+        "pasado": "hired",
+        "participio": "hired",
+        "ing": "hiring"
+      },
+      "irregular": false,
+      "comp": [
+        "a new designer",
+        "a freelancer"
+      ],
+      "ejemplo": "We hired a new designer.",
+      "hueco": {
+        "frase": "We have ___ two new designers this year. (hire)",
+        "respuestas": [
+          "hired"
+        ]
+      },
+      "nota": "hire = contratar a una persona; rent = alquilar. Termina en e: hired, hiring."
+    },
+    {
+      "id": "wake",
+      "en": "wake",
+      "ipa": "/weɪk/",
+      "es": "despertar(se)",
+      "clase": "verbo",
+      "orden": 119,
+      "formas": {
+        "s": "wakes",
+        "pasado": "woke",
+        "participio": "woken",
+        "ing": "waking"
+      },
+      "irregular": true,
+      "comp": [
+        "up early",
+        "the kids"
+      ],
+      "ejemplo": "I wake up at 5:30 on weekdays.",
+      "hueco": {
+        "frase": "The baby ___ us up at 3 a.m. last night. (wake)",
+        "respuestas": [
+          "woke"
+        ]
+      },
+      "nota": "Casi siempre wake up. wake → woke → woken. Sin reflexivo: I wake up, nunca «I wake me up»."
+    },
+    {
+      "id": "listen",
+      "en": "listen",
+      "ipa": "/ˈlɪsən/",
+      "es": "escuchar",
+      "clase": "verbo",
+      "orden": 120,
+      "formas": {
+        "s": "listens",
+        "pasado": "listened",
+        "participio": "listened",
+        "ing": "listening"
+      },
+      "irregular": false,
+      "comp": [
+        "to music",
+        "to the client"
+      ],
+      "ejemplo": "I listen to podcasts on my way to work.",
+      "hueco": {
+        "frase": "Were you ___ to me? (listen)",
+        "respuestas": [
+          "listening"
+        ]
+      },
+      "nota": "listen to something / someone (siempre con to). La t no suena. hear = oír sin intención."
+    }
+  ],
+  "ejercicios": [
+    {
+      "id": "verbos-esenciales-001",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "3S",
+      "q": "My sister ___ in Medellín now. She moved there in 2020.",
+      "opciones": [
+        "lives",
+        "live",
+        "is live"
+      ],
+      "a": 0,
+      "explica": "He / she / it en presente simple → verbo + s: lives. «Is live» mezcla be con el verbo."
+    },
+    {
+      "id": "verbos-esenciales-002",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "IRR",
+      "q": "Yesterday I ___ to the gym at 6.",
+      "opciones": [
+        "go",
+        "goed",
+        "went",
+        "gone"
+      ],
+      "a": 2,
+      "explica": "Go es irregular: go → went → gone. En pasado simple afirmativo va went; gone solo después de have / has."
+    },
+    {
+      "id": "verbos-esenciales-003",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "PP",
+      "q": "I have ___ the report to the client.",
+      "opciones": [
+        "send",
+        "sent",
+        "sended"
+      ],
+      "a": 1,
+      "explica": "Después de have / has va el participio. Send → sent → sent (irregular, nunca «sended»)."
+    },
+    {
+      "id": "verbos-esenciales-004",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "ING",
+      "q": "We are ___ the launch for next month.",
+      "opciones": [
+        "planing",
+        "plan",
+        "planning"
+      ],
+      "a": 2,
+      "explica": "Plan termina en consonante + vocal + consonante: se duplica la n antes de -ing → planning."
+    },
+    {
+      "id": "verbos-esenciales-005",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "DM",
+      "q": "Did you ___ my message?",
+      "opciones": [
+        "see",
+        "saw",
+        "seen"
+      ],
+      "a": 0,
+      "explica": "Después de did el verbo va en base: Did you see…? Did ya lleva la marca de pasado."
+    },
+    {
+      "id": "verbos-esenciales-006",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "3S",
+      "q": "He ___ (study) English every night.",
+      "respuestas": [
+        "studies"
+      ],
+      "explica": "Consonante + y → ies con he / she / it: study → studies."
+    },
+    {
+      "id": "verbos-esenciales-007",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "We ___ (stop) for coffee on the way to the office yesterday.",
+      "respuestas": [
+        "stopped"
+      ],
+      "explica": "Stop: consonante + vocal + consonante → se duplica la p antes de -ed: stopped."
+    },
+    {
+      "id": "verbos-esenciales-008",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "ING",
+      "q": "I'm ___ (write) the copy for the new ad.",
+      "respuestas": [
+        "writing"
+      ],
+      "explica": "La e muda se va antes de -ing: write → writing (con una sola t)."
+    },
+    {
+      "id": "verbos-esenciales-009",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "3S",
+      "q": "The IT guy ___ (fix) problems all day.",
+      "respuestas": [
+        "fixes"
+      ],
+      "explica": "Después de -x se agrega -es: fixes (también watches, finishes, goes)."
+    },
+    {
+      "id": "verbos-esenciales-010",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "The kids ___ (play) soccer in the park yesterday.",
+      "respuestas": [
+        "played"
+      ],
+      "explica": "Vocal + y solo agrega -ed: played, stayed. La y cambia a i solo después de consonante (studied)."
+    },
+    {
+      "id": "verbos-esenciales-011",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "IRR",
+      "q": "Have you ___ (eat) yet?",
+      "respuestas": [
+        "eaten"
+      ],
+      "explica": "Después de have va el participio: eat → ate → eaten."
+    },
+    {
+      "id": "verbos-esenciales-012",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "IRR",
+      "pares": [
+        [
+          "buy",
+          "bought"
+        ],
+        [
+          "bring",
+          "brought"
+        ],
+        [
+          "think",
+          "thought"
+        ],
+        [
+          "teach",
+          "taught"
+        ],
+        [
+          "fall",
+          "fell"
+        ],
+        [
+          "lead",
+          "led"
+        ]
+      ],
+      "explica": "Pasados irregulares. Cuidado con la pareja bought (buy) / brought (bring): se parecen pero son verbos distintos."
+    },
+    {
+      "id": "verbos-esenciales-013",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "IRR",
+      "pares": [
+        [
+          "write",
+          "written"
+        ],
+        [
+          "speak",
+          "spoken"
+        ],
+        [
+          "choose",
+          "chosen"
+        ],
+        [
+          "break",
+          "broken"
+        ],
+        [
+          "forget",
+          "forgotten"
+        ]
+      ],
+      "explica": "Participios irregulares en -en: van después de have / has (I've written, she has spoken)."
+    },
+    {
+      "id": "verbos-esenciales-014",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "3S",
+      "frase": "She studys marketing at night.",
+      "correcta": false,
+      "correccion": [
+        "She studies marketing at night."
+      ],
+      "explica": "Consonante + y → ies: studies. «Studys» no existe."
+    },
+    {
+      "id": "verbos-esenciales-015",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "VOC",
+      "frase": "We planned the whole trip in one weekend.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Correcta: plan → planned, con doble n porque termina en consonante + vocal + consonante."
+    },
+    {
+      "id": "verbos-esenciales-016",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "TPO",
+      "frase": "She works from home on Fridays.",
+      "instruccion": "Pásala a pasado.",
+      "respuestas": [
+        "She worked from home on Fridays."
+      ],
+      "explica": "En pasado simple la -s desaparece y el verbo toma -ed: works → worked."
+    },
+    {
+      "id": "verbos-esenciales-017",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "IRR",
+      "frase": "I send the report on Monday.",
+      "instruccion": "Pásala a pasado.",
+      "respuestas": [
+        "I sent the report on Monday."
+      ],
+      "explica": "Send es irregular: send → sent → sent."
+    },
+    {
+      "id": "verbos-esenciales-018",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "DM",
+      "frase": "We went to the beach.",
+      "instruccion": "Pásala a negativa.",
+      "respuestas": [
+        "We didn't go to the beach."
+      ],
+      "explica": "Negativa en pasado: didn't + base. Went vuelve a go porque didn't ya marca el pasado."
+    },
+    {
+      "id": "verbos-esenciales-019",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "PP",
+      "frase": "Laura wrote the email.",
+      "instruccion": "Pásala a presente perfecto.",
+      "respuestas": [
+        "Laura has written the email."
+      ],
+      "explica": "Presente perfecto: has + participio. Write → wrote → written: el participio no es igual al pasado."
+    },
+    {
+      "id": "verbos-esenciales-020",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "ING",
+      "frase": "They play soccer.",
+      "instruccion": "Pásala a presente continuo.",
+      "respuestas": [
+        "They are playing soccer."
+      ],
+      "explica": "Presente continuo: am / is / are + verbo-ing. Play → playing (la y se queda)."
+    },
+    {
+      "id": "verbos-esenciales-021",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "DM",
+      "frase": "He studied for the exam.",
+      "instruccion": "Pásala a pregunta.",
+      "respuestas": [
+        "Did he study for the exam?"
+      ],
+      "explica": "Pregunta en pasado: Did + sujeto + base. Studied vuelve a study."
+    },
+    {
+      "id": "verbos-esenciales-022",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "ING",
+      "frase": "I make dinner.",
+      "instruccion": "Pásala a pasado continuo (was / were + -ing).",
+      "respuestas": [
+        "I was making dinner."
+      ],
+      "explica": "Pasado continuo: was / were + -ing. Make pierde la e: making."
+    },
+    {
+      "id": "verbos-esenciales-023",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "IRR",
+      "frase": "The client chooses the photos.",
+      "instruccion": "Pásala a pasado.",
+      "respuestas": [
+        "The client chose the photos."
+      ],
+      "explica": "Choose → chose → chosen. En pasado simple va chose (una o); chosen es el participio."
+    },
+    {
+      "id": "verbos-esenciales-024",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "IRR",
+      "es": "Ayer compré un celular nuevo.",
+      "respuestas": [
+        "I bought a new phone yesterday.",
+        "Yesterday I bought a new phone.",
+        "I bought a new cell phone yesterday.",
+        "Yesterday I bought a new cell phone.",
+        "I bought a new cellphone yesterday.",
+        "Yesterday I bought a new cellphone."
+      ],
+      "explica": "Buy → bought → bought. Ayer = yesterday, al principio o al final."
+    },
+    {
+      "id": "verbos-esenciales-025",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "PP",
+      "es": "¿Ya enviaste la propuesta?",
+      "respuestas": [
+        "Have you sent the proposal yet?",
+        "Have you already sent the proposal?",
+        "Did you send the proposal yet?",
+        "Did you already send the proposal?"
+      ],
+      "explica": "Con yet o already lo más natural es have + participio: Have you sent…? En EE. UU. también se oye Did you send… yet?"
+    },
+    {
+      "id": "verbos-esenciales-026",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "3S",
+      "es": "Mi jefe trabaja desde la casa los viernes.",
+      "respuestas": [
+        "My boss works from home on Fridays.",
+        "On Fridays my boss works from home.",
+        "My boss works at home on Fridays.",
+        "On Fridays my boss works at home."
+      ],
+      "explica": "My boss = he → works. Los viernes = on Fridays."
+    },
+    {
+      "id": "verbos-esenciales-027",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "DM",
+      "es": "No fuimos al gimnasio ayer.",
+      "en": "We didn't go to the gym yesterday.",
+      "extra": [
+        "went",
+        "goed"
+      ],
+      "explica": "Didn't + base: didn't go. Nunca «didn't went»."
+    },
+    {
+      "id": "verbos-esenciales-028",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "ING",
+      "es": "Ella está escribiendo el guion.",
+      "en": "She is writing the script.",
+      "extra": [
+        "writting",
+        "writes"
+      ],
+      "explica": "Is + -ing. Write pierde la e y no duplica la t: writing."
+    },
+    {
+      "id": "verbos-esenciales-029",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "LL",
+      "q": "I ___ (not / understand) the brief. Can you explain it?",
+      "respuestas": [
+        "don't understand",
+        "do not understand"
+      ],
+      "explica": "Negativa en presente: don't + base. Understand es de estado: nunca «I'm not understanding»."
+    },
+    {
+      "id": "verbos-esenciales-030",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "DM",
+      "frase": "I didn't went to the meeting because I was sick.",
+      "correcta": false,
+      "correccion": [
+        "I didn't go to the meeting because I was sick."
+      ],
+      "explica": "Doble marca: didn't ya es pasado, así que el verbo va en base (go)."
+    },
+    {
+      "id": "verbos-esenciales-031",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "3S",
+      "titulo": "La rutina de Andrés",
+      "instruccion": "Completa con el verbo en presente simple. Ojo con la ortografía de la -s.",
+      "texto": "Andrés is a copywriter at Brava. Every morning he {1} (wake) up at 5:30 and {2} (go) to the gym. After that, he {3} (have) breakfast with his daughter and {4} (watch) the news. At the office he {5} (study) the brief, {6} (write) the first ideas and {7} (try) different headlines. His boss doesn't {8} (like) long copy, so Andrés always keeps it short. He goes home at 6.",
+      "huecos": [
+        {
+          "respuestas": [
+            "wakes"
+          ]
+        },
+        {
+          "respuestas": [
+            "goes"
+          ]
+        },
+        {
+          "respuestas": [
+            "has"
+          ]
+        },
+        {
+          "respuestas": [
+            "watches"
+          ]
+        },
+        {
+          "respuestas": [
+            "studies"
+          ]
+        },
+        {
+          "respuestas": [
+            "writes"
+          ]
+        },
+        {
+          "respuestas": [
+            "tries"
+          ]
+        },
+        {
+          "respuestas": [
+            "like"
+          ]
+        }
+      ],
+      "explica": "He + verbo + s: wakes, writes. -es tras o y ch (goes, watches); consonante + y → ies (studies, tries); have → has. Después de doesn't, base: like."
+    },
+    {
+      "id": "verbos-esenciales-032",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "IRR",
+      "titulo": "Un fin de semana en Villa de Leyva",
+      "instruccion": "Completa con el pasado simple. Varios son irregulares.",
+      "texto": "Last weekend Camila and her husband {1} (drive) to Villa de Leyva. They {2} (leave) Bogotá at 7 and {3} (stop) for breakfast on the way. In the afternoon they {4} (walk) around the main square and {5} (buy) some ceramics. At night they {6} (eat) at a small restaurant and {7} (drink) red wine. On Sunday it rained, so they {8} (stay) at the hotel and read.",
+      "huecos": [
+        {
+          "respuestas": [
+            "drove"
+          ]
+        },
+        {
+          "respuestas": [
+            "left"
+          ]
+        },
+        {
+          "respuestas": [
+            "stopped"
+          ]
+        },
+        {
+          "respuestas": [
+            "walked"
+          ]
+        },
+        {
+          "respuestas": [
+            "bought"
+          ]
+        },
+        {
+          "respuestas": [
+            "ate"
+          ]
+        },
+        {
+          "respuestas": [
+            "drank"
+          ]
+        },
+        {
+          "respuestas": [
+            "stayed"
+          ]
+        }
+      ],
+      "explica": "Irregulares: drove, left, bought, ate, drank. Regulares: walked, stayed (vocal + y) y stopped (doble p)."
+    },
+    {
+      "id": "verbos-esenciales-033",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "PP",
+      "titulo": "¿Cómo va el proyecto?",
+      "instruccion": "Completa con el participio (have / has + participio).",
+      "texto": "Hi Mike, here's a quick update on the launch. We have {1} (finish) the script and the director has {2} (choose) the actors. Laura has {3} (write) the copy for the posters, but the client hasn't {4} (see) it yet. We have {5} (send) the budget to the finance team, and they have {6} (make) two small changes. I haven't {7} (speak) with the media agency yet. I'll call them this afternoon.",
+      "huecos": [
+        {
+          "respuestas": [
+            "finished"
+          ]
+        },
+        {
+          "respuestas": [
+            "chosen"
+          ]
+        },
+        {
+          "respuestas": [
+            "written"
+          ]
+        },
+        {
+          "respuestas": [
+            "seen"
+          ]
+        },
+        {
+          "respuestas": [
+            "sent"
+          ]
+        },
+        {
+          "respuestas": [
+            "made"
+          ]
+        },
+        {
+          "respuestas": [
+            "spoken"
+          ]
+        }
+      ],
+      "explica": "Después de have / has va el participio, no el pasado: chosen (no chose), written (no wrote), seen (no saw), spoken (no spoke)."
+    },
+    {
+      "id": "verbos-esenciales-034",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "ING",
+      "titulo": "Un martes a las 10",
+      "instruccion": "Completa con la forma -ing. Cuidado con la ortografía.",
+      "texto": "It's 10 a.m. at Brava and everybody is busy. Sarah is {1} (prepare) the presentation for the bank. Andrés and Mike are {2} (plan) the photo shoot for next week. The new intern is {3} (sit) next to the window and {4} (study) the brand guidelines. Laura is {5} (run) the status meeting, and the IT guy is {6} (fix) the projector. And me? I'm {7} (write) this email and {8} (drink) my third coffee.",
+      "huecos": [
+        {
+          "respuestas": [
+            "preparing"
+          ]
+        },
+        {
+          "respuestas": [
+            "planning"
+          ]
+        },
+        {
+          "respuestas": [
+            "sitting"
+          ]
+        },
+        {
+          "respuestas": [
+            "studying"
+          ]
+        },
+        {
+          "respuestas": [
+            "running"
+          ]
+        },
+        {
+          "respuestas": [
+            "fixing"
+          ]
+        },
+        {
+          "respuestas": [
+            "writing"
+          ]
+        },
+        {
+          "respuestas": [
+            "drinking"
+          ]
+        }
+      ],
+      "explica": "La e muda se va (preparing, writing); consonante doble en verbos cortos (planning, sitting, running); la y se queda (studying); la x nunca se duplica (fixing)."
+    },
+    {
+      "id": "verbos-esenciales-035",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "TPO",
+      "titulo": "La campaña del jugo",
+      "instruccion": "Elige la forma del verbo que pide cada llave.",
+      "texto": "Last month our team {1} a campaign for a new juice brand. Before the launch, we were {2} late every night. The client didn't {3} the first video, so we changed it. Now the campaign is on TV and people are {4} about it on social media. We have {5} two awards for it, and next year we will {6} a second campaign.",
+      "huecos": [
+        {
+          "opciones": [
+            "launches",
+            "launched",
+            "launching"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "working",
+            "worked",
+            "work"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "liked",
+            "likes",
+            "like"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "talk",
+            "talking",
+            "talked"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "won",
+            "win",
+            "winned"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "created",
+            "creating",
+            "create"
+          ],
+          "a": 2
+        }
+      ],
+      "explica": "Last month → pasado (launched). Were → -ing (working, talking). Didn't y will → base (like, create). Have → participio (won)."
+    },
+    {
+      "id": "verbos-esenciales-036",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "Ortografía que engaña",
+      "instruccion": "Elige la forma bien escrita.",
+      "texto": "My son {1} engineering in Medellín. Last month he {2} for an internship at a big company, and yesterday they {3} him! Now he is {4} his move to a new apartment. He {5} a lot for work, but he is {6} to save money. On Saturday he {7} his phone at a party, but a friend {8} it the next day. We were very happy.",
+      "huecos": [
+        {
+          "opciones": [
+            "studys",
+            "studies",
+            "studyes"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "applied",
+            "applyed",
+            "aplied"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "hireed",
+            "hirred",
+            "hired"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "planing",
+            "planning",
+            "planeing"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "travels",
+            "travells",
+            "traveles"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "tring",
+            "triing",
+            "trying"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "losed",
+            "lost",
+            "loosed"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "found",
+            "finded",
+            "founded"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Consonante + y → ies / ied (studies, applied), pero trying; e final + d (hired); doble n en planning; irregulares sin -ed (lost, found)."
+    },
+    {
+      "id": "verbos-esenciales-037",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "DM",
+      "titulo": "Un email a Carolina",
+      "instruccion": "Completa con la forma correcta. Fíjate en la llave (did, is, will, have) que va antes.",
+      "texto": "Hi Carolina, thanks for your call. Sorry, we didn't {1} (send) the files yesterday because the editor {2} (be) sick. He is {3} (feel) better today, so he will {4} (finish) the video this afternoon. We have {5} (fix) the logo, and Andrés {6} (check) the colors twice this morning. Did you {7} (receive) the new budget? Let me {8} (know) if you have any questions. Best, Andrés",
+      "huecos": [
+        {
+          "respuestas": [
+            "send"
+          ]
+        },
+        {
+          "respuestas": [
+            "was"
+          ]
+        },
+        {
+          "respuestas": [
+            "feeling"
+          ]
+        },
+        {
+          "respuestas": [
+            "finish"
+          ]
+        },
+        {
+          "respuestas": [
+            "fixed"
+          ]
+        },
+        {
+          "respuestas": [
+            "checked"
+          ]
+        },
+        {
+          "respuestas": [
+            "receive"
+          ]
+        },
+        {
+          "respuestas": [
+            "know"
+          ]
+        }
+      ],
+      "explica": "Didn't, will, did y let piden base (send, finish, receive, know). Is pide -ing (feeling). Have pide participio (fixed). Sin llave y con this morning terminado, pasado (was, checked)."
+    },
+    {
+      "id": "verbos-esenciales-038",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "TPO",
+      "titulo": "El primer año de Mike en Bogotá",
+      "texto": "Mike is from Chicago, but he has lived in Bogotá for a year. He came to Colombia because Brava offered him a job as a strategist. At the beginning, he didn't understand much Spanish and he felt a little lost. He took classes three times a week and practiced with his team at lunch. Now he speaks pretty well, and he even tells jokes in meetings. Last month he moved to a new apartment in Chapinero and bought a bike. He rides it to the office every day. Right now he is planning a trip to the coffee region with two friends from work. He hasn't been to Salento yet, but everybody says it's beautiful.",
+      "preguntas": [
+        {
+          "q": "Why did Mike come to Colombia?",
+          "opciones": [
+            "Because he wanted to learn Spanish",
+            "Because Brava offered him a job",
+            "Because his friends lived in Bogotá"
+          ],
+          "a": 1
+        },
+        {
+          "q": "How does Mike get to the office?",
+          "opciones": [
+            "By bus",
+            "He walks",
+            "By bike"
+          ],
+          "a": 2
+        },
+        {
+          "q": "En «he has lived in Bogotá for a year», ¿qué forma es lived?",
+          "opciones": [
+            "Participio, porque va después de has",
+            "Pasado simple, porque termina en -ed",
+            "Forma base"
+          ],
+          "a": 0
+        },
+        {
+          "q": "¿Por qué dice «he didn't understand» y no «he didn't understood»?",
+          "opciones": [
+            "Porque understand es regular",
+            "Porque después de did el verbo va en base",
+            "Porque la frase está en presente"
+          ],
+          "a": 1
+        }
+      ],
+      "explica": "Has lived = participio (sigue viviendo allá). Came, took, bought = pasados irregulares. Didn't + base. Is planning = -ing de algo que pasa ahora."
+    },
+    {
+      "id": "verbos-esenciales-039",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "IRR",
+      "titulo": "Un día malo",
+      "texto": "Yesterday was a terrible day for Laura. Her alarm didn't ring, so she woke up at 7:40. She drank a coffee, took a taxi and got to the office at 8:30, but the meeting with the client began at 8. While she was walking into the room, she dropped her laptop and broke the screen. The client was waiting and looked angry. Luckily, Andrés had a copy of the presentation, so they used his computer. In the end, the client loved the idea and chose the first option. Laura says she will set two alarms from now on.",
+      "preguntas": [
+        {
+          "q": "Why was Laura late?",
+          "opciones": [
+            "Her alarm didn't ring",
+            "The taxi broke down",
+            "The meeting started at 7:40"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What happened to her laptop?",
+          "opciones": [
+            "She forgot it at home",
+            "She broke the screen",
+            "Andrés took it"
+          ],
+          "a": 1
+        },
+        {
+          "q": "¿Qué forma es «was walking»?",
+          "opciones": [
+            "Participio",
+            "Presente continuo",
+            "Pasado continuo: was + -ing"
+          ],
+          "a": 2
+        },
+        {
+          "q": "Woke, drank, took, began, broke y chose son…",
+          "opciones": [
+            "pasados irregulares",
+            "participios regulares",
+            "formas base"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Pasados irregulares: woke, drank, took, got, began, broke, chose. Regulares con -ed: dropped (doble p), looked, used, loved. Was walking = pasado continuo."
+    },
+    {
+      "id": "verbos-esenciales-040",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "PP",
+      "titulo": "La entrevista de Paola",
+      "texto": "Paola is applying for a job as an art director at Brava. She has worked in advertising for eight years and has created campaigns for banks, airlines and food brands. She studied graphic design in Cali and then moved to Bogotá in 2018. Last year she won a national award for a campaign about recycling. In the interview, the creative director asked her about her biggest mistake. Paola explained that once she sent the wrong file to a client, and she learned to check everything twice. The director liked her answer. They haven't hired anyone yet, but they are going to decide next week.",
+      "preguntas": [
+        {
+          "q": "What has Paola done for eight years?",
+          "opciones": [
+            "Studied graphic design",
+            "Lived in Cali",
+            "Worked in advertising"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What did Paola learn from her mistake?",
+          "opciones": [
+            "To check everything twice",
+            "To send files faster",
+            "To work with banks"
+          ],
+          "a": 0
+        },
+        {
+          "q": "¿Por qué «has worked» y no «worked» en la segunda frase?",
+          "opciones": [
+            "Porque worked es irregular",
+            "Porque sigue trabajando en publicidad: have + participio conecta con hoy",
+            "Porque es un pasado terminado"
+          ],
+          "a": 1
+        },
+        {
+          "q": "En «They haven't hired anyone», hired es…",
+          "opciones": [
+            "participio",
+            "pasado simple",
+            "forma base"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Has worked / has created / haven't hired = have + participio (conecta con hoy). Studied, moved, won, sent = pasado simple con tiempo terminado (in 2018, last year, once)."
+    },
+    {
+      "id": "verbos-esenciales-041",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "3S",
+      "titulo": "Diciembre en Cartagena",
+      "texto": "Every December, Sarah's family travels to Cartagena. They stay at a small hotel near the old city. Her husband loves the beach, but Sarah prefers walking around the streets. This year things are changing: her daughter is studying in Canada, so she will fly directly from Toronto. Sarah is planning everything right now. She has booked the hotel, but she hasn't bought the plane tickets yet because they are very expensive. Her son wants to visit the islands, and her husband says he will pay for the boat.",
+      "preguntas": [
+        {
+          "q": "Where is Sarah's daughter now?",
+          "opciones": [
+            "In Cartagena",
+            "In Canada",
+            "At home in Bogotá"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What hasn't Sarah done yet?",
+          "opciones": [
+            "Booked the hotel",
+            "Planned the trip",
+            "Bought the plane tickets"
+          ],
+          "a": 2
+        },
+        {
+          "q": "¿Por qué travels lleva -s?",
+          "opciones": [
+            "Porque el sujeto (Sarah's family) es tercera persona singular",
+            "Porque es pasado",
+            "Porque travel es irregular"
+          ],
+          "a": 0
+        },
+        {
+          "q": "En «she will fly», ¿qué forma va después de will?",
+          "opciones": [
+            "La forma -s",
+            "La forma base",
+            "El participio"
+          ],
+          "a": 1
+        }
+      ],
+      "explica": "He / she / it y sustantivos en singular llevan -s (travels, loves, wants, says). Will + base (will fly, will pay). Has booked / hasn't bought = participio."
+    },
+    {
+      "id": "verbos-esenciales-042",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "IRR",
+      "consigna": "Cuenta tu fin de semana pasado: adónde fuiste, qué comiste, qué hiciste y qué no alcanzaste a hacer. Usa varios pasados irregulares.",
+      "requisitos": [
+        {
+          "texto": "Usa went",
+          "patron": "\\bwent\\b"
+        },
+        {
+          "texto": "Usa otro pasado irregular (ate, saw, had, bought, took, drank, slept, met, drove, left…)",
+          "patron": "\\b(ate|saw|had|bought|took|drank|slept|met|got|made|spent|drove|left|came|found|gave|wrote|felt|ran)\\b"
+        },
+        {
+          "texto": "Usa didn't + verbo base",
+          "patron": "\\b(didn['’]t|did not)\\s+(?!\\w+ed\\b)(?!went\\b|ate\\b|saw\\b|had\\b|took\\b)\\w+"
+        }
+      ],
+      "minPalabras": 35,
+      "ejemplo": "Last weekend I went to Villa de Leyva with my wife. We left Bogotá early and drove for three hours. We ate at a small restaurant near the main square and bought some ceramics. On Sunday it rained, so we didn't walk much. We slept a lot and came back on Monday morning.",
+      "explica": "Pasado afirmativo = forma de pasado (went, ate, drove). Negativa = didn't + base (didn't walk, nunca «didn't walked»)."
+    },
+    {
+      "id": "verbos-esenciales-043",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "PP",
+      "consigna": "Escribe un update corto para tu equipo sobre un proyecto: qué ya está hecho, qué falta y cuál es el siguiente paso.",
+      "requisitos": [
+        {
+          "texto": "Usa have / has + participio (have finished, has sent…)",
+          "patron": "(\\bhave|\\bhas|['’]ve|['’]s)\\s+(already\\s+)?(\\w+ed|written|chosen|spoken|seen|sent|made|done|taken|given|built|bought|found|told|gotten|got|shown|broken|forgotten|paid|met|had|read|cut|put|set|won|lost|left|kept|begun|shot|sold)\\b"
+        },
+        {
+          "texto": "Usa haven't / hasn't + participio + yet",
+          "patron": "\\b(haven['’]t|hasn['’]t|have not|has not)\\s+\\w+.*\\byet\\b"
+        },
+        {
+          "texto": "Usa will + verbo base para el siguiente paso",
+          "patron": "(\\bwill|['’]ll)\\s+\\w+"
+        }
+      ],
+      "minPalabras": 35,
+      "ejemplo": "Hi team, here is a quick update on the bank campaign. We have finished the script and Laura has chosen the music. Mike has sent the budget to the client. We haven't shot the video yet because the director is sick. I will call the production company today and send you the new dates tomorrow.",
+      "explica": "Lo que ya está hecho: have / has + participio (finished, chosen, sent). Lo que falta: haven't + participio + yet. El siguiente paso: will + base."
+    },
+    {
+      "id": "verbos-esenciales-044",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "ING",
+      "consigna": "Describe qué está pasando ahora mismo a tu alrededor, en la casa o en la oficina. Usa al menos cuatro verbos con -ing.",
+      "requisitos": [
+        {
+          "texto": "Usa am / is / are + -ing",
+          "patron": "(\\b(am|is|are)|['’](m|s|re))\\s+(not\\s+)?\\w+ing\\b"
+        },
+        {
+          "texto": "Usa un -ing con consonante doble (sitting, running, planning, getting…)",
+          "patron": "\\b\\w*([bdglmnprt])\\1ing\\b"
+        },
+        {
+          "texto": "Usa un -ing de un verbo terminado en e (making, writing, preparing…)",
+          "patron": "\\b(making|writing|preparing|having|taking|coming|driving|living|moving|using|leaving|creating|sharing|giving|closing|choosing|deciding|changing|smiling|dancing|hoping|waking|improving|reviewing|inviting|hiring)\\b"
+        }
+      ],
+      "minPalabras": 30,
+      "ejemplo": "It's 10 a.m. and I'm sitting at my desk. Laura is writing the copy for a new ad, and Mike is planning the photo shoot. Two designers are making changes to the logo. Outside, it's raining and people are running to the bus. I'm drinking my second coffee and reading the client's email.",
+      "explica": "Presente continuo: am / is / are + -ing. Ortografía: sitting, planning, running (doble); writing, making (sin e); drinking, reading (normal)."
+    },
+    {
+      "id": "verbos-esenciales-045",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "TPO",
+      "consigna": "Preséntate por email a un cliente nuevo: qué hace tu equipo normalmente, qué has hecho en tu carrera y qué logró tu equipo el año pasado.",
+      "requisitos": [
+        {
+          "texto": "Usa presente simple con -s (my team creates, the agency works…)",
+          "patron": "\\b(my team|our team|the team|the agency|our agency|brava)\\s+(always\\s+|usually\\s+|also\\s+)?\\w+s\\b"
+        },
+        {
+          "texto": "Usa have / has + participio",
+          "patron": "(\\bhave|\\bhas|['’]ve)\\s+(already\\s+|also\\s+|never\\s+|ever\\s+)?(\\w+ed|been|done|gone|seen|made|led|won|written|given|taken|built|sent|had|met|known|grown|spent|chosen)\\b"
+        },
+        {
+          "texto": "Usa un pasado con last year",
+          "patron": "\\blast year\\b"
+        }
+      ],
+      "minPalabras": 40,
+      "ejemplo": "Dear Mr. Torres, my name is Andrés Rojas and I am a director at Brava, an advertising agency in Bogotá. My team creates campaigns for banks and food brands. I have worked in advertising for fifteen years and I have led teams of up to twenty people. Last year we launched a campaign that won two national awards. I look forward to meeting you next week.",
+      "explica": "Cada forma en su lugar: -s para lo habitual con my team (creates), have + participio para tu experiencia (have worked, have led) y pasado con last year (launched, won)."
+    }
+  ]
+}

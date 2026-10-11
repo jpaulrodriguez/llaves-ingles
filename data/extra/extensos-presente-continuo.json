@@ -1,0 +1,374 @@
+{
+  "tema": "presente-continuo",
+  "ejercicios": [
+    {
+      "id": "presente-continuo-x3-001",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "ING",
+      "titulo": "A crazy week at Brava",
+      "instruccion": "Completa con el presente continuo (am / is / are + -ing). Todo pasa ahora o en estos días.",
+      "texto": "This week is crazy at Brava. We {1} (prepare) a pitch for a new airline client, so nobody {2} (go) home before nine. Right now, Laura {3} (sketch) ideas on the whiteboard and two designers {4} (test) different logos. I {5} (not / sleep) much these days, and my girlfriend {6} (complain) about it. She says I {7} (live) at the office this month. She's right, but it's only for two more weeks.",
+      "huecos": [
+        {
+          "respuestas": [
+            "are preparing",
+            "'re preparing"
+          ]
+        },
+        {
+          "respuestas": [
+            "is going"
+          ]
+        },
+        {
+          "respuestas": [
+            "is sketching",
+            "'s sketching"
+          ]
+        },
+        {
+          "respuestas": [
+            "are testing"
+          ]
+        },
+        {
+          "respuestas": [
+            "am not sleeping",
+            "'m not sleeping"
+          ]
+        },
+        {
+          "respuestas": [
+            "is complaining"
+          ]
+        },
+        {
+          "respuestas": [
+            "am living",
+            "'m living"
+          ]
+        }
+      ],
+      "explica": "Lo que pasa ahora (right now) o en este periodo (this week, these days, this month) → am/is/are + -ing. Nobody funciona como singular: nobody is going. En la negativa, el not va pegado a la llave: I'm not sleeping."
+    },
+    {
+      "id": "presente-continuo-x3-002",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "EST",
+      "titulo": "A video call from home",
+      "instruccion": "Elige la forma correcta. Ojo: los verbos de estado (understand, agree, see como «ver», know) no van en -ing aunque sea ahora.",
+      "texto": "Sorry, can you hear me? I {1} from home today because the building {2} the elevator, and it's really noisy. Right now a man {3} the wall next to my apartment. I {4} what you mean about the budget, and I {5} with you: we need more money for video. Can you share your screen? I {6} it yet. OK, now I {7} it. Wait a second, my dog {8} at the door.",
+      "huecos": [
+        {
+          "opciones": [
+            "am working",
+            "work",
+            "am work"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "repairs",
+            "is repairing",
+            "repairing"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "drills",
+            "drilling",
+            "is drilling"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "am understanding",
+            "understand",
+            "understanding"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "agree",
+            "am agreeing",
+            "agreeing"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "am not seeing",
+            "don't see",
+            "not see"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "see",
+            "am seeing",
+            "seeing"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "barks",
+            "barking",
+            "is barking"
+          ],
+          "a": 2
+        }
+      ],
+      "explica": "Acciones en progreso (working, repairing, drilling, barking) → be + -ing. Understand, agree y see (percibir) son verbos de estado: van en simple aunque hables de este momento (I understand, I don't see it, now I see it)."
+    },
+    {
+      "id": "presente-continuo-x3-003",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "WW",
+      "titulo": "A call with my dad",
+      "instruccion": "Completa las preguntas y frases en presente continuo. En la pregunta, am / is / are va delante del sujeto.",
+      "texto": "Hi, Dad! No, I'm not busy. Well, a little. What {1} (you / do)? {2} (you / listen) to the radio again? I can hear it from here. Me? I {3} (walk) to a meeting near the park. Why {4} (you / call) so early? Oh, {5} (my aunt / visit) you this week? That's great. {6} (she / stay) at your house? OK, I have to go. The client {7} (wait) for me at the door. Love you!",
+      "huecos": [
+        {
+          "respuestas": [
+            "are you doing"
+          ]
+        },
+        {
+          "respuestas": [
+            "Are you listening"
+          ]
+        },
+        {
+          "respuestas": [
+            "am walking",
+            "'m walking"
+          ]
+        },
+        {
+          "respuestas": [
+            "are you calling"
+          ]
+        },
+        {
+          "respuestas": [
+            "is my aunt visiting"
+          ]
+        },
+        {
+          "respuestas": [
+            "Is she staying"
+          ]
+        },
+        {
+          "respuestas": [
+            "is waiting",
+            "'s waiting"
+          ]
+        }
+      ],
+      "explica": "Pregunta en continuo: (Wh-) + am/is/are + sujeto + -ing: What are you doing?, Is she staying? Nunca do/does: What do you doing es imposible. La llave be cambia con el sujeto: are you, is my aunt."
+    },
+    {
+      "id": "presente-continuo-x3-004",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "FUT",
+      "titulo": "Our Friday is full",
+      "instruccion": "Completa con el presente continuo. Aquí habla de planes ya organizados, con día, hora o personas.",
+      "texto": "Our Friday is full. In the morning we {1} (meet) the bank team at their office in Chapinero. After that, Andrés and I {2} (have) lunch with a production company. At four, the client {3} (visit) Brava to see the first edits. I {4} (not / go) to the gym that day, obviously. In the evening my girlfriend and I {5} (fly) to Santa Marta for a long weekend. {6} (you / do) anything special this weekend? We {7} (come) back on Monday night.",
+      "huecos": [
+        {
+          "respuestas": [
+            "are meeting",
+            "'re meeting"
+          ]
+        },
+        {
+          "respuestas": [
+            "are having"
+          ]
+        },
+        {
+          "respuestas": [
+            "is visiting"
+          ]
+        },
+        {
+          "respuestas": [
+            "am not going",
+            "'m not going"
+          ]
+        },
+        {
+          "respuestas": [
+            "are flying",
+            "'re flying"
+          ]
+        },
+        {
+          "respuestas": [
+            "Are you doing"
+          ]
+        },
+        {
+          "respuestas": [
+            "are coming",
+            "'re coming"
+          ]
+        }
+      ],
+      "explica": "Planes con fecha y ya acordados con otras personas → presente continuo, aunque sean futuros: We're meeting the bank team on Friday. Es la agenda: algo ya está reservado o confirmado."
+    },
+    {
+      "id": "presente-continuo-x3-005",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "ING",
+      "titulo": "Open-plan office, 11 a.m.",
+      "texto": "It's eleven in the morning and the office is busy. Andrés is standing in front of a big screen and he's showing the new storyboard to three designers. They aren't saying much; they're taking notes. In the kitchen, Mike is making coffee and talking on the phone with a client in Miami. Laura isn't here today because she's working from home. Next to the window, two interns are eating empanadas and laughing at something on a laptop. And me? I'm writing this short note while I wait for a call. The call is late, as always.",
+      "preguntas": [
+        {
+          "q": "What is Andrés doing?",
+          "opciones": [
+            "Making coffee",
+            "Showing a storyboard",
+            "Eating empanadas"
+          ],
+          "a": 1
+        },
+        {
+          "q": "Why isn't Laura in the office?",
+          "opciones": [
+            "She's sick",
+            "She's in Miami",
+            "She's working from home"
+          ],
+          "a": 2
+        },
+        {
+          "q": "«They aren't saying much»: ¿cuál es la llave de esta negativa?",
+          "opciones": [
+            "aren't (be + not)",
+            "don't",
+            "doesn't"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«Mike is making coffee and talking on the phone»: ¿por qué talking no lleva su propio is?",
+          "opciones": [
+            "Porque talking es un sustantivo",
+            "Porque el is de making sirve para los dos verbos",
+            "Porque es pasado"
+          ],
+          "a": 1
+        }
+      ],
+      "explica": "Describir lo que pasa ahora mismo → am/is/are + -ing. Cuando el mismo sujeto hace dos cosas, la llave se dice una vez: Mike is making coffee and talking on the phone."
+    },
+    {
+      "id": "presente-continuo-x3-006",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "EST",
+      "titulo": "This month is different",
+      "texto": "My routine is different this month. Usually I drive to work, but my car is at the mechanic, so I'm taking the bus. I'm also getting up earlier because the bus is slow. My girlfriend is traveling for work; she's visiting clients in Lima and Quito, so I'm cooking for myself. I don't like cooking, but I'm learning. This week I'm trying a new recipe every night. The pasta last night was terrible, but tonight's soup smells good. I think I'm getting better. I want my girlfriend to come back soon, and my car too.",
+      "preguntas": [
+        {
+          "q": "How does he usually go to work?",
+          "opciones": [
+            "By bus",
+            "By car",
+            "On foot"
+          ],
+          "a": 1
+        },
+        {
+          "q": "Where is his girlfriend this month?",
+          "opciones": [
+            "At the mechanic",
+            "In Bogotá",
+            "In Lima and Quito"
+          ],
+          "a": 2
+        },
+        {
+          "q": "«I don't like cooking, but I'm learning»: ¿por qué like va en simple?",
+          "opciones": [
+            "Porque like es un verbo de estado",
+            "Porque es un hábito de esta semana",
+            "Porque la frase es negativa"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«I'm taking the bus»: ¿qué idea expresa aquí?",
+          "opciones": [
+            "Un hábito de siempre",
+            "Una situación temporal de este mes",
+            "Una acción terminada"
+          ],
+          "a": 1
+        }
+      ],
+      "explica": "Lo temporal (this month, this week) va en continuo: I'm taking the bus, I'm cooking. Los gustos y opiniones (like, want, think) son verbos de estado y se quedan en simple."
+    },
+    {
+      "id": "presente-continuo-x3-007",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "ING",
+      "consigna": "Estás en una videollamada y alguien te pregunta qué está pasando en la oficina (o en tu casa) ahora mismo. Describe a tres personas y lo que están haciendo, y di algo que no está pasando.",
+      "requisitos": [
+        {
+          "texto": "Usa am / is / are + -ing",
+          "patron": "(\\bam|\\bis|\\bare|'m|'s|'re)\\s+(not\\s+|still\\s+|just\\s+)?\\w+ing\\b"
+        },
+        {
+          "texto": "Incluye una negativa en continuo (isn't / aren't / I'm not + -ing)",
+          "patron": "(\\bisn't|\\baren't|'m not|\\bam not|\\bis not|\\bare not)\\s+\\w+ing\\b"
+        },
+        {
+          "texto": "Usa un marcador de ahora (right now, at the moment, today…)",
+          "patron": "\\b(right now|now|at the moment|today|this (week|morning|afternoon))\\b"
+        }
+      ],
+      "minPalabras": 45,
+      "ejemplo": "Right now I'm sitting in the meeting room on the third floor. Through the glass I can see the team. Camila is answering emails and drinking a huge coffee. Andrés and two designers are standing around a laptop; they're choosing the photos for the bank campaign. Mike is talking on the phone with a client, and he's walking in circles, as always. The interns aren't working at the moment; they're having a break on the terrace.",
+      "explica": "Una descripción en vivo es presente continuo de principio a fin: is answering, are standing, 're choosing. La llave be concuerda con el sujeto (Camila is, the interns are) y la negativa es isn't/aren't + -ing."
+    },
+    {
+      "id": "presente-continuo-x3-008",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "FUT",
+      "consigna": "Escríbele a un colega para coordinar la semana: cuéntale qué tienes ya organizado (con día, hora o personas) y pregúntale qué está haciendo él el jueves.",
+      "requisitos": [
+        {
+          "texto": "Usa presente continuo con un día o una hora (on Monday, tomorrow, at 3…)",
+          "patron": "(\\bam|\\bis|\\bare|'m|'s|'re)\\s+\\w+ing\\b[^.]*\\b(monday|tuesday|wednesday|thursday|friday|saturday|sunday|tomorrow|tonight|at \\d)"
+        },
+        {
+          "texto": "Haz una pregunta con are / is + sujeto + -ing",
+          "patron": "\\b(are|is)\\s+(you|he|she|they|we|the \\w+)\\s+\\w+ing\\b[^?]*\\?"
+        },
+        {
+          "texto": "Menciona una hora (at 10, at 3:30…)",
+          "patron": "\\bat \\d{1,2}(:\\d{2})?\\b"
+        }
+      ],
+      "minPalabras": 40,
+      "ejemplo": "Hi Mike, quick update on my week. On Monday at 9 I'm meeting the bank team to review the brief. On Tuesday I'm working from home in the morning, and in the afternoon I'm having lunch with the production company. On Wednesday we're presenting the new storyboard at 3:30. What are you doing on Thursday? I need two hours with you to plan the pitch.",
+      "explica": "Una agenda con citas confirmadas se cuenta en presente continuo: I'm meeting, we're presenting. La pregunta por los planes de otro también: What are you doing on Thursday?"
+    }
+  ]
+}

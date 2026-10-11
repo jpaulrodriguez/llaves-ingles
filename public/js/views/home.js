@@ -1,7 +1,7 @@
-import { S, dueIds, temaMastery, codeStats, CODES, weakCodes } from "../store.js";
+import { S, dueIds, temaMastery, codeStats, CODES, weakCodes, wordsLearned } from "../store.js";
 import { h, esc, icon, ring, fmtDate, pieces } from "../ui.js";
 import { today } from "../srs.js";
-import { sessionHoy, sessionRepaso, focusTemas } from "../session.js";
+import { sessionHoy, sessionRepaso, focusTemas, sessionPalabras, wordsLeftToday } from "../session.js";
 import { play } from "../player.js";
 import { route } from "../main.js";
 
@@ -42,6 +42,11 @@ export function viewHome() {
     </section>
 
     <section class="section grid-2">
+      ${S.words.length ? `<button class="tile" data-words>
+        <span class="tile-ic ok">${icon("layers")}</span>
+        <span class="t"><b>Palabras nuevas</b><span>${wordsLeftToday() ? `${wordsLeftToday()} por presentar hoy · ` : "Cuota de hoy lista · "}${wordsLearned()} de ${S.words.length} aprendidas</span></span>
+        <span class="go">${icon("right")}</span>
+      </button>` : ""}
       <button class="tile" data-repaso ${due ? "" : "disabled"}>
         <span class="tile-ic key">${icon("redo")}</span>
         <span class="t"><b>Repaso pendiente</b><span>${due ? `${due} ejercicios a punto de olvidarse` : "Nada vencido hoy"}</span></span>
@@ -83,5 +88,6 @@ export function viewHome() {
 
   el.querySelector("[data-start]").onclick = () => play(sessionHoy(), { onExit: route });
   el.querySelector("[data-repaso]").onclick = () => play(sessionRepaso(), { onExit: route });
+  el.querySelector("[data-words]")?.addEventListener("click", () => play(sessionPalabras(), { onExit: route }));
   return el;
 }

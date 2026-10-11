@@ -1,0 +1,310 @@
+{
+  "tema": "presentarse",
+  "ejercicios": [
+    {
+      "id": "presentarse-x3-001",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "BE",
+      "titulo": "Kickoff with a new client",
+      "instruccion": "Completa la presentación. Con be no hay llave extra (I'm, Are you…?); con los demás verbos, presente simple. La preposición de in charge … es fija.",
+      "texto": "Hi everyone, {1} (I / be) Jonathan. {2} (I / work) as an account director at Brava, an advertising agency in Bogotá. {3} (I / be) in charge {4} (preposición) the digital team, and {5} (there / be) eight of us on my team. We {6} (help) brands grow on social media and in search. My colleague Laura {7} (lead) the creative side, and she's here with me today. And you, Sarah? {8} (you / be) based in Miami? — Yes, but I travel to Bogotá every month.",
+      "huecos": [
+        {
+          "respuestas": [
+            "I'm",
+            "I am"
+          ]
+        },
+        {
+          "respuestas": [
+            "I work"
+          ]
+        },
+        {
+          "respuestas": [
+            "I'm",
+            "I am"
+          ]
+        },
+        {
+          "respuestas": [
+            "of"
+          ]
+        },
+        {
+          "respuestas": [
+            "there are"
+          ]
+        },
+        {
+          "respuestas": [
+            "help"
+          ]
+        },
+        {
+          "respuestas": [
+            "leads"
+          ]
+        },
+        {
+          "respuestas": [
+            "Are you"
+          ]
+        }
+      ],
+      "explica": "Nombre y cargo con be (I'm Jonathan, I'm in charge of); trabajo con work as. Cuántos son: there are eight of us (no «we are eight»). Laura leads: -s de he/she. Pregunta con be: Are you based…?, sin do."
+    },
+    {
+      "id": "presentarse-x3-002",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Small talk before the call",
+      "instruccion": "Elige la forma correcta. Son los dos minutos de charla antes de empezar una llamada con un cliente.",
+      "texto": "— Hi Mike! How {1} your weekend? — It {2} great, thanks. I went to the beach with my kids. And you? — Pretty quiet. I {3} 38 now, so I need more rest! — Ha! By the way, where {4} you based? Bogotá? — Yes, I live {5} Bogotá and I work {6} Brava, near the park. — Nice. What exactly {7}? — I'm responsible {8} our clients in the U.S., so I talk to people like you every day.",
+      "huecos": [
+        {
+          "opciones": [
+            "is",
+            "was",
+            "were"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "is",
+            "did",
+            "was"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "have",
+            "am",
+            "has"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "do",
+            "are",
+            "is"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "at",
+            "on",
+            "in"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "in",
+            "at",
+            "on"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "you do",
+            "are you do",
+            "do you do"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "of",
+            "for",
+            "to"
+          ],
+          "a": 1
+        }
+      ],
+      "explica": "El fin de semana va en pasado: How was…? It was… La edad con be: I'm 38. Based va con be: Where are you based? La ciudad con in, la empresa con at. What do you do? pregunta el trabajo. Responsible for, no of."
+    },
+    {
+      "id": "presentarse-x3-003",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "3S",
+      "titulo": "This is Brava",
+      "instruccion": "Completa con el presente simple del verbo. Brava, our team y cada persona son he/she/it: llevan -s en afirmativa y does / doesn't en preguntas y negativas.",
+      "texto": "Brava {1} (be) an independent agency with sixty people in Bogotá and Medellín. We {2} (work) with brands in food, banking and retail. Our team {3} (create) campaigns for social media, and our data area {4} (measure) the results every week. Camila {5} (manage) the community team, and Andrés {6} (not / work) on Fridays because he teaches at a university. Tell me about you: {7} (your company / have) an in-house team, or {8} (you / work) only with agencies?",
+      "huecos": [
+        {
+          "respuestas": [
+            "is"
+          ]
+        },
+        {
+          "respuestas": [
+            "work"
+          ]
+        },
+        {
+          "respuestas": [
+            "creates"
+          ]
+        },
+        {
+          "respuestas": [
+            "measures"
+          ]
+        },
+        {
+          "respuestas": [
+            "manages"
+          ]
+        },
+        {
+          "respuestas": [
+            "doesn't work",
+            "does not work"
+          ]
+        },
+        {
+          "respuestas": [
+            "does your company have"
+          ]
+        },
+        {
+          "respuestas": [
+            "do you work"
+          ]
+        }
+      ],
+      "explica": "Para presentar la agencia: Brava is, our team creates, Camila manages (-s con he/she/it). Negativa con doesn't + verbo base (doesn't work). Preguntas con does / do delante: Does your company have…? Do you work…?"
+    },
+    {
+      "id": "presentarse-x3-004",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "The first five minutes",
+      "texto": "Last month I had a kickoff call with a new client in Mexico City. I was nervous, so I prepared my introduction the night before. 'Hi, I'm Jonathan. I'm the account director at Brava. I'm in charge of the digital team, and there are eight of us. We help brands grow on social media.' Then I asked questions: 'Where are you based? How long have you worked on the brand?' The client, Mariana, was very friendly. She asked me, 'How's the weather in Bogotá?' 'Cold and rainy, as always,' I said, and everybody laughed. After five minutes, I didn't feel nervous anymore.",
+      "preguntas": [
+        {
+          "q": "Why did he prepare his introduction?",
+          "opciones": [
+            "He was nervous",
+            "The client asked for it",
+            "His boss told him to"
+          ],
+          "a": 0
+        },
+        {
+          "q": "How many people are on his team?",
+          "opciones": [
+            "Five",
+            "Eight",
+            "Sixty"
+          ],
+          "a": 1
+        },
+        {
+          "q": "«I'm in charge of the digital team»: ¿cuál es la preposición fija?",
+          "opciones": [
+            "of",
+            "for",
+            "in"
+          ],
+          "a": 0
+        },
+        {
+          "q": "¿Cuál de estas frases NO es natural en inglés?",
+          "opciones": [
+            "We are eight.",
+            "There are eight of us.",
+            "My team has eight people."
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Una presentación de trabajo son piezas fijas: I'm + nombre / cargo, I'm in charge of…, There are eight of us, We help brands + verbo. Y el small talk abre la puerta: Where are you based? How's the weather?"
+    },
+    {
+      "id": "presentarse-x3-005",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "3S",
+      "titulo": "Meet Sarah",
+      "texto": "Sarah Collins is the marketing manager of a coffee brand in Miami. She's 41 and she's originally from Chicago, but she lives in Florida now. She works with three agencies: one in New York, one in São Paulo and Brava in Bogotá. She's responsible for the brand in Latin America, so she travels a lot. Every month she visits Bogotá for two days. She doesn't speak much Spanish, but she understands it. In meetings, she likes short presentations and clear numbers. On Fridays she doesn't take calls after 3 p.m. because she picks up her kids from school.",
+      "preguntas": [
+        {
+          "q": "Where does Sarah live?",
+          "opciones": [
+            "In Chicago",
+            "In Florida",
+            "In Bogotá"
+          ],
+          "a": 1
+        },
+        {
+          "q": "Why doesn't she take calls on Friday afternoons?",
+          "opciones": [
+            "She picks up her kids",
+            "She travels to Bogotá",
+            "She has meetings with New York"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«She's 41»: ¿por qué no se dice «She has 41 years»?",
+          "opciones": [
+            "Porque la edad va con be en inglés",
+            "Porque es una pregunta",
+            "Porque 41 es plural"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«She doesn't speak much Spanish»: ¿por qué speak no lleva -s?",
+          "opciones": [
+            "Porque doesn't ya lleva la marca de he/she",
+            "Porque Spanish es un idioma",
+            "Porque es pasado"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Para describir a alguien: be para edad, origen y cargo (She's 41, she's responsible for…) y presente simple con -s para lo que hace (works, travels, likes). Con doesn't, el verbo vuelve a la base."
+    },
+    {
+      "id": "presentarse-x3-006",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "USO",
+      "consigna": "Vas a tener la primera reunión con una clienta nueva. Escríbele un email corto para presentarte: quién eres, tu cargo, de qué te encargas, tu equipo, y termina con una pregunta.",
+      "requisitos": [
+        {
+          "texto": "Di quién eres con I'm + nombre o cargo",
+          "patron": "\\b(i'm|i am)\\b"
+        },
+        {
+          "texto": "Explica tu responsabilidad con in charge of / responsible for",
+          "patron": "\\b(in charge of|responsible for)\\b"
+        },
+        {
+          "texto": "Habla de tu equipo: I lead a team of… / There are … of us",
+          "patron": "\\b(lead|manage) a team of\\b|\\bthere are \\w+ of us\\b"
+        },
+        {
+          "texto": "Haz una pregunta con do / does / are / is",
+          "patron": "\\b(do|does|are|is)\\s+(you|your|we|she|he|they)\\b[^?]*\\?"
+        }
+      ],
+      "minPalabras": 50,
+      "ejemplo": "Dear Ms. Collins, I'm Jonathan, the account director at Brava, and I'm writing to introduce myself before our meeting on Monday. I'm in charge of the digital team, and I lead a team of eight people in Bogotá. We help food and retail brands grow on social media and in search. Do you prefer to start with a short presentation or with your questions? Looking forward to meeting you. Best regards, Jonathan",
+      "explica": "Presentarte es armar piezas: I'm + cargo, I'm in charge of / responsible for (preposición fija), I lead a team of… y una pregunta con do o be para abrir la conversación. Nunca «I am work» ni «responsible of»."
+    }
+  ]
+}

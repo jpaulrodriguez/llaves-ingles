@@ -1,0 +1,404 @@
+{
+  "tema": "presente-perfecto",
+  "ejercicios": [
+    {
+      "id": "presente-perfecto-x3-001",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "PP",
+      "titulo": "My English journey",
+      "instruccion": "Completa con el presente perfecto (have / has + participio). Ojo con ever, never y yet.",
+      "texto": "I {1} (study) English on and off since college, but this year is different. I {2} (download) a new app and I {3} (practice) almost every day for three months. My girlfriend {4} (notice) the change; she says my pronunciation is better. I {5} (not / watch) a full movie without subtitles yet, but I {6} (start) to understand podcasts. {7} (you / ever / try) to learn a language as an adult? It's hard, but I {8} (never / enjoy) it so much.",
+      "huecos": [
+        {
+          "respuestas": [
+            "have studied",
+            "'ve studied"
+          ]
+        },
+        {
+          "respuestas": [
+            "have downloaded",
+            "'ve downloaded"
+          ]
+        },
+        {
+          "respuestas": [
+            "have practiced",
+            "'ve practiced",
+            "have practised",
+            "'ve practised"
+          ]
+        },
+        {
+          "respuestas": [
+            "has noticed",
+            "'s noticed"
+          ]
+        },
+        {
+          "respuestas": [
+            "haven't watched",
+            "have not watched"
+          ]
+        },
+        {
+          "respuestas": [
+            "have started",
+            "'ve started"
+          ]
+        },
+        {
+          "respuestas": [
+            "Have you ever tried"
+          ]
+        },
+        {
+          "respuestas": [
+            "have never enjoyed",
+            "'ve never enjoyed"
+          ]
+        }
+      ],
+      "explica": "Lo que empezó antes y sigue (since college, for three months) y lo que pasó en un periodo que no ha terminado (this year) → have/has + participio. My girlfriend → has. Ever, never y yet acompañan al presente perfecto: Have you ever tried…?, I've never enjoyed, haven't watched… yet."
+    },
+    {
+      "id": "presente-perfecto-x3-002",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "PP",
+      "titulo": "Before the client call",
+      "instruccion": "Elige la forma correcta. Fíjate en las palabras clave: ago, yet, just, since.",
+      "texto": "Laura: '{1} you sent the invoice to the bank?' Me: 'Yes, I {2} it an hour ago.' Laura: 'Great. And has the client approved the budget {3}?' Me: 'No, not yet. But Mike {4} spoken with their finance director this morning, and he says it looks good.' Laura: 'Perfect. Have you {5} the new contract?' Me: 'I've {6} finished it. Two minutes ago!' Laura: 'Then let's call them. They've been in the office {7} ten o'clock.'",
+      "huecos": [
+        {
+          "opciones": [
+            "Did",
+            "Have",
+            "Has"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "have sent",
+            "sent",
+            "has sent"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "already",
+            "yet",
+            "just"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "has",
+            "have",
+            "is"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "read",
+            "readed",
+            "reading"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "yet",
+            "just",
+            "ever"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "for",
+            "since",
+            "from"
+          ],
+          "a": 1
+        }
+      ],
+      "explica": "Have you sent…? pregunta por un resultado de ahora; an hour ago es un momento terminado → pasado simple (I sent it). Yet en preguntas y negativas; just = hace un momento. Mike → has spoken. Read → read (participio). Since + punto de inicio (ten o'clock)."
+    },
+    {
+      "id": "presente-perfecto-x3-003",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "PP",
+      "titulo": "Our history with the bank",
+      "instruccion": "Completa con el presente perfecto. Mira el sujeto para elegir have o has.",
+      "texto": "Brava {1} (work) with the bank since 2019. In that time we {2} (make) more than forty campaigns for them and we {3} (win) two awards together. Their marketing director, Patricia, {4} (be) our main contact for three years. She {5} (not / miss) a single launch event. Recently, the bank {6} (open) offices in Peru, and they {7} (ask) us to help with the launch there. We {8} (not / say) yes yet.",
+      "huecos": [
+        {
+          "respuestas": [
+            "has worked",
+            "'s worked"
+          ]
+        },
+        {
+          "respuestas": [
+            "have made",
+            "'ve made"
+          ]
+        },
+        {
+          "respuestas": [
+            "have won",
+            "'ve won"
+          ]
+        },
+        {
+          "respuestas": [
+            "has been",
+            "'s been"
+          ]
+        },
+        {
+          "respuestas": [
+            "hasn't missed",
+            "has not missed"
+          ]
+        },
+        {
+          "respuestas": [
+            "has opened",
+            "'s opened"
+          ]
+        },
+        {
+          "respuestas": [
+            "have asked",
+            "'ve asked"
+          ]
+        },
+        {
+          "respuestas": [
+            "haven't said",
+            "have not said"
+          ]
+        }
+      ],
+      "explica": "Brava, Patricia, the bank → has; we, they → have. Participios irregulares: make → made, win → won, be → been, say → said. Since 2019 y for three years marcan algo que empezó antes y sigue hoy."
+    },
+    {
+      "id": "presente-perfecto-x3-004",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "TPO",
+      "titulo": "Mexico City, four times",
+      "instruccion": "Elige entre presente perfecto (experiencia sin fecha, hasta hoy) y pasado simple (momento terminado).",
+      "texto": "I {1} to Mexico City four times. The first time {2} in 2015, for a design festival. I {3} the food so much that I gained three kilos. Since then, I {4} back for work three more times. Last year I {5} a client there and we {6} to a lucha libre fight. I {7} a better night in my life. I hope I can go back next year.",
+      "huecos": [
+        {
+          "opciones": [
+            "went",
+            "have been",
+            "was"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "has been",
+            "was",
+            "have been"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "have loved",
+            "loved",
+            "love"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "have gone",
+            "went",
+            "go"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "have visited",
+            "visited",
+            "visit"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "went",
+            "have gone",
+            "go"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "have never had",
+            "never had",
+            "haven't never had"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Experiencia total hasta hoy (four times, since then, never in my life) → presente perfecto. Un momento concreto y terminado (in 2015, last year) → pasado simple: was, loved, visited, went. Una sola negación: I've never had."
+    },
+    {
+      "id": "presente-perfecto-x3-005",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "PP",
+      "titulo": "Dad's new phone",
+      "texto": "My dad sent me a long message this morning. 'Son, I have some news. I've bought a smartphone. Don't laugh. Your aunt has shown me how to use it, and I've already sent three photos to the family group. I haven't learned how to make video calls yet, but I've practiced with the camera a lot. I've taken forty photos of my plants! I've also downloaded an app for the radio. Have you seen my photos? Please answer. I've checked my phone ten times since breakfast.' I laughed for five minutes, and then I called him.",
+      "preguntas": [
+        {
+          "q": "What has his dad bought?",
+          "opciones": [
+            "A radio",
+            "A smartphone",
+            "Some plants"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What hasn't his dad learned yet?",
+          "opciones": [
+            "To make video calls",
+            "To take photos",
+            "To send messages"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«I've already sent three photos»: ¿qué indica already?",
+          "opciones": [
+            "Que no ha pasado todavía",
+            "Que pasará pronto",
+            "Que ya pasó, quizá antes de lo esperado"
+          ],
+          "a": 2
+        },
+        {
+          "q": "«Your aunt has shown me»: ¿qué forma es shown?",
+          "opciones": [
+            "El participio de show",
+            "El pasado simple de show",
+            "La forma base"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Novedades que importan ahora → have/has + participio (I've bought, has shown, I've taken). Already y yet: lo que ya pasó y lo que todavía no. Pero this morning y for five minutes con un momento terminado → pasado simple: sent, laughed, called."
+    },
+    {
+      "id": "presente-perfecto-x3-006",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "PP",
+      "titulo": "A job interview",
+      "texto": "Interviewer: So, tell me about your experience. Candidate: Well, I've worked in advertising for eight years. I've managed accounts for banks, airlines and food brands. Interviewer: Have you ever led a team? Candidate: Yes. I've led a team of six people since last year. Interviewer: And have you ever lost a client? Candidate: Once. In 2020 a client left us after a bad launch. I learned a lot from that. Since then, I've always checked every detail twice. Interviewer: Have you used any AI tools in your work? Candidate: Yes, I've used them a lot this year, mostly for research.",
+      "preguntas": [
+        {
+          "q": "How long has the candidate worked in advertising?",
+          "opciones": [
+            "Six years",
+            "Eight years",
+            "Since last year"
+          ],
+          "a": 1
+        },
+        {
+          "q": "When did he lose a client?",
+          "opciones": [
+            "In 2020",
+            "Last year",
+            "Never"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«In 2020 a client left us»: ¿por qué pasado simple?",
+          "opciones": [
+            "Porque es una experiencia sin fecha",
+            "Porque sigue pasando hoy",
+            "Porque hay una fecha terminada"
+          ],
+          "a": 2
+        },
+        {
+          "q": "«I've led a team of six people since last year»: ¿qué significa?",
+          "opciones": [
+            "Empezó el año pasado y sigue liderándolo",
+            "Ya no lidera el equipo",
+            "Lo liderará el próximo año"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "En una entrevista, la trayectoria hasta hoy va en presente perfecto (I've worked, I've managed, Have you ever led…?). Si das la fecha (in 2020), cambias a pasado simple: a client left us."
+    },
+    {
+      "id": "presente-perfecto-x3-007",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "PP",
+      "consigna": "Escribe tu bio profesional para la página web de la agencia: cuánto tiempo llevas en la publicidad (for / since), qué has logrado y una experiencia que todavía no has tenido.",
+      "requisitos": [
+        {
+          "texto": "Usa have / has + participio",
+          "patron": "(\\bhave|\\bhas|'ve)\\s+(\\w+\\s+)?(\\w+ed|been|done|made|won|led|seen|written|taken|given|built|grown|run|known|met|had|brought|taught|gone|found|sent|bought|started)\\b"
+        },
+        {
+          "texto": "Di cuánto tiempo con for o since",
+          "patron": "\\b(for \\w+ years|since \\d{4}|since last \\w+)\\b"
+        },
+        {
+          "texto": "Incluye yet o never",
+          "patron": "\\b(yet|never)\\b"
+        }
+      ],
+      "minPalabras": 50,
+      "ejemplo": "Jonathan is an account director at Brava. He has worked in advertising for twelve years and he has been at Brava since 2019. In that time he has led campaigns for banks, food brands and universities, and his team has won three local awards. He has always loved working with creative people. He hasn't run a campaign outside Latin America yet, but it's on his list.",
+      "explica": "Una bio cuenta la trayectoria hasta hoy → has + participio (has worked, has been, has led, has won). For + periodo, since + punto de inicio. Lo pendiente: hasn't run… yet."
+    },
+    {
+      "id": "presente-perfecto-x3-008",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "PP",
+      "consigna": "Escríbele a un amigo que no ves hace tiempo y cuéntale qué ha cambiado en tu vida este año (trabajo, casa, hábitos). Hazle una pregunta con Have you…?",
+      "requisitos": [
+        {
+          "texto": "Usa have / has + participio",
+          "patron": "(\\bhave|\\bhas|'ve)\\s+(\\w+\\s+)?(\\w+ed|been|done|made|won|led|seen|written|taken|given|built|grown|run|known|met|had|brought|taught|gone|found|sent|bought|started)\\b"
+        },
+        {
+          "texto": "Haz una pregunta con have you…?",
+          "patron": "\\bhave\\s+you\\s+(\\w+\\s+)?\\w+[^?]*\\?"
+        },
+        {
+          "texto": "Usa this year, recently o lately",
+          "patron": "\\b(this year|recently|lately|this month)\\b"
+        }
+      ],
+      "minPalabras": 40,
+      "ejemplo": "Hi Felipe! It's been a long time. A lot has changed this year. I've moved to a bigger apartment in Chapinero, and my girlfriend has started a new job. At work, I've taken a new role: now I lead the digital team. I've also started running in the mornings. Have you finished your documentary in the Amazon? Let's have a beer soon!",
+      "explica": "Novedades de un periodo que sigue abierto (this year) → presente perfecto: I've moved, she has started, I've taken. La pregunta: Have you finished…? Have delante del sujeto y el participio después."
+    }
+  ]
+}

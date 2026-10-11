@@ -1,6 +1,6 @@
-import { S, dueIds, temaMastery, temaIds } from "../store.js";
+import { S, dueIds, temaMastery, temaIds, wordsLearned } from "../store.js";
 import { h, esc, icon, ring, $, $$ } from "../ui.js";
-import { sessionHoy, sessionRepaso, sessionErrores, sessionTema, sessionGym } from "../session.js";
+import { sessionHoy, sessionRepaso, sessionErrores, sessionTema, sessionGym, sessionPalabras, sessionExtensos, wordsLeftToday, LONG } from "../session.js";
 import { TENSES, FORMS } from "../generator.js";
 import { play } from "../player.js";
 import { route } from "../main.js";
@@ -19,6 +19,8 @@ export function viewPractice() {
     <section class="section mode-grid">
       <button class="tile" data-m="hoy"><span class="tile-ic">${icon("spark")}</span><span class="t"><b>Sesión de hoy</b><span>Repaso + foco + llaves rotas, mezclado</span></span><span class="go">${icon("right")}</span></button>
       <button class="tile" data-m="repaso" ${due ? "" : "disabled"}><span class="tile-ic key">${icon("redo")}</span><span class="t"><b>Repaso pendiente</b><span>${due ? due + " ejercicios vencidos" : "Nada vencido"}</span></span><span class="go">${icon("right")}</span></button>
+      ${S.words.length ? `<button class="tile" data-m="palabras"><span class="tile-ic ok">${icon("layers")}</span><span class="t"><b>Palabras nuevas</b><span>${wordsLeftToday() || "Más"} por hoy · ${wordsLearned()}/${S.words.length} aprendidas</span></span><span class="go">${icon("right")}</span></button>` : ""}
+      <button class="tile" data-m="extensos"><span class="tile-ic ink">${icon("book")}</span><span class="t"><b>Ejercicios extensos</b><span>Textos, lecturas y redacción · nivel 3</span></span><span class="go">${icon("right")}</span></button>
       <button class="tile" data-m="errores" ${errs ? "" : "disabled"}><span class="tile-ic bad">${icon("target")}</span><span class="t"><b>Mis errores</b><span>${errs ? errs + " ejercicios que fallaste" : "Todavía sin errores guardados"}</span></span><span class="go">${icon("right")}</span></button>
     </section>
 
@@ -38,7 +40,8 @@ export function viewPractice() {
   </div>`);
 
   const go = s => play(s, { onExit: route });
-  $$("[data-m]", el).forEach(b => b.onclick = () => go(b.dataset.m === "hoy" ? sessionHoy() : b.dataset.m === "repaso" ? sessionRepaso() : sessionErrores()));
+  const MODES = { hoy: sessionHoy, repaso: sessionRepaso, errores: sessionErrores, palabras: () => sessionPalabras(), extensos: () => sessionExtensos() };
+  $$("[data-m]", el).forEach(b => b.onclick = () => go(MODES[b.dataset.m]()));
 
   const toggle = (box, key) => $$("button", box).forEach(b => b.onclick = () => {
     const arr = gymState[key]; const k = b.dataset.k;
@@ -58,7 +61,7 @@ export function viewPractice() {
     box.append(h(`<p class="eyebrow" style="margin-top:22px">${esc(g)}</p>`));
     const grid = h(`<div class="grid-3"></div>`);
     ts.forEach(t => {
-      const b = h(`<button class="tile">${ring(temaMastery(t.id), 44, 4)}<span class="t"><b>${esc(t.titulo)}</b><span>${temaIds(t.id).length} ejercicios${t.llave ? " · " + esc(t.llave) : ""}</span></span></button>`);
+      const b = h(`<button class="tile">${ring(temaMastery(t.id), 44, 4)}<span class="t"><b>${esc(t.titulo)}</b><span>${temaIds(t.id).length} ejercicios${t.palabras ? ` · ${t.palabras.length} palabras` : ""}${t.llave ? " · " + esc(t.llave) : ""}</span></span></button>`);
       b.onclick = () => go(sessionTema(t.id));
       grid.append(b);
     });

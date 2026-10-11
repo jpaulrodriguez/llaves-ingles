@@ -1,5 +1,6 @@
 // Estado global: contenido (temas + extra + plan) y progreso (se guarda en el servidor y en el navegador).
 import { review, today, isDue, mastery, daysBetween, addDays } from "./srs.js";
+import { buildWords } from "./words.js";
 
 const LS = "llaves-progreso-v1";
 
@@ -29,7 +30,8 @@ export function localEvents() {
 const blankProgress = () => ({
   version: 1, creado: today(), items: {}, days: {}, codes: {}, xp: 0,
   streak: { current: 0, best: 0, last: null },
-  settings: { sound: true, size: 20, theme: "auto", voice: "" },
+  settings: { sound: true, size: 20, theme: "auto", voice: "", wordsPerDay: 5 },
+  words: {},
 });
 
 export async function load() {
@@ -75,7 +77,16 @@ function ingest({ temas, extra, plan, errors }) {
   S.temas = Object.values(byId).sort((a, b) => (a.orden ?? 999) - (b.orden ?? 999));
   S.items = {};
   for (const t of S.temas) for (const e of t.ejercicios) S.items[e.id] = e;
-  const order = ["Tiempos verbales", "Modales", "Estructuras", "Inglés para el trabajo", "Vocabulario", "Errores típicos", "Refuerzos"];
+  // Vocabulario progresivo (v2): palabras y sus ejercicios derivados; se juegan solo tras presentarlas.
+  S.words = []; S.wordById = {};
+  for (const t of S.temas) {
+    if (!t.palabras) continue;
+    const { words, items } = buildWords(t);
+    t.wordItems = items;
+    for (const w of words) { S.words.push(w); S.wordById[w.wid] = w; }
+    for (const e of items) S.items[e.id] = e;
+  }
+  const order = ["Tiempos verbales", "Modales", "Estructuras", "Adverbios y preposiciones", "Inglés para el trabajo", "Vocabulario", "Errores típicos", "Refuerzos"];
   const gs = [...new Set(S.temas.map(t => t.grupo || "Otros"))];
   S.groups = gs.sort((a, b) => (order.indexOf(a) + 99) % 99 - (order.indexOf(b) + 99) % 99 || a.localeCompare(b));
   S.plan = plan;
@@ -154,10 +165,10 @@ function rollStreak() {
 }
 
 // ---- consultas ----
-export const temaIds = t => (S.byId[t]?.ejercicios || []).filter(e => e.tipo !== "hablar").map(e => e.id);
+export const temaIds = t => (S.byId[t]?.ejercicios || []).filter(e => !["hablar", "texto", "lectura", "componer"].includes(e.tipo)).map(e => e.id);
 export const temaMastery = t => mastery(temaIds(t), S.prog.items);
 export const temaSeen = t => temaIds(t).filter(id => S.prog.items[id]?.seen).length;
-export const dueIds = () => Object.entries(S.prog.items).filter(([id, r]) => S.items[id] && S.items[id].tipo !== "hablar" && isDue(r)).map(([id]) => id);
+export const dueIds = () => Object.entries(S.prog.items).filter(([id, r]) => S.items[id] && !["hablar", "texto", "lectura", "componer", "presentar"].includes(S.items[id].tipo) && isDue(r)).map(([id]) => id);
 
 export function codeStats(days = 7, offset = 0) {
   const out = {};
@@ -186,3 +197,30 @@ export const CODES = {
   TPO: "Elegir el tiempo correcto", UT: "Used to", PP: "Presente perfecto", FUT: "Futuro", CMP: "Comparativos",
   CUA: "Cuantificadores", PRO: "Pronombres indefinidos", CON: "Conectores", VOC: "Vocabulario", USO: "Frases hechas y calcos",
 };
+
+// ---- vocabulario progresivo ----
+export function introduceWord(wid) {
+  if (!S.prog.words) S.prog.words = {};
+  if (!S.prog.words[wid]) { S.prog.words[wid] = today(); logEvent({ tema: S.wordById[wid]?.tema, id: "intro:" + wid, tipo: "presentar", ok: true }); save(); }
+}
+export const wordsIntroducedToday = () => Object.values(S.prog.words || {}).filter(d => d === today()).length;
+export const wordsLearned = () => Object.keys(S.prog.words || {}).filter(w => S.wordById[w]).length;
+
+// Próximas palabras sin presentar: por orden de utilidad, alternando capítulos
+// (un verbo, un adjetivo, un adverbio…) para que el vocabulario crezca parejo.
+export function nextWords(n, temaId = null) {
+  const seen = S.prog.words || {};
+  const pend = S.words.filter(w => !seen[w.wid] && (!temaId || w.tema === temaId)).sort((a, b) => a.orden - b.orden);
+  if (temaId) return pend.slice(0, n);
+  const byTema = {};
+  for (const w of pend) (byTema[w.tema] ||= []).push(w);
+  const pri = ["verbos-esenciales", "adjetivos", "adverbios-tiempo", "preposiciones", "phrasal-verbs", "adverbios-frecuencia", "adverbios-cantidad", "adverbios-modo", "vocab-trabajo", "pronombres-posesivos", "preguntas-wh", "vocab-personalidad", "vocab-viajes", "verbos-irregulares"];
+  const temas = Object.keys(byTema).sort((a, b) => ((pri.indexOf(a) + 99) % 99) - ((pri.indexOf(b) + 99) % 99));
+  const out = [];
+  for (let i = 0; out.length < n && temas.some(t => byTema[t].length); i++) {
+    const t = temas[i % temas.length];
+    if (byTema[t].length) out.push(byTema[t].shift());
+  }
+  return out;
+}
+export const wordItems = wid => Object.values(S.items).filter(e => e.word === wid);

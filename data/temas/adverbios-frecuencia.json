@@ -1,0 +1,1480 @@
+{
+  "id": "adverbios-frecuencia",
+  "titulo": "Adverbios de frecuencia",
+  "grupo": "Adverbios y preposiciones",
+  "orden": 165,
+  "nivel": "A2",
+  "resumen": "Qué tan seguido haces algo: always, usually, often, sometimes, rarely, hardly ever, never; every day, once / twice / three times a week, from time to time. Dónde va el adverbio (antes del verbo, después de be, en medio con auxiliares) y cómo preguntar con How often…?",
+  "llave": "antes del verbo · después de be",
+  "teoria": {
+    "paraQue": "Para decir qué tan seguido haces algo: siempre, casi siempre, a veces, casi nunca, nunca, una vez a la semana. Y para preguntarlo con How often…? Sirve para hablar de tu rutina, de tus hábitos y de cómo trabaja tu equipo.",
+    "llave": "La llave es la posición: el adverbio va antes del verbo principal (I always go) y después del verbo be (I'm always late). Con auxiliares, va en medio: I don't usually work on Sundays, Have you ever been…? Las expresiones largas (every day, twice a week, from time to time) no caben ahí: van al final o al inicio de la frase. La pregunta es How often…? con do/does.",
+    "formulas": [
+      {
+        "tipo": "Con verbo normal",
+        "formula": "Sujeto + adverbio + verbo",
+        "ejemplo": "I always {{have}} coffee before work. She never {{check((s))}} her phone in meetings."
+      },
+      {
+        "tipo": "Con be",
+        "formula": "Sujeto + am/is/are + adverbio",
+        "ejemplo": "Laura [[is]] never late. I[['m]] usually at the office by 8."
+      },
+      {
+        "tipo": "Negativa",
+        "formula": "Sujeto + don't/doesn't + adverbio + verbo",
+        "ejemplo": "I [[do]]n't usually {{work}} on weekends."
+      },
+      {
+        "tipo": "Pregunta",
+        "formula": "Do/Does + sujeto + adverbio + verbo?",
+        "ejemplo": "[[Do]] you ever {{work}} on Saturdays? [[Does]] he always {{arrive}} on time?"
+      },
+      {
+        "tipo": "How often…?",
+        "formula": "How often + do/does + sujeto + verbo?",
+        "ejemplo": "How often [[do]] you {{go}} to the gym? — Three times a week."
+      },
+      {
+        "tipo": "Expresiones de frecuencia",
+        "formula": "… + every day / once a week / twice a month / three times a year / from time to time (al final)",
+        "ejemplo": "We {{have}} a status meeting once a week. I {{call}} my parents from time to time."
+      },
+      {
+        "tipo": "Escala",
+        "formula": "always 100 % · usually / normally 80 % · often 70 % · sometimes 50 % · occasionally 30 % · rarely / seldom 10 % · hardly ever 5 % · never 0 %",
+        "ejemplo": "I always {{answer}} emails; I sometimes {{answer}} the phone; I never {{answer}} on vacation."
+      }
+    ],
+    "reglas": [
+      "Los adverbios cortos (always, usually, often, sometimes, rarely, hardly ever, never) van antes del verbo principal: I always go, she never calls.",
+      "Con el verbo be, el adverbio va después: I'm always tired on Mondays, she is never late. Es lo contrario que con los demás verbos.",
+      "Con auxiliares y modales, el adverbio va en medio: I don't usually work late, I can always help, Have you ever been there?",
+      "Never, rarely, seldom y hardly ever ya son negativos: no les pongas not. I never work on Sundays (nunca «I don't never work»).",
+      "Hardly ever es «casi nunca». Nunca digas «hardly never» ni «almost never» como si fueran lo mismo que hardly: hardly solo es «apenas».",
+      "Las expresiones largas (every day, once a week, twice a month, three times a year, from time to time, all the time) van al final o al inicio de la frase, nunca antes del verbo.",
+      "Once = una vez, twice = dos veces, y desde tres se cuenta: three times, four times. Siempre con a: once a week, twice a month (no «once per week» en conversación, ni «one time a week»).",
+      "Every + singular: every day, every week, every Monday (no «every days», no «all the days»).",
+      "La pregunta es How often do you…? (¿cada cuánto?). No existe «how much often» ni «how frequent do you».",
+      "Sometimes es el único que se mueve libremente: Sometimes I work late / I sometimes work late / I work late sometimes.",
+      "Usually, normally y often también pueden ir al inicio con coma: Usually, I start at 8. Always y never no van al inicio en frases normales."
+    ],
+    "senales": [
+      "always",
+      "usually",
+      "often",
+      "sometimes",
+      "rarely",
+      "hardly ever",
+      "never",
+      "ever",
+      "every day",
+      "once a week",
+      "twice a month",
+      "three times a week",
+      "from time to time",
+      "How often…?"
+    ],
+    "usos": [
+      {
+        "uso": "Tu rutina",
+        "contexto": "diario",
+        "ejemplo": "I usually {{get}} up at 6 and I {{go}} to the gym three times a week."
+      },
+      {
+        "uso": "Lo que nunca haces",
+        "contexto": "diario",
+        "ejemplo": "I never {{eat}} breakfast at home on weekdays."
+      },
+      {
+        "uso": "Preguntar por hábitos",
+        "contexto": "diario",
+        "ejemplo": "How often [[do]] you {{see}} your parents? — Every other weekend."
+      },
+      {
+        "uso": "Describir a alguien con be",
+        "contexto": "diario",
+        "ejemplo": "My brother [[is]] always late, but he[['s]] never boring."
+      },
+      {
+        "uso": "Cómo trabaja tu equipo",
+        "contexto": "trabajo",
+        "ejemplo": "We {{have}} a status meeting once a week and we hardly ever {{work}} on Sundays."
+      },
+      {
+        "uso": "Quejarte con tacto",
+        "contexto": "trabajo",
+        "ejemplo": "The client {{change((s))}} the brief all the time. He [[is]] rarely on time for our calls."
+      },
+      {
+        "uso": "Preguntar por procesos",
+        "contexto": "trabajo",
+        "ejemplo": "How often [[do]] you {{send}} reports to the client? — Twice a month."
+      },
+      {
+        "uso": "Hablar de tu jefe o de un colega",
+        "contexto": "trabajo",
+        "ejemplo": "Sarah always {{answer((s))}} emails fast, but she [[do]]esn't usually {{answer}} the phone."
+      }
+    ],
+    "errores": [
+      {
+        "mal": "I go always to the gym at 6.",
+        "bien": "I always go to the gym at 6.",
+        "porque": "El adverbio va antes del verbo, no después.",
+        "code": "USO"
+      },
+      {
+        "mal": "She never is late.",
+        "bien": "She is never late.",
+        "porque": "Con be, el adverbio va después del verbo.",
+        "code": "USO"
+      },
+      {
+        "mal": "We don't never work on Sundays.",
+        "bien": "We never work on Sundays.",
+        "porque": "Never ya es negativo: sin don't.",
+        "code": "USO"
+      },
+      {
+        "mal": "How much often do you travel?",
+        "bien": "How often do you travel?",
+        "porque": "La pregunta es How often, sin much.",
+        "code": "USO"
+      },
+      {
+        "mal": "I check my email all the days.",
+        "bien": "I check my email every day.",
+        "porque": "«Todos los días» es every day, en singular.",
+        "code": "USO"
+      },
+      {
+        "mal": "I go running two times a week.",
+        "bien": "I go running twice a week.",
+        "porque": "Dos veces es twice. Three times, four times desde tres.",
+        "code": "USO"
+      },
+      {
+        "mal": "I every day check my email.",
+        "bien": "I check my email every day.",
+        "porque": "Las expresiones largas van al final o al inicio, no antes del verbo.",
+        "code": "USO"
+      },
+      {
+        "mal": "I hardly never work late.",
+        "bien": "I hardly ever work late.",
+        "porque": "«Casi nunca» es hardly ever. Hardly never no existe.",
+        "code": "USO"
+      }
+    ],
+    "contraste": [
+      {
+        "a": "I always {{go}} to the gym at 6.",
+        "b": "I [[am]] always at the gym at 6.",
+        "nota": "Antes del verbo normal; después de be."
+      },
+      {
+        "a": "I never {{work}} on Sundays.",
+        "b": "I [[do]]n't usually {{work}} on Sundays.",
+        "nota": "Never no lleva not. Usually sí puede ir con don't, y va después del auxiliar."
+      },
+      {
+        "a": "I {{go}} running twice a week.",
+        "b": "I often {{go}} running.",
+        "nota": "La expresión con número va al final; el adverbio corto va antes del verbo."
+      },
+      {
+        "a": "I hardly ever {{travel}} for work.",
+        "b": "I [[can]] hardly {{hear}} you.",
+        "nota": "Hardly ever = casi nunca (frecuencia). Hardly solo = apenas (grado)."
+      }
+    ],
+    "frases": [
+      {
+        "en": "How often do you have status meetings?",
+        "es": "¿Cada cuánto tienen reuniones de seguimiento?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "We send the report twice a month.",
+        "es": "Enviamos el informe dos veces al mes.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'm usually at the office by 8:30.",
+        "es": "Normalmente estoy en la oficina a las 8:30.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "The client is never on time for our calls.",
+        "es": "El cliente nunca es puntual para nuestras llamadas.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "We hardly ever work on weekends.",
+        "es": "Casi nunca trabajamos los fines de semana.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I don't usually answer emails after 8 pm.",
+        "es": "Normalmente no respondo correos después de las 8 de la noche.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I go to the gym three times a week.",
+        "es": "Voy al gimnasio tres veces a la semana.",
+        "contexto": "diario"
+      },
+      {
+        "en": "I always have coffee before anything else.",
+        "es": "Siempre tomo café antes que nada.",
+        "contexto": "diario"
+      },
+      {
+        "en": "We go out for dinner once in a while.",
+        "es": "Salimos a cenar de vez en cuando.",
+        "contexto": "diario"
+      },
+      {
+        "en": "Do you ever cook at home?",
+        "es": "¿Alguna vez cocinas en casa?",
+        "contexto": "diario"
+      },
+      {
+        "en": "I call my parents every other day.",
+        "es": "Llamo a mis papás cada dos días.",
+        "contexto": "diario"
+      }
+    ],
+    "tip": "Piensa en be como un imán: atrae al adverbio detrás de él (I'm always late). Los demás verbos lo empujan adelante (I always go). Y si la expresión es larga, no cabe en medio: mándala al final."
+  },
+  "palabras": [
+    {
+      "id": "always",
+      "en": "always",
+      "ipa": "/ˈɔlweɪz/",
+      "es": "siempre (100 %)",
+      "clase": "adverbio",
+      "orden": 1,
+      "ejemplo": "I always have coffee before work.",
+      "hueco": {
+        "frase": "I ___ have coffee before work. (siempre)",
+        "respuestas": [
+          "always"
+        ]
+      },
+      "nota": "Antes del verbo, después de be: I always go · I'm always late.",
+      "opuesto": "never"
+    },
+    {
+      "id": "usually",
+      "en": "usually",
+      "ipa": "/ˈjuːʒuəli/",
+      "es": "normalmente, casi siempre (80 %)",
+      "clase": "adverbio",
+      "orden": 2,
+      "ejemplo": "I usually work from home on Fridays.",
+      "hueco": {
+        "frase": "I ___ work from home on Fridays. (normalmente)",
+        "respuestas": [
+          "usually"
+        ]
+      },
+      "nota": "Antes del verbo. En negativa: I don't usually… (no «I usually don't» solo)."
+    },
+    {
+      "id": "never",
+      "en": "never",
+      "ipa": "/ˈnɛvər/",
+      "es": "nunca (0 %)",
+      "clase": "adverbio",
+      "orden": 3,
+      "ejemplo": "She never checks her phone in meetings.",
+      "hueco": {
+        "frase": "She ___ checks her phone in meetings. (nunca)",
+        "respuestas": [
+          "never"
+        ]
+      },
+      "nota": "Antes del verbo y sin not: never ya es negativo. Nunca «doesn't never».",
+      "opuesto": "always"
+    },
+    {
+      "id": "sometimes",
+      "en": "sometimes",
+      "ipa": "/ˈsʌmtaɪmz/",
+      "es": "a veces (50 %)",
+      "clase": "adverbio",
+      "orden": 4,
+      "ejemplo": "We sometimes have lunch together.",
+      "hueco": {
+        "frase": "We ___ have lunch together. (a veces)",
+        "respuestas": [
+          "sometimes"
+        ]
+      },
+      "nota": "El más flexible: antes del verbo, al inicio o al final de la frase."
+    },
+    {
+      "id": "often",
+      "en": "often",
+      "ipa": "/ˈɔfən/",
+      "es": "a menudo, con frecuencia (70 %)",
+      "clase": "adverbio",
+      "orden": 5,
+      "ejemplo": "Mike often travels to Medellín for work.",
+      "hueco": {
+        "frase": "Mike ___ travels to Medellín for work. (a menudo)",
+        "respuestas": [
+          "often"
+        ]
+      },
+      "nota": "Antes del verbo. La t casi no se pronuncia: /ˈɔfən/.",
+      "opuesto": "rarely"
+    },
+    {
+      "id": "every-day",
+      "en": "every day",
+      "ipa": "/ˈɛvri deɪ/",
+      "es": "todos los días",
+      "clase": "expresión",
+      "orden": 6,
+      "ejemplo": "I check my email every day.",
+      "hueco": {
+        "frase": "I check my email ___. (todos los días)",
+        "respuestas": [
+          "every day"
+        ]
+      },
+      "nota": "Al final o al inicio de la frase, nunca en medio. Every + singular: every day, every week, no «every days»."
+    },
+    {
+      "id": "hardly-ever",
+      "en": "hardly ever",
+      "ipa": "/ˈhɑrdli ˈɛvər/",
+      "es": "casi nunca (5 %)",
+      "clase": "expresión",
+      "orden": 7,
+      "ejemplo": "We hardly ever work on Sundays.",
+      "hueco": {
+        "frase": "We ___ work on Sundays. (casi nunca)",
+        "respuestas": [
+          "hardly ever"
+        ]
+      },
+      "nota": "Antes del verbo. Ya es negativo: sin not. Nunca «hardly never»."
+    },
+    {
+      "id": "how-often",
+      "en": "How often…?",
+      "ipa": "/haʊ ˈɔfən/",
+      "es": "¿Con qué frecuencia…? ¿Cada cuánto…?",
+      "clase": "expresión",
+      "orden": 8,
+      "ejemplo": "How often do you go to the gym?",
+      "hueco": {
+        "frase": "___ do you go to the gym? (con qué frecuencia)",
+        "respuestas": [
+          "How often",
+          "how often"
+        ]
+      },
+      "nota": "La pregunta de la frecuencia. Lleva do/does: How often do you…? No «how much often»."
+    },
+    {
+      "id": "once-a-week",
+      "en": "once a week",
+      "ipa": "/wʌns ə wiːk/",
+      "es": "una vez a la semana",
+      "clase": "expresión",
+      "orden": 9,
+      "ejemplo": "We have a status meeting once a week.",
+      "hueco": {
+        "frase": "We have a status meeting ___. (una vez a la semana)",
+        "respuestas": [
+          "once a week"
+        ]
+      },
+      "nota": "Al final de la frase. Once = una vez; también once a month, once a year."
+    },
+    {
+      "id": "twice-a-week",
+      "en": "twice a week",
+      "ipa": "/twaɪs ə wiːk/",
+      "es": "dos veces a la semana",
+      "clase": "expresión",
+      "orden": 10,
+      "ejemplo": "I go running twice a week.",
+      "hueco": {
+        "frase": "I go running ___. (dos veces a la semana)",
+        "respuestas": [
+          "twice a week"
+        ]
+      },
+      "nota": "Al final. Twice, no «two times» (se entiende, pero suena a traducción)."
+    },
+    {
+      "id": "three-times-a-week",
+      "en": "three times a week",
+      "ipa": "/θriː taɪmz ə wiːk/",
+      "es": "tres veces a la semana",
+      "clase": "expresión",
+      "orden": 11,
+      "ejemplo": "Laura goes to the gym three times a week.",
+      "hueco": {
+        "frase": "Laura goes to the gym ___. (tres veces a la semana)",
+        "respuestas": [
+          "three times a week"
+        ]
+      },
+      "nota": "Al final. Desde tres: three times, four times, ten times a week. Nunca «three times in the week»."
+    },
+    {
+      "id": "rarely",
+      "en": "rarely",
+      "ipa": "/ˈrɛrli/",
+      "es": "rara vez, pocas veces (10 %)",
+      "clase": "adverbio",
+      "orden": 12,
+      "ejemplo": "I rarely eat fast food.",
+      "hueco": {
+        "frase": "I ___ eat fast food. (rara vez)",
+        "respuestas": [
+          "rarely"
+        ]
+      },
+      "nota": "Antes del verbo. Negativo por sí solo: sin not.",
+      "opuesto": "often"
+    },
+    {
+      "id": "normally",
+      "en": "normally",
+      "ipa": "/ˈnɔrməli/",
+      "es": "normalmente (80 %)",
+      "clase": "adverbio",
+      "orden": 13,
+      "ejemplo": "We normally finish at 6.",
+      "hueco": {
+        "frase": "We ___ finish at 6. (normalmente)",
+        "respuestas": [
+          "normally"
+        ]
+      },
+      "nota": "Antes del verbo, igual que usually. También al inicio: Normally, we finish at 6."
+    },
+    {
+      "id": "ever",
+      "en": "ever (en preguntas)",
+      "ipa": "/ˈɛvər/",
+      "es": "alguna vez",
+      "clase": "adverbio",
+      "orden": 14,
+      "ejemplo": "Do you ever work on weekends?",
+      "hueco": {
+        "frase": "Do you ___ work on weekends? (alguna vez)",
+        "respuestas": [
+          "ever"
+        ]
+      },
+      "nota": "Solo en preguntas (y después de hardly). Va antes del verbo: Do you ever…?"
+    },
+    {
+      "id": "occasionally",
+      "en": "occasionally",
+      "ipa": "/əˈkeɪʒənəli/",
+      "es": "ocasionalmente, de vez en cuando (30 %)",
+      "clase": "adverbio",
+      "orden": 15,
+      "ejemplo": "I occasionally work late.",
+      "hueco": {
+        "frase": "I ___ work late. (ocasionalmente)",
+        "respuestas": [
+          "occasionally"
+        ]
+      },
+      "nota": "Antes del verbo o al final. Es lo que en español llaman «eventualmente»."
+    },
+    {
+      "id": "from-time-to-time",
+      "en": "from time to time",
+      "ipa": "/frʌm taɪm tə taɪm/",
+      "es": "de vez en cuando",
+      "clase": "expresión",
+      "orden": 16,
+      "ejemplo": "I call my parents from time to time.",
+      "hueco": {
+        "frase": "I call my parents ___. (de vez en cuando)",
+        "respuestas": [
+          "from time to time"
+        ]
+      },
+      "nota": "Al final o al inicio, nunca en medio: las expresiones largas no van antes del verbo."
+    },
+    {
+      "id": "once-in-a-while",
+      "en": "once in a while",
+      "ipa": "/wʌns ɪn ə waɪl/",
+      "es": "de vez en cuando, cada tanto",
+      "clase": "expresión",
+      "orden": 17,
+      "ejemplo": "We go out for dinner once in a while.",
+      "hueco": {
+        "frase": "We go out for dinner ___. (cada tanto)",
+        "respuestas": [
+          "once in a while",
+          "every once in a while"
+        ]
+      },
+      "nota": "Al final. Igual que from time to time."
+    },
+    {
+      "id": "every-other-day",
+      "en": "every other day",
+      "ipa": "/ˈɛvri ˈʌðər deɪ/",
+      "es": "cada dos días, un día sí y otro no",
+      "clase": "expresión",
+      "orden": 18,
+      "ejemplo": "I go to the gym every other day.",
+      "hueco": {
+        "frase": "I go to the gym ___. (cada dos días)",
+        "respuestas": [
+          "every other day"
+        ]
+      },
+      "nota": "Al final. También every other week, every other Friday."
+    },
+    {
+      "id": "all-the-time",
+      "en": "all the time",
+      "ipa": "/ɔl ðə taɪm/",
+      "es": "todo el tiempo, constantemente",
+      "clase": "expresión",
+      "orden": 19,
+      "ejemplo": "The client changes the brief all the time.",
+      "hueco": {
+        "frase": "The client changes the brief ___. (todo el tiempo)",
+        "respuestas": [
+          "all the time"
+        ]
+      },
+      "nota": "Al final. Suele sonar a queja: «todo el tiempo»."
+    },
+    {
+      "id": "most-of-the-time",
+      "en": "most of the time",
+      "ipa": "/moʊst əv ðə taɪm/",
+      "es": "la mayor parte del tiempo, casi siempre",
+      "clase": "expresión",
+      "orden": 20,
+      "ejemplo": "Most of the time I work from the office.",
+      "hueco": {
+        "frase": "___ I work from the office. (la mayor parte del tiempo)",
+        "respuestas": [
+          "Most of the time",
+          "most of the time"
+        ]
+      },
+      "nota": "Al inicio o al final. Equivale a usually, pero como expresión larga no va antes del verbo."
+    }
+  ],
+  "ejercicios": [
+    {
+      "id": "adverbios-frecuencia-001",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "I ___ to the gym before work.",
+      "opciones": [
+        "always go",
+        "am always go",
+        "go always"
+      ],
+      "a": 0,
+      "explica": "El adverbio va antes del verbo normal: I always go. Sin am, y nunca después del verbo."
+    },
+    {
+      "id": "adverbios-frecuencia-002",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Laura ___ late for meetings.",
+      "opciones": [
+        "is never",
+        "never",
+        "is never be"
+      ],
+      "a": 0,
+      "explica": "Con be el adverbio va después: is never late. En inglés hace falta el verbo be."
+    },
+    {
+      "id": "adverbios-frecuencia-003",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "___ do you go to the gym?",
+      "opciones": [
+        "How often",
+        "How much often",
+        "How frequent"
+      ],
+      "a": 0,
+      "explica": "La pregunta de frecuencia es How often, sin much."
+    },
+    {
+      "id": "adverbios-frecuencia-004",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "I check my email ___.",
+      "opciones": [
+        "every day",
+        "every days",
+        "all the days"
+      ],
+      "a": 0,
+      "explica": "«Todos los días» es every day: every + singular."
+    },
+    {
+      "id": "adverbios-frecuencia-005",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "I go to the gym ___ a week.",
+      "opciones": [
+        "three times",
+        "three time",
+        "three times in"
+      ],
+      "a": 0,
+      "explica": "Desde tres se cuenta con times: three times a week."
+    },
+    {
+      "id": "adverbios-frecuencia-006",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "I ___ eat fast food. Maybe once a year.",
+      "opciones": [
+        "hardly ever",
+        "ever",
+        "always"
+      ],
+      "a": 0,
+      "explica": "«Casi nunca» es hardly ever; ever solo va en preguntas."
+    },
+    {
+      "id": "adverbios-frecuencia-007",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "¿Alguna vez trabajas los fines de semana? → Do you ___ work on weekends?",
+      "opciones": [
+        "ever",
+        "never",
+        "sometimes"
+      ],
+      "a": 0,
+      "explica": "«Alguna vez» en una pregunta es ever, entre do y el verbo."
+    },
+    {
+      "id": "adverbios-frecuencia-008",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "I ___ (siempre) have coffee in the morning.",
+      "respuestas": [
+        "always"
+      ],
+      "explica": "Always va antes del verbo have."
+    },
+    {
+      "id": "adverbios-frecuencia-009",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "We ___ (casi nunca) work on Sundays.",
+      "respuestas": [
+        "hardly ever",
+        "rarely",
+        "seldom",
+        "almost never"
+      ],
+      "explica": "«Casi nunca» es hardly ever (o rarely / seldom)."
+    },
+    {
+      "id": "adverbios-frecuencia-010",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Mike goes running ___ a week. (dos veces)",
+      "respuestas": [
+        "twice",
+        "two times"
+      ],
+      "explica": "Dos veces es twice. Two times se entiende, pero suena a traducción."
+    },
+    {
+      "id": "adverbios-frecuencia-011",
+      "tipo": "identificar",
+      "nivel": 1,
+      "code": "USO",
+      "frase": "I usually work from home on Fridays.",
+      "opciones": [
+        "Hábito frecuente: casi siempre",
+        "Algo que pasa en este momento",
+        "Algo que pasó una sola vez"
+      ],
+      "a": 0,
+      "explica": "Usually + presente simple describe un hábito frecuente, no algo de ahora ni de una vez."
+    },
+    {
+      "id": "adverbios-frecuencia-012",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "VOC",
+      "pares": [
+        [
+          "always",
+          "siempre (100 %)"
+        ],
+        [
+          "usually",
+          "casi siempre"
+        ],
+        [
+          "sometimes",
+          "a veces"
+        ],
+        [
+          "hardly ever",
+          "casi nunca"
+        ],
+        [
+          "never",
+          "nunca (0 %)"
+        ]
+      ],
+      "explica": "La escala va de always (100 %) a never (0 %)."
+    },
+    {
+      "id": "adverbios-frecuencia-013",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "USO",
+      "frase": "I go always to the gym at 6.",
+      "correcta": false,
+      "correccion": [
+        "I always go to the gym at 6."
+      ],
+      "explica": "El adverbio va antes del verbo: always go, no go always."
+    },
+    {
+      "id": "adverbios-frecuencia-014",
+      "tipo": "escuchar",
+      "nivel": 1,
+      "code": "USO",
+      "texto": "How often do you go to the gym?",
+      "respuestas": [
+        "How often do you go to the gym?"
+      ],
+      "explica": "How often + do + sujeto + verbo: la pregunta de la frecuencia."
+    },
+    {
+      "id": "adverbios-frecuencia-015",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Andrés ___ late. (never / be)",
+      "respuestas": [
+        "is never"
+      ],
+      "explica": "Con be, el adverbio va después: is never late."
+    },
+    {
+      "id": "adverbios-frecuencia-016",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "We ___ a team lunch on Fridays. (sometimes / have)",
+      "respuestas": [
+        "sometimes have"
+      ],
+      "explica": "Sometimes va antes del verbo normal: sometimes have."
+    },
+    {
+      "id": "adverbios-frecuencia-017",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "I ___ emails after 8 pm. (not / usually / answer)",
+      "respuestas": [
+        "don't usually answer",
+        "do not usually answer",
+        "usually don't answer",
+        "usually do not answer"
+      ],
+      "explica": "En negativa, usually va entre don't y el verbo: don't usually answer."
+    },
+    {
+      "id": "adverbios-frecuencia-018",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "___ do you travel for work? (con qué frecuencia)",
+      "respuestas": [
+        "How often"
+      ],
+      "explica": "«Con qué frecuencia» es How often."
+    },
+    {
+      "id": "adverbios-frecuencia-019",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "She ___ her phone during meetings. (never / check)",
+      "respuestas": [
+        "never checks"
+      ],
+      "explica": "Never antes del verbo, sin not, y con la -s de she: never checks."
+    },
+    {
+      "id": "adverbios-frecuencia-020",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "We ___ have meetings on Fridays.",
+      "opciones": [
+        "hardly ever",
+        "hardly never",
+        "ever"
+      ],
+      "a": 0,
+      "explica": "Casi nunca es hardly ever. Hardly never es un error típico y ever solo no significa casi nunca."
+    },
+    {
+      "id": "adverbios-frecuencia-021",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "The client ___ on time for our calls.",
+      "opciones": [
+        "is always",
+        "always",
+        "is always be"
+      ],
+      "a": 0,
+      "explica": "Con be, el adverbio va después: is always on time."
+    },
+    {
+      "id": "adverbios-frecuencia-022",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "USO",
+      "es": "Casi nunca llego tarde al trabajo.",
+      "en": "I am hardly ever late for work.",
+      "extra": [
+        "never",
+        "arrive"
+      ],
+      "explica": "Con be, hardly ever va después de am. Arrive no hace falta: late va con be."
+    },
+    {
+      "id": "adverbios-frecuencia-023",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "USO",
+      "es": "¿Con qué frecuencia viajas por trabajo?",
+      "en": "How often do you travel for work?",
+      "extra": [
+        "much",
+        "are"
+      ],
+      "explica": "How often + do + you + verbo. Much y are son las trampas del español."
+    },
+    {
+      "id": "adverbios-frecuencia-024",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "USO",
+      "es": "Normalmente no trabajo los fines de semana.",
+      "en": "I don't usually work on weekends.",
+      "extra": [
+        "am",
+        "never"
+      ],
+      "aceptadas": [
+        "I usually don't work on weekends."
+      ],
+      "explica": "Usually va entre don't y el verbo. Am sobra: work no lleva be."
+    },
+    {
+      "id": "adverbios-frecuencia-025",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "USO",
+      "es": "Mi equipo a veces almuerza junto.",
+      "en": "My team sometimes has lunch together.",
+      "extra": [
+        "have",
+        "is"
+      ],
+      "explica": "Sometimes antes del verbo; has con la -s de my team (singular)."
+    },
+    {
+      "id": "adverbios-frecuencia-026",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "We have never meetings on Fridays.",
+      "correcta": false,
+      "correccion": [
+        "We never have meetings on Fridays."
+      ],
+      "explica": "Never va antes del verbo have, no después: have es el verbo principal aquí."
+    },
+    {
+      "id": "adverbios-frecuencia-027",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "I from time to time call my parents.",
+      "correcta": false,
+      "correccion": [
+        "I call my parents from time to time.",
+        "From time to time I call my parents.",
+        "From time to time, I call my parents."
+      ],
+      "explica": "Las expresiones largas van al final o al inicio, no antes del verbo."
+    },
+    {
+      "id": "adverbios-frecuencia-028",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "USO",
+      "es": "Ella nunca llega tarde.",
+      "respuestas": [
+        "She is never late.",
+        "She's never late.",
+        "She never arrives late.",
+        "She never comes late.",
+        "She is never late for work."
+      ],
+      "explica": "Con be: is never late. También vale never arrives late (adverbio antes del verbo)."
+    },
+    {
+      "id": "adverbios-frecuencia-029",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "USO",
+      "es": "¿Cada cuánto ves a tus papás?",
+      "respuestas": [
+        "How often do you see your parents?",
+        "How often do you visit your parents?"
+      ],
+      "explica": "«Cada cuánto» es How often + do you + verbo."
+    },
+    {
+      "id": "adverbios-frecuencia-030",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "USO",
+      "consigna": "Describe tu rutina: con qué frecuencia vas al gimnasio, cuántas veces a la semana tienes reuniones con clientes, qué haces a veces y qué nunca haces.",
+      "objetivo": "always / usually / sometimes / never antes del verbo · be + adverbio · once / twice / three times a week · hardly ever",
+      "ejemplo": "I usually get up at 6 and I go to the gym three times a week. I always have coffee before work. We have client meetings twice a week, usually on Tuesdays and Thursdays. I sometimes work from home on Fridays, and I'm hardly ever late. I never check my email on Sunday mornings.",
+      "explica": "Adverbios cortos antes del verbo y después de be; las expresiones con número al final."
+    },
+    {
+      "id": "adverbios-frecuencia-031",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Mi semana, más o menos",
+      "instruccion": "Completa con el adverbio o la expresión de frecuencia que indica la pista.",
+      "texto": "I {1} (siempre) get up at 6 on weekdays, and I {2} (normalmente) go to the gym before work, {3} (tres veces a la semana). I am {4} (casi siempre) at the office by 8:30, but on Fridays I work from home. We have a status meeting with the whole team {5} (una vez a la semana), on Mondays. I {6} (casi nunca) work after 7 pm, and I {7} (nunca) answer emails on Sunday mornings. On weekends my wife and I go out for dinner {8} (de vez en cuando), and we visit my parents in Chía every other Sunday.",
+      "huecos": [
+        {
+          "respuestas": [
+            "always"
+          ]
+        },
+        {
+          "respuestas": [
+            "usually",
+            "normally"
+          ]
+        },
+        {
+          "respuestas": [
+            "three times a week"
+          ]
+        },
+        {
+          "respuestas": [
+            "usually",
+            "normally",
+            "almost always"
+          ]
+        },
+        {
+          "respuestas": [
+            "once a week"
+          ]
+        },
+        {
+          "respuestas": [
+            "hardly ever",
+            "rarely",
+            "seldom"
+          ]
+        },
+        {
+          "respuestas": [
+            "never"
+          ]
+        },
+        {
+          "respuestas": [
+            "from time to time",
+            "once in a while",
+            "every once in a while",
+            "sometimes",
+            "occasionally"
+          ]
+        }
+      ],
+      "explica": "Adverbios cortos antes del verbo (always get, never skip) y después de be (am usually); las expresiones con número al final."
+    },
+    {
+      "id": "adverbios-frecuencia-032",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Cómo trabaja el equipo de Brava",
+      "instruccion": "Elige la opción correcta en cada desplegable.",
+      "texto": "At Brava we {1} a short status call every Monday at 9. Our creative director, Sarah, {2} on time, and she {3} sends the agenda the day before. The designers {4} work on weekends; they prefer to stay late on Thursdays. Our biggest client changes the brief {5}, so we have a change-request form now. {6} do we send reports? Twice a month, and the client {7} reads them. I'm {8} the last one to leave the office, but I never take work home.",
+      "huecos": [
+        {
+          "opciones": [
+            "always have",
+            "have always",
+            "are always have"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "is always",
+            "always is",
+            "always"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "usually",
+            "usual",
+            "every day"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "hardly ever",
+            "hardly never",
+            "ever"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "all the time",
+            "always the time",
+            "every times"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "How often",
+            "How much often",
+            "How many often"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "rarely",
+            "rarely doesn't",
+            "doesn't rarely"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "usually",
+            "usually am",
+            "am usually be"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Después de be: is always, is never. Antes del verbo normal: usually sends, hardly ever misses. How often para preguntar."
+    },
+    {
+      "id": "adverbios-frecuencia-033",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Entrenamiento de Mike",
+      "instruccion": "Completa con la palabra o expresión que indica la pista.",
+      "texto": "Mike is training for a 10K in Medellín. He runs {1} (cada dos días), usually in the morning, and he lifts weights {2} (dos veces a la semana) with a trainer. He {3} (nunca) skips breakfast now, and he {4} (rara vez) eats fast food, maybe {5} (una vez al mes) when he is with his friends. He is {6} (a veces) tired after work, but he {7} (siempre) finds twenty minutes to stretch. His wife asks him how {8} (con qué frecuencia) he is going to race this year. Four times, he says. She laughs.",
+      "huecos": [
+        {
+          "respuestas": [
+            "every other day"
+          ]
+        },
+        {
+          "respuestas": [
+            "twice a week"
+          ]
+        },
+        {
+          "respuestas": [
+            "never"
+          ]
+        },
+        {
+          "respuestas": [
+            "rarely",
+            "seldom",
+            "hardly ever"
+          ]
+        },
+        {
+          "respuestas": [
+            "once a month"
+          ]
+        },
+        {
+          "respuestas": [
+            "sometimes",
+            "occasionally"
+          ]
+        },
+        {
+          "respuestas": [
+            "always"
+          ]
+        },
+        {
+          "respuestas": [
+            "often"
+          ]
+        }
+      ],
+      "explica": "Las expresiones con número (twice a week, every other day) van al final; los adverbios cortos antes del verbo."
+    },
+    {
+      "id": "adverbios-frecuencia-034",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Encuesta de hábitos digitales",
+      "instruccion": "Elige la opción correcta en cada desplegable.",
+      "texto": "We asked 200 people in Bogotá about their phones. Most of them {1} check their email before breakfast, and 60 % {2} on their phone during meals. Only 10 % {3} turn off notifications at night. {4} do you check social media? The average answer was twenty times a day. Young people {5} call anyone; they send voice notes instead. And {6} do you leave your phone at home on purpose? Almost nobody ever does. The phone {7} far away: it is {8} in the hand or in the pocket.",
+      "huecos": [
+        {
+          "opciones": [
+            "always",
+            "every",
+            "all the time"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "are often",
+            "often are",
+            "often"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "usually",
+            "usual",
+            "usually they"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "How often",
+            "How much often",
+            "How many times often"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "hardly ever",
+            "hardly never",
+            "don't hardly"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "how often",
+            "how much often",
+            "how many often"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "is never",
+            "never is",
+            "never"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "always",
+            "every day",
+            "all days"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Con do/does en negativa y pregunta, el adverbio va en medio: doesn't usually, do you ever. Con be va después: is often."
+    },
+    {
+      "id": "adverbios-frecuencia-035",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "La rutina de Camila",
+      "texto": "Camila is a copywriter at Brava. She usually gets up at 6:30 and she always has a black coffee before anything else. She hardly ever takes the bus; she rides her bike to the office three times a week and works from home on Mondays and Fridays. At work she is never late, but she is often the last one to leave. She has lunch with the designers almost every day, and once a week the whole team eats out. She rarely checks her phone in meetings, which her boss loves. On weekends she sometimes goes to Villa de Leyva with friends, and she calls her mom in Cali every other day. How often does she go to the gym? Never, she says. Her bike is her gym.",
+      "preguntas": [
+        {
+          "q": "How often does Camila ride her bike to the office?",
+          "opciones": [
+            "Three times a week",
+            "Every day",
+            "Once a week"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What does Camila hardly ever do?",
+          "opciones": [
+            "Take the bus",
+            "Have coffee",
+            "Call her mom"
+          ],
+          "a": 0
+        },
+        {
+          "q": "How often does she go to the gym?",
+          "opciones": [
+            "Never",
+            "Every other day",
+            "Once a week"
+          ],
+          "a": 0
+        },
+        {
+          "q": "¿Por qué el texto dice «she is never late» pero «she rarely checks her phone»?",
+          "opciones": [
+            "Con be el adverbio va después; con otros verbos va antes",
+            "Never siempre va después y rarely siempre antes",
+            "Es solo cuestión de estilo"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Fíjate en la posición: always / never / usually antes del verbo, is always / is never con be, y las expresiones con número al final."
+    },
+    {
+      "id": "adverbios-frecuencia-036",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Los lunes en Brava",
+      "texto": "Mondays at Brava always start the same way. At 9 the whole team has a status call; it never takes more than thirty minutes because Sarah, the creative director, is strict with time. After the call, the account team usually meets with clients. We have a meeting with the bank twice a month and with the coffee brand once a week, on Monday afternoons. The designers hardly ever come to those meetings; they prefer a short summary by email. From time to time, a client asks for an urgent change, and then everybody stays late. That doesn't happen often, maybe once a month. How often do we have lunch together? Almost every Monday: there is a small restaurant on the corner, and the owner already knows our orders.",
+      "preguntas": [
+        {
+          "q": "How long does the status call take?",
+          "opciones": [
+            "Never more than thirty minutes",
+            "Usually one hour",
+            "It depends on the client"
+          ],
+          "a": 0
+        },
+        {
+          "q": "How often does the team meet with the coffee brand?",
+          "opciones": [
+            "Once a week",
+            "Twice a month",
+            "Once a month"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Who hardly ever comes to client meetings?",
+          "opciones": [
+            "The designers",
+            "The account team",
+            "Sarah"
+          ],
+          "a": 0
+        },
+        {
+          "q": "¿Dónde van las expresiones como twice a month en el texto?",
+          "opciones": [
+            "Al final de la frase, no antes del verbo",
+            "Antes del verbo, como always",
+            "Después de be"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "How often pregunta la frecuencia; once / twice / three times a week la responden al final de la frase."
+    },
+    {
+      "id": "adverbios-frecuencia-037",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "El gimnasio de las 6",
+      "texto": "Andrés goes to a small gym near his apartment in Chapinero. He is always there at 6 am, three times a week, and he often sees the same people. There is a woman who never talks to anyone and runs for an hour; there is a man who usually does the same workout every day and hardly ever changes it. The trainer, Daniel, is never in a bad mood, even on Mondays. Andrés sometimes skips a day when he has an early call with a client, but he rarely skips two. How often does he go on weekends? Almost never: Saturdays are for his daughter and Sundays are for sleeping. Every once in a while he runs in the park instead, usually when the gym is closed for a holiday.",
+      "preguntas": [
+        {
+          "q": "How often does Andrés go to the gym?",
+          "opciones": [
+            "Three times a week, at 6 am",
+            "Every day at 6 am",
+            "Only on weekends"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What does the man with the same workout hardly ever do?",
+          "opciones": [
+            "Change his workout",
+            "Go to the gym",
+            "Talk to the trainer"
+          ],
+          "a": 0
+        },
+        {
+          "q": "When does Andrés sometimes skip a day?",
+          "opciones": [
+            "When he has an early client call",
+            "When Daniel is in a bad mood",
+            "When it rains"
+          ],
+          "a": 0
+        },
+        {
+          "q": "¿Por qué «he is always there» pero «he often sees»?",
+          "opciones": [
+            "Después de be va el adverbio; con see va antes del verbo",
+            "Always siempre va después y often antes",
+            "Porque there es un lugar"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Never y hardly ever ya son negativos; con be el adverbio va después (he's always); How often + do you para preguntar."
+    },
+    {
+      "id": "adverbios-frecuencia-038",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "USO",
+      "consigna": "Describe tu rutina semanal: qué haces siempre, qué haces normalmente, con qué frecuencia vas al gimnasio o haces ejercicio, y qué nunca haces.",
+      "requisitos": [
+        {
+          "texto": "Usa always o usually antes de un verbo",
+          "patron": "\\b(always|usually|normally)\\s+\\w+"
+        },
+        {
+          "texto": "Usa never o hardly ever",
+          "patron": "\\b(never|hardly ever|rarely)\\b"
+        },
+        {
+          "texto": "Usa once / twice / three times a week (o a month)",
+          "patron": "\\b(once|twice|\\w+ times)\\s+a\\s+(day|week|month|year)\\b"
+        },
+        {
+          "texto": "Usa be + adverbio (I'm always…, she is never…)",
+          "patron": "\\b(am|is|are|'m|'s|'re)\\s+(always|usually|never|often|sometimes|rarely|hardly ever)\\b"
+        }
+      ],
+      "minPalabras": 40,
+      "ejemplo": "I always get up at 6 on weekdays and I usually have coffee before anything else. I go to the gym three times a week, and I'm never late for the 6:30 class. I normally work from home on Fridays. On weekends I sometimes cook for my family, but I never work on Sundays. I'm usually in bed by 10.",
+      "explica": "Adverbios cortos antes del verbo y después de be; las expresiones con número al final de la frase."
+    },
+    {
+      "id": "adverbios-frecuencia-039",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "USO",
+      "consigna": "Describe cómo trabaja tu equipo o tu agencia: qué hacen siempre, con qué frecuencia tienen reuniones o envían informes, qué casi nunca hacen y cómo es tu jefe o tu cliente (usa be + adverbio).",
+      "requisitos": [
+        {
+          "texto": "Usa we always / we usually / we often",
+          "patron": "\\bwe\\s+(always|usually|often|normally|sometimes)\\b"
+        },
+        {
+          "texto": "Usa hardly ever o never",
+          "patron": "\\b(hardly ever|never)\\b"
+        },
+        {
+          "texto": "Usa once / twice / three times a week o a month",
+          "patron": "\\b(once|twice|\\w+ times)\\s+a\\s+(day|week|month|year)\\b"
+        },
+        {
+          "texto": "Usa is / are + adverbio para describir a alguien",
+          "patron": "\\b(is|are|'s|'re)\\s+(always|usually|never|often|rarely|hardly ever|sometimes)\\b"
+        }
+      ],
+      "minPalabras": 40,
+      "ejemplo": "At Brava we always start the week with a status call on Monday at 9. We usually meet with the bank twice a month and we send a report once a week. We hardly ever work on weekends, but we often stay late on Thursdays. My boss, Sarah, is always on time and she's never in a bad mood. The client is usually happy with our work.",
+      "explica": "Describe procesos con frecuencia: we always, we hardly ever, once a week; y con be: the client is never…"
+    },
+    {
+      "id": "adverbios-frecuencia-040",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "USO",
+      "consigna": "Escribe una mini encuesta de hábitos para tu equipo o tus amigos: haz al menos tres preguntas con How often…? o Do you ever…? y responde una de ellas sobre ti.",
+      "requisitos": [
+        {
+          "texto": "Haz al menos dos preguntas con How often do/does…?",
+          "patron": "\\bhow often (do|does)\\b.*\\bhow often (do|does)\\b"
+        },
+        {
+          "texto": "Haz una pregunta con Do you ever…?",
+          "patron": "\\bdo you ever\\b"
+        },
+        {
+          "texto": "Responde con una expresión de frecuencia (once a week, every day, hardly ever…)",
+          "patron": "\\b(once|twice|\\w+ times)\\s+a\\s+(day|week|month|year)\\b|\\bevery (day|week|other day)\\b|\\bhardly ever\\b"
+        },
+        {
+          "texto": "Usa un adverbio antes de un verbo (I usually…, I never…)",
+          "patron": "\\bi\\s+(always|usually|never|often|sometimes|rarely|hardly ever)\\s+\\w+"
+        }
+      ],
+      "minPalabras": 40,
+      "ejemplo": "Hi team, three quick questions for our survey. How often do you check your email before 8 am? How often does your client call you after 7 pm? Do you ever work on Sundays? And one more: how often do you have lunch away from your desk? In my case, I check my email every day before 7, and I usually have lunch at the restaurant on the corner, but I never work on Sundays.",
+      "explica": "How often + do you + verbo para preguntar; en la respuesta, la frecuencia va al final o antes del verbo."
+    }
+  ]
+}

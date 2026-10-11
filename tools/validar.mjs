@@ -4,7 +4,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), "..", "data");
-const TIPOS = ["elegir", "escribir", "ordenar", "corregir", "transformar", "traducir", "emparejar", "escuchar", "identificar", "hablar"];
+const TIPOS = ["elegir", "escribir", "ordenar", "corregir", "transformar", "traducir", "emparejar", "escuchar", "identificar", "hablar", "texto", "lectura", "componer"];
 const CODES = ["SUJ", "3S", "LL", "DM", "BE", "WW", "ING", "EST", "IRR", "MOD", "TPO", "UT", "PP", "FUT", "CMP", "CUA", "PRO", "CON", "VOC", "USO"];
 const errs = [], warns = [];
 const seen = new Map();
@@ -51,6 +51,31 @@ function checkItem(e, where) {
       }
       break;
     case "hablar": if (!e.consigna) E("sin consigna"); break;
+    case "texto": {
+      const ns = [...String(e.texto || "").matchAll(/\{(\d+)\}/g)].map(m => Number(m[1]));
+      const H = e.huecos || [];
+      if (!ns.length) E("texto sin huecos {n}");
+      if (ns.length !== H.length) E(`texto: ${ns.length} marcas {n} pero ${H.length} huecos`);
+      ns.forEach((n, i) => { if (n !== i + 1) E(`texto: marcas fuera de orden ({${n}})`); });
+      H.forEach((hz, i) => {
+        if (hz.opciones) { if (!(Number.isInteger(hz.a) && hz.a >= 0 && hz.a < hz.opciones.length)) E(`hueco ${i + 1}: a fuera de rango`); }
+        else if (!Array.isArray(hz.respuestas) || !hz.respuestas.length) E(`hueco ${i + 1}: sin respuestas`);
+      });
+      break;
+    }
+    case "lectura":
+      if (!e.texto) E("lectura sin texto");
+      if (!Array.isArray(e.preguntas) || !e.preguntas.length) E("lectura sin preguntas");
+      (e.preguntas || []).forEach((p, i) => { if (!p.q || !Array.isArray(p.opciones) || !(Number.isInteger(p.a) && p.a >= 0 && p.a < p.opciones.length)) E(`pregunta ${i + 1} inválida`); });
+      break;
+    case "componer":
+      if (!e.consigna || !Array.isArray(e.requisitos) || !e.requisitos.length) E("componer sin consigna o requisitos");
+      for (const r of e.requisitos || []) {
+        let re; try { re = new RegExp(r.patron, "i"); } catch { E(`regex inválida «${r.patron}»`); continue; }
+        if (e.ejemplo && !re.test(e.ejemplo.toLowerCase())) W(`el ejemplo no cumple «${r.texto}»`);
+      }
+      if (e.ejemplo && e.minPalabras && e.ejemplo.split(/\s+/).length < e.minPalabras) W("el ejemplo tiene menos palabras que minPalabras");
+      break;
   }
 }
 
@@ -65,12 +90,20 @@ for (const dir of ["temas", "extra"]) {
       for (const k of ["id", "titulo", "grupo", "teoria", "ejercicios"]) if (!data[k]) errs.push(`${where}: falta «${k}»`);
       if (data.id && data.id + ".json" !== f) warns.push(`${where}: id «${data.id}» no coincide con el archivo`);
     }
+    for (const [i, w] of (data.palabras || []).entries()) {
+      const where2 = `${where} palabra ${w.id || w.en || i}`;
+      if (!w.en || !w.es) errs.push(`${where2}: falta en o es`);
+      if ((w.clase === "verbo") && (!w.formas || !["s", "pasado", "participio", "ing"].every(k => w.formas[k]))) errs.push(`${where2}: verbo sin las cuatro formas`);
+      if (w.hueco && (!/_{2,}/.test(w.hueco.frase || "") || !w.hueco.respuestas?.length)) warns.push(`${where2}: hueco incompleto`);
+    }
+    const wids = (data.palabras || []).map(w => (w.id || w.en || "").toLowerCase());
+    if (new Set(wids).size !== wids.length) errs.push(`${where}: palabras con id repetido`);
     const items = data.ejercicios || [];
     items.forEach(e => checkItem(e, where));
     total += items.length;
     const tipos = {};
     items.forEach(e => tipos[e.tipo] = (tipos[e.tipo] || 0) + 1);
-    rows.push(`${String(items.length).padStart(4)}  ${where}  ${Object.entries(tipos).map(([k, v]) => `${k}:${v}`).join(" ")}`);
+    rows.push(`${String(items.length).padStart(4)}${data.palabras ? ` +${data.palabras.length}p` : ""}  ${where}  ${Object.entries(tipos).map(([k, v]) => `${k}:${v}`).join(" ")}`);
   }
 }
 

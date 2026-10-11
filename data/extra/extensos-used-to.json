@@ -1,0 +1,375 @@
+{
+  "tema": "used-to",
+  "ejercicios": [
+    {
+      "id": "used-to-x3-001",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "UT",
+      "titulo": "When I was a kid",
+      "instruccion": "Completa con used to / didn't use to / Did … use to + verbo base. Habla de hábitos que ya no existen.",
+      "texto": "When I was a kid, life was slower. I {1} (walk) to school with my cousins, and we {2} (stop) at the bakery every morning for pandebono. My mom {3} (not / let) us watch TV during the week. On Sundays my dad {4} (take) us to see his favorite soccer team. {5} (you / have) a nickname at school? I did. My friends {6} (call) me 'el Flaco' because I {7} (be) very thin. Now nobody calls me that.",
+      "huecos": [
+        {
+          "respuestas": [
+            "used to walk"
+          ]
+        },
+        {
+          "respuestas": [
+            "used to stop"
+          ]
+        },
+        {
+          "respuestas": [
+            "didn't use to let",
+            "did not use to let"
+          ]
+        },
+        {
+          "respuestas": [
+            "used to take"
+          ]
+        },
+        {
+          "respuestas": [
+            "Did you use to have"
+          ]
+        },
+        {
+          "respuestas": [
+            "used to call"
+          ]
+        },
+        {
+          "respuestas": [
+            "used to be"
+          ]
+        }
+      ],
+      "explica": "Hábitos y estados del pasado que ya no son así → used to + base (used to walk, used to be). Con did, used pierde la -d: didn't use to let, Did you use to have?"
+    },
+    {
+      "id": "used-to-x3-002",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "UT",
+      "titulo": "Ten years of Brava",
+      "instruccion": "Elige la forma correcta. Ojo con la -d de used y con los hechos de una sola vez (esos van en pasado simple).",
+      "texto": "Ten years ago, Brava {1} a tiny office in Chapinero with eight people. We {2} everything on paper, and the clients {3} to the office for every presentation. We {4} social media at all. Now we have sixty people and most clients prefer video calls. Last month we {5} our tenth anniversary with a big party. Some people miss the old office. I don't: the old office {6} have air conditioning, and summers were terrible.",
+      "huecos": [
+        {
+          "opciones": [
+            "used to have",
+            "use to have",
+            "was used to have"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "use to print",
+            "used to print",
+            "used to printing"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "used to come",
+            "used to came",
+            "use to come"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "didn't used to do",
+            "didn't use to do",
+            "not used to do"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "used to celebrate",
+            "celebrated",
+            "use to celebrate"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "didn't use to",
+            "didn't used to",
+            "wasn't used to"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Afirmativa: used to + base (used to have, used to print). Negativa: didn't use to (sin -d). Un hecho de una sola vez, con fecha (last month), no es hábito: celebrated."
+    },
+    {
+      "id": "used-to-x3-003",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "UT",
+      "titulo": "Grandpa's interview",
+      "instruccion": "Completa la entrevista con used to en afirmativa, negativa o pregunta.",
+      "texto": "For a school project, my niece interviewed my dad about his youth. 'Grandpa, what {1} (you / do) on Saturday nights?' 'We {2} (go) dancing at a place near the main square.' '{3} (you / have) a car?' 'No, I {4} (not / have) a car. I {5} (ride) a motorcycle.' 'And {6} (Grandma / like) the motorcycle?' 'No, she {7} (hate) it. She {8} (say) it was dangerous.'",
+      "huecos": [
+        {
+          "respuestas": [
+            "did you use to do"
+          ]
+        },
+        {
+          "respuestas": [
+            "used to go"
+          ]
+        },
+        {
+          "respuestas": [
+            "Did you use to have"
+          ]
+        },
+        {
+          "respuestas": [
+            "didn't use to have",
+            "did not use to have"
+          ]
+        },
+        {
+          "respuestas": [
+            "used to ride"
+          ]
+        },
+        {
+          "respuestas": [
+            "did Grandma use to like"
+          ]
+        },
+        {
+          "respuestas": [
+            "used to hate"
+          ]
+        },
+        {
+          "respuestas": [
+            "used to say"
+          ]
+        }
+      ],
+      "explica": "Pregunta: (Wh-) + did + sujeto + use to + base: what did you use to do?, did Grandma use to like…? Negativa: didn't use to have. Afirmativa: used to go, used to ride."
+    },
+    {
+      "id": "used-to-x3-004",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "UT",
+      "titulo": "College years",
+      "instruccion": "Elige entre used to (hábito que se repetía) y pasado simple (algo que pasó una vez).",
+      "texto": "In college I {1} in a small apartment with two friends. We {2} pasta every night because it was cheap. One night in 2012 we {3} a party and the neighbors {4} the police. After that, we never {5} a party at home again. On weekends, I {6} as a waiter in a restaurant downtown. One Saturday I {7} a full tray of drinks on a customer. Funny thing: years later, that customer {8} my client.",
+      "huecos": [
+        {
+          "opciones": [
+            "used to live",
+            "use to live",
+            "was used to live"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "use to eat",
+            "used to eat",
+            "used to ate"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "used to have",
+            "had",
+            "use to have"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "called",
+            "used to call",
+            "use to call"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "used to have",
+            "had",
+            "use to have"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "use to work",
+            "worked to",
+            "used to work"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "used to drop",
+            "dropped",
+            "use to drop"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "became",
+            "used to become",
+            "use to become"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Lo que se repetía (vivir ahí, comer pasta cada noche, trabajar los fines de semana) → used to. Lo que pasó una vez (one night, one Saturday, years later) → pasado simple: had, called, dropped, became."
+    },
+    {
+      "id": "used-to-x3-005",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "UT",
+      "titulo": "Bogotá in the eighties",
+      "texto": "My dad says Bogotá used to be a different city. When he moved here in the eighties, people used to wear suits and hats downtown, even on Saturdays. There didn't use to be big shopping malls; families used to walk on Carrera Séptima and eat in small cafés. The city used to be colder too, he says, and it used to rain every afternoon. Did people use to complain about traffic? 'Of course,' he laughs. 'But there were fewer cars, so we used to complain about the buses.' Now he lives in Manizales and visits Bogotá only twice a year.",
+      "preguntas": [
+        {
+          "q": "What did people use to wear downtown?",
+          "opciones": [
+            "Sneakers",
+            "Suits and hats",
+            "Uniforms"
+          ],
+          "a": 1
+        },
+        {
+          "q": "Where does his dad live now?",
+          "opciones": [
+            "In Manizales",
+            "In Bogotá",
+            "Downtown"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«There didn't use to be big shopping malls»: ¿por qué use y no used?",
+          "opciones": [
+            "Porque es presente",
+            "Porque es un error",
+            "Porque didn't ya lleva el pasado"
+          ],
+          "a": 2
+        },
+        {
+          "q": "«it used to rain every afternoon»: ¿qué significa?",
+          "opciones": [
+            "Llovió una tarde",
+            "Antes llovía casi todas las tardes",
+            "Llueve todas las tardes ahora"
+          ],
+          "a": 1
+        }
+      ],
+      "explica": "Used to describe cómo eran las cosas antes (used to be, used to wear, used to rain) con un «pero ahora no» implícito. Con did: didn't use to be, Did people use to complain?"
+    },
+    {
+      "id": "used-to-x3-006",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "UT",
+      "titulo": "My first boss",
+      "texto": "My first boss, Ricardo, had a strange style. He used to arrive at seven and read every newspaper before anyone else came in. He didn't use to send emails; he used to write notes by hand and leave them on our desks. Every Friday he used to take the whole team to lunch, and he always paid. He was strict, but he used to say: 'A good idea can come from the intern.' I didn't use to understand that. Now that I lead a team, I repeat it every week.",
+      "preguntas": [
+        {
+          "q": "How did Ricardo use to communicate with the team?",
+          "opciones": [
+            "By email",
+            "With handwritten notes",
+            "By phone"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What did he use to do every Friday?",
+          "opciones": [
+            "Work from home",
+            "Read the newspapers",
+            "Take the team to lunch"
+          ],
+          "a": 2
+        },
+        {
+          "q": "«I didn't use to understand that»: ¿qué cambió?",
+          "opciones": [
+            "Antes no lo entendía; ahora sí",
+            "Nunca lo entendió",
+            "Lo entendió una sola vez"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Las costumbres de alguien en el pasado → used to + base (used to arrive, used to write, used to take). La negativa con did: didn't use to send, didn't use to understand."
+    },
+    {
+      "id": "used-to-x3-007",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "UT",
+      "consigna": "Compara cómo eras en la universidad con cómo eres hoy: hábitos, gustos y horarios. Incluye algo que no solías hacer.",
+      "requisitos": [
+        {
+          "texto": "Usa used to + verbo base",
+          "patron": "\\bused to\\s+\\w+"
+        },
+        {
+          "texto": "Incluye una negativa con didn't use to (o never used to)",
+          "patron": "\\b(didn't use to|did not use to|never used to)\\b"
+        },
+        {
+          "texto": "Contrasta con el presente (now, nowadays, these days)",
+          "patron": "\\b(now|nowadays|these days)\\b"
+        }
+      ],
+      "minPalabras": 45,
+      "ejemplo": "In college I used to sleep until noon on weekends and I used to eat junk food every day. I didn't use to read the news, and I never used to plan my week. Now I get up at six, I go to the gym three times a week and I read two newspapers before work. I used to hate early meetings; now I prefer them.",
+      "explica": "Lo que hacías antes y ya no → used to + base (used to sleep, used to eat). Negativa: didn't use to (sin -d). Lo de ahora va en presente simple: I get up, I go, I prefer."
+    },
+    {
+      "id": "used-to-x3-008",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "UT",
+      "consigna": "Escríbele a alguien nuevo del equipo cómo eran las cosas cuando entraste a la agencia (horarios, oficina, costumbres) y pregúntale por su trabajo anterior con Did you use to…?",
+      "requisitos": [
+        {
+          "texto": "Usa used to + verbo base",
+          "patron": "\\bused to\\s+\\w+"
+        },
+        {
+          "texto": "Haz una pregunta con did you use to…?",
+          "patron": "\\bdid\\s+you\\s+use to\\b[^?]*\\?"
+        },
+        {
+          "texto": "Ubica el pasado (when i joined, years ago…)",
+          "patron": "\\b(ago|when i (started|joined|arrived))\\b"
+        }
+      ],
+      "minPalabras": 45,
+      "ejemplo": "When I joined Brava, things were very different. We used to work in a small office with no windows, and we used to have a team meeting every morning at eight. The creative team used to work until midnight before every pitch. Now we have flexible hours and most meetings are online. What about your old agency? Did you use to work late there too?",
+      "explica": "Para contar cómo era la agencia antes: we used to work, we used to have. La pregunta lleva did y use sin -d: Did you use to work late?"
+    }
+  ]
+}

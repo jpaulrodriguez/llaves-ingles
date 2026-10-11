@@ -1,0 +1,312 @@
+{
+  "tema": "reuniones",
+  "ejercicios": [
+    {
+      "id": "reuniones-x3-001",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "A new deadline",
+      "instruccion": "Completa el diálogo de la reunión. Agree es un verbo (sin be), I'll + verbo base es la promesa del momento y la fecha límite va con by.",
+      "texto": "— OK, let's get started. The client wants the campaign live by May 3. What do you think, Laura? — {1} (I / think) it's possible, but the budget is tight. — {2} (I / agree) with Laura. We need more time for the video. — Sorry to {3} (interrupt), but the client changed the date yesterday. It's April 26 now. — What do you {4} (mean) by 'changed'? Is it official? — Yes. So, {5} (why / not / we) ask for a smaller first phase? — Good idea. I {6} (will / write) to the client today. — And I {7} (will / send) the new timeline {8} (a más tardar) Friday.",
+      "huecos": [
+        {
+          "respuestas": [
+            "I think"
+          ]
+        },
+        {
+          "respuestas": [
+            "I agree"
+          ]
+        },
+        {
+          "respuestas": [
+            "interrupt"
+          ]
+        },
+        {
+          "respuestas": [
+            "mean"
+          ]
+        },
+        {
+          "respuestas": [
+            "why don't we"
+          ]
+        },
+        {
+          "respuestas": [
+            "will write",
+            "'ll write"
+          ]
+        },
+        {
+          "respuestas": [
+            "will send",
+            "'ll send"
+          ]
+        },
+        {
+          "respuestas": [
+            "by"
+          ]
+        }
+      ],
+      "explica": "I think abre la opinión; I agree sin am. Sorry to interrupt, but… para entrar. What do you mean by…? para aclarar. Why don't we…? con don't antes de we. I'll + verbo base para comprometerte, y by Friday = a más tardar el viernes."
+    },
+    {
+      "id": "reuniones-x3-002",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Choosing the route",
+      "instruccion": "Elige la forma correcta. Es el final de una reunión de equipo: opinar, estar en desacuerdo con suavidad, aclarar, proponer y cerrar.",
+      "texto": "— {1} the second route is the strongest. It's clear and simple. — I {2}. The client will understand it in five seconds. — I see your point, {3} I'm not sure the client will like the colors. — {4} by 'the colors'? The yellow? — Exactly. — {5} show both versions, one in yellow and one in blue? — Good idea. Laura, can you prepare them? — Sure. {6} the deck by Wednesday. — Perfect. {7}: Laura sends the deck, Andrés prepares the mockups, and {8} the client to confirm the meeting.",
+      "huecos": [
+        {
+          "opciones": [
+            "For my opinion,",
+            "In my opinion,",
+            "In my opinion that"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "am agree",
+            "'m agree",
+            "agree"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "but",
+            "so",
+            "because"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "What means",
+            "What do you mean",
+            "What you mean"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "Why we don't",
+            "Why not we",
+            "Why don't we"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "I'll send",
+            "I send",
+            "I will to send"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "In resume",
+            "To sum up",
+            "Resuming"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "I call",
+            "I'm call",
+            "I'll call"
+          ],
+          "a": 2
+        }
+      ],
+      "explica": "In my opinion (no for my opinion). I agree, sin be. I see your point, but… What do you mean by…? Why don't we…? I'll send / I'll call para prometer (nunca will to). Para cerrar: To sum up, no in resume."
+    },
+    {
+      "id": "reuniones-x3-003",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "FUT",
+      "titulo": "Next steps",
+      "instruccion": "Completa el email de próximos pasos que se envía después de una reunión. Las promesas van con will + verbo base y las fechas límite con by.",
+      "texto": "Hi all, thanks for the meeting today. {1} (para resumir), we agreed on three things. First, the launch moves to May 10. Second, the client {2} (agree, pasado) to a smaller first phase. Third, we need new mockups. Next steps: Laura {3} (will / send) the updated deck {4} (a más tardar) Wednesday. Andrés {5} (will / prepare) three mockups for the videos. I {6} (will / call) Sarah on Thursday to confirm the budget. If you {7} (no estar de acuerdo) with something, please tell me today. Let me know if you have any {8} (preguntas). Best, Jonathan",
+      "huecos": [
+        {
+          "respuestas": [
+            "To sum up"
+          ]
+        },
+        {
+          "respuestas": [
+            "agreed"
+          ]
+        },
+        {
+          "respuestas": [
+            "will send"
+          ]
+        },
+        {
+          "respuestas": [
+            "by"
+          ]
+        },
+        {
+          "respuestas": [
+            "will prepare"
+          ]
+        },
+        {
+          "respuestas": [
+            "will call",
+            "'ll call"
+          ]
+        },
+        {
+          "respuestas": [
+            "don't agree",
+            "do not agree",
+            "disagree"
+          ]
+        },
+        {
+          "respuestas": [
+            "questions"
+          ]
+        }
+      ],
+      "explica": "El email de próximos pasos es fórmula: To sum up → lo acordado (the client agreed) → quién + will + verbo base + by + fecha. No estar de acuerdo es don't agree o disagree, nunca «are not agree». Any questions, en plural."
+    },
+    {
+      "id": "reuniones-x3-004",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "The meeting where I spoke up",
+      "texto": "For months, I stayed quiet in the Monday meeting with our client in Miami. I understood almost everything, but I didn't know how to enter the conversation. Last Monday I tried three phrases. When Mike said the budget was too high, I said, 'Sorry to interrupt, but can I just add something? I see your point, but the video is the most important part.' Then Sarah used the word 'scope' and I asked, 'What do you mean by scope?' At the end, I said, 'I'll send you a new proposal by Friday.' After the call, my boss sent me a message: 'Great job today.'",
+      "preguntas": [
+        {
+          "q": "Why did he stay quiet before?",
+          "opciones": [
+            "He didn't understand anything",
+            "He didn't know how to enter the conversation",
+            "His boss told him to"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What did he promise?",
+          "opciones": [
+            "A new proposal by Friday",
+            "A new video",
+            "A lower budget"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«What do you mean by scope?»: ¿para qué sirve?",
+          "opciones": [
+            "Para pedir que aclaren una palabra",
+            "Para interrumpir",
+            "Para estar de acuerdo"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«I'll send you a new proposal by Friday»: ¿qué significa by?",
+          "opciones": [
+            "A más tardar el viernes",
+            "Durante el viernes",
+            "Hasta el viernes, todo el tiempo"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Tres frases bastan para dejar de estar callado: Sorry to interrupt, but… (entrar), I see your point, but… (disentir), What do you mean by…? (aclarar). Y para cerrar, I'll + verbo + by + fecha."
+    },
+    {
+      "id": "reuniones-x3-005",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Kickoff notes",
+      "texto": "Kickoff notes, coffee campaign. Attendees: Sarah, Mike, Laura and Jonathan. Sarah opened the meeting and explained the goal: more sales in Colombia among people under 30. Mike thinks TikTok is the main channel. Laura agreed, but she suggested a test first: 'Why don't we try three videos before we spend the full budget?' Everybody agreed. Jonathan didn't agree with the timeline: 'I understand the urgency, but six weeks is too short for production.' Sarah said she'll check with her boss. Next steps: Laura will send three video ideas by Tuesday. Sarah will confirm the timeline by Friday. Jonathan will share the budget next Monday.",
+      "preguntas": [
+        {
+          "q": "Who suggested a test first?",
+          "opciones": [
+            "Mike",
+            "Laura",
+            "Sarah"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What will Sarah do by Friday?",
+          "opciones": [
+            "Confirm the timeline",
+            "Send video ideas",
+            "Share the budget"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«Jonathan didn't agree with the timeline»: ¿cuál es el error típico del hispanohablante?",
+          "opciones": [
+            "Jonathan wasn't agree with the timeline.",
+            "Jonathan disagreed with the timeline.",
+            "Jonathan didn't agree with it."
+          ],
+          "a": 0
+        },
+        {
+          "q": "«Why don't we try three videos…?»: ¿qué hace esta frase?",
+          "opciones": [
+            "Propone una alternativa",
+            "Pide una aclaración",
+            "Cierra la reunión"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Un acta tiene la misma estructura que la reunión: opiniones (thinks), acuerdo (agreed, nunca was agree), desacuerdo suave (I understand…, but…), propuesta (Why don't we…?) y próximos pasos con will + by."
+    },
+    {
+      "id": "reuniones-x3-006",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "USO",
+      "consigna": "Acabas de terminar una reunión con una clienta. Escríbele el email de próximos pasos: resume lo acordado, di quién hace qué y con qué fecha, e incluye tu propio compromiso.",
+      "requisitos": [
+        {
+          "texto": "Resume con To sum up o We agreed",
+          "patron": "\\b(to sum up|we agreed)\\b"
+        },
+        {
+          "texto": "Escribe Next steps",
+          "patron": "\\bnext steps?\\b"
+        },
+        {
+          "texto": "Comprométete con I'll / I will + verbo",
+          "patron": "\\b(i'll|i will)\\s+\\w+"
+        },
+        {
+          "texto": "Pon una fecha límite con by + día",
+          "patron": "\\bby (monday|tuesday|wednesday|thursday|friday|tomorrow|the end of|next)\\b"
+        }
+      ],
+      "minPalabras": 50,
+      "ejemplo": "Hi Sarah, thanks for your time today. To sum up, we agreed to launch the campaign on May 10 with a smaller first phase. Next steps: Laura will send the updated deck by Wednesday, and Andrés will prepare three mockups for the videos. I'll call you on Thursday to confirm the budget, and I will share the final timeline by Friday. Let me know if I missed anything. Best regards, Jonathan",
+      "explica": "El email de próximos pasos se arma con piezas: To sum up / We agreed para el resumen, Next steps para la lista, persona + will + verbo base para cada tarea y by + día para la fecha límite."
+    }
+  ]
+}

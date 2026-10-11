@@ -1,0 +1,311 @@
+{
+  "tema": "conectores",
+  "ejercicios": [
+    {
+      "id": "conectores-x3-001",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "CON",
+      "titulo": "A hard meeting",
+      "instruccion": "Escribe el conector que traduce la pista: but, although, because, so, also, too o though.",
+      "texto": "The meeting with the client was hard, {1} (pero) it ended well. They didn't like the first idea {2} (porque) it was too serious for a young audience. {3} (aunque) I didn't agree, I listened carefully. We had a second idea, {4} (así que) Laura presented it. The client loved it, and the CEO liked it {5} (también, al final). The budget is tight, {6} (así que) we need to simplify the production. I {7} (también, antes del verbo) want to test the idea with real users. It wasn't a perfect meeting. We have a new direction, {8} (eso sí, al final).",
+      "huecos": [
+        {
+          "respuestas": [
+            "but"
+          ]
+        },
+        {
+          "respuestas": [
+            "because"
+          ]
+        },
+        {
+          "respuestas": [
+            "Although",
+            "Though",
+            "Even though"
+          ]
+        },
+        {
+          "respuestas": [
+            "so"
+          ]
+        },
+        {
+          "respuestas": [
+            "too"
+          ]
+        },
+        {
+          "respuestas": [
+            "so"
+          ]
+        },
+        {
+          "respuestas": [
+            "also"
+          ]
+        },
+        {
+          "respuestas": [
+            "though"
+          ]
+        }
+      ],
+      "explica": "But y although marcan el choque (although abre la frase, nunca con but). Because da la causa; so, la consecuencia. Too va al final y also antes del verbo. Though al final significa «eso sí»."
+    },
+    {
+      "id": "conectores-x3-002",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "CON",
+      "titulo": "About the storyboard",
+      "instruccion": "Elige el conector correcto. Es un email para responder a los comentarios de un cliente sin sonar brusco.",
+      "texto": "Hi Mike, thanks for the feedback on the storyboard. I see your point, {1} I think the ending needs to stay. {2} the video is long, the ending is the moment people remember. We tested it with ten users, {3} we have data, not only opinions. Eight people liked it {4} it was emotional. Two people didn't understand it, {5}. Laura {6} thinks we can shorten the middle part, {7} the total stays under 30 seconds. Changing the ending is possible, {8} it means a new music track. Let me know what you think. Best, Jonathan",
+      "huecos": [
+        {
+          "opciones": [
+            "so",
+            "but",
+            "because"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "But",
+            "So",
+            "Although"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "so",
+            "because",
+            "although"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "so",
+            "because",
+            "but"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "too",
+            "so",
+            "though"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "also",
+            "too",
+            "so"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "because",
+            "so",
+            "although"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "because",
+            "so",
+            "but"
+          ],
+          "a": 2
+        }
+      ],
+      "explica": "Desacuerdo suave: I see your point, but… Although abre el contraste. So = resultado (so we have data, so the total stays…), because = causa (because it was emotional). Though al final matiza; also va antes del verbo."
+    },
+    {
+      "id": "conectores-x3-003",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "CON",
+      "titulo": "Why I'm learning English",
+      "instruccion": "Escribe el conector que traduce la pista. Piensa en la relación entre las dos ideas: ¿choca, explica, resulta o suma?",
+      "texto": "I started English classes again this year {1} (porque) my job needs it. I can read emails well, {2} (pero) calls are still difficult for me. {3} (aunque) I understand most of the conversation, I get nervous when I have to speak. My boss noticed it, {4} (así que) she suggested a course. I study every morning {5} (porque) my mind is fresh before work. My girlfriend speaks English {6} (también, al final), {7} (así que) we practice at dinner on Tuesdays. It's not easy. I'm getting better, {8} (eso sí, al final).",
+      "huecos": [
+        {
+          "respuestas": [
+            "because"
+          ]
+        },
+        {
+          "respuestas": [
+            "but"
+          ]
+        },
+        {
+          "respuestas": [
+            "Although",
+            "Though",
+            "Even though"
+          ]
+        },
+        {
+          "respuestas": [
+            "so"
+          ]
+        },
+        {
+          "respuestas": [
+            "because"
+          ]
+        },
+        {
+          "respuestas": [
+            "too"
+          ]
+        },
+        {
+          "respuestas": [
+            "so"
+          ]
+        },
+        {
+          "respuestas": [
+            "though"
+          ]
+        }
+      ],
+      "explica": "Because responde a «why?» (because my job needs it); so cuenta el resultado (so she suggested a course). But y although chocan dos ideas; too cierra la frase y though al final suaviza: I'm getting better, though."
+    },
+    {
+      "id": "conectores-x3-004",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "CON",
+      "titulo": "Disagreeing without fighting",
+      "texto": "In my first year as a director, I said 'No, that's wrong' a lot. People stopped sharing ideas because they felt attacked. So I changed my style. Now, when I don't agree, I start with what is good: 'I see your point, but the budget is tight.' Although I still disagree sometimes, people listen more. Last week Andrés proposed a TikTok series for a bank. I thought it was risky because the brand is very traditional. I didn't say no, though. I said: 'It's a strong idea, and it's also risky. Let's test one video first.' We tested it, and it worked, so now the series is in the plan.",
+      "preguntas": [
+        {
+          "q": "Why did people stop sharing ideas?",
+          "opciones": [
+            "They felt attacked",
+            "They were busy",
+            "The budget was tight"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What happened with Andrés's idea?",
+          "opciones": [
+            "They rejected it",
+            "They tested one video and it worked",
+            "The client didn't like it"
+          ],
+          "a": 1
+        },
+        {
+          "q": "«I didn't say no, though»: ¿qué significa though aquí?",
+          "opciones": [
+            "«Eso sí / sin embargo», al final de la frase",
+            "«Porque»",
+            "«Así que»"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«…and it worked, so now the series is in the plan»: ¿qué introduce so?",
+          "opciones": [
+            "La consecuencia",
+            "La causa",
+            "Un contraste"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Los conectores son la herramienta para disentir sin pelear: I see your point, but… / Although I disagree… Because explica (because they felt attacked), so concluye (so now the series is in the plan), also suma."
+    },
+    {
+      "id": "conectores-x3-005",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "CON",
+      "titulo": "The rainy-day plan",
+      "texto": "We planned a team picnic in Parque Simón Bolívar on Saturday, but the weather forecast said rain all day. Although some people wanted to cancel, Camila had a better idea. 'We can go bowling in Salitre,' she said, 'because it's indoors and near the park.' Everybody agreed, so we changed the plan on Friday night. The bowling place was expensive, though. We spent more than we planned because we also ordered pizza. Was it worth it? Yes. Andrés won two games, and Laura won the third one, although she says it was her first time. Next time we'll check the weather earlier.",
+      "preguntas": [
+        {
+          "q": "Why did they change the plan?",
+          "opciones": [
+            "Because of the rain",
+            "Because the park was closed",
+            "Because Andrés wanted to bowl"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why did they spend more money?",
+          "opciones": [
+            "They also ordered pizza",
+            "They played five games",
+            "The taxi was expensive"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«Although some people wanted to cancel, Camila had a better idea»: ¿se puede añadir but?",
+          "opciones": [
+            "No: nunca although y but en la misma frase",
+            "Sí: Although…, but…",
+            "Solo en preguntas"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«because it's indoors»: ¿qué introduce because?",
+          "opciones": [
+            "La causa (el porqué)",
+            "El resultado",
+            "Una suma"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Although va al principio o en medio y nunca se junta con but. Because + frase completa da la causa; because of + sustantivo (because of the rain). So da el resultado y though al final añade un «eso sí»."
+    },
+    {
+      "id": "conectores-x3-006",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "CON",
+      "consigna": "Un cliente quiere cambiar el color principal de la campaña y tú no estás de acuerdo. Escríbele un mensaje con un desacuerdo suave: reconoce su punto, da tus razones y di qué pasaría si se cambia.",
+      "requisitos": [
+        {
+          "texto": "Muestra contraste con but",
+          "patron": "\\bbut\\b"
+        },
+        {
+          "texto": "Usa although / though / even though",
+          "patron": "\\b(although|though|even though)\\b"
+        },
+        {
+          "texto": "Da una razón con because",
+          "patron": "\\bbecause\\b"
+        },
+        {
+          "texto": "Di una consecuencia con «…, so + resultado»",
+          "patron": ",\\s*so\\b"
+        }
+      ],
+      "minPalabras": 50,
+      "ejemplo": "Hi Sarah, thanks for your comments on the campaign. I see your point about the colors, but I think we should keep the yellow. Although it's a strong color, it's the one people remember because it's in all the brand's stores. We tested two versions with users, so we have real data. Changing it now is possible, though it will delay the launch one week. Let me know what you think. Best, Jonathan",
+      "explica": "Desacuerdo en cuatro piezas: but para el choque (I see your point, but…), although para conceder, because para la razón y so para la consecuencia. Nunca although + but ni because + so en la misma frase."
+    }
+  ]
+}

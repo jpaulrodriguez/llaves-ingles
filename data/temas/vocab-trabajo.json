@@ -10,12 +10,36 @@
     "paraQue": "Hablar de tu trabajo con naturalidad: qué haces en una reunión, qué le prometes a un cliente, cómo presentas un resultado y cómo pides una aprobación o un cambio de fecha.",
     "llave": "La llave es el verbo que acompaña a cada sustantivo. En español 'hacer' sirve para todo; en inglés cada cosa tiene su verbo: set up a meeting, meet a deadline, run a campaign, make a decision, take notes, attend a meeting, give feedback, approve a budget. Si aprendes el sustantivo solo, vas a decir 'make a meeting'.",
     "formulas": [
-      { "tipo": "Reuniones", "formula": "set up / schedule / reschedule / attend / cancel + a meeting", "ejemplo": "Can you set up a meeting with the client for Thursday?" },
-      { "tipo": "Plazos", "formula": "meet / miss + a deadline · the deadline is + día", "ejemplo": "We always meet our deadlines. The deadline is Friday." },
-      { "tipo": "Decisiones y notas", "formula": "make a decision · take notes · write the minutes · give / get feedback", "ejemplo": "I took notes and sent the minutes after the meeting." },
-      { "tipo": "Campaña", "formula": "run / launch / plan + a campaign · present the pitch · approve the budget", "ejemplo": "We're running a campaign for a new sneaker." },
-      { "tipo": "Seguimiento", "formula": "follow up with + persona / on + tema", "ejemplo": "I'll follow up with the client on the budget tomorrow." },
-      { "tipo": "Preguntar por el trabajo", "formula": "What do you do? · Who do you work for? · What are you working on?", "ejemplo": "I'm working on a pitch for a bank." }
+      {
+        "tipo": "Reuniones",
+        "formula": "set up / schedule / reschedule / attend / cancel + a meeting",
+        "ejemplo": "Can you set up a meeting with the client for Thursday?"
+      },
+      {
+        "tipo": "Plazos",
+        "formula": "meet / miss + a deadline · the deadline is + día",
+        "ejemplo": "We always meet our deadlines. The deadline is Friday."
+      },
+      {
+        "tipo": "Decisiones y notas",
+        "formula": "make a decision · take notes · write the minutes · give / get feedback",
+        "ejemplo": "I took notes and sent the minutes after the meeting."
+      },
+      {
+        "tipo": "Campaña",
+        "formula": "run / launch / plan + a campaign · present the pitch · approve the budget",
+        "ejemplo": "We're running a campaign for a new sneaker."
+      },
+      {
+        "tipo": "Seguimiento",
+        "formula": "follow up with + persona / on + tema",
+        "ejemplo": "I'll follow up with the client on the budget tomorrow."
+      },
+      {
+        "tipo": "Preguntar por el trabajo",
+        "formula": "What do you do? · Who do you work for? · What are you working on?",
+        "ejemplo": "I'm working on a pitch for a bank."
+      }
     ],
     "reglas": [
       "Aprende cada sustantivo con su verbo: set up a meeting, meet a deadline, make a decision, take notes, give feedback, run a campaign. 'Make' y 'do' no sirven para todo.",
@@ -26,131 +50,2307 @@
       "Muchas palabras son sustantivo y verbo a la vez: schedule / to schedule, launch / to launch, brief / to brief, pitch / to pitch, budget / to budget. Apréndelas en los dos usos.",
       "Las siglas se leen letra por letra: KPI /keɪ piː aɪ/, CEO, ROI. En plural llevan s: KPIs."
     ],
-    "senales": ["at 10 a.m.", "by Friday", "on time", "a lot of feedback", "the first draft", "next steps", "the kick-off", "the status meeting", "Q4", "year-end"],
+    "senales": [
+      "at 10 a.m.",
+      "by Friday",
+      "on time",
+      "a lot of feedback",
+      "the first draft",
+      "next steps",
+      "the kick-off",
+      "the status meeting",
+      "Q4",
+      "year-end"
+    ],
     "usos": [
-      { "uso": "Reuniones", "contexto": "trabajo", "ejemplo": "meeting · agenda · minutes · take notes · set up / attend / reschedule / cancel a meeting · follow up" },
-      { "uso": "Plazos y cronograma", "contexto": "trabajo", "ejemplo": "deadline · schedule · meet / miss a deadline · deliverable · on time · reschedule" },
-      { "uso": "Dinero y papeles", "contexto": "trabajo", "ejemplo": "budget · quote · invoice · proposal · approve the budget · overtime" },
-      { "uso": "Campaña y resultados", "contexto": "trabajo", "ejemplo": "brief · pitch · campaign · launch · target audience · insight · KPI · reach · engagement · run a campaign" },
-      { "uso": "Gente", "contexto": "trabajo", "ejemplo": "client · account · stakeholder · team · colleague · boss · hire" },
-      { "uso": "Hablar del trabajo en casa", "contexto": "diario", "ejemplo": "'I had three meetings today.' · 'I have a deadline tomorrow, so I can't go to the gym.' · 'My boss approved my vacation!'" },
-      { "uso": "Hablar del trabajo con amigos", "contexto": "diario", "ejemplo": "'We're launching a campaign for a beer brand.' · 'We won the pitch!' · 'The client gave us great feedback.'" }
+      {
+        "uso": "Reuniones",
+        "contexto": "trabajo",
+        "ejemplo": "meeting · agenda · minutes · take notes · set up / attend / reschedule / cancel a meeting · follow up"
+      },
+      {
+        "uso": "Plazos y cronograma",
+        "contexto": "trabajo",
+        "ejemplo": "deadline · schedule · meet / miss a deadline · deliverable · on time · reschedule"
+      },
+      {
+        "uso": "Dinero y papeles",
+        "contexto": "trabajo",
+        "ejemplo": "budget · quote · invoice · proposal · approve the budget · overtime"
+      },
+      {
+        "uso": "Campaña y resultados",
+        "contexto": "trabajo",
+        "ejemplo": "brief · pitch · campaign · launch · target audience · insight · KPI · reach · engagement · run a campaign"
+      },
+      {
+        "uso": "Gente",
+        "contexto": "trabajo",
+        "ejemplo": "client · account · stakeholder · team · colleague · boss · hire"
+      },
+      {
+        "uso": "Hablar del trabajo en casa",
+        "contexto": "diario",
+        "ejemplo": "'I had three meetings today.' · 'I have a deadline tomorrow, so I can't go to the gym.' · 'My boss approved my vacation!'"
+      },
+      {
+        "uso": "Hablar del trabajo con amigos",
+        "contexto": "diario",
+        "ejemplo": "'We're launching a campaign for a beer brand.' · 'We won the pitch!' · 'The client gave us great feedback.'"
+      }
     ],
     "errores": [
-      { "mal": "I can't assist to the meeting.", "bien": "I can't attend the meeting.", "porque": "Assist = ayudar. Asistir a una reunión es attend (sin 'to') o go to.", "code": "USO" },
-      { "mal": "The client gave us a lot of feedbacks.", "bien": "The client gave us a lot of feedback.", "porque": "Feedback es incontable: no tiene plural.", "code": "VOC" },
-      { "mal": "We have a reunion with the client at 4.", "bien": "We have a meeting with the client at 4.", "porque": "Reunion es un reencuentro (de excompañeros, de familia). La reunión de trabajo es meeting.", "code": "USO" },
-      { "mal": "Let's make a meeting on Monday.", "bien": "Let's set up a meeting on Monday. / Let's have a meeting on Monday.", "porque": "Las reuniones se organizan (set up, schedule) o se tienen (have); no se 'hacen'.", "code": "USO" },
-      { "mal": "We need to take a decision today.", "bien": "We need to make a decision today.", "porque": "En inglés estadounidense la decisión se 'hace': make a decision.", "code": "USO" },
-      { "mal": "The agency has a strong compromise with the client.", "bien": "The agency has a strong commitment to the client.", "porque": "Compromise es un acuerdo donde cada parte cede algo. Compromiso (en el sentido de dedicación) es commitment.", "code": "USO" },
-      { "mal": "Actually I'm working on a campaign for a bank.", "bien": "Currently I'm working on a campaign for a bank. / I'm currently working on…", "porque": "Actually significa 'de hecho, en realidad'. Actualmente es currently o right now.", "code": "USO" },
-      { "mal": "Send me your agenda for next week so we can find a time.", "bien": "Send me your schedule for next week so we can find a time.", "porque": "Agenda en inglés es la lista de temas de una reunión. Tu agenda de citas es schedule o calendar.", "code": "USO" }
+      {
+        "mal": "I can't assist to the meeting.",
+        "bien": "I can't attend the meeting.",
+        "porque": "Assist = ayudar. Asistir a una reunión es attend (sin 'to') o go to.",
+        "code": "USO"
+      },
+      {
+        "mal": "The client gave us a lot of feedbacks.",
+        "bien": "The client gave us a lot of feedback.",
+        "porque": "Feedback es incontable: no tiene plural.",
+        "code": "VOC"
+      },
+      {
+        "mal": "We have a reunion with the client at 4.",
+        "bien": "We have a meeting with the client at 4.",
+        "porque": "Reunion es un reencuentro (de excompañeros, de familia). La reunión de trabajo es meeting.",
+        "code": "USO"
+      },
+      {
+        "mal": "Let's make a meeting on Monday.",
+        "bien": "Let's set up a meeting on Monday. / Let's have a meeting on Monday.",
+        "porque": "Las reuniones se organizan (set up, schedule) o se tienen (have); no se 'hacen'.",
+        "code": "USO"
+      },
+      {
+        "mal": "We need to take a decision today.",
+        "bien": "We need to make a decision today.",
+        "porque": "En inglés estadounidense la decisión se 'hace': make a decision.",
+        "code": "USO"
+      },
+      {
+        "mal": "The agency has a strong compromise with the client.",
+        "bien": "The agency has a strong commitment to the client.",
+        "porque": "Compromise es un acuerdo donde cada parte cede algo. Compromiso (en el sentido de dedicación) es commitment.",
+        "code": "USO"
+      },
+      {
+        "mal": "Actually I'm working on a campaign for a bank.",
+        "bien": "Currently I'm working on a campaign for a bank. / I'm currently working on…",
+        "porque": "Actually significa 'de hecho, en realidad'. Actualmente es currently o right now.",
+        "code": "USO"
+      },
+      {
+        "mal": "Send me your agenda for next week so we can find a time.",
+        "bien": "Send me your schedule for next week so we can find a time.",
+        "porque": "Agenda en inglés es la lista de temas de una reunión. Tu agenda de citas es schedule o calendar.",
+        "code": "USO"
+      }
     ],
     "contraste": [
-      { "a": "I'll send the agenda before the meeting.", "b": "I'll send the minutes after the meeting.", "nota": "Agenda = antes (temas) · minutes = después (acta)." },
-      { "a": "We met the deadline.", "b": "We missed the deadline.", "nota": "meet = cumplir · miss = incumplir." },
-      { "a": "The campaign had a reach of 2 million.", "b": "The campaign had high engagement: 50,000 comments.", "nota": "Reach = cuántos lo vieron · engagement = cuántos reaccionaron." },
-      { "a": "I attended the meeting.", "b": "I assisted the client with the brief.", "nota": "attend = asistir a · assist = ayudar." }
+      {
+        "a": "I'll send the agenda before the meeting.",
+        "b": "I'll send the minutes after the meeting.",
+        "nota": "Agenda = antes (temas) · minutes = después (acta)."
+      },
+      {
+        "a": "We met the deadline.",
+        "b": "We missed the deadline.",
+        "nota": "meet = cumplir · miss = incumplir."
+      },
+      {
+        "a": "The campaign had a reach of 2 million.",
+        "b": "The campaign had high engagement: 50,000 comments.",
+        "nota": "Reach = cuántos lo vieron · engagement = cuántos reaccionaron."
+      },
+      {
+        "a": "I attended the meeting.",
+        "b": "I assisted the client with the brief.",
+        "nota": "attend = asistir a · assist = ayudar."
+      }
     ],
     "frases": [
-      { "en": "meeting /ˈmiːtɪŋ/", "es": "reunión", "contexto": "trabajo", "ejemplo": "We have a meeting with the client at 10." },
-      { "en": "deadline /ˈdedlaɪn/", "es": "fecha límite, plazo de entrega", "contexto": "trabajo", "ejemplo": "The deadline for the first draft is Friday." },
-      { "en": "brief /briːf/", "es": "brief, encargo del cliente", "contexto": "trabajo", "ejemplo": "The client sent the brief this morning." },
-      { "en": "budget /ˈbʌdʒɪt/", "es": "presupuesto", "contexto": "trabajo", "ejemplo": "The budget for the campaign is $50,000." },
-      { "en": "pitch /pɪtʃ/", "es": "pitch, presentación para ganar una cuenta", "contexto": "trabajo", "ejemplo": "We won the pitch for the new bank account!" },
-      { "en": "campaign /kæmˈpeɪn/", "es": "campaña", "contexto": "trabajo", "ejemplo": "We're running a campaign for a sneaker brand." },
-      { "en": "client /ˈklaɪənt/", "es": "cliente", "contexto": "trabajo", "ejemplo": "The client wants three options by Monday." },
-      { "en": "account /əˈkaʊnt/", "es": "cuenta (cliente que maneja la agencia)", "contexto": "trabajo", "ejemplo": "Laura manages the Honda account." },
-      { "en": "stakeholder /ˈsteɪkhoʊldər/", "es": "parte interesada, involucrado", "contexto": "trabajo", "ejemplo": "We need to present the plan to all the stakeholders." },
-      { "en": "launch /lɔːntʃ/", "es": "lanzamiento; lanzar", "contexto": "trabajo", "ejemplo": "The launch is on March 15. We launch the campaign next week." },
-      { "en": "feedback /ˈfiːdbæk/", "es": "retroalimentación, comentarios (incontable)", "contexto": "trabajo", "ejemplo": "The client gave us a lot of feedback on the designs." },
-      { "en": "schedule /ˈskedʒuːl/", "es": "cronograma, horario; programar", "contexto": "trabajo", "ejemplo": "We're behind schedule. Let's schedule a call for Tuesday." },
-      { "en": "agenda /əˈdʒendə/", "es": "orden del día (temas de la reunión)", "contexto": "trabajo", "ejemplo": "There are three items on the agenda today." },
-      { "en": "minutes /ˈmɪnɪts/", "es": "acta de la reunión", "contexto": "trabajo", "ejemplo": "Can you write the minutes and send them to everyone?" },
-      { "en": "follow up /ˌfɑːloʊ ˈʌp/", "es": "hacer seguimiento", "contexto": "trabajo", "ejemplo": "I'll follow up with the client on Monday." },
-      { "en": "approve /əˈpruːv/", "es": "aprobar", "contexto": "trabajo", "ejemplo": "The client approved the budget yesterday." },
-      { "en": "reschedule /ˌriːˈskedʒuːl/", "es": "reprogramar, cambiar la fecha", "contexto": "trabajo", "ejemplo": "Can we reschedule the meeting for Thursday?" },
-      { "en": "deliverable /dɪˈlɪvərəbəl/", "es": "entregable", "contexto": "trabajo", "ejemplo": "The deliverables are three videos and ten posts." },
-      { "en": "insight /ˈɪnsaɪt/", "es": "hallazgo, insight", "contexto": "trabajo", "ejemplo": "The insight is that young riders buy on credit." },
-      { "en": "target audience /ˈtɑːrɡɪt ˈɔːdiəns/", "es": "público objetivo", "contexto": "trabajo", "ejemplo": "Our target audience is women between 25 and 40." },
-      { "en": "KPI /ˌkeɪ piː ˈaɪ/", "es": "indicador clave de desempeño", "contexto": "trabajo", "ejemplo": "Our main KPI is sales, not likes." },
-      { "en": "reach /riːtʃ/", "es": "alcance", "contexto": "trabajo", "ejemplo": "The video had a reach of two million people." },
-      { "en": "engagement /ɪnˈɡeɪdʒmənt/", "es": "interacción, engagement", "contexto": "trabajo", "ejemplo": "Engagement was low: only 200 comments." },
-      { "en": "set up a meeting /ˌset ʌp ə ˈmiːtɪŋ/", "es": "convocar, organizar una reunión", "contexto": "trabajo", "ejemplo": "Can you set up a meeting with the media team?" },
-      { "en": "meet a deadline /ˌmiːt ə ˈdedlaɪn/", "es": "cumplir un plazo", "contexto": "trabajo", "ejemplo": "We always meet our deadlines." },
-      { "en": "miss a deadline /ˌmɪs ə ˈdedlaɪn/", "es": "incumplir un plazo", "contexto": "trabajo", "ejemplo": "If we miss the deadline, we lose the client." },
-      { "en": "run a campaign /ˌrʌn ə kæmˈpeɪn/", "es": "ejecutar, manejar una campaña", "contexto": "trabajo", "ejemplo": "We run campaigns for five brands." },
-      { "en": "make a decision /ˌmeɪk ə dɪˈsɪʒən/", "es": "tomar una decisión", "contexto": "trabajo", "ejemplo": "We need to make a decision about the budget today." },
-      { "en": "take notes /ˌteɪk ˈnoʊts/", "es": "tomar notas", "contexto": "trabajo", "ejemplo": "I take notes in every meeting." },
-      { "en": "attend a meeting /əˌtend ə ˈmiːtɪŋ/", "es": "asistir a una reunión", "contexto": "trabajo", "ejemplo": "Twelve people attended the kick-off meeting." },
-      { "en": "give feedback /ˌɡɪv ˈfiːdbæk/", "es": "dar retroalimentación", "contexto": "trabajo", "ejemplo": "Can you give me feedback on the presentation?" },
-      { "en": "proposal /prəˈpoʊzəl/", "es": "propuesta", "contexto": "trabajo", "ejemplo": "We sent the proposal on Friday." },
-      { "en": "quote /kwoʊt/", "es": "cotización", "contexto": "trabajo", "ejemplo": "The client asked for a quote for the video." },
-      { "en": "invoice /ˈɪnvɔɪs/", "es": "factura", "contexto": "trabajo", "ejemplo": "We send the invoice at the end of the month." },
-      { "en": "report /rɪˈpɔːrt/", "es": "informe", "contexto": "trabajo", "ejemplo": "The monthly report is ready." },
-      { "en": "overtime /ˈoʊvərtaɪm/", "es": "horas extra", "contexto": "diario", "ejemplo": "I worked overtime all week, so I'm tired." },
-      { "en": "colleague /ˈkɑːliːɡ/", "es": "colega, compañero de trabajo", "contexto": "diario", "ejemplo": "My colleagues and I have lunch together on Fridays." },
-      { "en": "boss /bɔːs/", "es": "jefe", "contexto": "diario", "ejemplo": "My boss approved my vacation!" },
-      { "en": "team /tiːm/", "es": "equipo", "contexto": "trabajo", "ejemplo": "I lead a team of six people." },
-      { "en": "hire /haɪər/", "es": "contratar", "contexto": "trabajo", "ejemplo": "We're hiring two new designers." }
+      {
+        "en": "meeting /ˈmiːtɪŋ/",
+        "es": "reunión",
+        "contexto": "trabajo",
+        "ejemplo": "We have a meeting with the client at 10."
+      },
+      {
+        "en": "deadline /ˈdedlaɪn/",
+        "es": "fecha límite, plazo de entrega",
+        "contexto": "trabajo",
+        "ejemplo": "The deadline for the first draft is Friday."
+      },
+      {
+        "en": "brief /briːf/",
+        "es": "brief, encargo del cliente",
+        "contexto": "trabajo",
+        "ejemplo": "The client sent the brief this morning."
+      },
+      {
+        "en": "budget /ˈbʌdʒɪt/",
+        "es": "presupuesto",
+        "contexto": "trabajo",
+        "ejemplo": "The budget for the campaign is $50,000."
+      },
+      {
+        "en": "pitch /pɪtʃ/",
+        "es": "pitch, presentación para ganar una cuenta",
+        "contexto": "trabajo",
+        "ejemplo": "We won the pitch for the new bank account!"
+      },
+      {
+        "en": "campaign /kæmˈpeɪn/",
+        "es": "campaña",
+        "contexto": "trabajo",
+        "ejemplo": "We're running a campaign for a sneaker brand."
+      },
+      {
+        "en": "client /ˈklaɪənt/",
+        "es": "cliente",
+        "contexto": "trabajo",
+        "ejemplo": "The client wants three options by Monday."
+      },
+      {
+        "en": "account /əˈkaʊnt/",
+        "es": "cuenta (cliente que maneja la agencia)",
+        "contexto": "trabajo",
+        "ejemplo": "Laura manages the Honda account."
+      },
+      {
+        "en": "stakeholder /ˈsteɪkhoʊldər/",
+        "es": "parte interesada, involucrado",
+        "contexto": "trabajo",
+        "ejemplo": "We need to present the plan to all the stakeholders."
+      },
+      {
+        "en": "launch /lɔːntʃ/",
+        "es": "lanzamiento; lanzar",
+        "contexto": "trabajo",
+        "ejemplo": "The launch is on March 15. We launch the campaign next week."
+      },
+      {
+        "en": "feedback /ˈfiːdbæk/",
+        "es": "retroalimentación, comentarios (incontable)",
+        "contexto": "trabajo",
+        "ejemplo": "The client gave us a lot of feedback on the designs."
+      },
+      {
+        "en": "schedule /ˈskedʒuːl/",
+        "es": "cronograma, horario; programar",
+        "contexto": "trabajo",
+        "ejemplo": "We're behind schedule. Let's schedule a call for Tuesday."
+      },
+      {
+        "en": "agenda /əˈdʒendə/",
+        "es": "orden del día (temas de la reunión)",
+        "contexto": "trabajo",
+        "ejemplo": "There are three items on the agenda today."
+      },
+      {
+        "en": "minutes /ˈmɪnɪts/",
+        "es": "acta de la reunión",
+        "contexto": "trabajo",
+        "ejemplo": "Can you write the minutes and send them to everyone?"
+      },
+      {
+        "en": "follow up /ˌfɑːloʊ ˈʌp/",
+        "es": "hacer seguimiento",
+        "contexto": "trabajo",
+        "ejemplo": "I'll follow up with the client on Monday."
+      },
+      {
+        "en": "approve /əˈpruːv/",
+        "es": "aprobar",
+        "contexto": "trabajo",
+        "ejemplo": "The client approved the budget yesterday."
+      },
+      {
+        "en": "reschedule /ˌriːˈskedʒuːl/",
+        "es": "reprogramar, cambiar la fecha",
+        "contexto": "trabajo",
+        "ejemplo": "Can we reschedule the meeting for Thursday?"
+      },
+      {
+        "en": "deliverable /dɪˈlɪvərəbəl/",
+        "es": "entregable",
+        "contexto": "trabajo",
+        "ejemplo": "The deliverables are three videos and ten posts."
+      },
+      {
+        "en": "insight /ˈɪnsaɪt/",
+        "es": "hallazgo, insight",
+        "contexto": "trabajo",
+        "ejemplo": "The insight is that young riders buy on credit."
+      },
+      {
+        "en": "target audience /ˈtɑːrɡɪt ˈɔːdiəns/",
+        "es": "público objetivo",
+        "contexto": "trabajo",
+        "ejemplo": "Our target audience is women between 25 and 40."
+      },
+      {
+        "en": "KPI /ˌkeɪ piː ˈaɪ/",
+        "es": "indicador clave de desempeño",
+        "contexto": "trabajo",
+        "ejemplo": "Our main KPI is sales, not likes."
+      },
+      {
+        "en": "reach /riːtʃ/",
+        "es": "alcance",
+        "contexto": "trabajo",
+        "ejemplo": "The video had a reach of two million people."
+      },
+      {
+        "en": "engagement /ɪnˈɡeɪdʒmənt/",
+        "es": "interacción, engagement",
+        "contexto": "trabajo",
+        "ejemplo": "Engagement was low: only 200 comments."
+      },
+      {
+        "en": "set up a meeting /ˌset ʌp ə ˈmiːtɪŋ/",
+        "es": "convocar, organizar una reunión",
+        "contexto": "trabajo",
+        "ejemplo": "Can you set up a meeting with the media team?"
+      },
+      {
+        "en": "meet a deadline /ˌmiːt ə ˈdedlaɪn/",
+        "es": "cumplir un plazo",
+        "contexto": "trabajo",
+        "ejemplo": "We always meet our deadlines."
+      },
+      {
+        "en": "miss a deadline /ˌmɪs ə ˈdedlaɪn/",
+        "es": "incumplir un plazo",
+        "contexto": "trabajo",
+        "ejemplo": "If we miss the deadline, we lose the client."
+      },
+      {
+        "en": "run a campaign /ˌrʌn ə kæmˈpeɪn/",
+        "es": "ejecutar, manejar una campaña",
+        "contexto": "trabajo",
+        "ejemplo": "We run campaigns for five brands."
+      },
+      {
+        "en": "make a decision /ˌmeɪk ə dɪˈsɪʒən/",
+        "es": "tomar una decisión",
+        "contexto": "trabajo",
+        "ejemplo": "We need to make a decision about the budget today."
+      },
+      {
+        "en": "take notes /ˌteɪk ˈnoʊts/",
+        "es": "tomar notas",
+        "contexto": "trabajo",
+        "ejemplo": "I take notes in every meeting."
+      },
+      {
+        "en": "attend a meeting /əˌtend ə ˈmiːtɪŋ/",
+        "es": "asistir a una reunión",
+        "contexto": "trabajo",
+        "ejemplo": "Twelve people attended the kick-off meeting."
+      },
+      {
+        "en": "give feedback /ˌɡɪv ˈfiːdbæk/",
+        "es": "dar retroalimentación",
+        "contexto": "trabajo",
+        "ejemplo": "Can you give me feedback on the presentation?"
+      },
+      {
+        "en": "proposal /prəˈpoʊzəl/",
+        "es": "propuesta",
+        "contexto": "trabajo",
+        "ejemplo": "We sent the proposal on Friday."
+      },
+      {
+        "en": "quote /kwoʊt/",
+        "es": "cotización",
+        "contexto": "trabajo",
+        "ejemplo": "The client asked for a quote for the video."
+      },
+      {
+        "en": "invoice /ˈɪnvɔɪs/",
+        "es": "factura",
+        "contexto": "trabajo",
+        "ejemplo": "We send the invoice at the end of the month."
+      },
+      {
+        "en": "report /rɪˈpɔːrt/",
+        "es": "informe",
+        "contexto": "trabajo",
+        "ejemplo": "The monthly report is ready."
+      },
+      {
+        "en": "overtime /ˈoʊvərtaɪm/",
+        "es": "horas extra",
+        "contexto": "diario",
+        "ejemplo": "I worked overtime all week, so I'm tired."
+      },
+      {
+        "en": "colleague /ˈkɑːliːɡ/",
+        "es": "colega, compañero de trabajo",
+        "contexto": "diario",
+        "ejemplo": "My colleagues and I have lunch together on Fridays."
+      },
+      {
+        "en": "boss /bɔːs/",
+        "es": "jefe",
+        "contexto": "diario",
+        "ejemplo": "My boss approved my vacation!"
+      },
+      {
+        "en": "team /tiːm/",
+        "es": "equipo",
+        "contexto": "trabajo",
+        "ejemplo": "I lead a team of six people."
+      },
+      {
+        "en": "hire /haɪər/",
+        "es": "contratar",
+        "contexto": "trabajo",
+        "ejemplo": "We're hiring two new designers."
+      }
     ],
     "tip": "Cuando aprendas un sustantivo de trabajo, pregúntate: ¿qué verbo va delante? meeting → set up / attend; deadline → meet / miss; decision → make; notes → take; feedback → give / get; campaign → run / launch. Apunta la pareja completa en tu ficha."
   },
+  "palabras": [
+    {
+      "id": "meeting",
+      "en": "meeting",
+      "ipa": "/ˈmiːtɪŋ/",
+      "es": "reunión",
+      "clase": "sustantivo",
+      "orden": 1,
+      "ejemplo": "We have a meeting with the client at 10.",
+      "hueco": {
+        "frase": "We have a ___ with the client at 10. (reunión)",
+        "respuestas": [
+          "meeting"
+        ]
+      },
+      "nota": "Meeting = reunión. Reunion = reencuentro."
+    },
+    {
+      "id": "deadline",
+      "en": "deadline",
+      "ipa": "/ˈdedlaɪn/",
+      "es": "fecha límite, plazo de entrega",
+      "clase": "sustantivo",
+      "orden": 2,
+      "ejemplo": "The deadline for the first draft is Friday.",
+      "hueco": {
+        "frase": "The ___ for the first draft is Friday. (fecha límite)",
+        "respuestas": [
+          "deadline"
+        ]
+      },
+      "nota": "meet / miss a deadline"
+    },
+    {
+      "id": "client",
+      "en": "client",
+      "ipa": "/ˈklaɪənt/",
+      "es": "cliente",
+      "clase": "sustantivo",
+      "orden": 3,
+      "ejemplo": "The client wants three options by Monday.",
+      "hueco": {
+        "frase": "The ___ wants three options by Monday. (cliente)",
+        "respuestas": [
+          "client"
+        ]
+      },
+      "nota": "client (agencia) · customer (tienda)"
+    },
+    {
+      "id": "campaign",
+      "en": "campaign",
+      "ipa": "/kæmˈpeɪn/",
+      "es": "campaña",
+      "clase": "sustantivo",
+      "orden": 4,
+      "ejemplo": "We're running a campaign for a sneaker brand.",
+      "hueco": {
+        "frase": "We're running a ___ for a sneaker brand. (campaña)",
+        "respuestas": [
+          "campaign"
+        ]
+      },
+      "nota": "La g no suena: /kæmˈpeɪn/. run / launch a campaign"
+    },
+    {
+      "id": "budget",
+      "en": "budget",
+      "ipa": "/ˈbʌdʒɪt/",
+      "es": "presupuesto",
+      "clase": "sustantivo",
+      "orden": 5,
+      "ejemplo": "The budget for the campaign is $50,000.",
+      "hueco": {
+        "frase": "The ___ for the campaign is $50,000. (presupuesto)",
+        "respuestas": [
+          "budget"
+        ]
+      },
+      "nota": "approve the budget · over budget"
+    },
+    {
+      "id": "brief",
+      "en": "brief",
+      "ipa": "/briːf/",
+      "es": "brief, encargo del cliente",
+      "clase": "sustantivo",
+      "orden": 6,
+      "ejemplo": "The client sent the brief this morning.",
+      "hueco": {
+        "frase": "The client sent the ___ this morning. (brief, encargo)",
+        "respuestas": [
+          "brief"
+        ]
+      },
+      "nota": "También verbo: to brief the team."
+    },
+    {
+      "id": "feedback",
+      "en": "feedback",
+      "ipa": "/ˈfiːdbæk/",
+      "es": "retroalimentación, comentarios (incontable)",
+      "clase": "sustantivo",
+      "orden": 7,
+      "ejemplo": "The client gave us a lot of feedback on the designs.",
+      "hueco": {
+        "frase": "The client gave us a lot of ___ on the designs. (retroalimentación)",
+        "respuestas": [
+          "feedback"
+        ]
+      },
+      "nota": "Incontable: some feedback, a lot of feedback. Nunca 'feedbacks'."
+    },
+    {
+      "id": "set-up-a-meeting",
+      "en": "set up a meeting",
+      "ipa": "/ˌset ʌp ə ˈmiːtɪŋ/",
+      "es": "convocar, organizar una reunión",
+      "clase": "expresión",
+      "orden": 8,
+      "ejemplo": "Can you set up a meeting with the media team?",
+      "hueco": {
+        "frase": "Can you ___ a meeting with the media team? (organizar)",
+        "respuestas": [
+          "set up"
+        ]
+      },
+      "nota": "set up / schedule a meeting (nunca 'make a meeting')"
+    },
+    {
+      "id": "meet-a-deadline",
+      "en": "meet a deadline",
+      "ipa": "/ˌmiːt ə ˈdedlaɪn/",
+      "es": "cumplir un plazo",
+      "clase": "expresión",
+      "orden": 9,
+      "ejemplo": "We always meet our deadlines.",
+      "hueco": {
+        "frase": "We always ___ our deadlines. (cumplir)",
+        "respuestas": [
+          "meet"
+        ]
+      },
+      "nota": "meet a deadline (pasado: met)"
+    },
+    {
+      "id": "miss-a-deadline",
+      "en": "miss a deadline",
+      "ipa": "/ˌmɪs ə ˈdedlaɪn/",
+      "es": "incumplir un plazo",
+      "clase": "expresión",
+      "orden": 10,
+      "ejemplo": "If we miss the deadline, we lose the client.",
+      "hueco": {
+        "frase": "If we ___ the deadline, we lose the client. (incumplir)",
+        "respuestas": [
+          "miss"
+        ]
+      },
+      "nota": "miss a deadline (nunca 'lose')"
+    },
+    {
+      "id": "pitch",
+      "en": "pitch",
+      "ipa": "/pɪtʃ/",
+      "es": "pitch, presentación para ganar una cuenta",
+      "clase": "sustantivo",
+      "orden": 11,
+      "ejemplo": "We won the pitch for the new bank account!",
+      "hueco": {
+        "frase": "We won the ___ for the new bank account! (pitch)",
+        "respuestas": [
+          "pitch"
+        ]
+      },
+      "nota": "win / lose a pitch · también verbo: to pitch an idea"
+    },
+    {
+      "id": "launch",
+      "en": "launch",
+      "ipa": "/lɔːntʃ/",
+      "es": "lanzar",
+      "clase": "verbo",
+      "orden": 12,
+      "formas": {
+        "s": "launches",
+        "pasado": "launched",
+        "participio": "launched",
+        "ing": "launching"
+      },
+      "comp": [
+        "the campaign",
+        "a new product"
+      ],
+      "ejemplo": "We launch the campaign next week.",
+      "hueco": {
+        "frase": "We ___ the campaign next week. (lanzar)",
+        "respuestas": [
+          "launch"
+        ]
+      },
+      "nota": "También sustantivo: The launch is on March 15."
+    },
+    {
+      "id": "schedule",
+      "en": "schedule",
+      "ipa": "/ˈskedʒuːl/",
+      "es": "programar, agendar",
+      "clase": "verbo",
+      "orden": 13,
+      "formas": {
+        "s": "schedules",
+        "pasado": "scheduled",
+        "participio": "scheduled",
+        "ing": "scheduling"
+      },
+      "comp": [
+        "a call for Tuesday",
+        "a meeting"
+      ],
+      "ejemplo": "Let's schedule a call for Tuesday.",
+      "hueco": {
+        "frase": "Let's ___ a call for Tuesday. (programar)",
+        "respuestas": [
+          "schedule"
+        ]
+      },
+      "nota": "También sustantivo: behind schedule, a tight schedule."
+    },
+    {
+      "id": "reschedule",
+      "en": "reschedule",
+      "ipa": "/ˌriːˈskedʒuːl/",
+      "es": "reprogramar, cambiar la fecha",
+      "clase": "verbo",
+      "orden": 14,
+      "formas": {
+        "s": "reschedules",
+        "pasado": "rescheduled",
+        "participio": "rescheduled",
+        "ing": "rescheduling"
+      },
+      "comp": [
+        "the meeting",
+        "the call for Thursday"
+      ],
+      "ejemplo": "Can we reschedule the meeting for Thursday?",
+      "hueco": {
+        "frase": "Can we ___ the meeting for Thursday? (reprogramar)",
+        "respuestas": [
+          "reschedule"
+        ]
+      },
+      "nota": "reschedule … for + nuevo día"
+    },
+    {
+      "id": "approve",
+      "en": "approve",
+      "ipa": "/əˈpruːv/",
+      "es": "aprobar",
+      "clase": "verbo",
+      "orden": 15,
+      "formas": {
+        "s": "approves",
+        "pasado": "approved",
+        "participio": "approved",
+        "ing": "approving"
+      },
+      "comp": [
+        "the budget",
+        "the designs"
+      ],
+      "ejemplo": "The client approved the budget yesterday.",
+      "hueco": {
+        "frase": "The client ___ the budget yesterday. (aprobar, pasado)",
+        "respuestas": [
+          "approved"
+        ]
+      },
+      "nota": "approve the budget / the proposal · approval (sustantivo)"
+    },
+    {
+      "id": "attend",
+      "en": "attend",
+      "ipa": "/əˈtend/",
+      "es": "asistir a",
+      "clase": "verbo",
+      "orden": 16,
+      "formas": {
+        "s": "attends",
+        "pasado": "attended",
+        "participio": "attended",
+        "ing": "attending"
+      },
+      "comp": [
+        "a meeting",
+        "the kick-off"
+      ],
+      "ejemplo": "Twelve people attended the kick-off meeting.",
+      "hueco": {
+        "frase": "Twelve people ___ the kick-off meeting. (asistir, pasado)",
+        "respuestas": [
+          "attended"
+        ]
+      },
+      "nota": "attend a meeting (sin 'to'). Assist = ayudar."
+    },
+    {
+      "id": "follow-up",
+      "en": "follow up",
+      "ipa": "/ˌfɑːloʊ ˈʌp/",
+      "es": "hacer seguimiento",
+      "clase": "phrasal verb",
+      "orden": 17,
+      "formas": {
+        "s": "follows up",
+        "pasado": "followed up",
+        "participio": "followed up",
+        "ing": "following up"
+      },
+      "comp": [
+        "with the client",
+        "on the budget"
+      ],
+      "ejemplo": "I'll follow up with the client on Monday.",
+      "hueco": {
+        "frase": "I'll ___ with the client on Monday. (hacer seguimiento)",
+        "respuestas": [
+          "follow up"
+        ]
+      },
+      "nota": "follow up with + persona / on + tema"
+    },
+    {
+      "id": "make-a-decision",
+      "en": "make a decision",
+      "ipa": "/ˌmeɪk ə dɪˈsɪʒən/",
+      "es": "tomar una decisión",
+      "clase": "expresión",
+      "orden": 18,
+      "ejemplo": "We need to make a decision about the budget today.",
+      "hueco": {
+        "frase": "We need to ___ a decision about the budget today. (tomar)",
+        "respuestas": [
+          "make"
+        ]
+      },
+      "nota": "make a decision (nunca 'take a decision' en US)"
+    },
+    {
+      "id": "take-notes",
+      "en": "take notes",
+      "ipa": "/ˌteɪk ˈnoʊts/",
+      "es": "tomar notas",
+      "clase": "expresión",
+      "orden": 19,
+      "ejemplo": "I take notes in every meeting.",
+      "hueco": {
+        "frase": "I ___ notes in every meeting. (tomar)",
+        "respuestas": [
+          "take"
+        ]
+      },
+      "nota": "take notes (pasado: took)"
+    },
+    {
+      "id": "give-feedback",
+      "en": "give feedback",
+      "ipa": "/ˌɡɪv ˈfiːdbæk/",
+      "es": "dar retroalimentación",
+      "clase": "expresión",
+      "orden": 20,
+      "ejemplo": "Can you give me feedback on the presentation?",
+      "hueco": {
+        "frase": "Can you ___ me feedback on the presentation? (dar)",
+        "respuestas": [
+          "give"
+        ]
+      },
+      "nota": "give / get feedback on something"
+    },
+    {
+      "id": "run-a-campaign",
+      "en": "run a campaign",
+      "ipa": "/ˌrʌn ə kæmˈpeɪn/",
+      "es": "ejecutar, manejar una campaña",
+      "clase": "expresión",
+      "orden": 21,
+      "ejemplo": "We run campaigns for five brands.",
+      "hueco": {
+        "frase": "We ___ campaigns for five brands. (manejar, ejecutar)",
+        "respuestas": [
+          "run"
+        ]
+      },
+      "nota": "run a campaign (pasado: ran)"
+    },
+    {
+      "id": "schedule-n",
+      "en": "schedule",
+      "ipa": "/ˈskedʒuːl/",
+      "es": "cronograma, horario",
+      "clase": "sustantivo",
+      "orden": 22,
+      "ejemplo": "We're behind schedule.",
+      "hueco": {
+        "frase": "We're behind ___. (cronograma)",
+        "respuestas": [
+          "schedule"
+        ]
+      },
+      "nota": "on schedule · behind schedule · a tight schedule"
+    },
+    {
+      "id": "agenda",
+      "en": "agenda",
+      "ipa": "/əˈdʒendə/",
+      "es": "orden del día (temas de la reunión)",
+      "clase": "sustantivo",
+      "orden": 23,
+      "ejemplo": "There are three items on the agenda today.",
+      "hueco": {
+        "frase": "There are three items on the ___ today. (orden del día)",
+        "respuestas": [
+          "agenda"
+        ]
+      },
+      "nota": "Tu agenda de citas es your schedule / calendar."
+    },
+    {
+      "id": "minutes",
+      "en": "minutes",
+      "ipa": "/ˈmɪnɪts/",
+      "es": "acta de la reunión",
+      "clase": "sustantivo",
+      "orden": 24,
+      "ejemplo": "Can you write the minutes and send them to everyone?",
+      "hueco": {
+        "frase": "Can you write the ___ and send them to everyone? (acta)",
+        "respuestas": [
+          "minutes"
+        ]
+      },
+      "nota": "take / write the minutes"
+    },
+    {
+      "id": "account",
+      "en": "account",
+      "ipa": "/əˈkaʊnt/",
+      "es": "cuenta (cliente que maneja la agencia)",
+      "clase": "sustantivo",
+      "orden": 25,
+      "ejemplo": "Laura manages the Honda account.",
+      "hueco": {
+        "frase": "Laura manages the Honda ___. (cuenta)",
+        "respuestas": [
+          "account"
+        ]
+      },
+      "nota": "account manager"
+    },
+    {
+      "id": "deliverable",
+      "en": "deliverable",
+      "ipa": "/dɪˈlɪvərəbəl/",
+      "es": "entregable",
+      "clase": "sustantivo",
+      "orden": 26,
+      "ejemplo": "The deliverables are three videos and ten posts.",
+      "hueco": {
+        "frase": "The ___ are three videos and ten posts. (entregables)",
+        "respuestas": [
+          "deliverables"
+        ]
+      }
+    },
+    {
+      "id": "insight",
+      "en": "insight",
+      "ipa": "/ˈɪnsaɪt/",
+      "es": "hallazgo, insight",
+      "clase": "sustantivo",
+      "orden": 27,
+      "ejemplo": "The insight is that young riders buy on credit.",
+      "hueco": {
+        "frase": "The ___ is that young riders buy on credit. (hallazgo)",
+        "respuestas": [
+          "insight"
+        ]
+      }
+    },
+    {
+      "id": "target-audience",
+      "en": "target audience",
+      "ipa": "/ˈtɑːrɡɪt ˈɔːdiəns/",
+      "es": "público objetivo",
+      "clase": "sustantivo",
+      "orden": 28,
+      "ejemplo": "Our target audience is women between 25 and 40.",
+      "hueco": {
+        "frase": "Our ___ is women between 25 and 40. (público objetivo)",
+        "respuestas": [
+          "target audience",
+          "target"
+        ]
+      }
+    },
+    {
+      "id": "kpi",
+      "en": "KPI",
+      "ipa": "/ˌkeɪ piː ˈaɪ/",
+      "es": "indicador clave de desempeño",
+      "clase": "sustantivo",
+      "orden": 29,
+      "ejemplo": "Our main KPI is sales, not likes.",
+      "hueco": {
+        "frase": "Our main ___ is sales, not likes. (indicador clave)",
+        "respuestas": [
+          "KPI",
+          "kpi"
+        ]
+      },
+      "nota": "Se lee letra por letra. Plural: KPIs."
+    },
+    {
+      "id": "reach",
+      "en": "reach",
+      "ipa": "/riːtʃ/",
+      "es": "alcance",
+      "clase": "sustantivo",
+      "orden": 30,
+      "ejemplo": "The video had a reach of two million people.",
+      "hueco": {
+        "frase": "The video had a ___ of two million people. (alcance)",
+        "respuestas": [
+          "reach"
+        ]
+      }
+    },
+    {
+      "id": "engagement",
+      "en": "engagement",
+      "ipa": "/ɪnˈɡeɪdʒmənt/",
+      "es": "interacción, engagement",
+      "clase": "sustantivo",
+      "orden": 31,
+      "ejemplo": "Engagement was low: only 200 comments.",
+      "hueco": {
+        "frase": "___ was low: only 200 comments. (interacción)",
+        "respuestas": [
+          "Engagement",
+          "engagement"
+        ]
+      }
+    },
+    {
+      "id": "stakeholder",
+      "en": "stakeholder",
+      "ipa": "/ˈsteɪkhoʊldər/",
+      "es": "parte interesada, involucrado",
+      "clase": "sustantivo",
+      "orden": 32,
+      "ejemplo": "We need to present the plan to all the stakeholders.",
+      "hueco": {
+        "frase": "We need to present the plan to all the ___. (involucrados)",
+        "respuestas": [
+          "stakeholders"
+        ]
+      }
+    },
+    {
+      "id": "proposal",
+      "en": "proposal",
+      "ipa": "/prəˈpoʊzəl/",
+      "es": "propuesta",
+      "clase": "sustantivo",
+      "orden": 33,
+      "ejemplo": "We sent the proposal on Friday.",
+      "hueco": {
+        "frase": "We sent the ___ on Friday. (propuesta)",
+        "respuestas": [
+          "proposal"
+        ]
+      },
+      "nota": "send / present a proposal"
+    },
+    {
+      "id": "quote",
+      "en": "quote",
+      "ipa": "/kwoʊt/",
+      "es": "cotización",
+      "clase": "sustantivo",
+      "orden": 34,
+      "ejemplo": "The client asked for a quote for the video.",
+      "hueco": {
+        "frase": "The client asked for a ___ for the video. (cotización)",
+        "respuestas": [
+          "quote",
+          "quotation"
+        ]
+      },
+      "nota": "ask for / send a quote"
+    },
+    {
+      "id": "invoice",
+      "en": "invoice",
+      "ipa": "/ˈɪnvɔɪs/",
+      "es": "factura",
+      "clase": "sustantivo",
+      "orden": 35,
+      "ejemplo": "We send the invoice at the end of the month.",
+      "hueco": {
+        "frase": "We send the ___ at the end of the month. (factura)",
+        "respuestas": [
+          "invoice"
+        ]
+      },
+      "nota": "send / pay an invoice"
+    },
+    {
+      "id": "report",
+      "en": "report",
+      "ipa": "/rɪˈpɔːrt/",
+      "es": "informe",
+      "clase": "sustantivo",
+      "orden": 36,
+      "ejemplo": "The monthly report is ready.",
+      "hueco": {
+        "frase": "The monthly ___ is ready. (informe)",
+        "respuestas": [
+          "report"
+        ]
+      },
+      "nota": "write / send a report"
+    },
+    {
+      "id": "team",
+      "en": "team",
+      "ipa": "/tiːm/",
+      "es": "equipo",
+      "clase": "sustantivo",
+      "orden": 37,
+      "ejemplo": "I lead a team of six people.",
+      "hueco": {
+        "frase": "I lead a ___ of six people. (equipo)",
+        "respuestas": [
+          "team"
+        ]
+      }
+    },
+    {
+      "id": "colleague",
+      "en": "colleague",
+      "ipa": "/ˈkɑːliːɡ/",
+      "es": "colega, compañero de trabajo",
+      "clase": "sustantivo",
+      "orden": 38,
+      "ejemplo": "My colleagues and I have lunch together on Fridays.",
+      "hueco": {
+        "frase": "My ___ and I have lunch together on Fridays. (colegas)",
+        "respuestas": [
+          "colleagues",
+          "coworkers"
+        ]
+      },
+      "nota": "colleague / coworker"
+    },
+    {
+      "id": "boss",
+      "en": "boss",
+      "ipa": "/bɔːs/",
+      "es": "jefe",
+      "clase": "sustantivo",
+      "orden": 39,
+      "ejemplo": "My boss approved my vacation!",
+      "hueco": {
+        "frase": "My ___ approved my vacation! (jefe)",
+        "respuestas": [
+          "boss"
+        ]
+      }
+    },
+    {
+      "id": "hire",
+      "en": "hire",
+      "ipa": "/haɪər/",
+      "es": "contratar",
+      "clase": "verbo",
+      "orden": 40,
+      "formas": {
+        "s": "hires",
+        "pasado": "hired",
+        "participio": "hired",
+        "ing": "hiring"
+      },
+      "comp": [
+        "two new designers",
+        "a copywriter"
+      ],
+      "ejemplo": "We're hiring two new designers.",
+      "hueco": {
+        "frase": "We're ___ two new designers. (contratar, -ing)",
+        "respuestas": [
+          "hiring"
+        ]
+      },
+      "nota": "hire (contratar) · fire (despedir)"
+    },
+    {
+      "id": "overtime",
+      "en": "overtime",
+      "ipa": "/ˈoʊvərtaɪm/",
+      "es": "horas extra",
+      "clase": "sustantivo",
+      "orden": 41,
+      "ejemplo": "I worked overtime all week, so I'm tired.",
+      "hueco": {
+        "frase": "I worked ___ all week, so I'm tired. (horas extra)",
+        "respuestas": [
+          "overtime"
+        ]
+      },
+      "nota": "work overtime"
+    }
+  ],
   "ejercicios": [
-    { "id": "vocab-trabajo-001", "tipo": "emparejar", "nivel": 1, "code": "VOC", "pares": [["meeting", "reunión"], ["deadline", "fecha límite"], ["budget", "presupuesto"], ["client", "cliente"], ["campaign", "campaña"]], "explica": "Las cinco palabras de todos los días en la agencia. Campaign se pronuncia /kæmˈpeɪn/, la g es muda." },
-    { "id": "vocab-trabajo-002", "tipo": "emparejar", "nivel": 1, "code": "VOC", "pares": [["brief", "encargo del cliente"], ["pitch", "presentación para ganar una cuenta"], ["launch", "lanzamiento"], ["feedback", "comentarios, retroalimentación"], ["schedule", "cronograma"]], "explica": "Brief, pitch, launch y schedule son sustantivos y verbos a la vez: to brief, to pitch, to launch, to schedule." },
-    { "id": "vocab-trabajo-003", "tipo": "emparejar", "nivel": 1, "code": "VOC", "pares": [["agenda", "orden del día"], ["minutes", "acta de la reunión"], ["deliverable", "entregable"], ["insight", "hallazgo"], ["stakeholder", "parte interesada"]], "explica": "Agenda = lista de temas (antes de la reunión); minutes = acta (después). Ninguna significa 'agenda de citas' ni 'minutos'." },
-    { "id": "vocab-trabajo-004", "tipo": "emparejar", "nivel": 1, "code": "VOC", "pares": [["target audience", "público objetivo"], ["KPI", "indicador clave"], ["reach", "alcance"], ["engagement", "interacción"], ["account", "cuenta (cliente de la agencia)"]], "explica": "Vocabulario de resultados. Account en una agencia es el cliente que manejas, no una cuenta bancaria." },
-    { "id": "vocab-trabajo-005", "tipo": "emparejar", "nivel": 1, "code": "VOC", "pares": [["approve", "aprobar"], ["reschedule", "reprogramar"], ["follow up", "hacer seguimiento"], ["attend", "asistir a"], ["launch", "lanzar"]], "explica": "Verbos clave. Attend ya incluye el 'a': attend the meeting, sin 'to'." },
-    { "id": "vocab-trabajo-006", "tipo": "emparejar", "nivel": 2, "code": "VOC", "pares": [["meet", "a deadline"], ["take", "notes"], ["set up", "a meeting"], ["give", "feedback"], ["make", "a decision"]], "explica": "Colocaciones verbo + sustantivo. Meet a deadline (cumplir), take notes (tomar), set up a meeting (convocar), give feedback (dar), make a decision (tomar)." },
-    { "id": "vocab-trabajo-007", "tipo": "emparejar", "nivel": 2, "code": "VOC", "pares": [["proposal", "propuesta"], ["quote", "cotización"], ["invoice", "factura"], ["report", "informe"], ["overtime", "horas extra"]], "explica": "Papeles y dinero. Quote es la cotización (lo que va a costar); invoice es la factura (lo que ya debes pagar)." },
-    { "id": "vocab-trabajo-008", "tipo": "emparejar", "nivel": 2, "code": "VOC", "pares": [["colleague", "colega, compañero de trabajo"], ["boss", "jefe"], ["team", "equipo"], ["hire", "contratar"], ["stakeholder", "parte interesada"]], "explica": "La gente del trabajo. Colleague se pronuncia /ˈkɑːliːɡ/, con acento en la primera sílaba." },
-    { "id": "vocab-trabajo-009", "tipo": "emparejar", "nivel": 2, "code": "VOC", "pares": [["give", "feedback"], ["meet", "the client"], ["launch", "the campaign"], ["write", "the minutes"], ["reschedule", "the meeting"]], "explica": "Más colocaciones. Meet the client = reunirse con el cliente; meet a deadline = cumplir un plazo. El verbo es el mismo, el sentido cambia." },
-    { "id": "vocab-trabajo-010", "tipo": "emparejar", "nivel": 2, "code": "VOC", "pares": [["deadline", "the date when the work must be ready"], ["budget", "the money you can spend on a project"], ["brief", "the document with what the client wants"], ["pitch", "a presentation to win a new client"], ["deliverable", "the thing you give the client at the end"]], "explica": "Empareja con la definición en inglés para fijar la palabra sin pasar por el español." },
-    { "id": "vocab-trabajo-011", "tipo": "emparejar", "nivel": 3, "code": "VOC", "pares": [["KPI", "a number that shows if the campaign is working"], ["reach", "how many people see the content"], ["engagement", "likes, comments and shares"], ["target audience", "the people the campaign is for"], ["insight", "a true fact about the consumer that gives you an idea"]], "explica": "Vocabulario de resultados con definiciones en inglés. Reach cuenta personas; engagement cuenta reacciones." },
-    { "id": "vocab-trabajo-012", "tipo": "emparejar", "nivel": 3, "code": "VOC", "pares": [["agenda", "the list of topics for a meeting"], ["minutes", "the written summary of a meeting"], ["stakeholder", "a person who is affected by the project"], ["follow up", "contact someone again after a meeting or an email"], ["feedback", "comments about your work, good or bad"]], "explica": "Definiciones en inglés de las palabras que más se confunden con el español." },
-    { "id": "vocab-trabajo-013", "tipo": "emparejar", "nivel": 1, "code": "VOC", "pares": [["set up a meeting", "convocar una reunión"], ["meet a deadline", "cumplir un plazo"], ["run a campaign", "ejecutar una campaña"], ["make a decision", "tomar una decisión"], ["take notes", "tomar notas"], ["attend a meeting", "asistir a una reunión"]], "explica": "Las seis colocaciones del curso. Fíjate: en español 'tomar' sirve para decisión y notas; en inglés son make y take." },
-    { "id": "vocab-trabajo-014", "tipo": "elegir", "nivel": 1, "code": "USO", "q": "We have a ___ with the client at 10 a.m. to present the campaign.", "opciones": ["meeting", "reunion", "deadline", "budget"], "a": 0, "explica": "Reunión de trabajo = meeting. Reunion es un reencuentro (de excompañeros, de familia)." },
-    { "id": "vocab-trabajo-015", "tipo": "elegir", "nivel": 1, "code": "VOC", "q": "The ___ for the first draft is Friday. We can't be late.", "opciones": ["agenda", "deadline", "brief", "launch"], "a": 1, "explica": "Deadline = fecha límite. 'We can't be late' es la pista." },
-    { "id": "vocab-trabajo-016", "tipo": "elegir", "nivel": 1, "code": "VOC", "q": "The client only has $20,000 for the campaign. It's a very small ___.", "opciones": ["budget", "pitch", "account", "reach"], "a": 0, "explica": "Budget = presupuesto, el dinero disponible para el proyecto." },
-    { "id": "vocab-trabajo-017", "tipo": "elegir", "nivel": 2, "code": "VOC", "q": "The client gave us ___ on the designs: 25 comments!", "opciones": ["many feedbacks", "a lot of feedback", "a feedback", "feedbacks"], "a": 1, "explica": "Feedback es incontable: a lot of feedback, some feedback. Nunca lleva -s ni 'a'." },
-    { "id": "vocab-trabajo-018", "tipo": "elegir", "nivel": 2, "code": "USO", "q": "Can you ___ a meeting with the media team for Thursday?", "opciones": ["make", "do", "set up", "take"], "a": 2, "explica": "Set up a meeting = convocar una reunión. 'Make a meeting' es calco del español." },
-    { "id": "vocab-trabajo-019", "tipo": "elegir", "nivel": 2, "code": "USO", "q": "Sorry, I can't ___ the meeting tomorrow; I'm traveling.", "opciones": ["assist", "attend", "assist to", "go"], "a": 1, "explica": "Attend the meeting = asistir a la reunión. Assist es ayudar, y 'go' necesitaría 'to'." },
-    { "id": "vocab-trabajo-020", "tipo": "elegir", "nivel": 2, "code": "USO", "q": "Laura, can you ___ during the meeting? We need a summary later.", "opciones": ["take notes", "do notes", "make the notes", "get notes"], "a": 0, "explica": "Take notes = tomar notas. Es una colocación fija." },
-    { "id": "vocab-trabajo-021", "tipo": "elegir", "nivel": 2, "code": "VOC", "q": "The client isn't available on Monday. We have to ___ the meeting.", "opciones": ["reschedule", "approve", "launch", "follow up"], "a": 0, "explica": "Reschedule = reprogramar, cambiar la fecha. Re- + schedule." },
-    { "id": "vocab-trabajo-022", "tipo": "elegir", "nivel": 2, "code": "VOC", "q": "Before the meeting, I'll send you the ___ with the three topics we need to discuss.", "opciones": ["minutes", "agenda", "schedule", "brief"], "a": 1, "explica": "Agenda = lista de temas, se manda antes. Minutes = acta, se manda después. Schedule son horarios." },
-    { "id": "vocab-trabajo-023", "tipo": "elegir", "nivel": 3, "code": "VOC", "q": "The campaign had great ___: two million people saw the video.", "opciones": ["engagement", "reach", "insight", "KPI"], "a": 1, "explica": "Reach = alcance, cuánta gente vio el contenido. Engagement sería comentarios, likes y shares." },
-    { "id": "vocab-trabajo-024", "tipo": "elegir", "nivel": 3, "code": "VOC", "q": "The ___ for this campaign is women between 25 and 40 in Bogotá.", "opciones": ["target audience", "stakeholder", "account", "client"], "a": 0, "explica": "Target audience = público objetivo, la gente a la que le hablas. El client es quien paga." },
-    { "id": "vocab-trabajo-025", "tipo": "elegir", "nivel": 3, "code": "VOC", "q": "After the meeting, I'll ___ with the client by email to confirm the next steps.", "opciones": ["follow up", "follow", "approve", "attend"], "a": 0, "explica": "Follow up with + persona = hacer seguimiento. Sin 'up', follow es seguir a alguien." },
-    { "id": "vocab-trabajo-026", "tipo": "escribir", "nivel": 1, "code": "VOC", "q": "The ___ (presupuesto) for the campaign is $50,000.", "respuestas": ["budget"], "explica": "Presupuesto = budget. Se pronuncia /ˈbʌdʒɪt/." },
-    { "id": "vocab-trabajo-027", "tipo": "escribir", "nivel": 1, "code": "VOC", "q": "We have a ___ (reunión) with the client at 3 p.m.", "respuestas": ["meeting"], "explica": "Reunión = meeting. Nunca reunion." },
-    { "id": "vocab-trabajo-028", "tipo": "escribir", "nivel": 1, "code": "VOC", "q": "The ___ (fecha límite) is next Monday.", "respuestas": ["deadline"], "explica": "Fecha límite = deadline, una sola palabra." },
-    { "id": "vocab-trabajo-029", "tipo": "escribir", "nivel": 1, "code": "VOC", "q": "The client needs to ___ (aprobar) the designs before Friday.", "respuestas": ["approve"], "explica": "Aprobar = approve. Ojo: en inglés lleva doble p y termina en -ve." },
-    { "id": "vocab-trabajo-030", "tipo": "escribir", "nivel": 2, "code": "USO", "q": "I always ___ (tomo notas) in meetings so I don't forget anything.", "respuestas": ["take notes"], "explica": "Tomar notas = take notes. No make ni do." },
-    { "id": "vocab-trabajo-031", "tipo": "escribir", "nivel": 2, "code": "USO", "q": "Who is going to ___ (asistir a) the kick-off meeting?", "respuestas": ["attend"], "explica": "Asistir a = attend, sin preposición. Assist es ayudar." },
-    { "id": "vocab-trabajo-032", "tipo": "escribir", "nivel": 2, "code": "VOC", "q": "After the ___ (lanzamiento), we'll measure reach and engagement.", "respuestas": ["launch"], "explica": "Lanzamiento = launch. También es verbo: to launch a campaign." },
-    { "id": "vocab-trabajo-033", "tipo": "escribir", "nivel": 3, "code": "VOC", "q": "Please write the ___ (acta) of the meeting and send them to everyone.", "respuestas": ["minutes"], "explica": "Acta de la reunión = minutes (siempre en plural). Por eso dice 'send them'." },
-    { "id": "vocab-trabajo-034", "tipo": "escribir", "nivel": 3, "code": "VOC", "q": "We need an ___ (hallazgo, insight) about the consumer to build the idea.", "respuestas": ["insight"], "explica": "Insight = hallazgo sobre el consumidor. Se pronuncia /ˈɪnsaɪt/, como in + sight." },
-    { "id": "vocab-trabajo-035", "tipo": "escuchar", "nivel": 1, "code": "VOC", "texto": "deadline", "respuestas": ["deadline"], "explica": "Deadline /ˈdedlaɪn/: dead + line." },
-    { "id": "vocab-trabajo-036", "tipo": "escuchar", "nivel": 1, "code": "VOC", "texto": "budget", "respuestas": ["budget"], "explica": "Budget /ˈbʌdʒɪt/: la u suena como en but." },
-    { "id": "vocab-trabajo-037", "tipo": "escuchar", "nivel": 1, "code": "VOC", "texto": "We have a meeting at ten.", "respuestas": ["We have a meeting at ten", "We have a meeting at 10"], "explica": "Have a meeting = tener una reunión." },
-    { "id": "vocab-trabajo-038", "tipo": "escuchar", "nivel": 2, "code": "VOC", "texto": "The client approved the budget.", "respuestas": ["The client approved the budget"], "explica": "Approved con -ed: la d final suena /d/." },
-    { "id": "vocab-trabajo-039", "tipo": "escuchar", "nivel": 2, "code": "VOC", "texto": "Can we reschedule the meeting?", "respuestas": ["Can we reschedule the meeting"], "explica": "Reschedule /ˌriːˈskedʒuːl/: en US la sch suena /sk/." },
-    { "id": "vocab-trabajo-040", "tipo": "escuchar", "nivel": 3, "code": "VOC", "texto": "The deadline for the deliverables is Friday.", "respuestas": ["The deadline for the deliverables is Friday"], "explica": "Deliverables en plural. Deadline for + cosa." },
-    { "id": "vocab-trabajo-041", "tipo": "traducir", "nivel": 1, "code": "VOC", "es": "Tenemos una reunión a las 10.", "respuestas": ["We have a meeting at 10", "We have a meeting at ten", "We have a meeting at 10 o'clock", "We have a meeting at ten o'clock", "We've got a meeting at 10", "We've got a meeting at ten"], "explica": "Reunión = meeting. La hora va con at." },
-    { "id": "vocab-trabajo-042", "tipo": "traducir", "nivel": 1, "code": "VOC", "es": "La fecha límite es el viernes.", "respuestas": ["The deadline is Friday", "The deadline is on Friday", "The deadline is this Friday"], "explica": "Fecha límite = deadline. Con los días se puede decir 'is Friday' o 'is on Friday'." },
-    { "id": "vocab-trabajo-043", "tipo": "traducir", "nivel": 2, "code": "USO", "es": "¿Puedes convocar una reunión con el equipo?", "respuestas": ["Can you set up a meeting with the team", "Could you set up a meeting with the team", "Can you schedule a meeting with the team", "Could you schedule a meeting with the team", "Can you arrange a meeting with the team", "Could you arrange a meeting with the team", "Can you organize a meeting with the team", "Could you organize a meeting with the team"], "explica": "Convocar una reunión = set up (o schedule, arrange) a meeting. Nunca 'make a meeting'." },
-    { "id": "vocab-trabajo-044", "tipo": "traducir", "nivel": 2, "code": "USO", "es": "Necesitamos cumplir el plazo.", "respuestas": ["We need to meet the deadline", "We have to meet the deadline", "We must meet the deadline"], "explica": "Cumplir un plazo = meet a deadline. Incumplirlo = miss a deadline." },
-    { "id": "vocab-trabajo-045", "tipo": "traducir", "nivel": 2, "code": "VOC", "es": "El cliente aprobó el presupuesto.", "respuestas": ["The client approved the budget"], "explica": "Aprobar = approve; presupuesto = budget." },
-    { "id": "vocab-trabajo-046", "tipo": "traducir", "nivel": 3, "code": "USO", "es": "Tenemos que tomar una decisión hoy.", "respuestas": ["We have to make a decision today", "We need to make a decision today", "We must make a decision today", "We've got to make a decision today"], "explica": "Tomar una decisión = make a decision (US). 'Take a decision' suena a calco." },
-    { "id": "vocab-trabajo-047", "tipo": "traducir", "nivel": 3, "code": "VOC", "es": "¿Puedes hacer seguimiento con el cliente mañana?", "respuestas": ["Can you follow up with the client tomorrow", "Could you follow up with the client tomorrow"], "explica": "Hacer seguimiento con alguien = follow up with + persona." },
-    { "id": "vocab-trabajo-048", "tipo": "corregir", "nivel": 2, "code": "USO", "frase": "I can't assist to the meeting tomorrow.", "correcta": false, "correccion": ["I can't attend the meeting tomorrow.", "I can't go to the meeting tomorrow."], "explica": "Falso amigo: assist = ayudar. Asistir a una reunión es attend (sin 'to') o go to." },
-    { "id": "vocab-trabajo-049", "tipo": "corregir", "nivel": 2, "code": "VOC", "frase": "The client gave us a lot of feedbacks.", "correcta": false, "correccion": ["The client gave us a lot of feedback."], "explica": "Feedback es incontable: nunca lleva -s." },
-    { "id": "vocab-trabajo-050", "tipo": "corregir", "nivel": 2, "code": "USO", "frase": "We have a reunion with the client at 4.", "correcta": false, "correccion": ["We have a meeting with the client at 4."], "explica": "Reunion es un reencuentro (de excompañeros, de familia). La reunión de trabajo es meeting." },
-    { "id": "vocab-trabajo-051", "tipo": "corregir", "nivel": 1, "code": "VOC", "frase": "We need to meet the deadline on Friday.", "correcta": true, "correccion": [], "explica": "Correcta. Meet the deadline = cumplir el plazo." },
-    { "id": "vocab-trabajo-052", "tipo": "corregir", "nivel": 3, "code": "USO", "frase": "The agency has a strong compromise with the client.", "correcta": false, "correccion": ["The agency has a strong commitment to the client.", "The agency is strongly committed to the client.", "The agency is very committed to the client."], "explica": "Falso amigo: compromise es un acuerdo a medias. Compromiso (dedicación) es commitment to." },
-    { "id": "vocab-trabajo-053", "tipo": "hablar", "nivel": 2, "code": "VOC", "consigna": "Describe una semana típica en la agencia: cuántas reuniones tienes, qué entregables hay esta semana y cuál es la fecha límite más cercana.", "objetivo": "I have / attend … meetings a week · the deliverables are… · the deadline is… · the client / my team", "ejemplo": "I attend about ten meetings a week. This week the deliverables are a pitch for a bank and three videos for Honda. The closest deadline is Thursday, and the client wants feedback on the designs by Friday.", "explica": "Usa attend / have … meetings, the deliverables are…, the deadline is… y feedback sin -s. Meeting, no reunion." },
-    { "id": "vocab-trabajo-054", "tipo": "hablar", "nivel": 2, "code": "VOC", "consigna": "Cierra una reunión con el cliente: resume los próximos pasos (quién aprueba qué, cuál es la fecha límite y cómo vas a hacer seguimiento).", "objetivo": "next steps · you approve the budget by… · the deadline is… · I'll follow up with… · I'll send the minutes", "ejemplo": "So, next steps: you approve the budget by Wednesday, we send the first draft on Friday, and I'll follow up with you on Monday. I'll send the minutes this afternoon.", "explica": "Cerrar una reunión: next steps + approve + deadline + follow up with + send the minutes. Las colocaciones completas, no 'make the follow'." },
-    { "id": "vocab-trabajo-055", "tipo": "hablar", "nivel": 3, "code": "VOC", "consigna": "Presenta al cliente los resultados de una campaña: el público objetivo, el alcance, el engagement, el KPI principal y un insight.", "objetivo": "target audience · reach of… · engagement · our main KPI is… · the insight is that…", "ejemplo": "Our target audience was young riders in Bogotá. The campaign had a reach of two million people and high engagement: 50,000 comments. Our main KPI was test rides, and we got 3,000. The insight is that young riders buy on credit, not with cash.", "explica": "Vocabulario de resultados: target audience, a reach of + número, high / low engagement, our main KPI is…, the insight is that… Reach cuenta personas; engagement cuenta reacciones." }
+    {
+      "id": "vocab-trabajo-001",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "VOC",
+      "pares": [
+        [
+          "meeting",
+          "reunión"
+        ],
+        [
+          "deadline",
+          "fecha límite"
+        ],
+        [
+          "budget",
+          "presupuesto"
+        ],
+        [
+          "client",
+          "cliente"
+        ],
+        [
+          "campaign",
+          "campaña"
+        ]
+      ],
+      "explica": "Las cinco palabras de todos los días en la agencia. Campaign se pronuncia /kæmˈpeɪn/, la g es muda."
+    },
+    {
+      "id": "vocab-trabajo-002",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "VOC",
+      "pares": [
+        [
+          "brief",
+          "encargo del cliente"
+        ],
+        [
+          "pitch",
+          "presentación para ganar una cuenta"
+        ],
+        [
+          "launch",
+          "lanzamiento"
+        ],
+        [
+          "feedback",
+          "comentarios, retroalimentación"
+        ],
+        [
+          "schedule",
+          "cronograma"
+        ]
+      ],
+      "explica": "Brief, pitch, launch y schedule son sustantivos y verbos a la vez: to brief, to pitch, to launch, to schedule."
+    },
+    {
+      "id": "vocab-trabajo-003",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "VOC",
+      "pares": [
+        [
+          "agenda",
+          "orden del día"
+        ],
+        [
+          "minutes",
+          "acta de la reunión"
+        ],
+        [
+          "deliverable",
+          "entregable"
+        ],
+        [
+          "insight",
+          "hallazgo"
+        ],
+        [
+          "stakeholder",
+          "parte interesada"
+        ]
+      ],
+      "explica": "Agenda = lista de temas (antes de la reunión); minutes = acta (después). Ninguna significa 'agenda de citas' ni 'minutos'."
+    },
+    {
+      "id": "vocab-trabajo-004",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "VOC",
+      "pares": [
+        [
+          "target audience",
+          "público objetivo"
+        ],
+        [
+          "KPI",
+          "indicador clave"
+        ],
+        [
+          "reach",
+          "alcance"
+        ],
+        [
+          "engagement",
+          "interacción"
+        ],
+        [
+          "account",
+          "cuenta (cliente de la agencia)"
+        ]
+      ],
+      "explica": "Vocabulario de resultados. Account en una agencia es el cliente que manejas, no una cuenta bancaria."
+    },
+    {
+      "id": "vocab-trabajo-005",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "VOC",
+      "pares": [
+        [
+          "approve",
+          "aprobar"
+        ],
+        [
+          "reschedule",
+          "reprogramar"
+        ],
+        [
+          "follow up",
+          "hacer seguimiento"
+        ],
+        [
+          "attend",
+          "asistir a"
+        ],
+        [
+          "launch",
+          "lanzar"
+        ]
+      ],
+      "explica": "Verbos clave. Attend ya incluye el 'a': attend the meeting, sin 'to'."
+    },
+    {
+      "id": "vocab-trabajo-006",
+      "tipo": "emparejar",
+      "nivel": 2,
+      "code": "VOC",
+      "pares": [
+        [
+          "meet",
+          "a deadline"
+        ],
+        [
+          "take",
+          "notes"
+        ],
+        [
+          "set up",
+          "a meeting"
+        ],
+        [
+          "give",
+          "feedback"
+        ],
+        [
+          "make",
+          "a decision"
+        ]
+      ],
+      "explica": "Colocaciones verbo + sustantivo. Meet a deadline (cumplir), take notes (tomar), set up a meeting (convocar), give feedback (dar), make a decision (tomar)."
+    },
+    {
+      "id": "vocab-trabajo-007",
+      "tipo": "emparejar",
+      "nivel": 2,
+      "code": "VOC",
+      "pares": [
+        [
+          "proposal",
+          "propuesta"
+        ],
+        [
+          "quote",
+          "cotización"
+        ],
+        [
+          "invoice",
+          "factura"
+        ],
+        [
+          "report",
+          "informe"
+        ],
+        [
+          "overtime",
+          "horas extra"
+        ]
+      ],
+      "explica": "Papeles y dinero. Quote es la cotización (lo que va a costar); invoice es la factura (lo que ya debes pagar)."
+    },
+    {
+      "id": "vocab-trabajo-008",
+      "tipo": "emparejar",
+      "nivel": 2,
+      "code": "VOC",
+      "pares": [
+        [
+          "colleague",
+          "colega, compañero de trabajo"
+        ],
+        [
+          "boss",
+          "jefe"
+        ],
+        [
+          "team",
+          "equipo"
+        ],
+        [
+          "hire",
+          "contratar"
+        ],
+        [
+          "stakeholder",
+          "parte interesada"
+        ]
+      ],
+      "explica": "La gente del trabajo. Colleague se pronuncia /ˈkɑːliːɡ/, con acento en la primera sílaba."
+    },
+    {
+      "id": "vocab-trabajo-009",
+      "tipo": "emparejar",
+      "nivel": 2,
+      "code": "VOC",
+      "pares": [
+        [
+          "give",
+          "feedback"
+        ],
+        [
+          "meet",
+          "the client"
+        ],
+        [
+          "launch",
+          "the campaign"
+        ],
+        [
+          "write",
+          "the minutes"
+        ],
+        [
+          "reschedule",
+          "the meeting"
+        ]
+      ],
+      "explica": "Más colocaciones. Meet the client = reunirse con el cliente; meet a deadline = cumplir un plazo. El verbo es el mismo, el sentido cambia."
+    },
+    {
+      "id": "vocab-trabajo-010",
+      "tipo": "emparejar",
+      "nivel": 2,
+      "code": "VOC",
+      "pares": [
+        [
+          "deadline",
+          "the date when the work must be ready"
+        ],
+        [
+          "budget",
+          "the money you can spend on a project"
+        ],
+        [
+          "brief",
+          "the document with what the client wants"
+        ],
+        [
+          "pitch",
+          "a presentation to win a new client"
+        ],
+        [
+          "deliverable",
+          "the thing you give the client at the end"
+        ]
+      ],
+      "explica": "Empareja con la definición en inglés para fijar la palabra sin pasar por el español."
+    },
+    {
+      "id": "vocab-trabajo-011",
+      "tipo": "emparejar",
+      "nivel": 3,
+      "code": "VOC",
+      "pares": [
+        [
+          "KPI",
+          "a number that shows if the campaign is working"
+        ],
+        [
+          "reach",
+          "how many people see the content"
+        ],
+        [
+          "engagement",
+          "likes, comments and shares"
+        ],
+        [
+          "target audience",
+          "the people the campaign is for"
+        ],
+        [
+          "insight",
+          "a true fact about the consumer that gives you an idea"
+        ]
+      ],
+      "explica": "Vocabulario de resultados con definiciones en inglés. Reach cuenta personas; engagement cuenta reacciones."
+    },
+    {
+      "id": "vocab-trabajo-012",
+      "tipo": "emparejar",
+      "nivel": 3,
+      "code": "VOC",
+      "pares": [
+        [
+          "agenda",
+          "the list of topics for a meeting"
+        ],
+        [
+          "minutes",
+          "the written summary of a meeting"
+        ],
+        [
+          "stakeholder",
+          "a person who is affected by the project"
+        ],
+        [
+          "follow up",
+          "contact someone again after a meeting or an email"
+        ],
+        [
+          "feedback",
+          "comments about your work, good or bad"
+        ]
+      ],
+      "explica": "Definiciones en inglés de las palabras que más se confunden con el español."
+    },
+    {
+      "id": "vocab-trabajo-013",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "VOC",
+      "pares": [
+        [
+          "set up a meeting",
+          "convocar una reunión"
+        ],
+        [
+          "meet a deadline",
+          "cumplir un plazo"
+        ],
+        [
+          "run a campaign",
+          "ejecutar una campaña"
+        ],
+        [
+          "make a decision",
+          "tomar una decisión"
+        ],
+        [
+          "take notes",
+          "tomar notas"
+        ],
+        [
+          "attend a meeting",
+          "asistir a una reunión"
+        ]
+      ],
+      "explica": "Las seis colocaciones del curso. Fíjate: en español 'tomar' sirve para decisión y notas; en inglés son make y take."
+    },
+    {
+      "id": "vocab-trabajo-014",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "We have a ___ with the client at 10 a.m. to present the campaign.",
+      "opciones": [
+        "meeting",
+        "reunion",
+        "deadline",
+        "budget"
+      ],
+      "a": 0,
+      "explica": "Reunión de trabajo = meeting. Reunion es un reencuentro (de excompañeros, de familia)."
+    },
+    {
+      "id": "vocab-trabajo-015",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "The ___ for the first draft is Friday. We can't be late.",
+      "opciones": [
+        "agenda",
+        "deadline",
+        "brief",
+        "launch"
+      ],
+      "a": 1,
+      "explica": "Deadline = fecha límite. 'We can't be late' es la pista."
+    },
+    {
+      "id": "vocab-trabajo-016",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "The client only has $20,000 for the campaign. It's a very small ___.",
+      "opciones": [
+        "budget",
+        "pitch",
+        "account",
+        "reach"
+      ],
+      "a": 0,
+      "explica": "Budget = presupuesto, el dinero disponible para el proyecto."
+    },
+    {
+      "id": "vocab-trabajo-017",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "The client gave us ___ on the designs: 25 comments!",
+      "opciones": [
+        "many feedbacks",
+        "a lot of feedback",
+        "a feedback",
+        "feedbacks"
+      ],
+      "a": 1,
+      "explica": "Feedback es incontable: a lot of feedback, some feedback. Nunca lleva -s ni 'a'."
+    },
+    {
+      "id": "vocab-trabajo-018",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Can you ___ a meeting with the media team for Thursday?",
+      "opciones": [
+        "make",
+        "do",
+        "set up",
+        "take"
+      ],
+      "a": 2,
+      "explica": "Set up a meeting = convocar una reunión. 'Make a meeting' es calco del español."
+    },
+    {
+      "id": "vocab-trabajo-019",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Sorry, I can't ___ the meeting tomorrow; I'm traveling.",
+      "opciones": [
+        "assist",
+        "attend",
+        "assist to",
+        "go"
+      ],
+      "a": 1,
+      "explica": "Attend the meeting = asistir a la reunión. Assist es ayudar, y 'go' necesitaría 'to'."
+    },
+    {
+      "id": "vocab-trabajo-020",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Laura, can you ___ during the meeting? We need a summary later.",
+      "opciones": [
+        "take notes",
+        "do notes",
+        "make the notes",
+        "get notes"
+      ],
+      "a": 0,
+      "explica": "Take notes = tomar notas. Es una colocación fija."
+    },
+    {
+      "id": "vocab-trabajo-021",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "The client isn't available on Monday. We have to ___ the meeting.",
+      "opciones": [
+        "reschedule",
+        "approve",
+        "launch",
+        "follow up"
+      ],
+      "a": 0,
+      "explica": "Reschedule = reprogramar, cambiar la fecha. Re- + schedule."
+    },
+    {
+      "id": "vocab-trabajo-022",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "Before the meeting, I'll send you the ___ with the three topics we need to discuss.",
+      "opciones": [
+        "minutes",
+        "agenda",
+        "schedule",
+        "brief"
+      ],
+      "a": 1,
+      "explica": "Agenda = lista de temas, se manda antes. Minutes = acta, se manda después. Schedule son horarios."
+    },
+    {
+      "id": "vocab-trabajo-023",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "VOC",
+      "q": "The campaign had great ___: two million people saw the video.",
+      "opciones": [
+        "engagement",
+        "reach",
+        "insight",
+        "KPI"
+      ],
+      "a": 1,
+      "explica": "Reach = alcance, cuánta gente vio el contenido. Engagement sería comentarios, likes y shares."
+    },
+    {
+      "id": "vocab-trabajo-024",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "VOC",
+      "q": "The ___ for this campaign is women between 25 and 40 in Bogotá.",
+      "opciones": [
+        "target audience",
+        "stakeholder",
+        "account",
+        "client"
+      ],
+      "a": 0,
+      "explica": "Target audience = público objetivo, la gente a la que le hablas. El client es quien paga."
+    },
+    {
+      "id": "vocab-trabajo-025",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "VOC",
+      "q": "After the meeting, I'll ___ with the client by email to confirm the next steps.",
+      "opciones": [
+        "follow up",
+        "follow",
+        "approve",
+        "attend"
+      ],
+      "a": 0,
+      "explica": "Follow up with + persona = hacer seguimiento. Sin 'up', follow es seguir a alguien."
+    },
+    {
+      "id": "vocab-trabajo-026",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "The ___ (presupuesto) for the campaign is $50,000.",
+      "respuestas": [
+        "budget"
+      ],
+      "explica": "Presupuesto = budget. Se pronuncia /ˈbʌdʒɪt/."
+    },
+    {
+      "id": "vocab-trabajo-027",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "We have a ___ (reunión) with the client at 3 p.m.",
+      "respuestas": [
+        "meeting"
+      ],
+      "explica": "Reunión = meeting. Nunca reunion."
+    },
+    {
+      "id": "vocab-trabajo-028",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "The ___ (fecha límite) is next Monday.",
+      "respuestas": [
+        "deadline"
+      ],
+      "explica": "Fecha límite = deadline, una sola palabra."
+    },
+    {
+      "id": "vocab-trabajo-029",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "The client needs to ___ (aprobar) the designs before Friday.",
+      "respuestas": [
+        "approve"
+      ],
+      "explica": "Aprobar = approve. Ojo: en inglés lleva doble p y termina en -ve."
+    },
+    {
+      "id": "vocab-trabajo-030",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "I always ___ (tomo notas) in meetings so I don't forget anything.",
+      "respuestas": [
+        "take notes"
+      ],
+      "explica": "Tomar notas = take notes. No make ni do."
+    },
+    {
+      "id": "vocab-trabajo-031",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Who is going to ___ (asistir a) the kick-off meeting?",
+      "respuestas": [
+        "attend"
+      ],
+      "explica": "Asistir a = attend, sin preposición. Assist es ayudar."
+    },
+    {
+      "id": "vocab-trabajo-032",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "After the ___ (lanzamiento), we'll measure reach and engagement.",
+      "respuestas": [
+        "launch"
+      ],
+      "explica": "Lanzamiento = launch. También es verbo: to launch a campaign."
+    },
+    {
+      "id": "vocab-trabajo-033",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "VOC",
+      "q": "Please write the ___ (acta) of the meeting and send them to everyone.",
+      "respuestas": [
+        "minutes"
+      ],
+      "explica": "Acta de la reunión = minutes (siempre en plural). Por eso dice 'send them'."
+    },
+    {
+      "id": "vocab-trabajo-034",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "VOC",
+      "q": "We need an ___ (hallazgo, insight) about the consumer to build the idea.",
+      "respuestas": [
+        "insight"
+      ],
+      "explica": "Insight = hallazgo sobre el consumidor. Se pronuncia /ˈɪnsaɪt/, como in + sight."
+    },
+    {
+      "id": "vocab-trabajo-035",
+      "tipo": "escuchar",
+      "nivel": 1,
+      "code": "VOC",
+      "texto": "deadline",
+      "respuestas": [
+        "deadline"
+      ],
+      "explica": "Deadline /ˈdedlaɪn/: dead + line."
+    },
+    {
+      "id": "vocab-trabajo-036",
+      "tipo": "escuchar",
+      "nivel": 1,
+      "code": "VOC",
+      "texto": "budget",
+      "respuestas": [
+        "budget"
+      ],
+      "explica": "Budget /ˈbʌdʒɪt/: la u suena como en but."
+    },
+    {
+      "id": "vocab-trabajo-037",
+      "tipo": "escuchar",
+      "nivel": 1,
+      "code": "VOC",
+      "texto": "We have a meeting at ten.",
+      "respuestas": [
+        "We have a meeting at ten",
+        "We have a meeting at 10"
+      ],
+      "explica": "Have a meeting = tener una reunión."
+    },
+    {
+      "id": "vocab-trabajo-038",
+      "tipo": "escuchar",
+      "nivel": 2,
+      "code": "VOC",
+      "texto": "The client approved the budget.",
+      "respuestas": [
+        "The client approved the budget"
+      ],
+      "explica": "Approved con -ed: la d final suena /d/."
+    },
+    {
+      "id": "vocab-trabajo-039",
+      "tipo": "escuchar",
+      "nivel": 2,
+      "code": "VOC",
+      "texto": "Can we reschedule the meeting?",
+      "respuestas": [
+        "Can we reschedule the meeting"
+      ],
+      "explica": "Reschedule /ˌriːˈskedʒuːl/: en US la sch suena /sk/."
+    },
+    {
+      "id": "vocab-trabajo-040",
+      "tipo": "escuchar",
+      "nivel": 3,
+      "code": "VOC",
+      "texto": "The deadline for the deliverables is Friday.",
+      "respuestas": [
+        "The deadline for the deliverables is Friday"
+      ],
+      "explica": "Deliverables en plural. Deadline for + cosa."
+    },
+    {
+      "id": "vocab-trabajo-041",
+      "tipo": "traducir",
+      "nivel": 1,
+      "code": "VOC",
+      "es": "Tenemos una reunión a las 10.",
+      "respuestas": [
+        "We have a meeting at 10",
+        "We have a meeting at ten",
+        "We have a meeting at 10 o'clock",
+        "We have a meeting at ten o'clock",
+        "We've got a meeting at 10",
+        "We've got a meeting at ten"
+      ],
+      "explica": "Reunión = meeting. La hora va con at."
+    },
+    {
+      "id": "vocab-trabajo-042",
+      "tipo": "traducir",
+      "nivel": 1,
+      "code": "VOC",
+      "es": "La fecha límite es el viernes.",
+      "respuestas": [
+        "The deadline is Friday",
+        "The deadline is on Friday",
+        "The deadline is this Friday"
+      ],
+      "explica": "Fecha límite = deadline. Con los días se puede decir 'is Friday' o 'is on Friday'."
+    },
+    {
+      "id": "vocab-trabajo-043",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "USO",
+      "es": "¿Puedes convocar una reunión con el equipo?",
+      "respuestas": [
+        "Can you set up a meeting with the team",
+        "Could you set up a meeting with the team",
+        "Can you schedule a meeting with the team",
+        "Could you schedule a meeting with the team",
+        "Can you arrange a meeting with the team",
+        "Could you arrange a meeting with the team",
+        "Can you organize a meeting with the team",
+        "Could you organize a meeting with the team"
+      ],
+      "explica": "Convocar una reunión = set up (o schedule, arrange) a meeting. Nunca 'make a meeting'."
+    },
+    {
+      "id": "vocab-trabajo-044",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "USO",
+      "es": "Necesitamos cumplir el plazo.",
+      "respuestas": [
+        "We need to meet the deadline",
+        "We have to meet the deadline",
+        "We must meet the deadline"
+      ],
+      "explica": "Cumplir un plazo = meet a deadline. Incumplirlo = miss a deadline."
+    },
+    {
+      "id": "vocab-trabajo-045",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "VOC",
+      "es": "El cliente aprobó el presupuesto.",
+      "respuestas": [
+        "The client approved the budget"
+      ],
+      "explica": "Aprobar = approve; presupuesto = budget."
+    },
+    {
+      "id": "vocab-trabajo-046",
+      "tipo": "traducir",
+      "nivel": 3,
+      "code": "USO",
+      "es": "Tenemos que tomar una decisión hoy.",
+      "respuestas": [
+        "We have to make a decision today",
+        "We need to make a decision today",
+        "We must make a decision today",
+        "We've got to make a decision today"
+      ],
+      "explica": "Tomar una decisión = make a decision (US). 'Take a decision' suena a calco."
+    },
+    {
+      "id": "vocab-trabajo-047",
+      "tipo": "traducir",
+      "nivel": 3,
+      "code": "VOC",
+      "es": "¿Puedes hacer seguimiento con el cliente mañana?",
+      "respuestas": [
+        "Can you follow up with the client tomorrow",
+        "Could you follow up with the client tomorrow"
+      ],
+      "explica": "Hacer seguimiento con alguien = follow up with + persona."
+    },
+    {
+      "id": "vocab-trabajo-048",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "I can't assist to the meeting tomorrow.",
+      "correcta": false,
+      "correccion": [
+        "I can't attend the meeting tomorrow.",
+        "I can't go to the meeting tomorrow."
+      ],
+      "explica": "Falso amigo: assist = ayudar. Asistir a una reunión es attend (sin 'to') o go to."
+    },
+    {
+      "id": "vocab-trabajo-049",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "VOC",
+      "frase": "The client gave us a lot of feedbacks.",
+      "correcta": false,
+      "correccion": [
+        "The client gave us a lot of feedback."
+      ],
+      "explica": "Feedback es incontable: nunca lleva -s."
+    },
+    {
+      "id": "vocab-trabajo-050",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "We have a reunion with the client at 4.",
+      "correcta": false,
+      "correccion": [
+        "We have a meeting with the client at 4."
+      ],
+      "explica": "Reunion es un reencuentro (de excompañeros, de familia). La reunión de trabajo es meeting."
+    },
+    {
+      "id": "vocab-trabajo-051",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "VOC",
+      "frase": "We need to meet the deadline on Friday.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Correcta. Meet the deadline = cumplir el plazo."
+    },
+    {
+      "id": "vocab-trabajo-052",
+      "tipo": "corregir",
+      "nivel": 3,
+      "code": "USO",
+      "frase": "The agency has a strong compromise with the client.",
+      "correcta": false,
+      "correccion": [
+        "The agency has a strong commitment to the client.",
+        "The agency is strongly committed to the client.",
+        "The agency is very committed to the client."
+      ],
+      "explica": "Falso amigo: compromise es un acuerdo a medias. Compromiso (dedicación) es commitment to."
+    },
+    {
+      "id": "vocab-trabajo-053",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "VOC",
+      "consigna": "Describe una semana típica en la agencia: cuántas reuniones tienes, qué entregables hay esta semana y cuál es la fecha límite más cercana.",
+      "objetivo": "I have / attend … meetings a week · the deliverables are… · the deadline is… · the client / my team",
+      "ejemplo": "I attend about ten meetings a week. This week the deliverables are a pitch for a bank and three videos for Honda. The closest deadline is Thursday, and the client wants feedback on the designs by Friday.",
+      "explica": "Usa attend / have … meetings, the deliverables are…, the deadline is… y feedback sin -s. Meeting, no reunion."
+    },
+    {
+      "id": "vocab-trabajo-054",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "VOC",
+      "consigna": "Cierra una reunión con el cliente: resume los próximos pasos (quién aprueba qué, cuál es la fecha límite y cómo vas a hacer seguimiento).",
+      "objetivo": "next steps · you approve the budget by… · the deadline is… · I'll follow up with… · I'll send the minutes",
+      "ejemplo": "So, next steps: you approve the budget by Wednesday, we send the first draft on Friday, and I'll follow up with you on Monday. I'll send the minutes this afternoon.",
+      "explica": "Cerrar una reunión: next steps + approve + deadline + follow up with + send the minutes. Las colocaciones completas, no 'make the follow'."
+    },
+    {
+      "id": "vocab-trabajo-055",
+      "tipo": "hablar",
+      "nivel": 3,
+      "code": "VOC",
+      "consigna": "Presenta al cliente los resultados de una campaña: el público objetivo, el alcance, el engagement, el KPI principal y un insight.",
+      "objetivo": "target audience · reach of… · engagement · our main KPI is… · the insight is that…",
+      "ejemplo": "Our target audience was young riders in Bogotá. The campaign had a reach of two million people and high engagement: 50,000 comments. Our main KPI was test rides, and we got 3,000. The insight is that young riders buy on credit, not with cash.",
+      "explica": "Vocabulario de resultados: target audience, a reach of + número, high / low engagement, our main KPI is…, the insight is that… Reach cuenta personas; engagement cuenta reacciones."
+    },
+    {
+      "id": "vocab-trabajo-056",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "Lunes en la agencia",
+      "instruccion": "Completa con la palabra de trabajo que corresponde a la pista.",
+      "texto": "Monday was a long day at Brava. At 9 we had a {1} (reunión) with the client about the new {2} (campaña). There were three items on the {3} (orden del día): the {4} (presupuesto), the {5} (cronograma) and the KPIs. I took notes, and after the meeting I wrote the {6} (acta) and sent them to everyone. The client gave us a lot of {7} (retroalimentación) on the designs, so the team worked overtime. The {8} (fecha límite) for the first draft is Friday, and we never miss our deadlines.",
+      "huecos": [
+        {
+          "respuestas": [
+            "meeting"
+          ]
+        },
+        {
+          "respuestas": [
+            "campaign"
+          ]
+        },
+        {
+          "respuestas": [
+            "agenda"
+          ]
+        },
+        {
+          "respuestas": [
+            "budget"
+          ]
+        },
+        {
+          "respuestas": [
+            "schedule"
+          ]
+        },
+        {
+          "respuestas": [
+            "minutes"
+          ]
+        },
+        {
+          "respuestas": [
+            "feedback"
+          ]
+        },
+        {
+          "respuestas": [
+            "deadline"
+          ]
+        }
+      ],
+      "explica": "Agenda = orden del día, minutes = acta, schedule = cronograma, feedback es incontable (a lot of feedback). Cada sustantivo va con su verbo: take notes, write the minutes, give feedback, miss a deadline."
+    },
+    {
+      "id": "vocab-trabajo-057",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "El verbo correcto",
+      "instruccion": "Elige el verbo que acompaña a cada sustantivo.",
+      "texto": "Can you {1} a meeting with the media team for Thursday? We need to {2} a decision about the budget before Friday. Please {3} notes and send the minutes. Also, the client wants to {4} the campaign on March 15, so we can't {5} the deadline. I'll {6} up with the designer on the new logo, and Laura will {7} the kick-off meeting with the stakeholders.",
+      "huecos": [
+        {
+          "opciones": [
+            "set up",
+            "make",
+            "do"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "make",
+            "take",
+            "do"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "take",
+            "make",
+            "do"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "launch",
+            "meet",
+            "approve"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "miss",
+            "lose",
+            "fail"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "follow",
+            "meet",
+            "run"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "attend",
+            "assist",
+            "go"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "En inglés cada sustantivo tiene su verbo: set up a meeting, make a decision, take notes, launch a campaign, miss a deadline, follow up, attend a meeting (assist = ayudar)."
+    },
+    {
+      "id": "vocab-trabajo-058",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "Correo al cliente",
+      "instruccion": "Completa el correo con la palabra en inglés.",
+      "texto": "Dear Mike, thanks for your email. We received the {1} (brief, encargo) on Monday and the team is working on the {2} (propuesta). Attached you'll find the {3} (cotización) for the video: the total is $12,000. Our main {4} (hallazgo) is that young riders buy on credit, so the {5} (público objetivo) is men between 18 and 25. The {6} (entregables) are three videos and ten posts. Could you {7} (aprobar) the budget by Friday? If you need to {8} (reprogramar) Thursday's call, just let me know. Best, Laura",
+      "huecos": [
+        {
+          "respuestas": [
+            "brief"
+          ]
+        },
+        {
+          "respuestas": [
+            "proposal"
+          ]
+        },
+        {
+          "respuestas": [
+            "quote",
+            "quotation"
+          ]
+        },
+        {
+          "respuestas": [
+            "insight"
+          ]
+        },
+        {
+          "respuestas": [
+            "target audience",
+            "target"
+          ]
+        },
+        {
+          "respuestas": [
+            "deliverables"
+          ]
+        },
+        {
+          "respuestas": [
+            "approve"
+          ]
+        },
+        {
+          "respuestas": [
+            "reschedule"
+          ]
+        }
+      ],
+      "explica": "Vocabulario de un correo de cuenta: brief, proposal, quote (cotización), insight, target audience, deliverables, approve the budget, reschedule the call."
+    },
+    {
+      "id": "vocab-trabajo-059",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "Ganamos el pitch",
+      "texto": "Last month Brava won the pitch for a new sneaker brand. The brief arrived on a Monday: the client wanted a campaign for Gen Z with a budget of $80,000. Laura, the account manager, set up a kick-off meeting with the whole team. Twelve people attended. The planner presented the insight: young people don't buy sneakers, they buy status. The creative team worked overtime for two weeks and the deadline was tight, but they met it. On the day of the pitch, Andrés presented the idea in twenty minutes. The client gave a lot of positive feedback and approved the proposal the next day. Now the team is running the campaign: the launch is on November 10, and the main KPI is sales, not likes. Laura is already following up with the client on the next deliverables.",
+      "preguntas": [
+        {
+          "q": "What did the client want?",
+          "opciones": [
+            "A campaign for Gen Z with a budget of $80,000",
+            "A new logo for a bank",
+            "A video for $12,000"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What was the insight?",
+          "opciones": [
+            "Young people buy status, not sneakers",
+            "Young people don't like sneakers",
+            "Young people have no money"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What is the main KPI?",
+          "opciones": [
+            "Sales",
+            "Likes",
+            "Reach"
+          ],
+          "a": 0
+        },
+        {
+          "q": "¿Por qué el texto dice «a lot of feedback» y no «many feedbacks»?",
+          "opciones": [
+            "Feedback es incontable: no lleva plural",
+            "Feedback es plural",
+            "Many solo va con dinero"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "El ciclo de una cuenta: brief → kick-off meeting → insight → meet the deadline → pitch → feedback → approve the proposal → run the campaign → launch → KPI → follow up."
+    },
+    {
+      "id": "vocab-trabajo-060",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "Un mal día",
+      "texto": "Yesterday was a bad day for Camila. She missed the deadline for the monthly report because the data team sent the numbers late. Her boss was not happy. Then the client called to reschedule the status meeting: not Tuesday, but Monday at 8 a.m. Camila had to cancel her gym class. In the afternoon she found a mistake in the invoice: the agency charged the client for ten posts, but the deliverables were twelve. She fixed it and sent a new invoice. At 6 p.m. the stakeholders asked for a new quote for the launch event. Camila worked overtime until 9. 'The good news,' she told her colleagues, 'is that we are still on schedule for the launch, and the client said our engagement numbers are the best of the year.'",
+      "preguntas": [
+        {
+          "q": "Why did Camila miss the deadline?",
+          "opciones": [
+            "Because the data team sent the numbers late",
+            "Because she went to the gym",
+            "Because the client cancelled the meeting"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What was wrong with the invoice?",
+          "opciones": [
+            "It charged for ten posts, but the deliverables were twelve",
+            "It had the wrong date",
+            "It was sent to the wrong client"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What is the good news?",
+          "opciones": [
+            "They are still on schedule and engagement is the best of the year",
+            "The client approved a bigger budget",
+            "Camila doesn't have to work on Monday"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«Reschedule the meeting» significa…",
+          "opciones": [
+            "Cambiar la fecha o la hora de la reunión",
+            "Cancelar la reunión",
+            "Asistir a la reunión"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "miss a deadline, reschedule a meeting, cancel, invoice, deliverables, quote, work overtime, on schedule, engagement: el vocabulario del día a día con sus verbos."
+    },
+    {
+      "id": "vocab-trabajo-061",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "USO",
+      "consigna": "Describe tu semana de trabajo en Brava: una reunión, un plazo, algo del dinero (presupuesto, cotización o factura) y qué le prometiste al cliente. Usa los verbos que acompañan a cada sustantivo.",
+      "requisitos": [
+        {
+          "texto": "Usa una colocación de reuniones: set up / attend / reschedule a meeting",
+          "patron": "\\b(set\\s+up|attend(ed)?|re?schedule[d]?|cancel(l?ed)?)\\s+(a|the)\\s+(meeting|call|kick-off)\\b"
+        },
+        {
+          "texto": "Usa meet o miss + deadline",
+          "patron": "\\b(meet|met|miss(ed)?)\\s+(a|the|our|my)\\s+deadlines?\\b"
+        },
+        {
+          "texto": "Nombra algo del dinero: budget, quote, invoice o proposal",
+          "patron": "\\b(budget|quote|invoice|proposal)\\b"
+        },
+        {
+          "texto": "Usa give / get feedback, make a decision o follow up",
+          "patron": "\\b(give|gave|get|got)\\s+(us\\s+|me\\s+|them\\s+)?(a\\s+lot\\s+of\\s+|some\\s+|great\\s+|good\\s+)?feedback\\b|\\b(make|made)\\s+a\\s+decision\\b|\\bfollow(ed)?\\s+up\\b"
+        }
+      ],
+      "minPalabras": 50,
+      "ejemplo": "On Monday I set up a meeting with the client about the new campaign. We made a decision about the budget: $50,000 for three months. The client gave us a lot of feedback on the first draft, so we worked late on Tuesday and Wednesday, but we met the deadline on Friday. I also sent the quote for the video and I'll follow up with the client next week.",
+      "explica": "Sustantivo + su verbo: set up a meeting, make a decision, give feedback, meet the deadline, send the quote, follow up with the client. 'Make a meeting' o 'take a decision' son calcos."
+    }
   ]
 }

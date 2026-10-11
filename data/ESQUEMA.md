@@ -45,7 +45,7 @@ En los ejercicios **no** se usa el marcado (salvo en `explica`, opcional).
       { "mal": "She work in an agency.", "bien": "She works in an agency.", "porque": "He/she/it → verbo + s.", "code": "3S" }
     ],
     "contraste": [
-      { "a": "I {{work}} at VML.", "b": "I[['m]] {{work((ing))}} from home this week.", "nota": "General vs. temporal." }
+      { "a": "I {{work}} at Brava.", "b": "I[['m]] {{work((ing))}} from home this week.", "nota": "General vs. temporal." }
     ],
     "frases": [
       { "en": "What do you do?", "es": "¿A qué te dedicas?", "contexto": "trabajo" }
@@ -129,3 +129,48 @@ Todos llevan: `id` único (`<idTema>-001`…), `tipo`, `nivel` (1 fácil · 2 me
 - `data/progreso/eventos.jsonl` — cada respuesta: fecha, tema, ejercicio, código, si acertó y qué escribió.
 - `data/bandeja/<id>.json` + audio — cada grabación con su consigna y la transcripción del navegador.
 - `data/feedback/<id>.json` — la evaluación de Claude de cada grabación (la app la muestra).
+
+---
+
+# Ampliación v2 · vocabulario progresivo y ejercicios extensos
+
+## Palabras (`palabras`, opcional en cualquier tema)
+
+Lista de vocabulario que la app **introduce poco a poco** (unas 5 por día). Cada palabra se presenta con una tarjeta y luego la app genera sola sus ejercicios (significado, escribirla en inglés, completar la frase, formas del verbo, opuesto, comparativo, dictado) y los repasa con repetición espaciada.
+
+```json
+"palabras": [
+  {
+    "id": "take",
+    "en": "take",
+    "ipa": "/teɪk/",
+    "es": "tomar, llevar",
+    "clase": "verbo",
+    "orden": 12,
+    "formas": { "s": "takes", "pasado": "took", "participio": "taken", "ing": "taking" },
+    "irregular": true,
+    "comp": ["a taxi", "notes in the meeting"],
+    "ejemplo": "I took a taxi to the airport last night.",
+    "hueco": { "frase": "Last night I ___ a taxi to the airport. (take)", "respuestas": ["took"] },
+    "nota": "take a photo, take a break, take notes"
+  }
+]
+```
+
+- `clase`: `verbo` · `adjetivo` · `adverbio` · `sustantivo` · `preposición` · `phrasal verb` · `expresión` · `pronombre`.
+- `orden`: 1 = lo primero que se aprende (frecuencia y utilidad). Sin huecos ni repetidos dentro del tema.
+- `formas` (solo verbos): `s`, `pasado`, `participio`, `ing` — **obligatorias y correctas** (ortografía: studies, stopped, making, lying).
+- `comp` (solo verbos de acción, 1–3): complementos que encajan detrás del verbo en cualquier tiempo, para el gimnasio (*a taxi*, *the report*, *to the gym*). No poner marcadores de tiempo. Omitir en verbos de estado.
+- `opuesto` (adjetivos y adverbios cuando exista) · `comparativo` y `superlativo` (adjetivos graduables: *bigger*, *the biggest*, *more expensive*, *the most expensive*).
+- `ejemplo`: una frase natural (vida diaria o trabajo). `hueco.frase` es esa misma idea con `___` y la pista entre paréntesis (forma base o traducción); `hueco.respuestas` = todas las válidas.
+- IPA estadounidense entre barras.
+
+## Ejercicios extensos (nivel 3)
+
+| tipo | Campos | Qué hace la app |
+|---|---|---|
+| `texto` | `titulo`, `instruccion`, `texto` con huecos `{1}`, `{2}`… (pista entre paréntesis justo después: `{1} (wake)`), `huecos`: `[{ "respuestas": [...] }]` o `[{ "opciones": [...], "a": 0 }]` para desplegable | Párrafo con varios campos; muestra cuántos acertó. 4–8 huecos, 60–140 palabras |
+| `lectura` | `titulo`, `texto` (80–160 palabras), `preguntas`: `[{ "q", "opciones", "a" }]` (3–4) | Lectura con audio y preguntas de comprensión y de gramática |
+| `componer` | `consigna` (español), `requisitos`: `[{ "texto": "Usa was/were + -ing", "patron": "\\b(was|were)\\s+\\w+ing\\b" }]` (2–4, regex en minúsculas), `minPalabras` (25–80), `ejemplo` (modelo en inglés) | Redacción guiada: la app revisa que cumpla los requisitos; Claude revisa la gramática en el resumen |
+
+Los extensos llevan `nivel: 3`, `code` del error principal y `explica`. **Niveles:** 1 = una palabra o una frase corta y reconocer; 2 = producir una frase completa; 3 = textos, lecturas y redacción. La app abre los niveles según el dominio del tema (primero 1, luego 2, luego 3).

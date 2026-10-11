@@ -1,0 +1,315 @@
+{
+  "tema": "calcos-espanol",
+  "ejercicios": [
+    {
+      "id": "calcos-espanol-x3-001",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Feedback on the deck",
+      "instruccion": "Elige la forma correcta. Cada hueco esconde un calco típico del español: agree, explain to, attend, discuss, depend on, realize, tell, ask.",
+      "texto": "Hi Sarah, I {1} with your comments on the deck. I didn't understand slide 6, though. Could you explain it {2}? Yesterday I {3} the meeting with the media team, and we {4} the budget for an hour. The final number {5} the results of the test. Also, I {6} that slide 9 has the wrong date; I'll fix it today. Laura {7} me that you prefer the second route. One more thing: can I {8} a question about the logo? Best, Jonathan",
+      "huecos": [
+        {
+          "opciones": [
+            "am agree",
+            "agree",
+            "'m agree"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "me",
+            "for me",
+            "to me"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "attended",
+            "assisted",
+            "assisted to"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "discussed about",
+            "discussed",
+            "talked"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "depends of",
+            "depends from",
+            "depends on"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "realized",
+            "realized of",
+            "gave count"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "said",
+            "told",
+            "said to"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "make",
+            "do",
+            "ask"
+          ],
+          "a": 2
+        }
+      ],
+      "explica": "I agree (sin am). Explain it to me (la cosa y luego to + persona). Attend a meeting (assist es ayudar). Discuss sin about. Depend on. Realize = darse cuenta. Tell me / said that (nunca said me). Ask a question (no make)."
+    },
+    {
+      "id": "calcos-espanol-x3-002",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "Classic mistakes",
+      "instruccion": "Escribe la forma natural en inglés de lo que dice la pista. No traduzcas palabra por palabra: piensa en la pieza fija.",
+      "texto": "{1} (tener / 38) and I've worked in advertising for fifteen years, but I still make classic mistakes. This morning I said 'I am agree' in a meeting; the correct form is 'I {2} (estar de acuerdo)'. Then I didn't understand the brief, so I asked Mike: 'Could you explain it {3} (a mí)?' He said: 'Sure, {4} (preguntar) me anything.' At lunch I told Camila the meeting was very {5} (aburrida). Later I {6} (darse cuenta, pasado) that I wrote 'sensible' instead of 'sensitive' in an email. Luckily, people {7} (be) patient with me. {8} (en realidad), I'm improving every week.",
+      "huecos": [
+        {
+          "respuestas": [
+            "I'm 38",
+            "I am 38",
+            "I'm 38 years old",
+            "I am 38 years old"
+          ]
+        },
+        {
+          "respuestas": [
+            "agree"
+          ]
+        },
+        {
+          "respuestas": [
+            "to me"
+          ]
+        },
+        {
+          "respuestas": [
+            "ask"
+          ]
+        },
+        {
+          "respuestas": [
+            "boring"
+          ]
+        },
+        {
+          "respuestas": [
+            "realized",
+            "realised",
+            "noticed"
+          ]
+        },
+        {
+          "respuestas": [
+            "are"
+          ]
+        },
+        {
+          "respuestas": [
+            "Actually",
+            "In fact"
+          ]
+        }
+      ],
+      "explica": "I'm 38 (la edad con be). I agree (verbo). Explain it to me; ask me (sin to). Boring describe la reunión; bored, cómo te sientes. Realize = darse cuenta. People es plural: people are. Actually = en realidad, no «actualmente»."
+    },
+    {
+      "id": "calcos-espanol-x3-003",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "A weekend in Cali",
+      "instruccion": "Escribe la forma correcta. Fíjate en las preposiciones fijas (married to, arrive in, listen to, depend on) y en los verbos que van en pareja (take a photo, make a decision).",
+      "texto": "My brother is {1} (casado con) a woman from Cali, and last weekend we visited them. We {2} (arrive, pasado) in Cali on Friday night. On Saturday we went to a salsa bar and {3} (tomar, pasado) a lot of photos. My brother's wife likes to {4} (escuchar) old salsa music all day. On Sunday we had to {5} (tomar) a decision: stay one more day or fly back. It {6} (depend, pasado) on the price of the tickets, so I checked online. {7} (la gente) in Cali are very friendly, and the food was amazing. On Monday I was {8} (cansado), but happy.",
+      "huecos": [
+        {
+          "respuestas": [
+            "married to"
+          ]
+        },
+        {
+          "respuestas": [
+            "arrived"
+          ]
+        },
+        {
+          "respuestas": [
+            "took"
+          ]
+        },
+        {
+          "respuestas": [
+            "listen to"
+          ]
+        },
+        {
+          "respuestas": [
+            "make"
+          ]
+        },
+        {
+          "respuestas": [
+            "depended"
+          ]
+        },
+        {
+          "respuestas": [
+            "People",
+            "The people"
+          ]
+        },
+        {
+          "respuestas": [
+            "tired",
+            "exhausted"
+          ]
+        }
+      ],
+      "explica": "Married to (no with), arrive in + ciudad, listen to + cosa, depend on (no of). Take a photo pero make a decision. People es plural (people are). Tired: -ed para cómo te sientes."
+    },
+    {
+      "id": "calcos-espanol-x3-004",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "False friends at the office",
+      "texto": "When Andrés started at Brava, he made a funny mistake. In his first meeting with a client from Texas, he said, 'Actually, I work on three accounts.' The client thought he was correcting something. Andrés wanted to say 'currently'. A week later, he asked a colleague to put the files in his 'carpet'. She looked at the floor. 'You mean your folder?' she said. His favorite one was in an email: 'The client is very sensible about prices.' He wanted to say 'sensitive'. Now Andrés keeps a list of false friends on his desk, and he checks it before important emails. 'I realized that my English was good,' he says, 'but my Spanish was in the way.'",
+      "preguntas": [
+        {
+          "q": "Why did the client from Texas get confused?",
+          "opciones": [
+            "Andrés used actually to mean «actualmente»",
+            "Andrés spoke too fast",
+            "Andrés said the wrong number"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What does Andrés do now before important emails?",
+          "opciones": [
+            "He asks the client",
+            "He checks his list of false friends",
+            "He writes in Spanish"
+          ],
+          "a": 1
+        },
+        {
+          "q": "¿Qué significa carpet?",
+          "opciones": [
+            "Alfombra",
+            "Carpeta",
+            "Cartera"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«The client is very sensitive about prices»: ¿qué significa sensitive?",
+          "opciones": [
+            "Sensible, que reacciona fácilmente",
+            "Sensato",
+            "Aburrido"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Falsos amigos: actually = en realidad (actualmente = currently), carpet = alfombra (carpeta = folder), sensible = sensato (sensible = sensitive), realize = darse cuenta."
+    },
+    {
+      "id": "calcos-espanol-x3-005",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Five phrases to fix",
+      "texto": "After my first month working with clients in the U.S., my boss gave me some feedback. 'Your English is clear,' she said, 'but there are five phrases you translate from Spanish.' First, I said 'I have 38 years' at a team dinner; it's 'I'm 38'. Second, I wrote 'Explain me the brief' in a message; it's 'Explain the brief to me'. Third, I said 'We need to make a question'; it's 'ask a question'. Fourth, I said 'I assisted the meeting'; it's 'I attended the meeting'. And fifth, I wrote 'We discussed about the budget', but discuss doesn't need about. She told me: 'Fix these five and you'll sound much more natural.'",
+      "preguntas": [
+        {
+          "q": "Who gave him feedback?",
+          "opciones": [
+            "A client",
+            "His boss",
+            "His girlfriend"
+          ],
+          "a": 1
+        },
+        {
+          "q": "How many phrases did he translate from Spanish?",
+          "opciones": [
+            "Three",
+            "Five",
+            "Thirty-eight"
+          ],
+          "a": 1
+        },
+        {
+          "q": "¿Qué verbo va con meeting cuando significa «asistir»?",
+          "opciones": [
+            "attend",
+            "assist",
+            "assist to"
+          ],
+          "a": 0
+        },
+        {
+          "q": "¿Cuál es la correcta?",
+          "opciones": [
+            "We discussed the budget.",
+            "We discussed about the budget.",
+            "We discussed of the budget."
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Cinco calcos y su pieza fija: I'm 38 (no I have 38 years), explain it to me (no explain me), ask a question (no make), attend a meeting (no assist), discuss the budget (sin about)."
+    },
+    {
+      "id": "calcos-espanol-x3-006",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "USO",
+      "consigna": "Escribe un email corto a una clienta después de una reunión. Cuéntale qué discutieron, si estás de acuerdo con su idea, de qué depende la fecha final y pídele que te explique algo que no entendiste.",
+      "requisitos": [
+        {
+          "texto": "Usa agree como verbo (I agree / I don't agree)",
+          "patron": "\\b(i|we) (agree|don't agree|do not agree|disagree)\\b"
+        },
+        {
+          "texto": "Usa discuss sin about",
+          "patron": "\\bdiscuss(ed|ing)?\\s+(?!about\\b)\\w+"
+        },
+        {
+          "texto": "Usa explain + cosa + to + persona",
+          "patron": "\\bexplain\\b[^.?!]*\\bto (me|us|you|him|her|them)\\b"
+        },
+        {
+          "texto": "Usa depend on",
+          "patron": "\\bdepends? on\\b"
+        }
+      ],
+      "minPalabras": 45,
+      "ejemplo": "Hi Sarah, thanks for the meeting today. We discussed the budget and the timeline, and I agree with your idea of a smaller first phase. The final date depends on the production company, so I'll confirm it on Friday. Could you explain the new approval process to me? I don't want to make a mistake with the legal team. Best regards, Jonathan",
+      "explica": "Cuatro calcos que delatan en un email: I am agree → I agree; discuss about → discuss; explain me → explain it to me; depend of → depend on. Son piezas fijas: apréndelas enteras."
+    }
+  ]
+}

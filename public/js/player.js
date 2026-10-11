@@ -1,6 +1,6 @@
 // Reproductor de ejercicios: una pantalla enfocada, revisión inmediata con la regla,
 // los errores vuelven al final de la sesión (recuperar otra vez lo que falló).
-import { S, record, addTime, logEvent, CODES, flushEvents, save } from "./store.js";
+import { S, record, addTime, logEvent, CODES, flushEvents, save, introduceWord } from "./store.js";
 import { $, $$, h, esc, icon, speak, sfx, confetti, toast, pieces } from "./ui.js";
 import { matches, wordDiff, tokens } from "./check.js";
 
@@ -8,6 +8,7 @@ const KIND = {
   elegir: "Elige la opción correcta", escribir: "Escribe la respuesta", ordenar: "Ordena la frase",
   corregir: "¿Correcta o incorrecta?", transformar: "Transforma la frase", traducir: "Traduce al inglés",
   emparejar: "Une las parejas", escuchar: "Escucha y escribe", identificar: "¿Qué es? Mira la llave",
+  presentar: "Palabra nueva", texto: "Completa el texto", lectura: "Lee y responde", componer: "Escribe tú",
 };
 const shuffle = a => { const r = [...a]; for (let i = r.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [r[i], r[j]] = [r[j], r[i]]; } return r; };
 const fillBlank = (q, ans) => String(q || "").replace(/_{2,}\s*(\([^)]*\))?/, ans);
@@ -59,6 +60,12 @@ export function play(session, { onExit } = {}) {
     if (idx >= queue.length) return finish();
     const { it, retry } = queue[idx];
     current = render(it, retry);
+    if (it.tipo === "presentar") {
+      btnSkip.hidden = true; btnCheck.hidden = false; btnCheck.textContent = "Entendido";
+      setReady(true); stage.parentElement.scrollTop = 0;
+      setTimeout(() => speak(it.w.en), 300);
+      return;
+    }
     btnSkip.hidden = it.tipo === "emparejar";
     btnCheck.hidden = it.tipo === "emparejar";
     btnCheck.textContent = "Comprobar";
@@ -72,7 +79,7 @@ export function play(session, { onExit } = {}) {
   // ---------- render por tipo ----------
   function render(it, retry) {
     stage.innerHTML = "";
-    const head = h(`<div class="q-kind">${icon(it.tipo === "escuchar" ? "vol" : it.tipo === "identificar" ? "key" : "spark", 16)}<span>${KIND[it.tipo] || "Ejercicio"}</span>${retry ? '<span class="chip bad">Otra vez</span>' : ""}${it.gen ? '<span class="chip">Gimnasio</span>' : ""}</div>`);
+    const head = h(`<div class="q-kind">${icon(it.tipo === "escuchar" ? "vol" : it.tipo === "identificar" ? "key" : "spark", 16)}<span>${KIND[it.tipo] || "Ejercicio"}</span>${retry ? '<span class="chip bad">Otra vez</span>' : ""}${it.gen ? '<span class="chip">Gimnasio</span>' : ""}${it.tipo !== "presentar" ? `<span class="chip" title="Nivel">${["", "Nivel 1", "Nivel 2", "Nivel 3 · extenso"][it.nivel || 2]}</span>` : ""}</div>`);
     stage.append(head);
     const st = { it, answer: null };
 
@@ -210,6 +217,112 @@ export function play(session, { onExit } = {}) {
         note: misses ? `Uniste todo, con ${misses} ${misses === 1 ? "intento fallido" : "intentos fallidos"}. Volverá más adelante.` : null });
       st.reveal = () => {};
     }
+    else if (it.tipo === "presentar") {
+      const w = it.w, f = w.formas;
+      const row = (k, v) => v ? `<div class="wf"><span class="small muted">${k}</span><b>${esc(v)}</b></div>` : "";
+      stage.append(h(`<div class="card pad-lg word-card">
+        <div class="row wrap"><span class="chip primary">${esc(w.clase || "palabra")}</span>${w.irregular ? '<span class="chip key">irregular</span>' : ""}<span class="spacer"></span>
+          <button class="icon-btn" data-say aria-label="Escuchar">${icon("vol")}</button></div>
+        <div class="word-en">${esc(w.en)}</div>
+        ${w.ipa ? `<div class="muted">${esc(w.ipa)}</div>` : ""}
+        <div class="word-es">${esc(w.es)}</div>
+        ${f ? `<div class="wforms">${row("base", w.en)}${row("he/she/it", f.s)}${row("pasado", f.pasado)}${row("participio", f.participio)}${row("-ing", f.ing)}</div>` : ""}
+        ${w.opuesto || w.comparativo ? `<div class="row wrap">${w.opuesto ? `<span class="chip">opuesto: ${esc(w.opuesto)}</span>` : ""}${w.comparativo ? `<span class="chip">${esc(w.comparativo)} · ${esc(w.superlativo || "")}</span>` : ""}</div>` : ""}
+        ${w.ejemplo ? `<div class="usage"><span class="small muted">Ejemplo</span><span class="ex">${esc(w.ejemplo)} <button class="icon-btn" data-ex aria-label="Escuchar el ejemplo" style="vertical-align:middle">${icon("vol", 16)}</button></span></div>` : ""}
+        ${w.nota ? `<p class="small muted" style="margin:0">${esc(w.nota)}</p>` : ""}
+      </div>`));
+      $("[data-say]", stage).onclick = () => speak(w.en);
+      $("[data-ex]", stage)?.addEventListener("click", () => speak(w.ejemplo));
+      st.check = () => ({ ok: true }); st.reveal = () => {};
+    }
+
+    else if (it.tipo === "texto") {
+      if (it.titulo) stage.append(h(`<h3 class="h2" style="margin:0">${esc(it.titulo)}</h3>`));
+      if (it.instruccion) stage.append(h(`<p class="q-es" style="margin:0">${esc(it.instruccion)}</p>`));
+      const huecos = it.huecos || [];
+      const box = h(`<div class="card pad-lg long-text"></div>`);
+      box.innerHTML = esc(it.texto).replace(/\{(\d+)\}/g, (m, n) => {
+        const hz = huecos[Number(n) - 1]; if (!hz) return m;
+        if (hz.opciones) return `<select class="gap" data-gap="${n}" aria-label="Hueco ${n}"><option value="">…</option>${hz.opciones.map((o, i) => `<option value="${i}">${esc(o)}</option>`).join("")}</select>`;
+        return `<input class="gap" data-gap="${n}" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" aria-label="Hueco ${n}">`;
+      });
+      stage.append(box);
+      const gaps = $$(".gap", box);
+      const sync = () => setReady(gaps.every(g => g.value.trim() !== ""));
+      gaps.forEach(g => { g.oninput = sync; g.onchange = sync; });
+      st.check = () => {
+        let okN = 0; const given = [];
+        gaps.forEach(g => {
+          const hz = huecos[Number(g.dataset.gap) - 1];
+          const ok = hz.opciones ? Number(g.value) === hz.a : matches(g.value, hz.respuestas || []);
+          g.dataset.res = ok ? "ok" : "bad"; if (ok) okN++;
+          given.push(hz.opciones ? hz.opciones[Number(g.value)] : g.value);
+          if (!ok) g.insertAdjacentHTML("afterend", `<span class="gap-fix">${esc(hz.opciones ? hz.opciones[hz.a] : (hz.respuestas || [])[0])}</span>`);
+        });
+        return { ok: okN === gaps.length, given: given.join(" | "), correct: "", full: null, score: `${okN}/${gaps.length} huecos`,
+          note: okN === gaps.length ? `Todos los huecos (${gaps.length}/${gaps.length}).` : `${okN} de ${gaps.length} huecos. En el texto verás la forma correcta al lado de cada error.` };
+      };
+      st.reveal = () => gaps.forEach(g => g.disabled = true);
+    }
+
+    else if (it.tipo === "lectura") {
+      const box = h(`<div class="card pad-lg long-text">
+        <div class="row" style="margin-bottom:8px">${it.titulo ? `<b>${esc(it.titulo)}</b>` : ""}<span class="spacer"></span>
+          <button class="icon-btn" data-play aria-label="Escuchar el texto">${icon("vol")}</button><button class="icon-btn" data-slow aria-label="Escuchar despacio">${icon("turtle")}</button></div>
+        <p style="margin:0">${esc(it.texto)}</p></div>`);
+      $("[data-play]", box).onclick = () => speak(it.texto);
+      $("[data-slow]", box).onclick = () => speak(it.texto, 0.7);
+      stage.append(box);
+      const answers = {};
+      const qs = h(`<div class="grid" style="gap:16px"></div>`);
+      (it.preguntas || []).forEach((p, qi) => {
+        const block = h(`<div class="grid" style="gap:8px"><b style="font-weight:600">${qi + 1}. ${esc(p.q)}</b><div class="opts"></div></div>`);
+        const opts = $(".opts", block);
+        p.opciones.forEach((o, i) => {
+          const b = h(`<button class="opt" aria-pressed="false" style="min-height:48px;font-size:16px"><span class="k">${"abcd"[i]}</span><span>${esc(o)}</span></button>`);
+          b.onclick = () => { $$(".opt", opts).forEach(x => x.setAttribute("aria-pressed", "false")); b.setAttribute("aria-pressed", "true"); answers[qi] = i; sfx.tap(); setReady(Object.keys(answers).length === it.preguntas.length); };
+          opts.append(b);
+        });
+        qs.append(block);
+      });
+      stage.append(qs);
+      st.check = () => {
+        let okN = 0;
+        it.preguntas.forEach((p, qi) => { if (answers[qi] === p.a) okN++; });
+        return { ok: okN === it.preguntas.length, given: it.preguntas.map((p, qi) => p.opciones[answers[qi]]).join(" | "), correct: "", full: null,
+          note: `${okN} de ${it.preguntas.length} preguntas.` };
+      };
+      st.reveal = () => it.preguntas.forEach((p, qi) => $$(".opt", qs.children[qi]).forEach((b, i) => { b.disabled = true; if (i === p.a) b.classList.add("right"); else if (answers[qi] === i) b.classList.add("wrong"); }));
+    }
+
+    else if (it.tipo === "componer") {
+      stage.append(h(`<p class="q-text" style="font-size:22px">${esc(it.consigna)}</p>`));
+      const reqs = (it.requisitos || []).map(r => { let re = null; try { re = new RegExp(r.patron, "i"); } catch {} return { ...r, re }; });
+      const list = h(`<div class="grid" style="gap:6px">${reqs.map((r, i) => `<div class="req" data-req="${i}">${icon("check", 16)}<span>${esc(r.texto)}</span></div>`).join("")}
+        <div class="req" data-words>${icon("check", 16)}<span>Mínimo ${it.minPalabras || 20} palabras · <b data-count>0</b></span></div></div>`);
+      const ta = h(`<textarea class="input" rows="6" placeholder="Escribe en inglés…" spellcheck="false" autocapitalize="sentences"></textarea>`);
+      stage.append(list, ta);
+      const words = () => ta.value.trim().split(/\s+/).filter(Boolean).length;
+      const sync = () => {
+        const v = ta.value.toLowerCase();
+        reqs.forEach((r, i) => $(`[data-req="${i}"]`, list).classList.toggle("met", !!(r.re && r.re.test(v))));
+        const n = words(); $("[data-count]", list).textContent = String(n);
+        $("[data-words]", list).classList.toggle("met", n >= (it.minPalabras || 20));
+        setReady(n >= Math.min(8, it.minPalabras || 8));
+      };
+      ta.oninput = sync;
+      st.check = () => {
+        const v = ta.value.toLowerCase();
+        const met = reqs.filter(r => r.re && r.re.test(v)).length;
+        const ok = met === reqs.length && words() >= (it.minPalabras || 20);
+        return { ok, given: ta.value, correct: "", full: null,
+          note: `${met}/${reqs.length} requisitos · ${words()} palabras. ${ok ? "" : "Revisa lo que falta en la lista."} Claude revisará la gramática en tu resumen.`,
+          modelo: it.ejemplo };
+      };
+      st.reveal = () => { ta.disabled = true; };
+      st.input = ta;
+    }
+
     else {
       stage.append(h(`<p class="q-text">Tipo de ejercicio desconocido: ${esc(it.tipo)}</p>`));
       st.check = () => ({ ok: true }); st.reveal = () => {};
@@ -228,6 +341,11 @@ export function play(session, { onExit } = {}) {
   let checked = false;
   function doCheck(skipped = false) {
     if (checked || !current) return;
+    if (queue[idx].it.tipo === "presentar") {
+      introduceWord(queue[idx].it.word);
+      done = Math.min(total, done + 1); progress(); sfx.tap();
+      idx++; next(); return;
+    }
     checked = true;
     const { it, retry } = queue[idx];
     const res = skipped ? { ...current.check(), ok: false, given: null } : current.check();
@@ -240,7 +358,7 @@ export function play(session, { onExit } = {}) {
       if (res.ok) xp += 3;
     }
     if (res.ok) { combo++; bestCombo = Math.max(bestCombo, combo); sfx.ok(); }
-    else { combo = 0; sfx.bad(); if (!retry && it.tipo !== "emparejar") queue.push({ it, retry: true }); }
+    else { combo = 0; sfx.bad(); if (!retry && !["emparejar", "texto", "lectura", "componer"].includes(it.tipo)) queue.push({ it, retry: true }); }
     if (!retry || res.ok) done = Math.min(total, done + (retry ? 0 : 1));
     progress();
     showSheet(it, res, skipped);
@@ -263,6 +381,7 @@ export function play(session, { onExit } = {}) {
       <div class="verdict"><span class="badge">${icon(ok ? "check" : "x", 20)}</span>${ok ? praise[Math.floor(Math.random() * praise.length)] : skipped ? "Así se dice" : "Casi"}</div>
       ${answer}
       ${res.note ? `<div class="why">${esc(res.note)}</div>` : ""}
+      ${res.modelo ? `<div class="answer"><span class="muted small">Un modelo</span><br>${esc(res.modelo)}</div>` : ""}
       ${it.explica ? `<div class="why">${icon("key", 15, "inline")} ${pieces(it.explica)}</div>` : ""}
       <div class="actions">
         <div class="row wrap">${code}</div>
@@ -344,6 +463,7 @@ export function play(session, { onExit } = {}) {
     const typing = e.target.matches?.("input, textarea");
     if (e.key === "Escape") { e.preventDefault(); askExit(); return; }
     if (e.key === "Enter") {
+      if (e.target.matches?.("textarea") && !sheet.classList.contains("open")) return;
       e.preventDefault();
       if (sheet.classList.contains("open")) advance();
       else if (!btnCheck.disabled && !btnCheck.hidden) doCheck();

@@ -15,10 +15,12 @@ La primera vez, macOS puede pedir permiso para abrir el archivo (clic derecho �
 | Pestaña | Para qué |
 |---|---|
 | **Hoy** | La sesión del día (repaso + foco de la semana + tus llaves rotas), el mensaje de Claude y tus números |
-| **Teoría** | 24 temas: llave, fórmulas, reglas, palabras señal, usos diarios y de trabajo, errores típicos, frases con audio |
-| **Practicar** | Sesión de hoy, repaso pendiente, mis errores, **gimnasio de llaves** (frases infinitas de los 4 tiempos) y práctica por tema |
+| **Teoría** | 34 capítulos (tiempos, modales, estructuras, adverbios y preposiciones, trabajo, vocabulario, errores típicos): llave, fórmulas, reglas, palabras señal, usos diarios y de trabajo, errores típicos, frases con audio |
+| **Practicar** | Sesión de hoy, **palabras nuevas** (697 palabras que entran poco a poco: verbos con sus cinco formas, adjetivos, adverbios, preposiciones, phrasal verbs), **ejercicios extensos** (textos, lecturas y redacción), repaso pendiente, mis errores, **gimnasio de llaves** (frases infinitas de los 4 tiempos) y práctica por tema |
 | **Voz** | Grabas con una consigna, se transcribe gratis en el navegador y queda en la bandeja para Claude |
 | **Avance** | Racha, constancia, llaves rotas por código, línea base del diagnóstico, dominio por tema y ajustes |
+
+**Niveles:** 1 reconocer · 2 producir frases · 3 textos, lecturas y redacción. Cada tema abre el siguiente nivel cuando subes su dominio (25 % y 55 %).
 
 Atajos en los ejercicios: **1–4** para elegir, **Enter** para comprobar y continuar, **Esc** para salir, **Borrar** quita la última ficha.
 

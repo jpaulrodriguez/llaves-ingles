@@ -1,0 +1,390 @@
+{
+  "tema": "futuro",
+  "ejercicios": [
+    {
+      "id": "futuro-x3-001",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "FUT",
+      "titulo": "Decisions in the meeting",
+      "instruccion": "Elige el futuro correcto: will (decisión u ofrecimiento en el momento, opinión), going to (plan o evidencia) o presente continuo (cita ya organizada).",
+      "texto": "Laura: 'The client wants the deck by tomorrow.' Me: 'No problem, I {1} it tonight.' Mike: 'Sorry, I can't help. I {2} my sister at the airport at eight; she booked the flight weeks ago.' Laura: 'OK. Look at the sky. It {3} rain. Who has an umbrella?' Sarah: 'Don't worry, I {4} you mine.' Laura: 'Thanks. And good news: next year we {5} a bigger team; we already have the budget.' Me: 'Great. And I think the client {6} the new idea.'",
+      "huecos": [
+        {
+          "opciones": [
+            "'m going to finish",
+            "'ll finish",
+            "finish"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "will pick up",
+            "am picking up",
+            "pick up"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "will",
+            "is going to",
+            "is"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "'ll lend",
+            "'m lending",
+            "lend"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "will have",
+            "are going to have",
+            "have"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "is loving",
+            "will love",
+            "loves"
+          ],
+          "a": 1
+        }
+      ],
+      "explica": "Decides u ofreces en el momento → will (I'll finish it, I'll lend you mine). Cita con hora y persona → continuo (I'm picking up my sister at eight). Evidencia que ves → going to (It's going to rain). Plan ya decidido → going to. Opinión (I think…) → will."
+    },
+    {
+      "id": "futuro-x3-002",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "FUT",
+      "titulo": "Next week's agenda",
+      "instruccion": "Completa con un futuro adecuado. Cita con día u hora → presente continuo; plan → going to; predicción u opinión → will. Hay varias respuestas válidas.",
+      "texto": "Next week is going to be intense. On Monday I {1} (meet) the new client at nine; it's already in my calendar. On Tuesday the team {2} (present) the first ideas, and I'm sure the client {3} (ask) a lot of questions. On Wednesday I {4} (not / go) to the office because I {5} (fly) to Medellín for a shoot. I {6} (try) to rest on the plane, but I know I {7} (answer) emails the whole flight.",
+      "huecos": [
+        {
+          "respuestas": [
+            "am meeting",
+            "'m meeting",
+            "am going to meet",
+            "'m going to meet"
+          ]
+        },
+        {
+          "respuestas": [
+            "is presenting",
+            "is going to present"
+          ]
+        },
+        {
+          "respuestas": [
+            "will ask",
+            "'ll ask",
+            "is going to ask"
+          ]
+        },
+        {
+          "respuestas": [
+            "am not going",
+            "'m not going",
+            "am not going to go",
+            "'m not going to go"
+          ]
+        },
+        {
+          "respuestas": [
+            "am flying",
+            "'m flying",
+            "am going to fly",
+            "'m going to fly"
+          ]
+        },
+        {
+          "respuestas": [
+            "am going to try",
+            "'m going to try",
+            "will try",
+            "'ll try"
+          ]
+        },
+        {
+          "respuestas": [
+            "will answer",
+            "'ll answer",
+            "am going to answer",
+            "'m going to answer"
+          ]
+        }
+      ],
+      "explica": "Lo que está en tu calendario (on Monday at nine, a flight) → presente continuo: I'm meeting, I'm flying. Intenciones → going to: I'm going to try. Lo que crees que pasará (I'm sure, I know) → will: the client will ask, I'll answer."
+    },
+    {
+      "id": "futuro-x3-003",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "FUT",
+      "titulo": "Promises to the team",
+      "instruccion": "Completa con will / won't + verbo base. Son promesas, ofrecimientos y decisiones del momento.",
+      "texto": "A message to my team after a hard week: 'Thanks for your work, everybody. I know it was a crazy week. I promise next month {1} (be) calmer. I {2} (not / accept) more projects without talking to you first. Camila, don't worry about the report; I {3} (do) it myself. Andrés, {4} (you / send) me the files tonight? Then I {5} (review) them tomorrow morning. And on Friday the pizza is on me. I {6} (order) it at one, so don't bring lunch.'",
+      "huecos": [
+        {
+          "respuestas": [
+            "will be"
+          ]
+        },
+        {
+          "respuestas": [
+            "won't accept",
+            "will not accept"
+          ]
+        },
+        {
+          "respuestas": [
+            "will do",
+            "'ll do"
+          ]
+        },
+        {
+          "respuestas": [
+            "will you send"
+          ]
+        },
+        {
+          "respuestas": [
+            "will review",
+            "'ll review"
+          ]
+        },
+        {
+          "respuestas": [
+            "will order",
+            "'ll order"
+          ]
+        }
+      ],
+      "explica": "Promesas (I promise… will be, I won't accept), ofrecimientos (I'll do it myself) y peticiones (Will you send me…?) → will. Después de will el verbo va siempre en base; la negativa es won't."
+    },
+    {
+      "id": "futuro-x3-004",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "FUT",
+      "titulo": "December plans",
+      "instruccion": "Elige la forma correcta: plan ya decidido, cita organizada, decisión del momento u opinión.",
+      "texto": "My girlfriend and I already have plans for December. We {1} to Cartagena; we bought the tickets last month. We {2} on the 20th and come back on the 28th. On the 19th we {3} dinner with her parents in Chía. My dad is alone in Manizales, so I'm worried. Maybe I {4} him and invite him to Cartagena. But I think he {5} no; he hates the heat. Wait, I have an idea: I {6} him the photos of the hotel pool. That {7} him!",
+      "huecos": [
+        {
+          "opciones": [
+            "will go",
+            "are going to go",
+            "go"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "are leaving",
+            "will leave",
+            "leave"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "are having",
+            "will have",
+            "have"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "'m calling",
+            "'ll call",
+            "call"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "is going to say",
+            "will say",
+            "says"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "'ll send",
+            "'m sending",
+            "send"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "is convincing",
+            "will convince",
+            "convinces"
+          ],
+          "a": 1
+        }
+      ],
+      "explica": "Plan ya decidido (tickets comprados) → going to. Fechas organizadas → continuo (are leaving, are having). Maybe, I think, una idea que surge ahora → will (I'll call, he'll say, I'll send, that will convince him)."
+    },
+    {
+      "id": "futuro-x3-005",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "FUT",
+      "titulo": "The new office",
+      "texto": "Brava is going to move to a new office in January. The building is in Chicó, and it has a terrace with a view of the mountains. The management team is going to divide the space into open areas and small rooms for calls. 'People will love the terrace,' says Laura. Not everybody agrees. Mike lives in the south, so he's going to spend more time in traffic. 'I'll probably work from home more,' he says. The move is happening on the second weekend of January, and the agency is closing on that Friday so everybody can pack.",
+      "preguntas": [
+        {
+          "q": "When is Brava going to move?",
+          "opciones": [
+            "In December",
+            "Next week",
+            "In January"
+          ],
+          "a": 2
+        },
+        {
+          "q": "Why isn't Mike happy?",
+          "opciones": [
+            "He'll spend more time in traffic",
+            "He hates terraces",
+            "He's leaving Brava"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«The move is happening on the second weekend of January»: ¿por qué presente continuo?",
+          "opciones": [
+            "Es una predicción",
+            "Es un plan con fecha ya organizado",
+            "Pasa ahora mismo"
+          ],
+          "a": 1
+        },
+        {
+          "q": "«People will love the terrace»: ¿qué expresa will aquí?",
+          "opciones": [
+            "Una opinión o predicción",
+            "Un plan con fecha",
+            "Una orden"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Planes decididos → going to (is going to move, is going to divide). Fechas ya organizadas → continuo (is happening, is closing). Opiniones y probabilidades → will (people will love, I'll probably work)."
+    },
+    {
+      "id": "futuro-x3-006",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "FUT",
+      "titulo": "In the elevator",
+      "texto": "In the elevator, I met Sarah. She was carrying two big boxes. 'Are you moving?' I asked. 'No, I'm going to sell these old cameras online,' she said. 'I'm buying a new one next week.' 'Do you need help? I'll take one box.' 'Thanks! Are you coming to Camila's party on Saturday?' 'I don't think so. I'm visiting my dad in Manizales this weekend. But I'll send her a gift.' 'Good idea. She's going to be thirty, so she'll probably cry a little.' We both laughed. The elevator stopped at the fifth floor and the doors opened.",
+      "preguntas": [
+        {
+          "q": "What is Sarah going to do with the old cameras?",
+          "opciones": [
+            "Give them to Camila",
+            "Sell them online",
+            "Keep them"
+          ],
+          "a": 1
+        },
+        {
+          "q": "Why isn't he going to the party?",
+          "opciones": [
+            "He's visiting his dad",
+            "He's sick",
+            "He's working"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«I'll take one box»: ¿por qué will?",
+          "opciones": [
+            "Es un plan antiguo",
+            "Hay evidencia",
+            "Es un ofrecimiento decidido en el momento"
+          ],
+          "a": 2
+        },
+        {
+          "q": "«I'm visiting my dad in Manizales this weekend»: ¿qué tipo de futuro es?",
+          "opciones": [
+            "Un plan organizado (presente continuo)",
+            "Una predicción",
+            "Una promesa"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Ofrecimientos en el momento → will (I'll take one box, I'll send her a gift). Planes → going to (I'm going to sell). Citas y viajes organizados → continuo (I'm buying, I'm visiting)."
+    },
+    {
+      "id": "futuro-x3-007",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "FUT",
+      "consigna": "Escribe a tu equipo el plan de la próxima semana: qué ya está organizado (con día u hora), qué vas a hacer y una predicción sobre el cliente.",
+      "requisitos": [
+        {
+          "texto": "Usa going to + verbo base",
+          "patron": "(\\bam|\\bis|\\bare|'m|'s|'re)\\s+(not\\s+)?going to\\s+\\w+"
+        },
+        {
+          "texto": "Usa will / 'll + verbo base para una predicción",
+          "patron": "(\\bwill|'ll|\\bwon't)\\s+\\w+"
+        },
+        {
+          "texto": "Usa presente continuo con un día o una hora",
+          "patron": "(\\bam|\\bis|\\bare|'m|'s|'re)\\s+(?!going\\b)\\w+ing\\b[^.]*\\b(monday|tuesday|wednesday|thursday|friday|tomorrow|at \\d)"
+        }
+      ],
+      "minPalabras": 50,
+      "ejemplo": "Hi team, here is the plan for next week. We're meeting the bank's marketing team on Monday at ten, and Laura is presenting the new storyboard at 2 p.m. on Wednesday. On Tuesday I'm going to review all the slides with Camila, so please send me your parts before Monday night. I think the client will like the idea, but they'll probably ask for a cheaper version. Let's prepare one just in case.",
+      "explica": "Tres futuros en un mismo correo: citas con fecha en continuo (we're meeting, Laura is presenting), tu plan con going to (I'm going to review) y la predicción con will (the client will like, they'll ask)."
+    },
+    {
+      "id": "futuro-x3-008",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "FUT",
+      "consigna": "Escribe tus propósitos para el próximo año (personales y de trabajo): dos planes con going to, una promesa con will y algo que no vas a hacer.",
+      "requisitos": [
+        {
+          "texto": "Usa going to + verbo base",
+          "patron": "(\\bam|\\bis|\\bare|'m|'s|'re)\\s+(not\\s+)?going to\\s+\\w+"
+        },
+        {
+          "texto": "Usa will / 'll para una promesa",
+          "patron": "(\\bwill|'ll|\\bwon't)\\s+\\w+"
+        },
+        {
+          "texto": "Incluye una negativa (won't / not going to)",
+          "patron": "(\\bwon't|\\bwill not|\\bnot going to)\\b"
+        },
+        {
+          "texto": "Usa next year",
+          "patron": "\\bnext year\\b"
+        }
+      ],
+      "minPalabras": 40,
+      "ejemplo": "Next year is going to be important for me. I'm going to take an English course in the mornings, and I'm going to travel with my girlfriend to Mexico. At work, I'm going to delegate more to my team. I promise I'll leave the office before seven at least three days a week. And I won't answer emails on Sundays. That's the hardest one.",
+      "explica": "Propósitos ya decididos → going to (I'm going to take, I'm going to travel). Promesas → will / won't (I'll leave, I won't answer). Después de will y de going to el verbo va en base."
+    }
+  ]
+}

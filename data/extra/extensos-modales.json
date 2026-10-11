@@ -1,0 +1,140 @@
+{
+  "tema": "modales",
+  "ejercicios": [
+    {
+      "id": "modales-x3-001",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "MOD",
+      "titulo": "Before the client call",
+      "instruccion": "Completa con el modal y el verbo entre paréntesis. Después del modal el verbo va en forma base: sin to, sin -s, sin do. En las preguntas, el modal pasa delante del sujeto.",
+      "texto": "Hi team, quick note before tomorrow's call. I {1} (will / send) the agenda tonight, so please read it before 9. Laura {2} (can / not / join) us because she has a dentist appointment, but she {3} (will / share) her comments by email. {4} (could / you / print) three copies of the deck, Andrés? The client {5} (may / ask) about the budget again, so I {6} (will / prepare) a short answer. One more thing: {7} (can / we / start) five minutes early? Their CEO is always on time.",
+      "huecos": [
+        { "respuestas": ["will send", "'ll send"] },
+        { "respuestas": ["can't join", "cannot join", "can not join"] },
+        { "respuestas": ["will share", "'ll share"] },
+        { "respuestas": ["Could you print"] },
+        { "respuestas": ["may ask"] },
+        { "respuestas": ["will prepare", "'ll prepare"] },
+        { "respuestas": ["Can we start"] }
+      ],
+      "explica": "El modal es la llave: recibe el not (can't join), pasa delante del sujeto en la pregunta (Could you print? Can we start?) y el verbo queda desnudo (will send, may ask). Nada de «will to send» ni «Do you can»."
+    },
+    {
+      "id": "modales-x3-002",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "MOD",
+      "titulo": "Checking in at a hotel in Miami",
+      "instruccion": "Elige la forma correcta en cada hueco. Es un diálogo en la recepción: pedir con cortesía, permiso y promesas.",
+      "texto": "Good evening. I {1} a room for two nights, please. — Of course. {2} I see your passport? — Sure, here you are. {3} pay by card? — Yes, you can. Breakfast is from 6 to 10. — Great. One more question: {4} I have a late check-out on Friday? My flight is at 6 pm. — I'm afraid we {5} do that on Fridays; the hotel is full. But you {6} leave your bags at the front desk. — Perfect. And {7} you call me a taxi tomorrow at 8? — Don't worry, I {8} take care of it.",
+      "huecos": [
+        { "opciones": ["would like to", "would like", "want to"], "a": 1 },
+        { "opciones": ["Do", "May", "Am"], "a": 1 },
+        { "opciones": ["Do I can", "I can", "Can I"], "a": 2 },
+        { "opciones": ["Could", "Do", "Am"], "a": 0 },
+        { "opciones": ["don't can", "can't", "no can"], "a": 1 },
+        { "opciones": ["can to leave", "can leave", "can leaves"], "a": 1 },
+        { "opciones": ["could", "do", "are"], "a": 0 },
+        { "opciones": ["will", "will to", "going"], "a": 0 }
+      ],
+      "explica": "I'd like + sustantivo (sin to). May I / Could I para permiso y peticiones corteses; Can I…? con el modal delante, nunca «Do I can». La negativa es can't (no «don't can») y la promesa del momento es I'll + verbo base."
+    },
+    {
+      "id": "modales-x3-003",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "MOD",
+      "titulo": "Negotiating a deadline",
+      "instruccion": "Completa con el modal y el verbo. Fíjate en el tiempo: could también es can en pasado (habilidad), y en las preguntas el modal va primero.",
+      "texto": "When I started at Brava, I {1} (could / not / speak) English on calls, so I stayed quiet. Now things are different. Yesterday the client asked for the campaign in two weeks and I said: 'I'm afraid we {2} (can / not / deliver) everything by the 20th, but we {3} (can / send) the key visual first. {4} (could / we / move) the final deadline to the 27th? I {5} (will / confirm) the plan with my team today.' She said yes. Then I asked: '{6} (may / I / share) my screen to show you the timeline?' Small victory.",
+      "huecos": [
+        { "respuestas": ["couldn't speak", "could not speak"] },
+        { "respuestas": ["can't deliver", "cannot deliver", "can not deliver"] },
+        { "respuestas": ["can send"] },
+        { "respuestas": ["Could we move"] },
+        { "respuestas": ["will confirm", "'ll confirm"] },
+        { "respuestas": ["May I share"] }
+      ],
+      "explica": "Couldn't speak = no podía (habilidad en pasado). Can't deliver / can send para lo que puedes o no puedes hacer; Could we move…? pide con cortesía; I'll confirm es el compromiso del momento; May I share…? pide permiso formal. Siempre modal + verbo base."
+    },
+    {
+      "id": "modales-x3-004",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "MOD",
+      "titulo": "Camila's first call alone",
+      "texto": "Last Tuesday, Camila had her first call alone with a client in Miami. Before the call, she was nervous: 'What if I can't understand them?' she asked me. I told her two things: 'You can always ask them to repeat, and you don't have to answer everything on the spot. Just say: I'll get back to you.' The call went well. The client asked for a discount, and Camila said, 'I can't decide that today, but I'll talk to Jonathan and I will send you an answer by Thursday.' Then they asked if the campaign could launch in May. She said, 'May I check the production calendar first?' Professional and calm. When she was a kid, she couldn't even order food in English. Now she negotiates deadlines.",
+      "preguntas": [
+        {
+          "q": "What did Camila promise to do?",
+          "opciones": ["Give the client a discount", "Send an answer by Thursday", "Launch the campaign in May"],
+          "a": 1
+        },
+        {
+          "q": "Why does she say «I can't decide that today»?",
+          "opciones": ["She doesn't have the power to decide alone", "She didn't understand the question", "The client was late"],
+          "a": 0
+        },
+        {
+          "q": "«May I check the production calendar first?»: ¿qué hace Camila con may?",
+          "opciones": ["Pide permiso con cortesía formal", "Habla de una habilidad", "Hace una promesa"],
+          "a": 0
+        },
+        {
+          "q": "«She couldn't even order food in English»: ¿qué expresa couldn't aquí?",
+          "opciones": ["Una petición cortés", "Habilidad en el pasado, en negativa", "Un permiso"],
+          "a": 1
+        }
+      ],
+      "explica": "Cada modal tiene su trabajo: can't = no puedo (habilidad o posibilidad), I'll = promesa del momento, may I = permiso formal, couldn't = no podía (can en pasado). Todos van con el verbo en base."
+    },
+    {
+      "id": "modales-x3-005",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "MOD",
+      "titulo": "A weekend in Villa de Leyva",
+      "texto": "My girlfriend and I are planning a weekend in Villa de Leyva. I can drive, but I don't like the road at night, so we'll leave early on Saturday. She can't take Friday off because her boss is traveling, which means we can't stay three nights. I'd like a hotel with a pool, but she says a small guesthouse will be cheaper and nicer. 'Could you book it tonight?' she asked me. 'Sure, I'll do it after dinner,' I said. There is one problem: my mom wants to come with us. She can't walk long distances anymore, so we will need a place near the main square. And one promise I made: this time I won't check my work email.",
+      "preguntas": [
+        {
+          "q": "When will they leave?",
+          "opciones": ["On Friday night", "Early on Saturday", "On Sunday"],
+          "a": 1
+        },
+        {
+          "q": "What is the problem with his mom?",
+          "opciones": ["She can't walk long distances", "She doesn't like hotels", "She can't drive"],
+          "a": 0
+        },
+        {
+          "q": "«I'd like a hotel with a pool»: ¿qué es I'd like?",
+          "opciones": ["La forma cortés de I want", "El pasado de I like", "Una pregunta"],
+          "a": 0
+        },
+        {
+          "q": "«I won't check my work email»: ¿qué es won't?",
+          "opciones": ["will + not: una promesa o decisión", "want + not", "was + not"],
+          "a": 0
+        }
+      ],
+      "explica": "Can / can't para habilidad y posibilidad (I can drive, she can't take Friday off), could you para pedir, I'll / won't para prometer y decidir, I'd like como el I want cortés. Después de todos ellos, verbo base."
+    },
+    {
+      "id": "modales-x3-006",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "MOD",
+      "consigna": "Responde por escrito a un cliente que pide adelantar la entrega: di qué puedes y qué no puedes hacer (can / can't), pídele algo con cortesía (Could you…?), comprométete con una fecha (I'll … by …) y pide permiso para algo (May I…? / Can I…?).",
+      "requisitos": [
+        { "texto": "Di qué no puedes hacer con can't / cannot", "patron": "\\b(can't|cannot|can not)\\s+\\w+" },
+        { "texto": "Pide algo con Could you…?", "patron": "\\bcould you\\b[^?]*\\?" },
+        { "texto": "Comprométete con I'll / I will + verbo … by + fecha", "patron": "\\b(i'll|i will|we'll|we will)\\s+\\w+[^.]*\\bby\\b" },
+        { "texto": "Pide permiso con May I…? / Can I…?", "patron": "\\b(may|can) (i|we)\\b[^?]*\\?" }
+      ],
+      "minPalabras": 50,
+      "ejemplo": "Hi Sarah, thanks for your message. I understand the launch date changed. We can deliver the key visual and the three social posts next week, but we can't finish the video by the 15th; production needs ten more days. Could you confirm which pieces are the priority for the launch? I'll send you a new timeline by Thursday morning, and I will call you after that to go over it. May I share this change with the media team today? Best regards, Jonathan",
+      "explica": "En una negociación los modales hacen todo el trabajo: can / can't para lo posible, Could you…? para pedir sin sonar brusco, I'll … by … para comprometerte con fecha y May I…? para pedir permiso. El verbo siempre va en base después del modal."
+    }
+  ]
+}

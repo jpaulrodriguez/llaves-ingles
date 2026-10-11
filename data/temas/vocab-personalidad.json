@@ -10,11 +10,31 @@
     "paraQue": "Describir el carácter de una persona (no su aspecto físico): cómo es tu jefe, cómo es ese cliente, cómo eres tú en una entrevista.",
     "llave": "La llave de este vocabulario es aprender cada adjetivo con su antónimo: hard-working ↔ lazy, generous ↔ mean. Si conoces uno, el otro te sale solo con 'not very…' o con el contrario exacto. Muchos antónimos se forman con un prefijo: un- (kind → unkind, friendly → unfriendly), im- (patient → impatient) y dis- (honest → dishonest).",
     "formulas": [
-      { "tipo": "Intensificar", "formula": "He's / She's + very / really / so + adjetivo", "ejemplo": "She's really hard-working." },
-      { "tipo": "Suavizar", "formula": "He's / She's + a bit / a little / kind of + adjetivo (negativo)", "ejemplo": "My boss is a bit bossy." },
-      { "tipo": "Con sustantivo", "formula": "a (very) + adjetivo + person", "ejemplo": "Laura is a very reliable person." },
-      { "tipo": "Con preposición", "formula": "be + kind / rude / friendly / polite + to + persona · be + patient / strict + with + persona", "ejemplo": "He's always polite to the client, but strict with his team." },
-      { "tipo": "Comparar", "formula": "not as + adjetivo + as", "ejemplo": "I'm not as talkative as my sister." }
+      {
+        "tipo": "Intensificar",
+        "formula": "He's / She's + very / really / so + adjetivo",
+        "ejemplo": "She's really hard-working."
+      },
+      {
+        "tipo": "Suavizar",
+        "formula": "He's / She's + a bit / a little / kind of + adjetivo (negativo)",
+        "ejemplo": "My boss is a bit bossy."
+      },
+      {
+        "tipo": "Con sustantivo",
+        "formula": "a (very) + adjetivo + person",
+        "ejemplo": "Laura is a very reliable person."
+      },
+      {
+        "tipo": "Con preposición",
+        "formula": "be + kind / rude / friendly / polite + to + persona · be + patient / strict + with + persona",
+        "ejemplo": "He's always polite to the client, but strict with his team."
+      },
+      {
+        "tipo": "Comparar",
+        "formula": "not as + adjetivo + as",
+        "ejemplo": "I'm not as talkative as my sister."
+      }
     ],
     "reglas": [
       "Aprende en parejas de antónimos: una palabra te da la otra (optimistic ↔ pessimistic, strict ↔ easy-going).",
@@ -25,143 +45,2637 @@
       "-ing describe la cosa, -ed describe cómo te sientes: a boring meeting (la reunión aburre) vs. I'm bored (yo estoy aburrido). Igual con interesting / interested.",
       "Para describir a alguien en el trabajo, junta tres adjetivos y un ejemplo: 'She's organized, reliable and a bit strict: she never misses a deadline.'"
     ],
-    "senales": ["very", "really", "so", "quite", "a bit", "kind of", "pretty", "He's a … person", "What's she like?"],
+    "senales": [
+      "very",
+      "really",
+      "so",
+      "quite",
+      "a bit",
+      "kind of",
+      "pretty",
+      "He's a … person",
+      "What's she like?"
+    ],
     "usos": [
-      { "uso": "Pares básicos del curso", "contexto": "diario", "ejemplo": "hard-working / lazy · happy / sad · clever / stupid · kind / unkind · generous / mean · friendly / unfriendly · interesting / boring · funny / serious · easy-going / strict · talkative / quiet · optimistic / pessimistic · extrovert / shy" },
-      { "uso": "Describir a la familia y a los amigos", "contexto": "diario", "ejemplo": "My dad is quiet and serious, but my mom is cheerful and really talkative. My brother is a bit lazy." },
-      { "uso": "Estados de ánimo (hoy, esta semana)", "contexto": "diario", "ejemplo": "I'm relaxed on weekends, but on Mondays I'm a bit moody. She was depressed after the breakup." },
-      { "uso": "Describir a un colega", "contexto": "trabajo", "ejemplo": "organized · focused · reliable · creative · proactive · punctual · hard-working · curious · thoughtful · honest" },
-      { "uso": "Describir a un cliente difícil", "contexto": "trabajo", "ejemplo": "demanding · bossy · impatient · stubborn · moody · negative · rude · strict" },
-      { "uso": "Hablar de ti en una entrevista", "contexto": "trabajo", "ejemplo": "I'm ambitious and competitive, but I'm also patient with my team. Sometimes I'm a bit impatient with deadlines." }
+      {
+        "uso": "Pares básicos del curso",
+        "contexto": "diario",
+        "ejemplo": "hard-working / lazy · happy / sad · clever / stupid · kind / unkind · generous / mean · friendly / unfriendly · interesting / boring · funny / serious · easy-going / strict · talkative / quiet · optimistic / pessimistic · extrovert / shy"
+      },
+      {
+        "uso": "Describir a la familia y a los amigos",
+        "contexto": "diario",
+        "ejemplo": "My dad is quiet and serious, but my mom is cheerful and really talkative. My brother is a bit lazy."
+      },
+      {
+        "uso": "Estados de ánimo (hoy, esta semana)",
+        "contexto": "diario",
+        "ejemplo": "I'm relaxed on weekends, but on Mondays I'm a bit moody. She was depressed after the breakup."
+      },
+      {
+        "uso": "Describir a un colega",
+        "contexto": "trabajo",
+        "ejemplo": "organized · focused · reliable · creative · proactive · punctual · hard-working · curious · thoughtful · honest"
+      },
+      {
+        "uso": "Describir a un cliente difícil",
+        "contexto": "trabajo",
+        "ejemplo": "demanding · bossy · impatient · stubborn · moody · negative · rude · strict"
+      },
+      {
+        "uso": "Hablar de ti en una entrevista",
+        "contexto": "trabajo",
+        "ejemplo": "I'm ambitious and competitive, but I'm also patient with my team. Sometimes I'm a bit impatient with deadlines."
+      }
     ],
     "errores": [
-      { "mal": "My colleague is very sympathetic.", "bien": "My colleague is very friendly / nice.", "porque": "Sympathetic significa compasivo, que te entiende. 'Simpático' es friendly o nice.", "code": "USO" },
-      { "mal": "She's a very sensible person; she cries easily.", "bien": "She's a very sensitive person; she cries easily.", "porque": "Sensible = sensato, con sentido común. Sensitive = sensible, que se afecta fácil.", "code": "USO" },
-      { "mal": "I'm boring in this meeting.", "bien": "I'm bored in this meeting.", "porque": "-ing es lo que aburre (the meeting is boring); -ed es cómo te sientes (I'm bored). Si dices 'I'm boring', dices que tú aburres a los demás.", "code": "VOC" },
-      { "mal": "He's very educated: he always says thank you.", "bien": "He's very polite: he always says thank you.", "porque": "Educated = que tiene estudios. 'Educado' (de buenos modales) es polite.", "code": "USO" },
-      { "mal": "Mike is a quite person.", "bien": "Mike is a quiet person.", "porque": "Quiet (callado) y quite (bastante) se parecen pero no son lo mismo. Quite va antes de un adjetivo: quite shy.", "code": "VOC" },
-      { "mal": "My clients are demandings.", "bien": "My clients are demanding.", "porque": "Los adjetivos en inglés nunca llevan -s de plural.", "code": "VOC" },
-      { "mal": "She is very fun; she tells great jokes.", "bien": "She is very funny; she tells great jokes.", "porque": "Funny = gracioso (hace reír). Fun = divertido (lo pasas bien con esa persona o cosa).", "code": "VOC" },
-      { "mal": "He is unhonest and inpatient.", "bien": "He is dishonest and impatient.", "porque": "Cada adjetivo tiene su prefijo negativo fijo: dis-honest, im-patient, un-kind. No se pueden inventar.", "code": "VOC" }
+      {
+        "mal": "My colleague is very sympathetic.",
+        "bien": "My colleague is very friendly / nice.",
+        "porque": "Sympathetic significa compasivo, que te entiende. 'Simpático' es friendly o nice.",
+        "code": "USO"
+      },
+      {
+        "mal": "She's a very sensible person; she cries easily.",
+        "bien": "She's a very sensitive person; she cries easily.",
+        "porque": "Sensible = sensato, con sentido común. Sensitive = sensible, que se afecta fácil.",
+        "code": "USO"
+      },
+      {
+        "mal": "I'm boring in this meeting.",
+        "bien": "I'm bored in this meeting.",
+        "porque": "-ing es lo que aburre (the meeting is boring); -ed es cómo te sientes (I'm bored). Si dices 'I'm boring', dices que tú aburres a los demás.",
+        "code": "VOC"
+      },
+      {
+        "mal": "He's very educated: he always says thank you.",
+        "bien": "He's very polite: he always says thank you.",
+        "porque": "Educated = que tiene estudios. 'Educado' (de buenos modales) es polite.",
+        "code": "USO"
+      },
+      {
+        "mal": "Mike is a quite person.",
+        "bien": "Mike is a quiet person.",
+        "porque": "Quiet (callado) y quite (bastante) se parecen pero no son lo mismo. Quite va antes de un adjetivo: quite shy.",
+        "code": "VOC"
+      },
+      {
+        "mal": "My clients are demandings.",
+        "bien": "My clients are demanding.",
+        "porque": "Los adjetivos en inglés nunca llevan -s de plural.",
+        "code": "VOC"
+      },
+      {
+        "mal": "She is very fun; she tells great jokes.",
+        "bien": "She is very funny; she tells great jokes.",
+        "porque": "Funny = gracioso (hace reír). Fun = divertido (lo pasas bien con esa persona o cosa).",
+        "code": "VOC"
+      },
+      {
+        "mal": "He is unhonest and inpatient.",
+        "bien": "He is dishonest and impatient.",
+        "porque": "Cada adjetivo tiene su prefijo negativo fijo: dis-honest, im-patient, un-kind. No se pueden inventar.",
+        "code": "VOC"
+      }
     ],
     "contraste": [
-      { "a": "The meeting was boring.", "b": "I was bored in the meeting.", "nota": "-ing: la cosa aburre · -ed: la persona se siente aburrida." },
-      { "a": "She's a sensible manager: she never spends the whole budget.", "b": "She's a sensitive manager: she notices when the team is tired.", "nota": "sensible = sensato · sensitive = sensible." },
-      { "a": "He's quiet.", "b": "He's quite shy.", "nota": "quiet = callado (adjetivo) · quite = bastante (va antes de otro adjetivo)." },
-      { "a": "I'm sad today.", "b": "I'm a pessimistic person.", "nota": "Estado de ánimo (hoy) vs. carácter (siempre)." }
+      {
+        "a": "The meeting was boring.",
+        "b": "I was bored in the meeting.",
+        "nota": "-ing: la cosa aburre · -ed: la persona se siente aburrida."
+      },
+      {
+        "a": "She's a sensible manager: she never spends the whole budget.",
+        "b": "She's a sensitive manager: she notices when the team is tired.",
+        "nota": "sensible = sensato · sensitive = sensible."
+      },
+      {
+        "a": "He's quiet.",
+        "b": "He's quite shy.",
+        "nota": "quiet = callado (adjetivo) · quite = bastante (va antes de otro adjetivo)."
+      },
+      {
+        "a": "I'm sad today.",
+        "b": "I'm a pessimistic person.",
+        "nota": "Estado de ánimo (hoy) vs. carácter (siempre)."
+      }
     ],
     "frases": [
-      { "en": "hard-working /ˌhɑːrdˈwɜːrkɪŋ/", "es": "trabajador, aplicado", "contexto": "trabajo", "ejemplo": "Camila is the most hard-working person on the team." },
-      { "en": "lazy /ˈleɪzi/", "es": "perezoso, flojo", "contexto": "diario", "ejemplo": "I'm a bit lazy on Sundays; I stay in bed until noon." },
-      { "en": "happy /ˈhæpi/", "es": "feliz, contento", "contexto": "diario", "ejemplo": "The client was happy with the new logo." },
-      { "en": "sad /sæd/", "es": "triste", "contexto": "diario", "ejemplo": "He was sad when his dog died." },
-      { "en": "clever /ˈklevər/", "es": "listo, ingenioso", "contexto": "diario", "ejemplo": "That was a clever idea for the campaign." },
-      { "en": "stupid /ˈstuːpɪd/", "es": "tonto, estúpido", "contexto": "diario", "ejemplo": "It was a stupid mistake: I sent the email to the wrong client." },
-      { "en": "kind /kaɪnd/", "es": "amable, bondadoso", "contexto": "diario", "ejemplo": "My grandmother is very kind to everyone." },
-      { "en": "unkind /ˌʌnˈkaɪnd/", "es": "poco amable, cruel", "contexto": "diario", "ejemplo": "Don't be unkind to your little brother." },
-      { "en": "generous /ˈdʒenərəs/", "es": "generoso", "contexto": "diario", "ejemplo": "Mike is generous: he always pays for the coffee." },
-      { "en": "mean /miːn/", "es": "tacaño; malo, cruel", "contexto": "diario", "ejemplo": "Don't be mean; share your fries." },
-      { "en": "friendly /ˈfrendli/", "es": "amigable, simpático", "contexto": "diario", "ejemplo": "The people in Medellín are very friendly." },
-      { "en": "unfriendly /ʌnˈfrendli/", "es": "antipático, poco amigable", "contexto": "diario", "ejemplo": "The waiter was unfriendly, so we left no tip." },
-      { "en": "interesting /ˈɪntrəstɪŋ/", "es": "interesante", "contexto": "trabajo", "ejemplo": "The brief has some interesting insights about Gen Z." },
-      { "en": "boring /ˈbɔːrɪŋ/", "es": "aburrido (que aburre)", "contexto": "trabajo", "ejemplo": "The status meeting was long and boring." },
-      { "en": "funny /ˈfʌni/", "es": "gracioso, chistoso", "contexto": "diario", "ejemplo": "Andrés is so funny; he imitates the boss perfectly." },
-      { "en": "serious /ˈsɪriəs/", "es": "serio", "contexto": "trabajo", "ejemplo": "The CFO is a serious man; he never jokes in meetings." },
-      { "en": "easy-going /ˌiːziˈɡoʊɪŋ/", "es": "relajado, tranquilo, de trato fácil", "contexto": "diario", "ejemplo": "My wife is easy-going; she never complains about plans." },
-      { "en": "strict /strɪkt/", "es": "estricto", "contexto": "trabajo", "ejemplo": "Our finance director is strict with budgets." },
-      { "en": "talkative /ˈtɔːkətɪv/", "es": "conversador, hablador", "contexto": "diario", "ejemplo": "The taxi driver was really talkative." },
-      { "en": "quiet /ˈkwaɪət/", "es": "callado, tranquilo", "contexto": "diario", "ejemplo": "Sarah is quiet in meetings, but her ideas are great." },
-      { "en": "optimistic /ˌɑːptɪˈmɪstɪk/", "es": "optimista", "contexto": "trabajo", "ejemplo": "I'm optimistic about the pitch next week." },
-      { "en": "pessimistic /ˌpesɪˈmɪstɪk/", "es": "pesimista", "contexto": "trabajo", "ejemplo": "Don't be so pessimistic; the client liked the idea." },
-      { "en": "extrovert /ˈekstrəvɜːrt/", "es": "extrovertido", "contexto": "diario", "ejemplo": "She's an extrovert: she loves parties and new people." },
-      { "en": "shy /ʃaɪ/", "es": "tímido", "contexto": "diario", "ejemplo": "My son is shy with people he doesn't know." },
-      { "en": "organized /ˈɔːrɡənaɪzd/", "es": "organizado", "contexto": "trabajo", "ejemplo": "Laura is very organized: every file has a name and a date." },
-      { "en": "focused /ˈfoʊkəst/", "es": "concentrado, enfocado", "contexto": "trabajo", "ejemplo": "Stay focused; the deadline is tomorrow." },
-      { "en": "selfish /ˈselfɪʃ/", "es": "egoísta", "contexto": "diario", "ejemplo": "It's selfish to take all the credit for the team's work." },
-      { "en": "cheerful /ˈtʃɪrfəl/", "es": "alegre, animado", "contexto": "diario", "ejemplo": "She's always cheerful, even on Monday mornings." },
-      { "en": "bossy /ˈbɔːsi/", "es": "mandón", "contexto": "trabajo", "ejemplo": "My older sister is bossy; she tells everyone what to do." },
-      { "en": "negative /ˈneɡətɪv/", "es": "negativo", "contexto": "trabajo", "ejemplo": "He's negative about every new idea." },
-      { "en": "relaxed /rɪˈlækst/", "es": "relajado", "contexto": "diario", "ejemplo": "I feel relaxed after the gym." },
-      { "en": "logical /ˈlɑːdʒɪkəl/", "es": "lógico, racional", "contexto": "trabajo", "ejemplo": "Our data analyst is very logical; she needs numbers, not feelings." },
-      { "en": "honest /ˈɑːnɪst/", "es": "honesto, sincero", "contexto": "trabajo", "ejemplo": "Be honest with the client: the deadline is not realistic." },
-      { "en": "adventurous /ədˈventʃərəs/", "es": "aventurero, atrevido", "contexto": "diario", "ejemplo": "My cousin is adventurous; she travels alone to Asia." },
-      { "en": "rude /ruːd/", "es": "grosero, maleducado", "contexto": "diario", "ejemplo": "It's rude to check your phone during a presentation." },
-      { "en": "smart /smɑːrt/", "es": "inteligente, listo", "contexto": "trabajo", "ejemplo": "She's smart: she found the problem in five minutes." },
-      { "en": "depressed /dɪˈprest/", "es": "deprimido", "contexto": "diario", "ejemplo": "He felt depressed after he lost his job." },
-      { "en": "impatient /ɪmˈpeɪʃənt/", "es": "impaciente", "contexto": "trabajo", "ejemplo": "The client is impatient; he wants the campaign ready this week." },
-      { "en": "reliable /rɪˈlaɪəbəl/", "es": "confiable, cumplido", "contexto": "trabajo", "ejemplo": "Daniel is reliable: if he says Friday, it's Friday." },
-      { "en": "creative /kriˈeɪtɪv/", "es": "creativo", "contexto": "trabajo", "ejemplo": "We need a creative idea for the launch." },
-      { "en": "ambitious /æmˈbɪʃəs/", "es": "ambicioso", "contexto": "trabajo", "ejemplo": "She's ambitious; she wants to be a director before 30." },
-      { "en": "patient /ˈpeɪʃənt/", "es": "paciente", "contexto": "diario", "ejemplo": "Be patient; the baby will sleep soon." },
-      { "en": "demanding /dɪˈmændɪŋ/", "es": "exigente", "contexto": "trabajo", "ejemplo": "This client is very demanding, but he pays on time." },
-      { "en": "proactive /proʊˈæktɪv/", "es": "proactivo", "contexto": "trabajo", "ejemplo": "Be proactive: send the report before they ask for it." },
-      { "en": "punctual /ˈpʌŋktʃuəl/", "es": "puntual", "contexto": "trabajo", "ejemplo": "Mike is always punctual; he arrives five minutes early." },
-      { "en": "curious /ˈkjʊriəs/", "es": "curioso", "contexto": "diario", "ejemplo": "My daughter is curious about everything." },
-      { "en": "confident /ˈkɑːnfɪdənt/", "es": "seguro de sí mismo", "contexto": "trabajo", "ejemplo": "She sounded confident during the pitch." },
-      { "en": "stubborn /ˈstʌbərn/", "es": "terco, cabezota", "contexto": "diario", "ejemplo": "My dad is stubborn; he never asks for directions." },
-      { "en": "moody /ˈmuːdi/", "es": "de humor cambiante, malgeniado", "contexto": "diario", "ejemplo": "Teenagers are often moody." },
-      { "en": "calm /kɑːm/", "es": "calmado, sereno", "contexto": "trabajo", "ejemplo": "Stay calm when the client is angry." },
-      { "en": "polite /pəˈlaɪt/", "es": "educado, cortés", "contexto": "diario", "ejemplo": "Always be polite to the security guard." },
-      { "en": "thoughtful /ˈθɔːtfəl/", "es": "considerado, atento", "contexto": "diario", "ejemplo": "It was thoughtful of you to bring coffee for everyone." },
-      { "en": "competitive /kəmˈpetətɪv/", "es": "competitivo", "contexto": "trabajo", "ejemplo": "Advertising is a competitive industry." }
+      {
+        "en": "hard-working /ˌhɑːrdˈwɜːrkɪŋ/",
+        "es": "trabajador, aplicado",
+        "contexto": "trabajo",
+        "ejemplo": "Camila is the most hard-working person on the team."
+      },
+      {
+        "en": "lazy /ˈleɪzi/",
+        "es": "perezoso, flojo",
+        "contexto": "diario",
+        "ejemplo": "I'm a bit lazy on Sundays; I stay in bed until noon."
+      },
+      {
+        "en": "happy /ˈhæpi/",
+        "es": "feliz, contento",
+        "contexto": "diario",
+        "ejemplo": "The client was happy with the new logo."
+      },
+      {
+        "en": "sad /sæd/",
+        "es": "triste",
+        "contexto": "diario",
+        "ejemplo": "He was sad when his dog died."
+      },
+      {
+        "en": "clever /ˈklevər/",
+        "es": "listo, ingenioso",
+        "contexto": "diario",
+        "ejemplo": "That was a clever idea for the campaign."
+      },
+      {
+        "en": "stupid /ˈstuːpɪd/",
+        "es": "tonto, estúpido",
+        "contexto": "diario",
+        "ejemplo": "It was a stupid mistake: I sent the email to the wrong client."
+      },
+      {
+        "en": "kind /kaɪnd/",
+        "es": "amable, bondadoso",
+        "contexto": "diario",
+        "ejemplo": "My grandmother is very kind to everyone."
+      },
+      {
+        "en": "unkind /ˌʌnˈkaɪnd/",
+        "es": "poco amable, cruel",
+        "contexto": "diario",
+        "ejemplo": "Don't be unkind to your little brother."
+      },
+      {
+        "en": "generous /ˈdʒenərəs/",
+        "es": "generoso",
+        "contexto": "diario",
+        "ejemplo": "Mike is generous: he always pays for the coffee."
+      },
+      {
+        "en": "mean /miːn/",
+        "es": "tacaño; malo, cruel",
+        "contexto": "diario",
+        "ejemplo": "Don't be mean; share your fries."
+      },
+      {
+        "en": "friendly /ˈfrendli/",
+        "es": "amigable, simpático",
+        "contexto": "diario",
+        "ejemplo": "The people in Medellín are very friendly."
+      },
+      {
+        "en": "unfriendly /ʌnˈfrendli/",
+        "es": "antipático, poco amigable",
+        "contexto": "diario",
+        "ejemplo": "The waiter was unfriendly, so we left no tip."
+      },
+      {
+        "en": "interesting /ˈɪntrəstɪŋ/",
+        "es": "interesante",
+        "contexto": "trabajo",
+        "ejemplo": "The brief has some interesting insights about Gen Z."
+      },
+      {
+        "en": "boring /ˈbɔːrɪŋ/",
+        "es": "aburrido (que aburre)",
+        "contexto": "trabajo",
+        "ejemplo": "The status meeting was long and boring."
+      },
+      {
+        "en": "funny /ˈfʌni/",
+        "es": "gracioso, chistoso",
+        "contexto": "diario",
+        "ejemplo": "Andrés is so funny; he imitates the boss perfectly."
+      },
+      {
+        "en": "serious /ˈsɪriəs/",
+        "es": "serio",
+        "contexto": "trabajo",
+        "ejemplo": "The CFO is a serious man; he never jokes in meetings."
+      },
+      {
+        "en": "easy-going /ˌiːziˈɡoʊɪŋ/",
+        "es": "relajado, tranquilo, de trato fácil",
+        "contexto": "diario",
+        "ejemplo": "My wife is easy-going; she never complains about plans."
+      },
+      {
+        "en": "strict /strɪkt/",
+        "es": "estricto",
+        "contexto": "trabajo",
+        "ejemplo": "Our finance director is strict with budgets."
+      },
+      {
+        "en": "talkative /ˈtɔːkətɪv/",
+        "es": "conversador, hablador",
+        "contexto": "diario",
+        "ejemplo": "The taxi driver was really talkative."
+      },
+      {
+        "en": "quiet /ˈkwaɪət/",
+        "es": "callado, tranquilo",
+        "contexto": "diario",
+        "ejemplo": "Sarah is quiet in meetings, but her ideas are great."
+      },
+      {
+        "en": "optimistic /ˌɑːptɪˈmɪstɪk/",
+        "es": "optimista",
+        "contexto": "trabajo",
+        "ejemplo": "I'm optimistic about the pitch next week."
+      },
+      {
+        "en": "pessimistic /ˌpesɪˈmɪstɪk/",
+        "es": "pesimista",
+        "contexto": "trabajo",
+        "ejemplo": "Don't be so pessimistic; the client liked the idea."
+      },
+      {
+        "en": "extrovert /ˈekstrəvɜːrt/",
+        "es": "extrovertido",
+        "contexto": "diario",
+        "ejemplo": "She's an extrovert: she loves parties and new people."
+      },
+      {
+        "en": "shy /ʃaɪ/",
+        "es": "tímido",
+        "contexto": "diario",
+        "ejemplo": "My son is shy with people he doesn't know."
+      },
+      {
+        "en": "organized /ˈɔːrɡənaɪzd/",
+        "es": "organizado",
+        "contexto": "trabajo",
+        "ejemplo": "Laura is very organized: every file has a name and a date."
+      },
+      {
+        "en": "focused /ˈfoʊkəst/",
+        "es": "concentrado, enfocado",
+        "contexto": "trabajo",
+        "ejemplo": "Stay focused; the deadline is tomorrow."
+      },
+      {
+        "en": "selfish /ˈselfɪʃ/",
+        "es": "egoísta",
+        "contexto": "diario",
+        "ejemplo": "It's selfish to take all the credit for the team's work."
+      },
+      {
+        "en": "cheerful /ˈtʃɪrfəl/",
+        "es": "alegre, animado",
+        "contexto": "diario",
+        "ejemplo": "She's always cheerful, even on Monday mornings."
+      },
+      {
+        "en": "bossy /ˈbɔːsi/",
+        "es": "mandón",
+        "contexto": "trabajo",
+        "ejemplo": "My older sister is bossy; she tells everyone what to do."
+      },
+      {
+        "en": "negative /ˈneɡətɪv/",
+        "es": "negativo",
+        "contexto": "trabajo",
+        "ejemplo": "He's negative about every new idea."
+      },
+      {
+        "en": "relaxed /rɪˈlækst/",
+        "es": "relajado",
+        "contexto": "diario",
+        "ejemplo": "I feel relaxed after the gym."
+      },
+      {
+        "en": "logical /ˈlɑːdʒɪkəl/",
+        "es": "lógico, racional",
+        "contexto": "trabajo",
+        "ejemplo": "Our data analyst is very logical; she needs numbers, not feelings."
+      },
+      {
+        "en": "honest /ˈɑːnɪst/",
+        "es": "honesto, sincero",
+        "contexto": "trabajo",
+        "ejemplo": "Be honest with the client: the deadline is not realistic."
+      },
+      {
+        "en": "adventurous /ədˈventʃərəs/",
+        "es": "aventurero, atrevido",
+        "contexto": "diario",
+        "ejemplo": "My cousin is adventurous; she travels alone to Asia."
+      },
+      {
+        "en": "rude /ruːd/",
+        "es": "grosero, maleducado",
+        "contexto": "diario",
+        "ejemplo": "It's rude to check your phone during a presentation."
+      },
+      {
+        "en": "smart /smɑːrt/",
+        "es": "inteligente, listo",
+        "contexto": "trabajo",
+        "ejemplo": "She's smart: she found the problem in five minutes."
+      },
+      {
+        "en": "depressed /dɪˈprest/",
+        "es": "deprimido",
+        "contexto": "diario",
+        "ejemplo": "He felt depressed after he lost his job."
+      },
+      {
+        "en": "impatient /ɪmˈpeɪʃənt/",
+        "es": "impaciente",
+        "contexto": "trabajo",
+        "ejemplo": "The client is impatient; he wants the campaign ready this week."
+      },
+      {
+        "en": "reliable /rɪˈlaɪəbəl/",
+        "es": "confiable, cumplido",
+        "contexto": "trabajo",
+        "ejemplo": "Daniel is reliable: if he says Friday, it's Friday."
+      },
+      {
+        "en": "creative /kriˈeɪtɪv/",
+        "es": "creativo",
+        "contexto": "trabajo",
+        "ejemplo": "We need a creative idea for the launch."
+      },
+      {
+        "en": "ambitious /æmˈbɪʃəs/",
+        "es": "ambicioso",
+        "contexto": "trabajo",
+        "ejemplo": "She's ambitious; she wants to be a director before 30."
+      },
+      {
+        "en": "patient /ˈpeɪʃənt/",
+        "es": "paciente",
+        "contexto": "diario",
+        "ejemplo": "Be patient; the baby will sleep soon."
+      },
+      {
+        "en": "demanding /dɪˈmændɪŋ/",
+        "es": "exigente",
+        "contexto": "trabajo",
+        "ejemplo": "This client is very demanding, but he pays on time."
+      },
+      {
+        "en": "proactive /proʊˈæktɪv/",
+        "es": "proactivo",
+        "contexto": "trabajo",
+        "ejemplo": "Be proactive: send the report before they ask for it."
+      },
+      {
+        "en": "punctual /ˈpʌŋktʃuəl/",
+        "es": "puntual",
+        "contexto": "trabajo",
+        "ejemplo": "Mike is always punctual; he arrives five minutes early."
+      },
+      {
+        "en": "curious /ˈkjʊriəs/",
+        "es": "curioso",
+        "contexto": "diario",
+        "ejemplo": "My daughter is curious about everything."
+      },
+      {
+        "en": "confident /ˈkɑːnfɪdənt/",
+        "es": "seguro de sí mismo",
+        "contexto": "trabajo",
+        "ejemplo": "She sounded confident during the pitch."
+      },
+      {
+        "en": "stubborn /ˈstʌbərn/",
+        "es": "terco, cabezota",
+        "contexto": "diario",
+        "ejemplo": "My dad is stubborn; he never asks for directions."
+      },
+      {
+        "en": "moody /ˈmuːdi/",
+        "es": "de humor cambiante, malgeniado",
+        "contexto": "diario",
+        "ejemplo": "Teenagers are often moody."
+      },
+      {
+        "en": "calm /kɑːm/",
+        "es": "calmado, sereno",
+        "contexto": "trabajo",
+        "ejemplo": "Stay calm when the client is angry."
+      },
+      {
+        "en": "polite /pəˈlaɪt/",
+        "es": "educado, cortés",
+        "contexto": "diario",
+        "ejemplo": "Always be polite to the security guard."
+      },
+      {
+        "en": "thoughtful /ˈθɔːtfəl/",
+        "es": "considerado, atento",
+        "contexto": "diario",
+        "ejemplo": "It was thoughtful of you to bring coffee for everyone."
+      },
+      {
+        "en": "competitive /kəmˈpetətɪv/",
+        "es": "competitivo",
+        "contexto": "trabajo",
+        "ejemplo": "Advertising is a competitive industry."
+      }
     ],
     "tip": "Para cada persona de tu vida, piensa en tres adjetivos y uno que NO es: 'My boss is organized, demanding and honest, but not very patient.' Así practicas antónimos sin lista."
   },
+  "palabras": [
+    {
+      "id": "friendly",
+      "en": "friendly",
+      "ipa": "/ˈfrendli/",
+      "es": "amigable, simpático",
+      "clase": "adjetivo",
+      "orden": 1,
+      "opuesto": "unfriendly",
+      "comparativo": "friendlier",
+      "superlativo": "the friendliest",
+      "ejemplo": "The people in Medellín are very friendly.",
+      "hueco": {
+        "frase": "The people in Medellín are very ___. (amigables)",
+        "respuestas": [
+          "friendly"
+        ]
+      }
+    },
+    {
+      "id": "hard-working",
+      "en": "hard-working",
+      "ipa": "/ˌhɑːrdˈwɜːrkɪŋ/",
+      "es": "trabajador, aplicado",
+      "clase": "adjetivo",
+      "orden": 2,
+      "opuesto": "lazy",
+      "comparativo": "more hard-working",
+      "superlativo": "the most hard-working",
+      "ejemplo": "Camila is the most hard-working person on the team.",
+      "hueco": {
+        "frase": "Camila is the most ___ person on the team. (trabajadora)",
+        "respuestas": [
+          "hard-working",
+          "hardworking"
+        ]
+      }
+    },
+    {
+      "id": "lazy",
+      "en": "lazy",
+      "ipa": "/ˈleɪzi/",
+      "es": "perezoso, flojo",
+      "clase": "adjetivo",
+      "orden": 3,
+      "opuesto": "hard-working",
+      "comparativo": "lazier",
+      "superlativo": "the laziest",
+      "ejemplo": "I'm a bit lazy on Sundays; I stay in bed until noon.",
+      "hueco": {
+        "frase": "I'm a bit ___ on Sundays; I stay in bed until noon. (perezoso)",
+        "respuestas": [
+          "lazy"
+        ]
+      }
+    },
+    {
+      "id": "kind",
+      "en": "kind",
+      "ipa": "/kaɪnd/",
+      "es": "amable, bondadoso",
+      "clase": "adjetivo",
+      "orden": 4,
+      "opuesto": "unkind",
+      "comparativo": "kinder",
+      "superlativo": "the kindest",
+      "ejemplo": "My grandmother is very kind to everyone.",
+      "hueco": {
+        "frase": "My grandmother is very ___ to everyone. (amable)",
+        "respuestas": [
+          "kind"
+        ]
+      },
+      "nota": "kind to someone · It was kind of you to help."
+    },
+    {
+      "id": "funny",
+      "en": "funny",
+      "ipa": "/ˈfʌni/",
+      "es": "gracioso, chistoso",
+      "clase": "adjetivo",
+      "orden": 5,
+      "opuesto": "serious",
+      "comparativo": "funnier",
+      "superlativo": "the funniest",
+      "ejemplo": "Andrés is so funny; he imitates the boss perfectly.",
+      "hueco": {
+        "frase": "Andrés is so ___; he imitates the boss perfectly. (gracioso)",
+        "respuestas": [
+          "funny"
+        ]
+      },
+      "nota": "Funny = gracioso. Fun = divertido (a fun weekend)."
+    },
+    {
+      "id": "serious",
+      "en": "serious",
+      "ipa": "/ˈsɪriəs/",
+      "es": "serio",
+      "clase": "adjetivo",
+      "orden": 6,
+      "opuesto": "funny",
+      "comparativo": "more serious",
+      "superlativo": "the most serious",
+      "ejemplo": "The CFO is a serious man; he never jokes in meetings.",
+      "hueco": {
+        "frase": "The CFO is a ___ man; he never jokes in meetings. (serio)",
+        "respuestas": [
+          "serious"
+        ]
+      }
+    },
+    {
+      "id": "shy",
+      "en": "shy",
+      "ipa": "/ʃaɪ/",
+      "es": "tímido",
+      "clase": "adjetivo",
+      "orden": 7,
+      "opuesto": "extrovert",
+      "comparativo": "shyer",
+      "superlativo": "the shyest",
+      "ejemplo": "My son is shy with people he doesn't know.",
+      "hueco": {
+        "frase": "My son is ___ with people he doesn't know. (tímido)",
+        "respuestas": [
+          "shy"
+        ]
+      }
+    },
+    {
+      "id": "quiet",
+      "en": "quiet",
+      "ipa": "/ˈkwaɪət/",
+      "es": "callado, tranquilo",
+      "clase": "adjetivo",
+      "orden": 8,
+      "opuesto": "talkative",
+      "comparativo": "quieter",
+      "superlativo": "the quietest",
+      "ejemplo": "Sarah is quiet in meetings, but her ideas are great.",
+      "hueco": {
+        "frase": "Sarah is ___ in meetings, but her ideas are great. (callada)",
+        "respuestas": [
+          "quiet"
+        ]
+      },
+      "nota": "Ojo: quiet (callado) no es quite (bastante)."
+    },
+    {
+      "id": "talkative",
+      "en": "talkative",
+      "ipa": "/ˈtɔːkətɪv/",
+      "es": "conversador, hablador",
+      "clase": "adjetivo",
+      "orden": 9,
+      "opuesto": "quiet",
+      "comparativo": "more talkative",
+      "superlativo": "the most talkative",
+      "ejemplo": "The taxi driver was really talkative.",
+      "hueco": {
+        "frase": "The taxi driver was really ___. (conversador)",
+        "respuestas": [
+          "talkative"
+        ]
+      }
+    },
+    {
+      "id": "organized",
+      "en": "organized",
+      "ipa": "/ˈɔːrɡənaɪzd/",
+      "es": "organizado",
+      "clase": "adjetivo",
+      "orden": 10,
+      "opuesto": "disorganized",
+      "comparativo": "more organized",
+      "superlativo": "the most organized",
+      "ejemplo": "Laura is very organized: every file has a name and a date.",
+      "hueco": {
+        "frase": "Laura is very ___: every file has a name and a date. (organizada)",
+        "respuestas": [
+          "organized",
+          "organised"
+        ]
+      }
+    },
+    {
+      "id": "reliable",
+      "en": "reliable",
+      "ipa": "/rɪˈlaɪəbəl/",
+      "es": "confiable, cumplido",
+      "clase": "adjetivo",
+      "orden": 11,
+      "opuesto": "unreliable",
+      "comparativo": "more reliable",
+      "superlativo": "the most reliable",
+      "ejemplo": "Daniel is reliable: if he says Friday, it's Friday.",
+      "hueco": {
+        "frase": "Daniel is ___: if he says Friday, it's Friday. (confiable)",
+        "respuestas": [
+          "reliable"
+        ]
+      }
+    },
+    {
+      "id": "creative",
+      "en": "creative",
+      "ipa": "/kriˈeɪtɪv/",
+      "es": "creativo",
+      "clase": "adjetivo",
+      "orden": 12,
+      "comparativo": "more creative",
+      "superlativo": "the most creative",
+      "ejemplo": "We need a creative idea for the launch.",
+      "hueco": {
+        "frase": "We need a ___ idea for the launch. (creativa)",
+        "respuestas": [
+          "creative"
+        ]
+      }
+    },
+    {
+      "id": "patient",
+      "en": "patient",
+      "ipa": "/ˈpeɪʃənt/",
+      "es": "paciente",
+      "clase": "adjetivo",
+      "orden": 13,
+      "opuesto": "impatient",
+      "comparativo": "more patient",
+      "superlativo": "the most patient",
+      "ejemplo": "Be patient; the baby will sleep soon.",
+      "hueco": {
+        "frase": "Be ___; the baby will sleep soon. (paciente)",
+        "respuestas": [
+          "patient"
+        ]
+      },
+      "nota": "patient with someone"
+    },
+    {
+      "id": "impatient",
+      "en": "impatient",
+      "ipa": "/ɪmˈpeɪʃənt/",
+      "es": "impaciente",
+      "clase": "adjetivo",
+      "orden": 14,
+      "opuesto": "patient",
+      "comparativo": "more impatient",
+      "superlativo": "the most impatient",
+      "ejemplo": "The client is impatient; he wants the campaign ready this week.",
+      "hueco": {
+        "frase": "The client is ___; he wants the campaign ready this week. (impaciente)",
+        "respuestas": [
+          "impatient"
+        ]
+      },
+      "nota": "im- + patient. No existe 'inpatient' como adjetivo."
+    },
+    {
+      "id": "demanding",
+      "en": "demanding",
+      "ipa": "/dɪˈmændɪŋ/",
+      "es": "exigente",
+      "clase": "adjetivo",
+      "orden": 15,
+      "opuesto": "easy-going",
+      "comparativo": "more demanding",
+      "superlativo": "the most demanding",
+      "ejemplo": "This client is very demanding, but he pays on time.",
+      "hueco": {
+        "frase": "This client is very ___, but he pays on time. (exigente)",
+        "respuestas": [
+          "demanding"
+        ]
+      }
+    },
+    {
+      "id": "honest",
+      "en": "honest",
+      "ipa": "/ˈɑːnɪst/",
+      "es": "honesto, sincero",
+      "clase": "adjetivo",
+      "orden": 16,
+      "opuesto": "dishonest",
+      "comparativo": "more honest",
+      "superlativo": "the most honest",
+      "ejemplo": "Be honest with the client: the deadline is not realistic.",
+      "hueco": {
+        "frase": "Be ___ with the client: the deadline is not realistic. (honesto)",
+        "respuestas": [
+          "honest"
+        ]
+      },
+      "nota": "La h no suena: /ˈɑːnɪst/. honest with someone"
+    },
+    {
+      "id": "smart",
+      "en": "smart",
+      "ipa": "/smɑːrt/",
+      "es": "inteligente, listo",
+      "clase": "adjetivo",
+      "orden": 17,
+      "opuesto": "stupid",
+      "comparativo": "smarter",
+      "superlativo": "the smartest",
+      "ejemplo": "She's smart: she found the problem in five minutes.",
+      "hueco": {
+        "frase": "She's ___: she found the problem in five minutes. (inteligente)",
+        "respuestas": [
+          "smart"
+        ]
+      }
+    },
+    {
+      "id": "clever",
+      "en": "clever",
+      "ipa": "/ˈklevər/",
+      "es": "listo, ingenioso",
+      "clase": "adjetivo",
+      "orden": 18,
+      "opuesto": "stupid",
+      "comparativo": "more clever",
+      "superlativo": "the most clever",
+      "ejemplo": "That was a clever idea for the campaign.",
+      "hueco": {
+        "frase": "That was a ___ idea for the campaign. (ingeniosa)",
+        "respuestas": [
+          "clever"
+        ]
+      }
+    },
+    {
+      "id": "stupid",
+      "en": "stupid",
+      "ipa": "/ˈstuːpɪd/",
+      "es": "tonto, estúpido",
+      "clase": "adjetivo",
+      "orden": 19,
+      "opuesto": "clever",
+      "comparativo": "more stupid",
+      "superlativo": "the most stupid",
+      "ejemplo": "It was a stupid mistake: I sent the email to the wrong client.",
+      "hueco": {
+        "frase": "It was a ___ mistake: I sent the email to the wrong client. (tonto)",
+        "respuestas": [
+          "stupid"
+        ]
+      }
+    },
+    {
+      "id": "happy",
+      "en": "happy",
+      "ipa": "/ˈhæpi/",
+      "es": "feliz, contento",
+      "clase": "adjetivo",
+      "orden": 20,
+      "opuesto": "sad",
+      "comparativo": "happier",
+      "superlativo": "the happiest",
+      "ejemplo": "The client was happy with the new logo.",
+      "hueco": {
+        "frase": "The client was ___ with the new logo. (contento)",
+        "respuestas": [
+          "happy"
+        ]
+      },
+      "nota": "happy with something · happy about the news"
+    },
+    {
+      "id": "sad",
+      "en": "sad",
+      "ipa": "/sæd/",
+      "es": "triste",
+      "clase": "adjetivo",
+      "orden": 21,
+      "opuesto": "happy",
+      "comparativo": "sadder",
+      "superlativo": "the saddest",
+      "ejemplo": "He was sad when his dog died.",
+      "hueco": {
+        "frase": "He was ___ when his dog died. (triste)",
+        "respuestas": [
+          "sad"
+        ]
+      }
+    },
+    {
+      "id": "interesting",
+      "en": "interesting",
+      "ipa": "/ˈɪntrəstɪŋ/",
+      "es": "interesante",
+      "clase": "adjetivo",
+      "orden": 22,
+      "opuesto": "boring",
+      "comparativo": "more interesting",
+      "superlativo": "the most interesting",
+      "ejemplo": "The brief has some interesting insights about Gen Z.",
+      "hueco": {
+        "frase": "The brief has some ___ insights about Gen Z. (interesantes)",
+        "respuestas": [
+          "interesting"
+        ]
+      },
+      "nota": "-ing describe la cosa; -ed cómo te sientes: I'm interested."
+    },
+    {
+      "id": "boring",
+      "en": "boring",
+      "ipa": "/ˈbɔːrɪŋ/",
+      "es": "aburrido (que aburre)",
+      "clase": "adjetivo",
+      "orden": 23,
+      "opuesto": "interesting",
+      "comparativo": "more boring",
+      "superlativo": "the most boring",
+      "ejemplo": "The status meeting was long and boring.",
+      "hueco": {
+        "frase": "The status meeting was long and ___. (aburrida)",
+        "respuestas": [
+          "boring"
+        ]
+      },
+      "nota": "a boring meeting (aburre) · I'm bored (estoy aburrido)"
+    },
+    {
+      "id": "polite",
+      "en": "polite",
+      "ipa": "/pəˈlaɪt/",
+      "es": "educado, cortés",
+      "clase": "adjetivo",
+      "orden": 24,
+      "opuesto": "rude",
+      "comparativo": "more polite",
+      "superlativo": "the most polite",
+      "ejemplo": "Always be polite to the security guard.",
+      "hueco": {
+        "frase": "Always be ___ to the security guard. (educado)",
+        "respuestas": [
+          "polite"
+        ]
+      },
+      "nota": "Educado = polite, no 'educated' (con estudios)."
+    },
+    {
+      "id": "rude",
+      "en": "rude",
+      "ipa": "/ruːd/",
+      "es": "grosero, maleducado",
+      "clase": "adjetivo",
+      "orden": 25,
+      "opuesto": "polite",
+      "comparativo": "ruder",
+      "superlativo": "the rudest",
+      "ejemplo": "It's rude to check your phone during a presentation.",
+      "hueco": {
+        "frase": "It's ___ to check your phone during a presentation. (grosero)",
+        "respuestas": [
+          "rude"
+        ]
+      }
+    },
+    {
+      "id": "generous",
+      "en": "generous",
+      "ipa": "/ˈdʒenərəs/",
+      "es": "generoso",
+      "clase": "adjetivo",
+      "orden": 26,
+      "opuesto": "mean",
+      "comparativo": "more generous",
+      "superlativo": "the most generous",
+      "ejemplo": "Mike is generous: he always pays for the coffee.",
+      "hueco": {
+        "frase": "Mike is ___: he always pays for the coffee. (generoso)",
+        "respuestas": [
+          "generous"
+        ]
+      }
+    },
+    {
+      "id": "mean",
+      "en": "mean",
+      "ipa": "/miːn/",
+      "es": "tacaño; malo, cruel",
+      "clase": "adjetivo",
+      "orden": 27,
+      "opuesto": "generous",
+      "comparativo": "meaner",
+      "superlativo": "the meanest",
+      "ejemplo": "Don't be mean; share your fries.",
+      "hueco": {
+        "frase": "Don't be ___; share your fries. (tacaño)",
+        "respuestas": [
+          "mean"
+        ]
+      },
+      "nota": "mean = tacaño o cruel. El verbo mean es otra cosa: What does it mean?"
+    },
+    {
+      "id": "strict",
+      "en": "strict",
+      "ipa": "/strɪkt/",
+      "es": "estricto",
+      "clase": "adjetivo",
+      "orden": 28,
+      "opuesto": "easy-going",
+      "comparativo": "stricter",
+      "superlativo": "the strictest",
+      "ejemplo": "Our finance director is strict with budgets.",
+      "hueco": {
+        "frase": "Our finance director is ___ with budgets. (estricto)",
+        "respuestas": [
+          "strict"
+        ]
+      }
+    },
+    {
+      "id": "easy-going",
+      "en": "easy-going",
+      "ipa": "/ˌiːziˈɡoʊɪŋ/",
+      "es": "relajado, tranquilo, de trato fácil",
+      "clase": "adjetivo",
+      "orden": 29,
+      "opuesto": "strict",
+      "comparativo": "more easy-going",
+      "superlativo": "the most easy-going",
+      "ejemplo": "My wife is easy-going; she never complains about plans.",
+      "hueco": {
+        "frase": "My wife is ___; she never complains about plans. (de trato fácil)",
+        "respuestas": [
+          "easy-going",
+          "easygoing"
+        ]
+      }
+    },
+    {
+      "id": "optimistic",
+      "en": "optimistic",
+      "ipa": "/ˌɑːptɪˈmɪstɪk/",
+      "es": "optimista",
+      "clase": "adjetivo",
+      "orden": 30,
+      "opuesto": "pessimistic",
+      "comparativo": "more optimistic",
+      "superlativo": "the most optimistic",
+      "ejemplo": "I'm optimistic about the pitch next week.",
+      "hueco": {
+        "frase": "I'm ___ about the pitch next week. (optimista)",
+        "respuestas": [
+          "optimistic"
+        ]
+      },
+      "nota": "optimistic about something"
+    },
+    {
+      "id": "pessimistic",
+      "en": "pessimistic",
+      "ipa": "/ˌpesɪˈmɪstɪk/",
+      "es": "pesimista",
+      "clase": "adjetivo",
+      "orden": 31,
+      "opuesto": "optimistic",
+      "comparativo": "more pessimistic",
+      "superlativo": "the most pessimistic",
+      "ejemplo": "Don't be so pessimistic; the client liked the idea.",
+      "hueco": {
+        "frase": "Don't be so ___; the client liked the idea. (pesimista)",
+        "respuestas": [
+          "pessimistic"
+        ]
+      }
+    },
+    {
+      "id": "extrovert",
+      "en": "extrovert",
+      "ipa": "/ˈekstrəvɜːrt/",
+      "es": "extrovertido",
+      "clase": "adjetivo",
+      "orden": 32,
+      "opuesto": "shy",
+      "ejemplo": "She's an extrovert: she loves parties and new people.",
+      "hueco": {
+        "frase": "She's an ___: she loves parties and new people. (extrovertida)",
+        "respuestas": [
+          "extrovert"
+        ]
+      },
+      "nota": "Suele ir como sustantivo: an extrovert / an introvert. El adjetivo es extroverted."
+    },
+    {
+      "id": "confident",
+      "en": "confident",
+      "ipa": "/ˈkɑːnfɪdənt/",
+      "es": "seguro de sí mismo",
+      "clase": "adjetivo",
+      "orden": 33,
+      "opuesto": "insecure",
+      "comparativo": "more confident",
+      "superlativo": "the most confident",
+      "ejemplo": "She sounded confident during the pitch.",
+      "hueco": {
+        "frase": "She sounded ___ during the pitch. (segura de sí misma)",
+        "respuestas": [
+          "confident"
+        ]
+      },
+      "nota": "Confident = seguro de sí. Confidential = confidencial."
+    },
+    {
+      "id": "calm",
+      "en": "calm",
+      "ipa": "/kɑːm/",
+      "es": "calmado, sereno",
+      "clase": "adjetivo",
+      "orden": 34,
+      "opuesto": "nervous",
+      "comparativo": "calmer",
+      "superlativo": "the calmest",
+      "ejemplo": "Stay calm when the client is angry.",
+      "hueco": {
+        "frase": "Stay ___ when the client is angry. (calmado)",
+        "respuestas": [
+          "calm"
+        ]
+      },
+      "nota": "La l no suena: /kɑːm/"
+    },
+    {
+      "id": "relaxed",
+      "en": "relaxed",
+      "ipa": "/rɪˈlækst/",
+      "es": "relajado",
+      "clase": "adjetivo",
+      "orden": 35,
+      "opuesto": "stressed",
+      "comparativo": "more relaxed",
+      "superlativo": "the most relaxed",
+      "ejemplo": "I feel relaxed after the gym.",
+      "hueco": {
+        "frase": "I feel ___ after the gym. (relajado)",
+        "respuestas": [
+          "relaxed"
+        ]
+      },
+      "nota": "Estado, no carácter: I'm relaxed today."
+    },
+    {
+      "id": "focused",
+      "en": "focused",
+      "ipa": "/ˈfoʊkəst/",
+      "es": "concentrado, enfocado",
+      "clase": "adjetivo",
+      "orden": 36,
+      "opuesto": "distracted",
+      "comparativo": "more focused",
+      "superlativo": "the most focused",
+      "ejemplo": "Stay focused; the deadline is tomorrow.",
+      "hueco": {
+        "frase": "Stay ___; the deadline is tomorrow. (concentrado)",
+        "respuestas": [
+          "focused"
+        ]
+      },
+      "nota": "focused on something"
+    },
+    {
+      "id": "punctual",
+      "en": "punctual",
+      "ipa": "/ˈpʌŋktʃuəl/",
+      "es": "puntual",
+      "clase": "adjetivo",
+      "orden": 37,
+      "opuesto": "late",
+      "comparativo": "more punctual",
+      "superlativo": "the most punctual",
+      "ejemplo": "Mike is always punctual; he arrives five minutes early.",
+      "hueco": {
+        "frase": "Mike is always ___; he arrives five minutes early. (puntual)",
+        "respuestas": [
+          "punctual"
+        ]
+      }
+    },
+    {
+      "id": "proactive",
+      "en": "proactive",
+      "ipa": "/proʊˈæktɪv/",
+      "es": "proactivo",
+      "clase": "adjetivo",
+      "orden": 38,
+      "opuesto": "passive",
+      "comparativo": "more proactive",
+      "superlativo": "the most proactive",
+      "ejemplo": "Be proactive: send the report before they ask for it.",
+      "hueco": {
+        "frase": "Be ___: send the report before they ask for it. (proactivo)",
+        "respuestas": [
+          "proactive"
+        ]
+      }
+    },
+    {
+      "id": "ambitious",
+      "en": "ambitious",
+      "ipa": "/æmˈbɪʃəs/",
+      "es": "ambicioso",
+      "clase": "adjetivo",
+      "orden": 39,
+      "comparativo": "more ambitious",
+      "superlativo": "the most ambitious",
+      "ejemplo": "She's ambitious; she wants to be a director before 30.",
+      "hueco": {
+        "frase": "She's ___; she wants to be a director before 30. (ambiciosa)",
+        "respuestas": [
+          "ambitious"
+        ]
+      }
+    },
+    {
+      "id": "competitive",
+      "en": "competitive",
+      "ipa": "/kəmˈpetətɪv/",
+      "es": "competitivo",
+      "clase": "adjetivo",
+      "orden": 40,
+      "comparativo": "more competitive",
+      "superlativo": "the most competitive",
+      "ejemplo": "Advertising is a competitive industry.",
+      "hueco": {
+        "frase": "Advertising is a ___ industry. (competitiva)",
+        "respuestas": [
+          "competitive"
+        ]
+      }
+    },
+    {
+      "id": "curious",
+      "en": "curious",
+      "ipa": "/ˈkjʊriəs/",
+      "es": "curioso",
+      "clase": "adjetivo",
+      "orden": 41,
+      "comparativo": "more curious",
+      "superlativo": "the most curious",
+      "ejemplo": "My daughter is curious about everything.",
+      "hueco": {
+        "frase": "My daughter is ___ about everything. (curiosa)",
+        "respuestas": [
+          "curious"
+        ]
+      },
+      "nota": "curious about something"
+    },
+    {
+      "id": "stubborn",
+      "en": "stubborn",
+      "ipa": "/ˈstʌbərn/",
+      "es": "terco, cabezota",
+      "clase": "adjetivo",
+      "orden": 42,
+      "opuesto": "flexible",
+      "comparativo": "more stubborn",
+      "superlativo": "the most stubborn",
+      "ejemplo": "My dad is stubborn; he never asks for directions.",
+      "hueco": {
+        "frase": "My dad is ___; he never asks for directions. (terco)",
+        "respuestas": [
+          "stubborn"
+        ]
+      }
+    },
+    {
+      "id": "bossy",
+      "en": "bossy",
+      "ipa": "/ˈbɔːsi/",
+      "es": "mandón",
+      "clase": "adjetivo",
+      "orden": 43,
+      "opuesto": "easy-going",
+      "comparativo": "bossier",
+      "superlativo": "the bossiest",
+      "ejemplo": "My older sister is bossy; she tells everyone what to do.",
+      "hueco": {
+        "frase": "My older sister is ___; she tells everyone what to do. (mandona)",
+        "respuestas": [
+          "bossy"
+        ]
+      }
+    },
+    {
+      "id": "moody",
+      "en": "moody",
+      "ipa": "/ˈmuːdi/",
+      "es": "de humor cambiante, malgeniado",
+      "clase": "adjetivo",
+      "orden": 44,
+      "opuesto": "easy-going",
+      "comparativo": "moodier",
+      "superlativo": "the moodiest",
+      "ejemplo": "Teenagers are often moody.",
+      "hueco": {
+        "frase": "Teenagers are often ___. (de humor cambiante)",
+        "respuestas": [
+          "moody"
+        ]
+      },
+      "nota": "Suele ser estado: I'm a bit moody on Mondays."
+    },
+    {
+      "id": "cheerful",
+      "en": "cheerful",
+      "ipa": "/ˈtʃɪrfəl/",
+      "es": "alegre, animado",
+      "clase": "adjetivo",
+      "orden": 45,
+      "opuesto": "sad",
+      "comparativo": "more cheerful",
+      "superlativo": "the most cheerful",
+      "ejemplo": "She's always cheerful, even on Monday mornings.",
+      "hueco": {
+        "frase": "She's always ___, even on Monday mornings. (alegre)",
+        "respuestas": [
+          "cheerful"
+        ]
+      }
+    },
+    {
+      "id": "selfish",
+      "en": "selfish",
+      "ipa": "/ˈselfɪʃ/",
+      "es": "egoísta",
+      "clase": "adjetivo",
+      "orden": 46,
+      "opuesto": "generous",
+      "comparativo": "more selfish",
+      "superlativo": "the most selfish",
+      "ejemplo": "It's selfish to take all the credit for the team's work.",
+      "hueco": {
+        "frase": "It's ___ to take all the credit for the team's work. (egoísta)",
+        "respuestas": [
+          "selfish"
+        ]
+      }
+    },
+    {
+      "id": "thoughtful",
+      "en": "thoughtful",
+      "ipa": "/ˈθɔːtfəl/",
+      "es": "considerado, atento",
+      "clase": "adjetivo",
+      "orden": 47,
+      "opuesto": "selfish",
+      "comparativo": "more thoughtful",
+      "superlativo": "the most thoughtful",
+      "ejemplo": "It was thoughtful of you to bring coffee for everyone.",
+      "hueco": {
+        "frase": "It was ___ of you to bring coffee for everyone. (considerado)",
+        "respuestas": [
+          "thoughtful"
+        ]
+      }
+    },
+    {
+      "id": "negative",
+      "en": "negative",
+      "ipa": "/ˈneɡətɪv/",
+      "es": "negativo",
+      "clase": "adjetivo",
+      "orden": 48,
+      "opuesto": "positive",
+      "comparativo": "more negative",
+      "superlativo": "the most negative",
+      "ejemplo": "He's negative about every new idea.",
+      "hueco": {
+        "frase": "He's ___ about every new idea. (negativo)",
+        "respuestas": [
+          "negative"
+        ]
+      }
+    },
+    {
+      "id": "logical",
+      "en": "logical",
+      "ipa": "/ˈlɑːdʒɪkəl/",
+      "es": "lógico, racional",
+      "clase": "adjetivo",
+      "orden": 49,
+      "opuesto": "emotional",
+      "comparativo": "more logical",
+      "superlativo": "the most logical",
+      "ejemplo": "Our data analyst is very logical; she needs numbers, not feelings.",
+      "hueco": {
+        "frase": "Our data analyst is very ___; she needs numbers, not feelings. (lógica)",
+        "respuestas": [
+          "logical"
+        ]
+      }
+    },
+    {
+      "id": "adventurous",
+      "en": "adventurous",
+      "ipa": "/ədˈventʃərəs/",
+      "es": "aventurero, atrevido",
+      "clase": "adjetivo",
+      "orden": 50,
+      "opuesto": "cautious",
+      "comparativo": "more adventurous",
+      "superlativo": "the most adventurous",
+      "ejemplo": "My cousin is adventurous; she travels alone to Asia.",
+      "hueco": {
+        "frase": "My cousin is ___; she travels alone to Asia. (aventurera)",
+        "respuestas": [
+          "adventurous"
+        ]
+      }
+    },
+    {
+      "id": "unkind",
+      "en": "unkind",
+      "ipa": "/ˌʌnˈkaɪnd/",
+      "es": "poco amable, cruel",
+      "clase": "adjetivo",
+      "orden": 51,
+      "opuesto": "kind",
+      "comparativo": "more unkind",
+      "superlativo": "the most unkind",
+      "ejemplo": "Don't be unkind to your little brother.",
+      "hueco": {
+        "frase": "Don't be ___ to your little brother. (cruel)",
+        "respuestas": [
+          "unkind"
+        ]
+      },
+      "nota": "un- + kind"
+    },
+    {
+      "id": "unfriendly",
+      "en": "unfriendly",
+      "ipa": "/ʌnˈfrendli/",
+      "es": "antipático, poco amigable",
+      "clase": "adjetivo",
+      "orden": 52,
+      "opuesto": "friendly",
+      "comparativo": "more unfriendly",
+      "superlativo": "the most unfriendly",
+      "ejemplo": "The waiter was unfriendly, so we left no tip.",
+      "hueco": {
+        "frase": "The waiter was ___, so we left no tip. (antipático)",
+        "respuestas": [
+          "unfriendly"
+        ]
+      },
+      "nota": "un- + friendly"
+    },
+    {
+      "id": "depressed",
+      "en": "depressed",
+      "ipa": "/dɪˈprest/",
+      "es": "deprimido",
+      "clase": "adjetivo",
+      "orden": 53,
+      "opuesto": "cheerful",
+      "comparativo": "more depressed",
+      "superlativo": "the most depressed",
+      "ejemplo": "He felt depressed after he lost his job.",
+      "hueco": {
+        "frase": "He felt ___ after he lost his job. (deprimido)",
+        "respuestas": [
+          "depressed"
+        ]
+      },
+      "nota": "Estado de ánimo, no carácter."
+    }
+  ],
   "ejercicios": [
-    { "id": "vocab-personalidad-001", "tipo": "emparejar", "nivel": 1, "code": "VOC", "pares": [["hard-working", "trabajador"], ["lazy", "perezoso"], ["happy", "feliz"], ["sad", "triste"], ["kind", "amable"]], "explica": "Pares básicos del curso. Hard-working y lazy son antónimos, igual que happy y sad." },
-    { "id": "vocab-personalidad-002", "tipo": "emparejar", "nivel": 1, "code": "VOC", "pares": [["clever", "listo"], ["stupid", "tonto"], ["generous", "generoso"], ["mean", "tacaño"], ["friendly", "amigable"]], "explica": "Mean como adjetivo de carácter es 'tacaño' o 'malo'; su antónimo es generous." },
-    { "id": "vocab-personalidad-003", "tipo": "emparejar", "nivel": 1, "code": "VOC", "pares": [["interesting", "interesante"], ["boring", "aburrido"], ["funny", "gracioso"], ["serious", "serio"], ["quiet", "callado"], ["talkative", "conversador"]], "explica": "Funny es gracioso (hace reír), no 'divertido' en general. Quiet es callado, no confundir con quite." },
-    { "id": "vocab-personalidad-004", "tipo": "emparejar", "nivel": 1, "code": "VOC", "pares": [["easy-going", "relajado, de trato fácil"], ["strict", "estricto"], ["optimistic", "optimista"], ["pessimistic", "pesimista"], ["shy", "tímido"], ["extrovert", "extrovertido"]], "explica": "Easy-going describe a alguien que no se estresa ni complica; su contrario en el trabajo es strict." },
-    { "id": "vocab-personalidad-005", "tipo": "emparejar", "nivel": 2, "code": "VOC", "pares": [["hard-working", "lazy"], ["generous", "mean"], ["talkative", "quiet"], ["kind", "unkind"], ["optimistic", "pessimistic"]], "explica": "Empareja cada adjetivo con su antónimo. Fíjate en el prefijo un- de unkind." },
-    { "id": "vocab-personalidad-006", "tipo": "emparejar", "nivel": 2, "code": "VOC", "pares": [["easy-going", "strict"], ["funny", "serious"], ["interesting", "boring"], ["extrovert", "shy"], ["clever", "stupid"], ["friendly", "unfriendly"]], "explica": "Antónimos del curso. Aprender en pareja te da dos palabras por el precio de una." },
-    { "id": "vocab-personalidad-007", "tipo": "emparejar", "nivel": 1, "code": "VOC", "pares": [["organized", "organizado"], ["focused", "concentrado"], ["selfish", "egoísta"], ["cheerful", "alegre"], ["bossy", "mandón"]], "explica": "Bossy viene de boss: alguien que se comporta como jefe aunque no lo sea." },
-    { "id": "vocab-personalidad-008", "tipo": "emparejar", "nivel": 1, "code": "VOC", "pares": [["relaxed", "relajado"], ["logical", "lógico"], ["honest", "honesto"], ["adventurous", "aventurero"], ["rude", "grosero"]], "explica": "Rude es grosero o maleducado; su contrario es polite. Honest se pronuncia sin la h: /ˈɑːnɪst/." },
-    { "id": "vocab-personalidad-009", "tipo": "emparejar", "nivel": 2, "code": "VOC", "pares": [["smart", "inteligente"], ["depressed", "deprimido"], ["impatient", "impaciente"], ["negative", "negativo"], ["patient", "paciente"]], "explica": "Patient / impatient: el prefijo im- se usa antes de p (impatient, impolite, impossible)." },
-    { "id": "vocab-personalidad-010", "tipo": "emparejar", "nivel": 2, "code": "VOC", "pares": [["reliable", "confiable, cumplido"], ["creative", "creativo"], ["ambitious", "ambicioso"], ["demanding", "exigente"], ["proactive", "proactivo"]], "explica": "Adjetivos clave para describir colegas y clientes en una agencia. Demanding viene de demand (exigir)." },
-    { "id": "vocab-personalidad-011", "tipo": "emparejar", "nivel": 2, "code": "VOC", "pares": [["punctual", "puntual"], ["curious", "curioso"], ["confident", "seguro de sí mismo"], ["stubborn", "terco"], ["moody", "de humor cambiante"]], "explica": "Confident no es 'confidente' (eso es confidant): significa seguro de sí mismo. Moody viene de mood (estado de ánimo)." },
-    { "id": "vocab-personalidad-012", "tipo": "emparejar", "nivel": 2, "code": "VOC", "pares": [["calm", "calmado, sereno"], ["polite", "educado, cortés"], ["thoughtful", "considerado"], ["competitive", "competitivo"], ["generous", "generoso"]], "explica": "Polite es 'educado' en el sentido de buenos modales; educated es que tiene estudios. Calm se pronuncia /kɑːm/, sin la l." },
-    { "id": "vocab-personalidad-013", "tipo": "emparejar", "nivel": 3, "code": "VOC", "pares": [["reliable", "you can always count on this person"], ["stubborn", "never changes their mind"], ["punctual", "always arrives on time"], ["moody", "happy one minute, angry the next"], ["thoughtful", "thinks about other people's feelings"]], "explica": "Empareja el adjetivo con su definición en inglés: así lo fijas sin pasar por el español." },
-    { "id": "vocab-personalidad-014", "tipo": "emparejar", "nivel": 3, "code": "VOC", "pares": [["bossy", "likes giving orders"], ["ambitious", "wants to be very successful"], ["curious", "wants to know about everything"], ["demanding", "expects a lot from other people"], ["confident", "is sure about their own abilities"]], "explica": "Definiciones en inglés. Demanding y bossy suenan parecido en un cliente, pero demanding exige calidad y bossy da órdenes." },
-    { "id": "vocab-personalidad-015", "tipo": "elegir", "nivel": 1, "code": "VOC", "q": "My brother never studies and never helps at home. He's really ___.", "opciones": ["hard-working", "lazy", "generous", "shy"], "a": 1, "explica": "Lazy = perezoso. Es el antónimo de hard-working." },
-    { "id": "vocab-personalidad-016", "tipo": "elegir", "nivel": 1, "code": "VOC", "q": "Camila talks all the time, even in the elevator. She's very ___.", "opciones": ["quiet", "strict", "talkative", "sad"], "a": 2, "explica": "Talkative = conversador. Quiet es justo lo contrario." },
-    { "id": "vocab-personalidad-017", "tipo": "elegir", "nivel": 1, "code": "VOC", "q": "Our new client always says 'please' and 'thank you'. He's very ___.", "opciones": ["polite", "rude", "bossy", "lazy"], "a": 0, "explica": "Polite = educado, cortés. Rude es el antónimo." },
-    { "id": "vocab-personalidad-018", "tipo": "elegir", "nivel": 2, "code": "VOC", "q": "Mike never shares his lunch and never helps anyone. He's quite ___.", "opciones": ["generous", "kind", "friendly", "selfish"], "a": 3, "explica": "Selfish = egoísta. Las otras tres opciones describen a alguien que sí comparte y ayuda." },
-    { "id": "vocab-personalidad-019", "tipo": "elegir", "nivel": 2, "code": "VOC", "q": "The presentation lasted two hours and nobody laughed or asked questions. It was really ___.", "opciones": ["interesting", "boring", "funny", "bored"], "a": 1, "explica": "La presentación aburre → boring (-ing). Bored (-ed) es cómo se siente la persona, no la presentación." },
-    { "id": "vocab-personalidad-020", "tipo": "elegir", "nivel": 2, "code": "VOC", "q": "Laura always delivers before the deadline. You can count on her. She's very ___.", "opciones": ["moody", "stubborn", "reliable", "impatient"], "a": 2, "explica": "Reliable = confiable, cumplido. Viene de rely on (contar con alguien)." },
-    { "id": "vocab-personalidad-021", "tipo": "elegir", "nivel": 2, "code": "VOC", "q": "Andrés never changes his mind, even when he's wrong. He's so ___.", "opciones": ["stubborn", "calm", "honest", "cheerful"], "a": 0, "explica": "Stubborn = terco. Las otras opciones no tienen que ver con cambiar de opinión." },
-    { "id": "vocab-personalidad-022", "tipo": "elegir", "nivel": 2, "code": "VOC", "q": "The account director gives orders all day and never listens to the team. She's a bit ___.", "opciones": ["cheerful", "shy", "patient", "bossy"], "a": 3, "explica": "Bossy = mandón. 'A bit' suaviza un adjetivo negativo." },
-    { "id": "vocab-personalidad-023", "tipo": "elegir", "nivel": 2, "code": "VOC", "q": "Sarah is happy in the morning and angry after lunch. Nobody knows why. She's very ___.", "opciones": ["relaxed", "moody", "logical", "punctual"], "a": 1, "explica": "Moody = de humor cambiante. Viene de mood (estado de ánimo)." },
-    { "id": "vocab-personalidad-024", "tipo": "elegir", "nivel": 3, "code": "VOC", "q": "Our client expects three versions of every design by tomorrow morning. He's extremely ___.", "opciones": ["easy-going", "generous", "demanding", "depressed"], "a": 2, "explica": "Demanding = exigente. Easy-going sería justo lo contrario." },
-    { "id": "vocab-personalidad-025", "tipo": "elegir", "nivel": 3, "code": "VOC", "q": "I don't wait for the client to ask: I send the report first. I'm ___.", "opciones": ["lazy", "proactive", "impatient", "negative"], "a": 1, "explica": "Proactive = que se anticipa y actúa antes de que se lo pidan." },
-    { "id": "vocab-personalidad-026", "tipo": "elegir", "nivel": 3, "code": "VOC", "q": "He hates waiting in traffic and in lines; he gets angry very fast. He's ___.", "opciones": ["patient", "calm", "thoughtful", "impatient"], "a": 3, "explica": "Impatient = impaciente. Patient y calm son lo contrario." },
-    { "id": "vocab-personalidad-027", "tipo": "escribir", "nivel": 1, "code": "VOC", "q": "My boss is very ___ (estricto): we can't arrive late.", "respuestas": ["strict"], "explica": "Strict = estricto. Su antónimo es easy-going." },
-    { "id": "vocab-personalidad-028", "tipo": "escribir", "nivel": 1, "code": "VOC", "q": "Don't be ___ (tímido); say hello to the team.", "respuestas": ["shy"], "explica": "Shy = tímido. Antónimo: extrovert / outgoing." },
-    { "id": "vocab-personalidad-029", "tipo": "escribir", "nivel": 1, "code": "VOC", "q": "Daniel is very ___ (gracioso); he makes everybody laugh.", "respuestas": ["funny"], "explica": "Funny = gracioso, que hace reír. No es fun (divertido) ni serious." },
-    { "id": "vocab-personalidad-030", "tipo": "escribir", "nivel": 1, "code": "VOC", "q": "Sarah is always on time for meetings. She's very ___ (puntual).", "respuestas": ["punctual"], "explica": "Punctual = puntual. Ojo con la ortografía: punc-tu-al." },
-    { "id": "vocab-personalidad-031", "tipo": "escribir", "nivel": 2, "code": "VOC", "q": "My daughter is very ___ (curiosa): she asks 'why?' all day.", "respuestas": ["curious"], "explica": "Curious = curioso. Como todos los adjetivos, no cambia de género: curious para él y para ella." },
-    { "id": "vocab-personalidad-032", "tipo": "escribir", "nivel": 2, "code": "VOC", "q": "Mike is ___ (honesto): he always tells the client the truth.", "respuestas": ["honest"], "explica": "Honest = honesto, sincero. La h no se pronuncia: /ˈɑːnɪst/. Su antónimo es dishonest." },
-    { "id": "vocab-personalidad-033", "tipo": "escribir", "nivel": 3, "code": "VOC", "q": "She feels ___ (segura de sí misma) when she presents to clients.", "respuestas": ["confident"], "explica": "Confident = seguro de sí mismo. No es confident = confidente (eso es confidant)." },
-    { "id": "vocab-personalidad-034", "tipo": "escribir", "nivel": 3, "code": "VOC", "q": "He's very ___ (considerado): he always remembers everyone's birthday.", "respuestas": ["thoughtful"], "explica": "Thoughtful = considerado, atento con los demás. Viene de thought (pensamiento): piensa en los otros." },
-    { "id": "vocab-personalidad-035", "tipo": "escuchar", "nivel": 1, "code": "VOC", "texto": "friendly", "respuestas": ["friendly"], "explica": "Friendly = amigable. Termina en -ly pero es adjetivo, no adverbio." },
-    { "id": "vocab-personalidad-036", "tipo": "escuchar", "nivel": 1, "code": "VOC", "texto": "hard-working", "respuestas": ["hard-working", "hard working", "hardworking"], "explica": "Hard-working = trabajador. Se escribe con guion (o junto); nunca 'hardly working', que significa 'casi sin trabajar'." },
-    { "id": "vocab-personalidad-037", "tipo": "escuchar", "nivel": 1, "code": "VOC", "texto": "She's very talkative.", "respuestas": ["She's very talkative", "She is very talkative"], "explica": "Talkative /ˈtɔːkətɪv/: la o suena como en talk." },
-    { "id": "vocab-personalidad-038", "tipo": "escuchar", "nivel": 2, "code": "VOC", "texto": "My boss is quite demanding.", "respuestas": ["My boss is quite demanding"], "explica": "Quite (bastante) antes del adjetivo. No confundir con quiet (callado)." },
-    { "id": "vocab-personalidad-039", "tipo": "escuchar", "nivel": 3, "code": "VOC", "texto": "He's a bit stubborn, but very reliable.", "respuestas": ["He's a bit stubborn, but very reliable", "He is a bit stubborn but very reliable", "He's a bit stubborn but very reliable"], "explica": "Patrón útil para describir a alguien: un defecto suavizado con 'a bit' + una virtud con 'but very'." },
-    { "id": "vocab-personalidad-040", "tipo": "escuchar", "nivel": 3, "code": "VOC", "texto": "Our client is impatient and bossy.", "respuestas": ["Our client is impatient and bossy"], "explica": "Impatient con im- (antes de p). Bossy con doble s." },
-    { "id": "vocab-personalidad-041", "tipo": "traducir", "nivel": 1, "code": "VOC", "es": "Mi hermana es muy conversadora.", "respuestas": ["My sister is very talkative", "My sister is really talkative", "My sister is so talkative"], "explica": "Conversador / hablador = talkative. 'Muy' puede ser very, really o so." },
-    { "id": "vocab-personalidad-042", "tipo": "traducir", "nivel": 1, "code": "VOC", "es": "Mi jefe es muy exigente.", "respuestas": ["My boss is very demanding", "My boss is really demanding", "My boss is so demanding"], "explica": "Exigente = demanding. No existe 'exigent' en el inglés cotidiano." },
-    { "id": "vocab-personalidad-043", "tipo": "traducir", "nivel": 2, "code": "VOC", "es": "Andrés es tímido pero muy amable.", "respuestas": ["Andrés is shy but very kind", "Andres is shy but very kind", "Andrés is shy, but very kind", "Andres is shy, but very kind", "Andrés is shy but really kind", "Andres is shy but really kind", "Andrés is shy but very nice", "Andres is shy but very nice"], "explica": "Tímido = shy; amable = kind (o nice). Dos adjetivos opuestos se unen con but." },
-    { "id": "vocab-personalidad-044", "tipo": "traducir", "nivel": 2, "code": "VOC", "es": "El cliente es un poco mandón.", "respuestas": ["The client is a bit bossy", "The client is a little bossy", "The client is a little bit bossy", "The client is kind of bossy"], "explica": "Un poco + adjetivo negativo = a bit / a little / kind of. Mandón = bossy." },
-    { "id": "vocab-personalidad-045", "tipo": "traducir", "nivel": 3, "code": "VOC", "es": "Nuestro equipo es creativo y proactivo.", "respuestas": ["Our team is creative and proactive", "Our team is proactive and creative"], "explica": "Team es singular en inglés estadounidense: our team is, no are. Creativo = creative, proactivo = proactive." },
-    { "id": "vocab-personalidad-046", "tipo": "traducir", "nivel": 3, "code": "VOC", "es": "No seas tan negativo.", "respuestas": ["Don't be so negative", "Do not be so negative"], "explica": "Imperativo negativo: Don't be + adjetivo. 'Tan' = so." },
-    { "id": "vocab-personalidad-047", "tipo": "corregir", "nivel": 2, "code": "USO", "frase": "My new colleague is very sympathetic; everybody likes her.", "correcta": false, "correccion": ["My new colleague is very friendly; everybody likes her.", "My new colleague is very nice; everybody likes her.", "My new colleague is very kind; everybody likes her."], "explica": "Falso amigo: sympathetic = compasivo, que entiende tu dolor. 'Simpático' es friendly o nice." },
-    { "id": "vocab-personalidad-048", "tipo": "corregir", "nivel": 2, "code": "USO", "frase": "Laura is a very sensible person; she cries with every movie.", "correcta": false, "correccion": ["Laura is a very sensitive person; she cries with every movie."], "explica": "Falso amigo: sensible = sensato, razonable. 'Sensible' (que se afecta fácil) es sensitive." },
-    { "id": "vocab-personalidad-049", "tipo": "corregir", "nivel": 2, "code": "VOC", "frase": "I'm boring in this meeting.", "correcta": false, "correccion": ["I'm bored in this meeting."], "explica": "Boring es lo que aburre; bored es cómo te sientes. 'I'm boring' significa que tú aburres a los demás." },
-    { "id": "vocab-personalidad-050", "tipo": "corregir", "nivel": 2, "code": "USO", "frase": "The client is very educated: he always says please and thank you.", "correcta": false, "correccion": ["The client is very polite: he always says please and thank you."], "explica": "Falso amigo: educated = con estudios, culto. 'Educado' (buenos modales) es polite." },
-    { "id": "vocab-personalidad-051", "tipo": "corregir", "nivel": 1, "code": "VOC", "frase": "My boss is very strict about deadlines.", "correcta": true, "correccion": [], "explica": "Correcta. Strict about + sustantivo (strict about deadlines, strict about budgets)." },
-    { "id": "vocab-personalidad-052", "tipo": "corregir", "nivel": 3, "code": "VOC", "frase": "Mike is a very quite person; he almost never talks.", "correcta": false, "correccion": ["Mike is a very quiet person; he almost never talks."], "explica": "Quiet (callado) y quite (bastante) se confunden por la ortografía. Aquí describe a la persona: quiet." },
-    { "id": "vocab-personalidad-053", "tipo": "hablar", "nivel": 2, "code": "VOC", "consigna": "Describe a un colega de tu equipo con tres adjetivos de personalidad y da un ejemplo concreto de cada uno.", "objetivo": "He's / She's very + adjetivo. He / She always… (ejemplo)", "ejemplo": "My colleague Laura is very organized: her files always have a name and a date. She's also talkative; she talks to everyone in the office. And she's a bit bossy, but she's reliable, so we love her.", "explica": "Describir a alguien = adjetivo + ejemplo concreto. Usa very / a bit para graduar y but para unir una virtud con un defecto." },
-    { "id": "vocab-personalidad-054", "tipo": "hablar", "nivel": 2, "code": "VOC", "consigna": "Describe a tu cliente más difícil: cómo es (dos o tres adjetivos) y por qué dices eso.", "objetivo": "Our client is + adjetivo + because… / He's a bit + adjetivo negativo", "ejemplo": "Our most difficult client is very demanding because he wants three versions of everything. He's also impatient: he calls every day. But he's honest, and he pays on time.", "explica": "Adjetivo + because + razón. Los adjetivos para clientes difíciles: demanding, impatient, bossy, stubborn, moody; suavízalos con a bit." },
-    { "id": "vocab-personalidad-055", "tipo": "hablar", "nivel": 3, "code": "VOC", "consigna": "Estás en una entrevista de trabajo. Descríbete con tres cualidades y un defecto, y usa al menos un antónimo ('I'm not…').", "objetivo": "I'm + adjetivo / I'm not very + adjetivo / Sometimes I'm a bit + adjetivo", "ejemplo": "I'm hard-working, creative and reliable: when I say Friday, it's Friday. I'm not very patient, so sometimes I'm a bit impatient with slow processes, but I'm working on it.", "explica": "En una entrevista: tres adjetivos positivos con un ejemplo y un defecto presentado con su antónimo (I'm not very patient) o suavizado (a bit impatient)." }
+    {
+      "id": "vocab-personalidad-001",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "VOC",
+      "pares": [
+        [
+          "hard-working",
+          "trabajador"
+        ],
+        [
+          "lazy",
+          "perezoso"
+        ],
+        [
+          "happy",
+          "feliz"
+        ],
+        [
+          "sad",
+          "triste"
+        ],
+        [
+          "kind",
+          "amable"
+        ]
+      ],
+      "explica": "Pares básicos del curso. Hard-working y lazy son antónimos, igual que happy y sad."
+    },
+    {
+      "id": "vocab-personalidad-002",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "VOC",
+      "pares": [
+        [
+          "clever",
+          "listo"
+        ],
+        [
+          "stupid",
+          "tonto"
+        ],
+        [
+          "generous",
+          "generoso"
+        ],
+        [
+          "mean",
+          "tacaño"
+        ],
+        [
+          "friendly",
+          "amigable"
+        ]
+      ],
+      "explica": "Mean como adjetivo de carácter es 'tacaño' o 'malo'; su antónimo es generous."
+    },
+    {
+      "id": "vocab-personalidad-003",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "VOC",
+      "pares": [
+        [
+          "interesting",
+          "interesante"
+        ],
+        [
+          "boring",
+          "aburrido"
+        ],
+        [
+          "funny",
+          "gracioso"
+        ],
+        [
+          "serious",
+          "serio"
+        ],
+        [
+          "quiet",
+          "callado"
+        ],
+        [
+          "talkative",
+          "conversador"
+        ]
+      ],
+      "explica": "Funny es gracioso (hace reír), no 'divertido' en general. Quiet es callado, no confundir con quite."
+    },
+    {
+      "id": "vocab-personalidad-004",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "VOC",
+      "pares": [
+        [
+          "easy-going",
+          "relajado, de trato fácil"
+        ],
+        [
+          "strict",
+          "estricto"
+        ],
+        [
+          "optimistic",
+          "optimista"
+        ],
+        [
+          "pessimistic",
+          "pesimista"
+        ],
+        [
+          "shy",
+          "tímido"
+        ],
+        [
+          "extrovert",
+          "extrovertido"
+        ]
+      ],
+      "explica": "Easy-going describe a alguien que no se estresa ni complica; su contrario en el trabajo es strict."
+    },
+    {
+      "id": "vocab-personalidad-005",
+      "tipo": "emparejar",
+      "nivel": 2,
+      "code": "VOC",
+      "pares": [
+        [
+          "hard-working",
+          "lazy"
+        ],
+        [
+          "generous",
+          "mean"
+        ],
+        [
+          "talkative",
+          "quiet"
+        ],
+        [
+          "kind",
+          "unkind"
+        ],
+        [
+          "optimistic",
+          "pessimistic"
+        ]
+      ],
+      "explica": "Empareja cada adjetivo con su antónimo. Fíjate en el prefijo un- de unkind."
+    },
+    {
+      "id": "vocab-personalidad-006",
+      "tipo": "emparejar",
+      "nivel": 2,
+      "code": "VOC",
+      "pares": [
+        [
+          "easy-going",
+          "strict"
+        ],
+        [
+          "funny",
+          "serious"
+        ],
+        [
+          "interesting",
+          "boring"
+        ],
+        [
+          "extrovert",
+          "shy"
+        ],
+        [
+          "clever",
+          "stupid"
+        ],
+        [
+          "friendly",
+          "unfriendly"
+        ]
+      ],
+      "explica": "Antónimos del curso. Aprender en pareja te da dos palabras por el precio de una."
+    },
+    {
+      "id": "vocab-personalidad-007",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "VOC",
+      "pares": [
+        [
+          "organized",
+          "organizado"
+        ],
+        [
+          "focused",
+          "concentrado"
+        ],
+        [
+          "selfish",
+          "egoísta"
+        ],
+        [
+          "cheerful",
+          "alegre"
+        ],
+        [
+          "bossy",
+          "mandón"
+        ]
+      ],
+      "explica": "Bossy viene de boss: alguien que se comporta como jefe aunque no lo sea."
+    },
+    {
+      "id": "vocab-personalidad-008",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "VOC",
+      "pares": [
+        [
+          "relaxed",
+          "relajado"
+        ],
+        [
+          "logical",
+          "lógico"
+        ],
+        [
+          "honest",
+          "honesto"
+        ],
+        [
+          "adventurous",
+          "aventurero"
+        ],
+        [
+          "rude",
+          "grosero"
+        ]
+      ],
+      "explica": "Rude es grosero o maleducado; su contrario es polite. Honest se pronuncia sin la h: /ˈɑːnɪst/."
+    },
+    {
+      "id": "vocab-personalidad-009",
+      "tipo": "emparejar",
+      "nivel": 2,
+      "code": "VOC",
+      "pares": [
+        [
+          "smart",
+          "inteligente"
+        ],
+        [
+          "depressed",
+          "deprimido"
+        ],
+        [
+          "impatient",
+          "impaciente"
+        ],
+        [
+          "negative",
+          "negativo"
+        ],
+        [
+          "patient",
+          "paciente"
+        ]
+      ],
+      "explica": "Patient / impatient: el prefijo im- se usa antes de p (impatient, impolite, impossible)."
+    },
+    {
+      "id": "vocab-personalidad-010",
+      "tipo": "emparejar",
+      "nivel": 2,
+      "code": "VOC",
+      "pares": [
+        [
+          "reliable",
+          "confiable, cumplido"
+        ],
+        [
+          "creative",
+          "creativo"
+        ],
+        [
+          "ambitious",
+          "ambicioso"
+        ],
+        [
+          "demanding",
+          "exigente"
+        ],
+        [
+          "proactive",
+          "proactivo"
+        ]
+      ],
+      "explica": "Adjetivos clave para describir colegas y clientes en una agencia. Demanding viene de demand (exigir)."
+    },
+    {
+      "id": "vocab-personalidad-011",
+      "tipo": "emparejar",
+      "nivel": 2,
+      "code": "VOC",
+      "pares": [
+        [
+          "punctual",
+          "puntual"
+        ],
+        [
+          "curious",
+          "curioso"
+        ],
+        [
+          "confident",
+          "seguro de sí mismo"
+        ],
+        [
+          "stubborn",
+          "terco"
+        ],
+        [
+          "moody",
+          "de humor cambiante"
+        ]
+      ],
+      "explica": "Confident no es 'confidente' (eso es confidant): significa seguro de sí mismo. Moody viene de mood (estado de ánimo)."
+    },
+    {
+      "id": "vocab-personalidad-012",
+      "tipo": "emparejar",
+      "nivel": 2,
+      "code": "VOC",
+      "pares": [
+        [
+          "calm",
+          "calmado, sereno"
+        ],
+        [
+          "polite",
+          "educado, cortés"
+        ],
+        [
+          "thoughtful",
+          "considerado"
+        ],
+        [
+          "competitive",
+          "competitivo"
+        ],
+        [
+          "generous",
+          "generoso"
+        ]
+      ],
+      "explica": "Polite es 'educado' en el sentido de buenos modales; educated es que tiene estudios. Calm se pronuncia /kɑːm/, sin la l."
+    },
+    {
+      "id": "vocab-personalidad-013",
+      "tipo": "emparejar",
+      "nivel": 3,
+      "code": "VOC",
+      "pares": [
+        [
+          "reliable",
+          "you can always count on this person"
+        ],
+        [
+          "stubborn",
+          "never changes their mind"
+        ],
+        [
+          "punctual",
+          "always arrives on time"
+        ],
+        [
+          "moody",
+          "happy one minute, angry the next"
+        ],
+        [
+          "thoughtful",
+          "thinks about other people's feelings"
+        ]
+      ],
+      "explica": "Empareja el adjetivo con su definición en inglés: así lo fijas sin pasar por el español."
+    },
+    {
+      "id": "vocab-personalidad-014",
+      "tipo": "emparejar",
+      "nivel": 3,
+      "code": "VOC",
+      "pares": [
+        [
+          "bossy",
+          "likes giving orders"
+        ],
+        [
+          "ambitious",
+          "wants to be very successful"
+        ],
+        [
+          "curious",
+          "wants to know about everything"
+        ],
+        [
+          "demanding",
+          "expects a lot from other people"
+        ],
+        [
+          "confident",
+          "is sure about their own abilities"
+        ]
+      ],
+      "explica": "Definiciones en inglés. Demanding y bossy suenan parecido en un cliente, pero demanding exige calidad y bossy da órdenes."
+    },
+    {
+      "id": "vocab-personalidad-015",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "My brother never studies and never helps at home. He's really ___.",
+      "opciones": [
+        "hard-working",
+        "lazy",
+        "generous",
+        "shy"
+      ],
+      "a": 1,
+      "explica": "Lazy = perezoso. Es el antónimo de hard-working."
+    },
+    {
+      "id": "vocab-personalidad-016",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "Camila talks all the time, even in the elevator. She's very ___.",
+      "opciones": [
+        "quiet",
+        "strict",
+        "talkative",
+        "sad"
+      ],
+      "a": 2,
+      "explica": "Talkative = conversador. Quiet es justo lo contrario."
+    },
+    {
+      "id": "vocab-personalidad-017",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "Our new client always says 'please' and 'thank you'. He's very ___.",
+      "opciones": [
+        "polite",
+        "rude",
+        "bossy",
+        "lazy"
+      ],
+      "a": 0,
+      "explica": "Polite = educado, cortés. Rude es el antónimo."
+    },
+    {
+      "id": "vocab-personalidad-018",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "Mike never shares his lunch and never helps anyone. He's quite ___.",
+      "opciones": [
+        "generous",
+        "kind",
+        "friendly",
+        "selfish"
+      ],
+      "a": 3,
+      "explica": "Selfish = egoísta. Las otras tres opciones describen a alguien que sí comparte y ayuda."
+    },
+    {
+      "id": "vocab-personalidad-019",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "The presentation lasted two hours and nobody laughed or asked questions. It was really ___.",
+      "opciones": [
+        "interesting",
+        "boring",
+        "funny",
+        "bored"
+      ],
+      "a": 1,
+      "explica": "La presentación aburre → boring (-ing). Bored (-ed) es cómo se siente la persona, no la presentación."
+    },
+    {
+      "id": "vocab-personalidad-020",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "Laura always delivers before the deadline. You can count on her. She's very ___.",
+      "opciones": [
+        "moody",
+        "stubborn",
+        "reliable",
+        "impatient"
+      ],
+      "a": 2,
+      "explica": "Reliable = confiable, cumplido. Viene de rely on (contar con alguien)."
+    },
+    {
+      "id": "vocab-personalidad-021",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "Andrés never changes his mind, even when he's wrong. He's so ___.",
+      "opciones": [
+        "stubborn",
+        "calm",
+        "honest",
+        "cheerful"
+      ],
+      "a": 0,
+      "explica": "Stubborn = terco. Las otras opciones no tienen que ver con cambiar de opinión."
+    },
+    {
+      "id": "vocab-personalidad-022",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "The account director gives orders all day and never listens to the team. She's a bit ___.",
+      "opciones": [
+        "cheerful",
+        "shy",
+        "patient",
+        "bossy"
+      ],
+      "a": 3,
+      "explica": "Bossy = mandón. 'A bit' suaviza un adjetivo negativo."
+    },
+    {
+      "id": "vocab-personalidad-023",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "Sarah is happy in the morning and angry after lunch. Nobody knows why. She's very ___.",
+      "opciones": [
+        "relaxed",
+        "moody",
+        "logical",
+        "punctual"
+      ],
+      "a": 1,
+      "explica": "Moody = de humor cambiante. Viene de mood (estado de ánimo)."
+    },
+    {
+      "id": "vocab-personalidad-024",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "VOC",
+      "q": "Our client expects three versions of every design by tomorrow morning. He's extremely ___.",
+      "opciones": [
+        "easy-going",
+        "generous",
+        "demanding",
+        "depressed"
+      ],
+      "a": 2,
+      "explica": "Demanding = exigente. Easy-going sería justo lo contrario."
+    },
+    {
+      "id": "vocab-personalidad-025",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "VOC",
+      "q": "I don't wait for the client to ask: I send the report first. I'm ___.",
+      "opciones": [
+        "lazy",
+        "proactive",
+        "impatient",
+        "negative"
+      ],
+      "a": 1,
+      "explica": "Proactive = que se anticipa y actúa antes de que se lo pidan."
+    },
+    {
+      "id": "vocab-personalidad-026",
+      "tipo": "elegir",
+      "nivel": 3,
+      "code": "VOC",
+      "q": "He hates waiting in traffic and in lines; he gets angry very fast. He's ___.",
+      "opciones": [
+        "patient",
+        "calm",
+        "thoughtful",
+        "impatient"
+      ],
+      "a": 3,
+      "explica": "Impatient = impaciente. Patient y calm son lo contrario."
+    },
+    {
+      "id": "vocab-personalidad-027",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "My boss is very ___ (estricto): we can't arrive late.",
+      "respuestas": [
+        "strict"
+      ],
+      "explica": "Strict = estricto. Su antónimo es easy-going."
+    },
+    {
+      "id": "vocab-personalidad-028",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "Don't be ___ (tímido); say hello to the team.",
+      "respuestas": [
+        "shy"
+      ],
+      "explica": "Shy = tímido. Antónimo: extrovert / outgoing."
+    },
+    {
+      "id": "vocab-personalidad-029",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "Daniel is very ___ (gracioso); he makes everybody laugh.",
+      "respuestas": [
+        "funny"
+      ],
+      "explica": "Funny = gracioso, que hace reír. No es fun (divertido) ni serious."
+    },
+    {
+      "id": "vocab-personalidad-030",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "Sarah is always on time for meetings. She's very ___ (puntual).",
+      "respuestas": [
+        "punctual"
+      ],
+      "explica": "Punctual = puntual. Ojo con la ortografía: punc-tu-al."
+    },
+    {
+      "id": "vocab-personalidad-031",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "My daughter is very ___ (curiosa): she asks 'why?' all day.",
+      "respuestas": [
+        "curious"
+      ],
+      "explica": "Curious = curioso. Como todos los adjetivos, no cambia de género: curious para él y para ella."
+    },
+    {
+      "id": "vocab-personalidad-032",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "Mike is ___ (honesto): he always tells the client the truth.",
+      "respuestas": [
+        "honest"
+      ],
+      "explica": "Honest = honesto, sincero. La h no se pronuncia: /ˈɑːnɪst/. Su antónimo es dishonest."
+    },
+    {
+      "id": "vocab-personalidad-033",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "VOC",
+      "q": "She feels ___ (segura de sí misma) when she presents to clients.",
+      "respuestas": [
+        "confident"
+      ],
+      "explica": "Confident = seguro de sí mismo. No es confident = confidente (eso es confidant)."
+    },
+    {
+      "id": "vocab-personalidad-034",
+      "tipo": "escribir",
+      "nivel": 3,
+      "code": "VOC",
+      "q": "He's very ___ (considerado): he always remembers everyone's birthday.",
+      "respuestas": [
+        "thoughtful"
+      ],
+      "explica": "Thoughtful = considerado, atento con los demás. Viene de thought (pensamiento): piensa en los otros."
+    },
+    {
+      "id": "vocab-personalidad-035",
+      "tipo": "escuchar",
+      "nivel": 1,
+      "code": "VOC",
+      "texto": "friendly",
+      "respuestas": [
+        "friendly"
+      ],
+      "explica": "Friendly = amigable. Termina en -ly pero es adjetivo, no adverbio."
+    },
+    {
+      "id": "vocab-personalidad-036",
+      "tipo": "escuchar",
+      "nivel": 1,
+      "code": "VOC",
+      "texto": "hard-working",
+      "respuestas": [
+        "hard-working",
+        "hard working",
+        "hardworking"
+      ],
+      "explica": "Hard-working = trabajador. Se escribe con guion (o junto); nunca 'hardly working', que significa 'casi sin trabajar'."
+    },
+    {
+      "id": "vocab-personalidad-037",
+      "tipo": "escuchar",
+      "nivel": 1,
+      "code": "VOC",
+      "texto": "She's very talkative.",
+      "respuestas": [
+        "She's very talkative",
+        "She is very talkative"
+      ],
+      "explica": "Talkative /ˈtɔːkətɪv/: la o suena como en talk."
+    },
+    {
+      "id": "vocab-personalidad-038",
+      "tipo": "escuchar",
+      "nivel": 2,
+      "code": "VOC",
+      "texto": "My boss is quite demanding.",
+      "respuestas": [
+        "My boss is quite demanding"
+      ],
+      "explica": "Quite (bastante) antes del adjetivo. No confundir con quiet (callado)."
+    },
+    {
+      "id": "vocab-personalidad-039",
+      "tipo": "escuchar",
+      "nivel": 3,
+      "code": "VOC",
+      "texto": "He's a bit stubborn, but very reliable.",
+      "respuestas": [
+        "He's a bit stubborn, but very reliable",
+        "He is a bit stubborn but very reliable",
+        "He's a bit stubborn but very reliable"
+      ],
+      "explica": "Patrón útil para describir a alguien: un defecto suavizado con 'a bit' + una virtud con 'but very'."
+    },
+    {
+      "id": "vocab-personalidad-040",
+      "tipo": "escuchar",
+      "nivel": 3,
+      "code": "VOC",
+      "texto": "Our client is impatient and bossy.",
+      "respuestas": [
+        "Our client is impatient and bossy"
+      ],
+      "explica": "Impatient con im- (antes de p). Bossy con doble s."
+    },
+    {
+      "id": "vocab-personalidad-041",
+      "tipo": "traducir",
+      "nivel": 1,
+      "code": "VOC",
+      "es": "Mi hermana es muy conversadora.",
+      "respuestas": [
+        "My sister is very talkative",
+        "My sister is really talkative",
+        "My sister is so talkative"
+      ],
+      "explica": "Conversador / hablador = talkative. 'Muy' puede ser very, really o so."
+    },
+    {
+      "id": "vocab-personalidad-042",
+      "tipo": "traducir",
+      "nivel": 1,
+      "code": "VOC",
+      "es": "Mi jefe es muy exigente.",
+      "respuestas": [
+        "My boss is very demanding",
+        "My boss is really demanding",
+        "My boss is so demanding"
+      ],
+      "explica": "Exigente = demanding. No existe 'exigent' en el inglés cotidiano."
+    },
+    {
+      "id": "vocab-personalidad-043",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "VOC",
+      "es": "Andrés es tímido pero muy amable.",
+      "respuestas": [
+        "Andrés is shy but very kind",
+        "Andres is shy but very kind",
+        "Andrés is shy, but very kind",
+        "Andres is shy, but very kind",
+        "Andrés is shy but really kind",
+        "Andres is shy but really kind",
+        "Andrés is shy but very nice",
+        "Andres is shy but very nice"
+      ],
+      "explica": "Tímido = shy; amable = kind (o nice). Dos adjetivos opuestos se unen con but."
+    },
+    {
+      "id": "vocab-personalidad-044",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "VOC",
+      "es": "El cliente es un poco mandón.",
+      "respuestas": [
+        "The client is a bit bossy",
+        "The client is a little bossy",
+        "The client is a little bit bossy",
+        "The client is kind of bossy"
+      ],
+      "explica": "Un poco + adjetivo negativo = a bit / a little / kind of. Mandón = bossy."
+    },
+    {
+      "id": "vocab-personalidad-045",
+      "tipo": "traducir",
+      "nivel": 3,
+      "code": "VOC",
+      "es": "Nuestro equipo es creativo y proactivo.",
+      "respuestas": [
+        "Our team is creative and proactive",
+        "Our team is proactive and creative"
+      ],
+      "explica": "Team es singular en inglés estadounidense: our team is, no are. Creativo = creative, proactivo = proactive."
+    },
+    {
+      "id": "vocab-personalidad-046",
+      "tipo": "traducir",
+      "nivel": 3,
+      "code": "VOC",
+      "es": "No seas tan negativo.",
+      "respuestas": [
+        "Don't be so negative",
+        "Do not be so negative"
+      ],
+      "explica": "Imperativo negativo: Don't be + adjetivo. 'Tan' = so."
+    },
+    {
+      "id": "vocab-personalidad-047",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "My new colleague is very sympathetic; everybody likes her.",
+      "correcta": false,
+      "correccion": [
+        "My new colleague is very friendly; everybody likes her.",
+        "My new colleague is very nice; everybody likes her.",
+        "My new colleague is very kind; everybody likes her."
+      ],
+      "explica": "Falso amigo: sympathetic = compasivo, que entiende tu dolor. 'Simpático' es friendly o nice."
+    },
+    {
+      "id": "vocab-personalidad-048",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "Laura is a very sensible person; she cries with every movie.",
+      "correcta": false,
+      "correccion": [
+        "Laura is a very sensitive person; she cries with every movie."
+      ],
+      "explica": "Falso amigo: sensible = sensato, razonable. 'Sensible' (que se afecta fácil) es sensitive."
+    },
+    {
+      "id": "vocab-personalidad-049",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "VOC",
+      "frase": "I'm boring in this meeting.",
+      "correcta": false,
+      "correccion": [
+        "I'm bored in this meeting."
+      ],
+      "explica": "Boring es lo que aburre; bored es cómo te sientes. 'I'm boring' significa que tú aburres a los demás."
+    },
+    {
+      "id": "vocab-personalidad-050",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "The client is very educated: he always says please and thank you.",
+      "correcta": false,
+      "correccion": [
+        "The client is very polite: he always says please and thank you."
+      ],
+      "explica": "Falso amigo: educated = con estudios, culto. 'Educado' (buenos modales) es polite."
+    },
+    {
+      "id": "vocab-personalidad-051",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "VOC",
+      "frase": "My boss is very strict about deadlines.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Correcta. Strict about + sustantivo (strict about deadlines, strict about budgets)."
+    },
+    {
+      "id": "vocab-personalidad-052",
+      "tipo": "corregir",
+      "nivel": 3,
+      "code": "VOC",
+      "frase": "Mike is a very quite person; he almost never talks.",
+      "correcta": false,
+      "correccion": [
+        "Mike is a very quiet person; he almost never talks."
+      ],
+      "explica": "Quiet (callado) y quite (bastante) se confunden por la ortografía. Aquí describe a la persona: quiet."
+    },
+    {
+      "id": "vocab-personalidad-053",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "VOC",
+      "consigna": "Describe a un colega de tu equipo con tres adjetivos de personalidad y da un ejemplo concreto de cada uno.",
+      "objetivo": "He's / She's very + adjetivo. He / She always… (ejemplo)",
+      "ejemplo": "My colleague Laura is very organized: her files always have a name and a date. She's also talkative; she talks to everyone in the office. And she's a bit bossy, but she's reliable, so we love her.",
+      "explica": "Describir a alguien = adjetivo + ejemplo concreto. Usa very / a bit para graduar y but para unir una virtud con un defecto."
+    },
+    {
+      "id": "vocab-personalidad-054",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "VOC",
+      "consigna": "Describe a tu cliente más difícil: cómo es (dos o tres adjetivos) y por qué dices eso.",
+      "objetivo": "Our client is + adjetivo + because… / He's a bit + adjetivo negativo",
+      "ejemplo": "Our most difficult client is very demanding because he wants three versions of everything. He's also impatient: he calls every day. But he's honest, and he pays on time.",
+      "explica": "Adjetivo + because + razón. Los adjetivos para clientes difíciles: demanding, impatient, bossy, stubborn, moody; suavízalos con a bit."
+    },
+    {
+      "id": "vocab-personalidad-055",
+      "tipo": "hablar",
+      "nivel": 3,
+      "code": "VOC",
+      "consigna": "Estás en una entrevista de trabajo. Descríbete con tres cualidades y un defecto, y usa al menos un antónimo ('I'm not…').",
+      "objetivo": "I'm + adjetivo / I'm not very + adjetivo / Sometimes I'm a bit + adjetivo",
+      "ejemplo": "I'm hard-working, creative and reliable: when I say Friday, it's Friday. I'm not very patient, so sometimes I'm a bit impatient with slow processes, but I'm working on it.",
+      "explica": "En una entrevista: tres adjetivos positivos con un ejemplo y un defecto presentado con su antónimo (I'm not very patient) o suavizado (a bit impatient)."
+    },
+    {
+      "id": "vocab-personalidad-056",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "Mi equipo en Brava",
+      "instruccion": "Completa con el adjetivo de carácter que corresponde a la pista.",
+      "texto": "I lead a team of six people at Brava, and they are all different. Camila is the most {1} (trabajadora) person I know: she arrives early and never misses a deadline. Andrés is really {2} (gracioso); he makes everyone laugh, even on Monday mornings. Sarah is {3} (callada) in meetings, but her ideas are great. Daniel is {4} (confiable): if he says Friday, it's Friday. Laura is very {5} (organizada); every file has a name and a date. And me? I think I'm {6} (paciente) with the team, but a bit {7} (impaciente) with deadlines.",
+      "huecos": [
+        {
+          "respuestas": [
+            "hard-working",
+            "hardworking"
+          ]
+        },
+        {
+          "respuestas": [
+            "funny"
+          ]
+        },
+        {
+          "respuestas": [
+            "quiet"
+          ]
+        },
+        {
+          "respuestas": [
+            "reliable"
+          ]
+        },
+        {
+          "respuestas": [
+            "organized",
+            "organised"
+          ]
+        },
+        {
+          "respuestas": [
+            "patient"
+          ]
+        },
+        {
+          "respuestas": [
+            "impatient"
+          ]
+        }
+      ],
+      "explica": "Los adjetivos no cambian de género ni de número: Camila is hard-working, Daniel is reliable. Patient ↔ impatient se forma con el prefijo im-."
+    },
+    {
+      "id": "vocab-personalidad-057",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "Un cliente difícil",
+      "instruccion": "Elige el adjetivo que encaja con la explicación de cada frase.",
+      "texto": "Our new client is not easy. He is very {1}: he wants three options by tomorrow and he never says thank you. He is also {2}; he calls five times a day and can't wait for an answer. In meetings he is a bit {3}: he tells everyone what to do, even our creative director. Yesterday he was {4} to the designer: he said her work was 'stupid'. Still, he is {5} about money: he always pays on time. And he is not {6}; when he likes an idea, he says it clearly.",
+      "huecos": [
+        {
+          "opciones": [
+            "demanding",
+            "generous",
+            "shy"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "impatient",
+            "patient",
+            "calm"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "bossy",
+            "quiet",
+            "easy-going"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "rude",
+            "polite",
+            "kind"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "honest",
+            "mean",
+            "lazy"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "negative",
+            "optimistic",
+            "cheerful"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Cada adjetivo se confirma con la explicación que sigue a los dos puntos: demanding (quiere todo ya), impatient (no espera), bossy (manda), rude (grosero), honest (paga a tiempo), not negative (dice lo que le gusta)."
+    },
+    {
+      "id": "vocab-personalidad-058",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "-ed, -ing y estados de ánimo",
+      "instruccion": "Completa con el adjetivo en inglés. Ojo con -ing (la cosa) y -ed (cómo te sientes).",
+      "texto": "Last week I had a very {1} (aburrida) meeting with the finance team: three hours of numbers. I was {2} (aburrido) after twenty minutes. Then the client called with an {3} (interesante) idea for the campaign, and suddenly everyone was {4} (interesado). On Friday, after a long week, I felt {5} (relajado) at the gym. My wife says I'm {6} (de humor cambiante) on Mondays, but {7} (alegre) on Fridays. She's right.",
+      "huecos": [
+        {
+          "respuestas": [
+            "boring"
+          ]
+        },
+        {
+          "respuestas": [
+            "bored"
+          ]
+        },
+        {
+          "respuestas": [
+            "interesting"
+          ]
+        },
+        {
+          "respuestas": [
+            "interested"
+          ]
+        },
+        {
+          "respuestas": [
+            "relaxed"
+          ]
+        },
+        {
+          "respuestas": [
+            "moody"
+          ]
+        },
+        {
+          "respuestas": [
+            "cheerful"
+          ]
+        }
+      ],
+      "explica": "-ing describe la cosa que produce el efecto (a boring meeting); -ed describe cómo se siente la persona (I was bored). Relaxed, moody y cheerful son estados de ánimo, no carácter."
+    },
+    {
+      "id": "vocab-personalidad-059",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "Entrevista en Brava",
+      "texto": "Yesterday Laura interviewed two candidates for the account manager position at Brava. The first one, Mike, was confident and talkative. He talked about his experience for twenty minutes and said he was ambitious and competitive. He also said he was 'not very patient with slow people'. The second candidate, Camila, was quiet and a bit shy at the beginning, but her answers were clear and honest. She said she was organized and reliable, and she gave an example: in her last job she never missed a deadline. She also said she was curious and liked to learn new things. Laura thinks Mike is smart, but a bit bossy. She prefers Camila because the team needs someone calm and thoughtful, not another extrovert.",
+      "preguntas": [
+        {
+          "q": "How was Mike in the interview?",
+          "opciones": [
+            "Confident and talkative",
+            "Quiet and shy",
+            "Calm and thoughtful"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What example did Camila give?",
+          "opciones": [
+            "She never missed a deadline in her last job",
+            "She talked for twenty minutes",
+            "She learned a new language"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why does Laura prefer Camila?",
+          "opciones": [
+            "Because the team needs someone calm and thoughtful",
+            "Because Camila is more ambitious",
+            "Because Mike is not smart"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«Not very patient» es una forma suave de decir…",
+          "opciones": [
+            "impatient",
+            "patient",
+            "punctual"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Para describir carácter se juntan dos o tres adjetivos y un ejemplo (reliable: she never missed a deadline). 'Not very + adjetivo' suaviza el antónimo: not very patient = impatient."
+    },
+    {
+      "id": "vocab-personalidad-060",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "CMP",
+      "titulo": "Mi familia",
+      "texto": "My family is small but very different. My dad is quiet and serious; he reads the newspaper every morning and never jokes. But he is also generous: he always pays for lunch when we go out. My mom is the opposite: she is cheerful and really talkative. She knows everybody in the neighborhood. My brother Andrés is funny and easy-going, but a bit lazy; on Sundays he stays in bed until noon. My sister Camila is the most hard-working person in the family. She is ambitious: she wants to be a director before she is 30. And my grandmother is the kindest person I know. She is patient with everyone, even with my brother. I think I'm a mix: serious at work, like my dad, and talkative with friends, like my mom.",
+      "preguntas": [
+        {
+          "q": "What is the father like?",
+          "opciones": [
+            "Quiet, serious and generous",
+            "Cheerful and talkative",
+            "Funny and lazy"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Who wants to be a director before 30?",
+          "opciones": [
+            "Camila",
+            "Andrés",
+            "The mother"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why does the writer say the grandmother is patient?",
+          "opciones": [
+            "Because she is patient even with the lazy brother",
+            "Because she stays in bed until noon",
+            "Because she pays for lunch"
+          ],
+          "a": 0
+        },
+        {
+          "q": "¿Por qué el texto dice «the kindest» y no «the most kind»?",
+          "opciones": [
+            "Kind tiene una sílaba: el superlativo es kind + -est",
+            "Kind es irregular",
+            "Las dos formas son incorrectas"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Adjetivos cortos → -er / -est (kind → the kindest); adjetivos largos → more / the most (the most hard-working). 'What is he like?' pregunta por el carácter."
+    },
+    {
+      "id": "vocab-personalidad-061",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "VOC",
+      "consigna": "Describe a tres personas de tu trabajo o tu familia: para cada una, da dos adjetivos de carácter y un ejemplo de lo que hace. Usa al menos un antónimo suave con 'not very…', un superlativo y un matizador (a bit, really, very).",
+      "requisitos": [
+        {
+          "texto": "Usa al menos tres adjetivos de carácter del tema",
+          "patron": "(\\b(friendly|hard-working|hardworking|lazy|kind|funny|serious|shy|quiet|talkative|organized|reliable|creative|patient|impatient|demanding|honest|smart|clever|stupid|happy|sad|boring|interesting|polite|rude|generous|mean|strict|easy-going|optimistic|pessimistic|extrovert|confident|calm|relaxed|focused|punctual|proactive|ambitious|competitive|curious|stubborn|bossy|moody|cheerful|selfish|thoughtful|negative|logical|adventurous|unkind|unfriendly|depressed)\\b[\\s\\S]*){3}"
+        },
+        {
+          "texto": "Usa not very + adjetivo",
+          "patron": "\\bnot\\s+very\\s+[\\w-]+"
+        },
+        {
+          "texto": "Usa un superlativo (the most … / the …est)",
+          "patron": "\\bthe\\s+(most\\s+[\\w-]+|\\w+est)\\b"
+        },
+        {
+          "texto": "Usa a bit, really, very o quite delante de un adjetivo",
+          "patron": "\\b(a\\s+bit|really|very|quite)\\s+[\\w-]+"
+        }
+      ],
+      "minPalabras": 50,
+      "ejemplo": "My boss is organized and demanding, but she is not very patient: she wants everything today. My colleague Andrés is funny and really talkative; he makes jokes in every meeting. My wife is the most easy-going person I know. She is kind and a bit shy with new people, but she never complains about my plans.",
+      "explica": "Tres adjetivos y un ejemplo por persona; el antónimo sale con 'not very…' y el superlativo con the most (largos) o -est (cortos)."
+    }
   ]
 }

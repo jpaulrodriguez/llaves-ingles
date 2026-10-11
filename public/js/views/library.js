@@ -1,6 +1,6 @@
 import { S, temaMastery, temaSeen, temaIds } from "../store.js";
 import { h, esc, icon, ring, pieces, plain, speak, $, $$ } from "../ui.js";
-import { sessionTema } from "../session.js";
+import { sessionTema, sessionExtensos, LONG, levelTarget } from "../session.js";
 import { play } from "../player.js";
 import { route } from "../main.js";
 
@@ -98,6 +98,13 @@ export function viewTopic(id) {
   add("contraste", "Contraste", (th.contraste || []).length ? `<div class="grid">${th.contraste.map(c => `<div class="card grid-2" style="align-items:center"><div class="ex" style="font-size:18px">${pieces(c.a)}</div><div class="ex" style="font-size:18px">${pieces(c.b)}</div>${c.nota ? `<div class="small muted" style="grid-column:1/-1">${pieces(c.nota)}</div>` : ""}</div>`).join("")}</div>` : "");
   add("errores", "Errores típicos", (th.errores || []).length ? `<div class="card">${th.errores.map(e => `<div class="err-row"><div class="row wrap"><span class="bad">${esc(e.mal)}</span>${icon("right", 16, "muted")}<span class="good">${esc(e.bien)}</span>${e.code ? `<span class="chip code">${esc(e.code)}</span>` : ""}</div><span class="small muted">${pieces(e.porque || "")}</span></div>`).join("")}</div>` : "");
   add("frases", "Frases útiles", (th.frases || []).length ? `<div class="card">${th.frases.map((f, i) => `<div class="phrase"><button class="icon-btn" data-say="${i}" aria-label="Escuchar">${icon("vol", 18)}</button><div><div class="en">${pieces(f.en)}</div><div class="es">${esc(f.es || "")}${f.ejemplo ? ` · <i>${esc(f.ejemplo)}</i>` : ""}</div></div>${f.contexto ? `<span class="chip">${esc(f.contexto)}</span>` : "<span></span>"}</div>`).join("")}</div>` : "");
+  const words = S.words.filter(w => w.tema === id).sort((a, b) => a.orden - b.orden);
+  const learned = words.filter(w => S.prog.words?.[w.wid]).length;
+  add("palabras", `Palabras del capítulo · ${learned}/${words.length}`, words.length ? `<div class="card"><p class="small muted" style="margin:0 0 6px">Se presentan unas pocas cada día (en «Palabras nuevas» o al practicar este tema) y luego vuelven en tus repasos.</p>${words.map((w, i) => `
+    <div class="phrase"><button class="icon-btn" data-sayw="${i}" aria-label="Escuchar">${icon("vol", 18)}</button>
+      <div><div class="en"><b>${esc(w.en)}</b> <span class="muted small">${esc(w.ipa || "")}</span></div>
+      <div class="es">${esc(w.es)}${w.formas ? ` · ${esc([w.formas.s, w.formas.pasado, w.formas.participio, w.formas.ing].filter(Boolean).join(" · "))}` : ""}${w.opuesto ? ` · ↔ ${esc(w.opuesto)}` : ""}</div></div>
+      <span class="chip ${S.prog.words?.[w.wid] ? "ok" : ""}">${S.prog.words?.[w.wid] ? "aprendida" : "#" + w.orden}</span></div>`).join("")}</div>` : "");
   add("tip", "Truco", th.tip ? `<div class="tip">${icon("bulb", 20)}<div>${pieces(th.tip)}</div></div>` : "");
 
   const el = h(`<div>
@@ -110,7 +117,8 @@ export function viewTopic(id) {
         <span class="spacer"></span>${ring(temaMastery(id), 52, 5)}<span class="small muted">dominio<br>${temaSeen(id)}/${n} vistos</span></div>
       <div class="row wrap">
         <button class="btn lg" data-practice ${n ? "" : "disabled"}>${icon("zap", 18)} Practicar este tema</button>
-        <span class="small muted">${n} ejercicios${["presente-simple", "presente-continuo", "pasado-simple", "pasado-continuo", "contraste-presentes", "contraste-pasados"].includes(id) ? " + gimnasio infinito" : ""}</span>
+        ${(t.ejercicios || []).some(e => LONG.has(e.tipo)) ? `<button class="btn ghost lg" data-long>${icon("book", 18)} Extensos</button>` : ""}
+        <span class="small muted">Nivel ${levelTarget(id)} abierto · ${n} ejercicios${["presente-simple", "presente-continuo", "pasado-simple", "pasado-continuo", "contraste-presentes", "contraste-pasados"].includes(id) ? " + gimnasio infinito" : ""}</span>
       </div>
       <div class="legend"><span><i style="background:var(--key-bg)"></i>llave</span><span><i style="background:var(--verb-bg)"></i>verbo</span><span><i style="background:var(--mark-ink)"></i>marca</span></div>
     </div>
@@ -122,6 +130,8 @@ export function viewTopic(id) {
   const go = () => play(sessionTema(id), { onExit: route });
   $("[data-practice]", el).onclick = go;
   $("[data-practice2]", el).onclick = go;
+  $("[data-long]", el)?.addEventListener("click", () => play(sessionExtensos(id), { onExit: route }));
+  $$("[data-sayw]", el).forEach(b => b.onclick = () => speak(words[Number(b.dataset.sayw)].en));
   $$("[data-toc]", el).forEach(a => a.onclick = e => { e.preventDefault(); document.getElementById("sec-" + a.dataset.toc)?.scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" }); });
   $$("[data-say]", el).forEach(b => b.onclick = () => speak((th.frases[Number(b.dataset.say)].en || "").replace(/\s*\/[^/]+\/\s*/, " ")));
   return el;

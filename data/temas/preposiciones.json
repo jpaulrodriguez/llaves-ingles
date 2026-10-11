@@ -1,0 +1,1479 @@
+{
+  "id": "preposiciones",
+  "titulo": "Preposiciones: in, on, at y compañía",
+  "grupo": "Adverbios y preposiciones",
+  "orden": 180,
+  "nivel": "A2–B1",
+  "resumen": "Decir cuándo (at 3 pm, on Monday, in October), dónde (at the office, in Bogotá, on the 5th floor), hacia dónde (to, into, from), cuánto tiempo (for, since, during, until, by) y qué preposición va pegada a cada verbo y adjetivo (depend on, good at).",
+  "llave": "at punto · on superficie/día · in dentro/periodo",
+  "teoria": {
+    "paraQue": "Para ubicar lo que dices en el tiempo y en el espacio sin calcos del español: la hora, el día, el mes, la ciudad, el piso, el destino y la fecha límite. Y para que los verbos y adjetivos lleven la preposición que el inglés exige (depend on, wait for, good at), que casi nunca es la que usarías en español.",
+    "llave": "La llave es una imagen. *At* es un punto exacto: una hora (at 3 pm), un lugar puntual (at the office, at home). *On* es una superficie o una línea: un día (on Monday, on October 21st), un piso (on the 5th floor), la mesa (on the table). *In* es un contenedor: un periodo largo (in October, in 2026, in the morning) o un espacio con límites (in Bogotá, in the meeting room). Si dudas, pregúntate: ¿punto, superficie o contenedor?",
+    "formulas": [
+      {
+        "tipo": "Tiempo: at / on / in",
+        "formula": "at + hora · on + día o fecha · in + mes, año, estación, parte del día",
+        "ejemplo": "The call {{is}} at 3 pm on Monday; the launch {{is}} in October."
+      },
+      {
+        "tipo": "Excepciones de tiempo",
+        "formula": "at night · at noon · at the weekend (UK) / on the weekend, on weekends (US) · sin preposición con next, last, this, every",
+        "ejemplo": "I {{read}} at night and I {{rest}} on weekends. See you next Monday."
+      },
+      {
+        "tipo": "Lugar: at / on / in",
+        "formula": "at + punto (at the office, at home, at the door) · on + superficie o piso (on the 5th floor, on the wall) · in + ciudad, país, cuarto, recipiente",
+        "ejemplo": "She {{works}} at Brava, on the 5th floor, in Bogotá."
+      },
+      {
+        "tipo": "Movimiento",
+        "formula": "to + destino · into + hacia dentro · from + origen",
+        "ejemplo": "I {{drove}} from Bogotá to Chía and {{walked}} into the house."
+      },
+      {
+        "tipo": "Duración y plazos",
+        "formula": "for + cantidad de tiempo · since + punto de inicio · during + evento · until + fin de una duración · by + fecha límite",
+        "ejemplo": "I[['ve]] {{worked}} here for six years, since 2020. I[['ll]] {{send}} it by Friday."
+      },
+      {
+        "tipo": "Verbo + preposición",
+        "formula": "depend on · wait for · listen to · arrive at (lugar) / in (ciudad) · talk to … about · agree with · pay for · apply for · look for · ask for",
+        "ejemplo": "It {{depends}} on the client. I[['m]] {{wait((ing))}} for the brief."
+      },
+      {
+        "tipo": "Adjetivo + preposición",
+        "formula": "good at · bad at · interested in · responsible for · married to · afraid of",
+        "ejemplo": "Laura {{is}} good at presentations and responsible for two clients."
+      }
+    ],
+    "reglas": [
+      "Tiempo: *at* para horas exactas (at 9, at noon, at midnight, at night), *on* para días y fechas completas (on Monday, on October 21st, on my birthday), *in* para periodos largos (in October, in 2026, in the summer, in the morning).",
+      "*In the morning / afternoon / evening*, pero *at night*. Es la excepción que más se oye.",
+      "Fin de semana: en inglés estadounidense *on the weekend* y *on weekends*; *at the weekend* es británico. Las dos son correctas, pero no las mezcles con *in*.",
+      "Con *next, last, this, every, tomorrow, yesterday* no va preposición: *next Monday*, *last week*, *every day* (nunca *on next Monday*).",
+      "Lugar: *at* es el punto donde estás o te encuentras con alguien (at the office, at home, at work, at the airport, at the door); *in* es el espacio que te contiene (in Bogotá, in Colombia, in the kitchen, in the car); *on* es una superficie o un piso (on the table, on the wall, on the 5th floor, on the bus).",
+      "Internet y pantallas van con *on*: *on Instagram, on the internet, on TV, on the phone, on the screen*.",
+      "Movimiento: *to* es el destino (go to the office), *into* es entrar (walk into the room), *from* es el origen (fly from Bogotá). *Arrive* no lleva *to*: *arrive at the office* (lugar) y *arrive in Bogotá* (ciudad o país).",
+      "*For* + cantidad (for two hours, for six years); *since* + punto de inicio (since 2020, since Monday); *during* + evento o periodo (during the meeting); *until* = hasta que termina algo (until 6 pm); *by* = a más tardar (by Friday).",
+      "Algunos verbos no llevan preposición aunque en español sí: *discuss the budget* (no *discuss about*), *call me* (no *call to me*), *enter the room* (no *enter to*).",
+      "La preposición de un verbo o adjetivo se aprende con la palabra, como si fuera una sola: *depend ON, wait FOR, listen TO, agree WITH, good AT, interested IN, responsible FOR, married TO*."
+    ],
+    "senales": [
+      "at 3 pm",
+      "on Monday",
+      "on October 21st",
+      "in October",
+      "in the morning",
+      "at night",
+      "on weekends",
+      "at the office",
+      "in Bogotá",
+      "on the 5th floor",
+      "since 2020",
+      "for six years",
+      "by Friday",
+      "depend on",
+      "good at"
+    ],
+    "usos": [
+      {
+        "uso": "Quedar con alguien",
+        "contexto": "diario",
+        "ejemplo": "Let's {{meet}} at the gym at 6 on Saturday."
+      },
+      {
+        "uso": "Contar tu rutina",
+        "contexto": "diario",
+        "ejemplo": "I {{run}} in the morning and I {{read}} at night."
+      },
+      {
+        "uso": "Hablar de un viaje",
+        "contexto": "diario",
+        "ejemplo": "We {{flew}} from Bogotá to Cartagena and {{stayed}} there for four days."
+      },
+      {
+        "uso": "Decir dónde vives y desde cuándo",
+        "contexto": "diario",
+        "ejemplo": "I[['ve]] {{lived}} in Chapinero since 2018."
+      },
+      {
+        "uso": "Confirmar una reunión",
+        "contexto": "trabajo",
+        "ejemplo": "The meeting {{is}} on Thursday at 10 at our office."
+      },
+      {
+        "uso": "Fijar una fecha límite",
+        "contexto": "trabajo",
+        "ejemplo": "We {{need}} the final files by Friday."
+      },
+      {
+        "uso": "Describir tu rol",
+        "contexto": "trabajo",
+        "ejemplo": "I[['m]] responsible for three accounts and I {{report}} to the CEO."
+      },
+      {
+        "uso": "Explicar de qué depende algo",
+        "contexto": "trabajo",
+        "ejemplo": "The price {{depends}} on the number of pages."
+      }
+    ],
+    "errores": [
+      {
+        "mal": "It depends of the budget.",
+        "bien": "It depends on the budget.",
+        "porque": "Depend va siempre con on. «Depender de» es la trampa.",
+        "code": "USO"
+      },
+      {
+        "mal": "We arrived to the office at 9.",
+        "bien": "We arrived at the office at 9.",
+        "porque": "Arrive no lleva to: at para lugares y in para ciudades.",
+        "code": "USO"
+      },
+      {
+        "mal": "I have a meeting in Monday.",
+        "bien": "I have a meeting on Monday.",
+        "porque": "Los días van con on. In es para meses y años.",
+        "code": "USO"
+      },
+      {
+        "mal": "She is married with an architect.",
+        "bien": "She is married to an architect.",
+        "porque": "Married to, aunque en español digamos «casada con».",
+        "code": "USO"
+      },
+      {
+        "mal": "Let's discuss about the budget.",
+        "bien": "Let's discuss the budget.",
+        "porque": "Discuss ya incluye «sobre»: no lleva about. Si quieres about, usa talk about.",
+        "code": "USO"
+      },
+      {
+        "mal": "I work out in the night.",
+        "bien": "I work out at night.",
+        "porque": "Night es la excepción: at night (pero in the morning).",
+        "code": "USO"
+      },
+      {
+        "mal": "I've lived here since five years.",
+        "bien": "I've lived here for five years.",
+        "porque": "Since marca el inicio (since 2021); for marca la cantidad (for five years).",
+        "code": "USO"
+      },
+      {
+        "mal": "I'm waiting the client.",
+        "bien": "I'm waiting for the client.",
+        "porque": "Wait necesita for antes de la persona o la cosa.",
+        "code": "USO"
+      }
+    ],
+    "contraste": [
+      {
+        "a": "I[['ll]] {{have}} it ready by Friday.",
+        "b": "I[['ll]] {{be}} in the office until Friday.",
+        "nota": "By = a más tardar ese día (fecha límite). Until = hasta ese día, todo el tiempo (duración)."
+      },
+      {
+        "a": "I[['ve]] {{worked}} here for six years.",
+        "b": "I[['ve]] {{worked}} here since 2020.",
+        "nota": "For + cuánto tiempo. Since + desde cuándo. Las dos responden a How long."
+      },
+      {
+        "a": "We {{arrived}} at the hotel at noon.",
+        "b": "We {{arrived}} in Cartagena at noon.",
+        "nota": "Arrive at + edificio o punto; arrive in + ciudad o país. Nunca arrive to."
+      },
+      {
+        "a": "I {{go}} to the gym in the morning.",
+        "b": "I {{read}} at night.",
+        "nota": "Las partes del día llevan in the…, salvo night, que lleva at."
+      }
+    ],
+    "frases": [
+      {
+        "en": "See you on Monday at 9.",
+        "es": "Nos vemos el lunes a las 9.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'll be at the office until 6.",
+        "es": "Estaré en la oficina hasta las 6.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I need it by Friday, please.",
+        "es": "Lo necesito para el viernes, por favor.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "It depends on the client.",
+        "es": "Depende del cliente.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'm responsible for the media plan.",
+        "es": "Yo estoy a cargo del plan de medios.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Can I talk to you about the budget?",
+        "es": "¿Puedo hablar contigo sobre el presupuesto?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "We're waiting for the client's feedback.",
+        "es": "Estamos esperando la retroalimentación del cliente.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'm good at presentations, but bad at spreadsheets.",
+        "es": "Soy bueno para las presentaciones, pero malo para las hojas de cálculo.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I live in Bogotá, on the 5th floor.",
+        "es": "Vivo en Bogotá, en el piso 5.",
+        "contexto": "diario"
+      },
+      {
+        "en": "I go to the gym in the morning.",
+        "es": "Voy al gimnasio en la mañana.",
+        "contexto": "diario"
+      },
+      {
+        "en": "We stayed at the beach for four days.",
+        "es": "Nos quedamos en la playa cuatro días.",
+        "contexto": "diario"
+      },
+      {
+        "en": "I'm looking for my keys.",
+        "es": "Estoy buscando mis llaves.",
+        "contexto": "diario"
+      }
+    ],
+    "tip": "Piensa en una pirámide: in arriba (lo grande: años, meses, ciudades), on en el medio (días, fechas, pisos, superficies), at abajo (lo exacto: horas y puntos). Cuanto más pequeño y preciso, más cerca de at."
+  },
+  "palabras": [
+    {
+      "id": "at-time",
+      "en": "at + hora",
+      "ipa": "/æt/",
+      "es": "a las (hora exacta)",
+      "clase": "preposición",
+      "orden": 1,
+      "ejemplo": "The status meeting starts at 9 am.",
+      "hueco": { "frase": "The status meeting starts ___ 9 am. (a las)", "respuestas": ["at"] },
+      "nota": "at 3 pm, at noon, at midnight, at lunchtime"
+    },
+    {
+      "id": "on-days",
+      "en": "on + día",
+      "ipa": "/ɑn/",
+      "es": "el (día de la semana)",
+      "clase": "preposición",
+      "orden": 2,
+      "ejemplo": "We have our status call on Monday.",
+      "hueco": { "frase": "We have our status call ___ Monday. (el)", "respuestas": ["on"] },
+      "nota": "on Monday, on Fridays, on my birthday, on Christmas Day"
+    },
+    {
+      "id": "on-dates",
+      "en": "on + fecha",
+      "ipa": "/ɑn/",
+      "es": "el (fecha completa)",
+      "clase": "preposición",
+      "orden": 3,
+      "ejemplo": "The campaign launches on October 21st.",
+      "hueco": { "frase": "The campaign launches ___ October 21st. (el)", "respuestas": ["on"] },
+      "nota": "on October 21st, on the 5th of May, on January 1st"
+    },
+    {
+      "id": "in-months",
+      "en": "in + mes",
+      "ipa": "/ɪn/",
+      "es": "en (mes)",
+      "clase": "preposición",
+      "orden": 4,
+      "ejemplo": "The client wants the first draft in October.",
+      "hueco": { "frase": "The client wants the first draft ___ October. (en)", "respuestas": ["in"] },
+      "nota": "in October, in December, in the first week of May"
+    },
+    {
+      "id": "in-years",
+      "en": "in + año",
+      "ipa": "/ɪn/",
+      "es": "en (año)",
+      "clase": "preposición",
+      "orden": 5,
+      "ejemplo": "I started at Brava in 2019.",
+      "hueco": { "frase": "I started at Brava ___ 2019. (en)", "respuestas": ["in"] },
+      "nota": "in 2019, in the 90s, in the 21st century"
+    },
+    {
+      "id": "in-the-morning",
+      "en": "in the morning / afternoon / evening",
+      "ipa": "/ɪn ðə ˈmɔrnɪŋ/",
+      "es": "en la mañana / tarde / noche temprana",
+      "clase": "expresión",
+      "orden": 6,
+      "ejemplo": "I go to the gym in the morning.",
+      "hueco": { "frase": "I go to the gym ___ the morning. (en)", "respuestas": ["in"] },
+      "nota": "Pero at night. Y con días: on Monday morning (sin in)."
+    },
+    {
+      "id": "at-night",
+      "en": "at night",
+      "ipa": "/æt naɪt/",
+      "es": "de noche, por la noche",
+      "clase": "expresión",
+      "orden": 7,
+      "ejemplo": "I usually answer emails at night.",
+      "hueco": { "frase": "I usually answer emails ___ night. (de)", "respuestas": ["at"] },
+      "nota": "La excepción: in the evening pero at night. También at midnight."
+    },
+    {
+      "id": "on-weekends",
+      "en": "on the weekend / on weekends",
+      "ipa": "/ɑn ðə ˈwikɛnd/",
+      "es": "el fin de semana / los fines de semana",
+      "clase": "expresión",
+      "orden": 8,
+      "ejemplo": "We visit my parents on weekends.",
+      "hueco": { "frase": "We visit my parents ___ weekends. (los)", "respuestas": ["on"] },
+      "nota": "Estadounidense: on the weekend. Británico: at the weekend. Nunca in the weekend."
+    },
+    {
+      "id": "in-seasons",
+      "en": "in + estación",
+      "ipa": "/ɪn/",
+      "es": "en (verano, invierno…)",
+      "clase": "preposición",
+      "orden": 9,
+      "ejemplo": "Our clients spend more in the summer.",
+      "hueco": { "frase": "Our clients spend more ___ the summer. (en)", "respuestas": ["in"] },
+      "nota": "in the summer, in winter, in the rainy season"
+    },
+    {
+      "id": "no-prep-next-last",
+      "en": "next / last / this / every + tiempo (sin preposición)",
+      "ipa": "/nɛkst/",
+      "es": "el próximo / el pasado / este / cada (sin «el»)",
+      "clase": "expresión",
+      "orden": 10,
+      "ejemplo": "See you next Monday.",
+      "hueco": { "frase": "See you ___ Monday. (el próximo)", "respuestas": ["next"] },
+      "nota": "next week, last month, this Friday, every day: cero preposición."
+    },
+    {
+      "id": "at-the-office",
+      "en": "at + lugar puntual",
+      "ipa": "/æt/",
+      "es": "en (un punto: la oficina, la puerta, el aeropuerto)",
+      "clase": "preposición",
+      "orden": 11,
+      "ejemplo": "I'll wait for you at the office.",
+      "hueco": { "frase": "I'll wait for you ___ the office. (en)", "respuestas": ["at"] },
+      "nota": "at the office, at the airport, at the door, at the bus stop, at Brava"
+    },
+    {
+      "id": "in-city",
+      "en": "in + ciudad / país",
+      "ipa": "/ɪn/",
+      "es": "en (ciudad, país, barrio)",
+      "clase": "preposición",
+      "orden": 12,
+      "ejemplo": "Laura lives in Bogotá, but her family is in Cali.",
+      "hueco": { "frase": "Laura lives ___ Bogotá. (en)", "respuestas": ["in"] },
+      "nota": "in Bogotá, in Colombia, in Chapinero, in the north of the city"
+    },
+    {
+      "id": "in-the-room",
+      "en": "in + cuarto / recipiente",
+      "ipa": "/ɪn/",
+      "es": "en, dentro de (un cuarto, un carro, una caja)",
+      "clase": "preposición",
+      "orden": 13,
+      "ejemplo": "The team is in the meeting room.",
+      "hueco": { "frase": "The team is ___ the meeting room. (en)", "respuestas": ["in"] },
+      "nota": "in the kitchen, in the car, in my bag, in the box"
+    },
+    {
+      "id": "on-the-floor",
+      "en": "on the + número + floor",
+      "ipa": "/ɑn ðə flɔr/",
+      "es": "en el piso (número)",
+      "clase": "expresión",
+      "orden": 14,
+      "ejemplo": "Our office is on the 5th floor.",
+      "hueco": { "frase": "Our office is ___ the 5th floor. (en)", "respuestas": ["on"] },
+      "nota": "on the 5th floor, on the ground floor, on the top floor"
+    },
+    {
+      "id": "on-surface",
+      "en": "on + superficie",
+      "ipa": "/ɑn/",
+      "es": "en, sobre (una superficie)",
+      "clase": "preposición",
+      "orden": 15,
+      "ejemplo": "The brief is on your desk.",
+      "hueco": { "frase": "The brief is ___ your desk. (sobre)", "respuestas": ["on"] },
+      "nota": "on the table, on the wall, on the screen, on the first page"
+    },
+    {
+      "id": "at-home",
+      "en": "at home / at work",
+      "ipa": "/æt hoʊm/",
+      "es": "en casa / en el trabajo",
+      "clase": "expresión",
+      "orden": 16,
+      "ejemplo": "I'm working at home today.",
+      "hueco": { "frase": "I'm working ___ home today. (en)", "respuestas": ["at"] },
+      "nota": "Sin the: at home, at work, at school. Y también: I work from home."
+    },
+    {
+      "id": "on-the-bus",
+      "en": "on the bus / plane / train",
+      "ipa": "/ɑn ðə bʌs/",
+      "es": "en el bus / avión / tren",
+      "clase": "expresión",
+      "orden": 17,
+      "ejemplo": "I read the brief on the plane.",
+      "hueco": { "frase": "I read the brief ___ the plane. (en)", "respuestas": ["on"] },
+      "nota": "Transporte grande: on the bus, on the plane. Pequeño: in a taxi, in the car."
+    },
+    {
+      "id": "on-instagram",
+      "en": "on + internet / pantalla",
+      "ipa": "/ɑn/",
+      "es": "en (Instagram, la web, la tele, el teléfono)",
+      "clase": "preposición",
+      "orden": 18,
+      "ejemplo": "The campaign is on Instagram and on TV.",
+      "hueco": { "frase": "The campaign is ___ Instagram and on TV. (en)", "respuestas": ["on"] },
+      "nota": "on Instagram, on the internet, on TV, on the phone, on the website"
+    },
+    {
+      "id": "to-destination",
+      "en": "to + destino",
+      "ipa": "/tu/",
+      "es": "a, hacia (destino)",
+      "clase": "preposición",
+      "orden": 19,
+      "ejemplo": "I go to the office by bus.",
+      "hueco": { "frase": "I go ___ the office by bus. (a)", "respuestas": ["to"] },
+      "nota": "go to work, fly to Medellín, send it to the client. Excepción: go home (sin to)."
+    },
+    {
+      "id": "into",
+      "en": "into",
+      "ipa": "/ˈɪntu/",
+      "es": "hacia dentro de, entrar en",
+      "clase": "preposición",
+      "orden": 20,
+      "ejemplo": "She walked into the room and smiled.",
+      "hueco": { "frase": "She walked ___ the room and smiled. (hacia dentro de)", "respuestas": ["into"] },
+      "nota": "walk into the room, get into the car, put it into the box. Lo contrario: out of."
+    },
+    {
+      "id": "from",
+      "en": "from",
+      "ipa": "/frʌm/",
+      "es": "de, desde (origen)",
+      "clase": "preposición",
+      "orden": 21,
+      "ejemplo": "We flew from Bogotá to Cartagena.",
+      "hueco": { "frase": "We flew ___ Bogotá to Cartagena. (desde)", "respuestas": ["from"] },
+      "nota": "from Bogotá, from 9 to 5, an email from the client, I'm from Colombia"
+    },
+    {
+      "id": "by-transport",
+      "en": "by + transporte",
+      "ipa": "/baɪ/",
+      "es": "en (bus, carro, avión), a pie",
+      "clase": "preposición",
+      "orden": 22,
+      "ejemplo": "I usually go to work by bus.",
+      "hueco": { "frase": "I usually go to work ___ bus. (en)", "respuestas": ["by"] },
+      "nota": "by bus, by car, by plane, by bike, pero on foot."
+    },
+    {
+      "id": "for-duration",
+      "en": "for + duración",
+      "ipa": "/fɔr/",
+      "es": "durante (cantidad de tiempo)",
+      "clase": "preposición",
+      "orden": 23,
+      "ejemplo": "I've worked at Brava for six years.",
+      "hueco": { "frase": "I've worked at Brava ___ six years. (durante, cantidad)", "respuestas": ["for"] },
+      "nota": "for two hours, for six years, for a long time. Cantidad, no punto de inicio."
+    },
+    {
+      "id": "since",
+      "en": "since",
+      "ipa": "/sɪns/",
+      "es": "desde (punto de inicio)",
+      "clase": "preposición",
+      "orden": 24,
+      "ejemplo": "I've lived in Chapinero since 2018.",
+      "hueco": { "frase": "I've lived in Chapinero ___ 2018. (desde)", "respuestas": ["since"] },
+      "nota": "since 2018, since Monday, since I was a kid. Va con presente perfecto."
+    },
+    {
+      "id": "during",
+      "en": "during",
+      "ipa": "/ˈdʊrɪŋ/",
+      "es": "durante (un evento o periodo)",
+      "clase": "preposición",
+      "orden": 25,
+      "ejemplo": "My phone rang during the presentation.",
+      "hueco": { "frase": "My phone rang ___ the presentation. (durante)", "respuestas": ["during"] },
+      "nota": "during the meeting, during the summer, during the week. Nunca con cantidades: for two hours."
+    },
+    {
+      "id": "until",
+      "en": "until / till",
+      "ipa": "/ənˈtɪl/",
+      "es": "hasta (que termina)",
+      "clase": "preposición",
+      "orden": 26,
+      "ejemplo": "I'll be in the office until 6 pm.",
+      "hueco": { "frase": "I'll be in the office ___ 6 pm. (hasta)", "respuestas": ["until", "till"] },
+      "nota": "Duración que termina: until Friday, until midnight. No es fecha límite (eso es by)."
+    },
+    {
+      "id": "by-deadline",
+      "en": "by + fecha límite",
+      "ipa": "/baɪ/",
+      "es": "a más tardar, para (fecha límite)",
+      "clase": "preposición",
+      "orden": 27,
+      "ejemplo": "I need the final files by Friday.",
+      "hueco": { "frase": "I need the final files ___ Friday. (a más tardar)", "respuestas": ["by"] },
+      "nota": "by Friday, by noon, by the end of the month. «Para el viernes» es by, no for ni until."
+    },
+    {
+      "id": "depend-on",
+      "en": "depend on",
+      "ipa": "/dɪˈpɛnd ɑn/",
+      "es": "depender de",
+      "clase": "expresión",
+      "orden": 28,
+      "ejemplo": "The price depends on the number of pages.",
+      "hueco": { "frase": "The price depends ___ the number of pages. (de)", "respuestas": ["on"] },
+      "nota": "Nunca depend of. It depends on you / on the client / on the budget."
+    },
+    {
+      "id": "wait-for",
+      "en": "wait for",
+      "ipa": "/weɪt fɔr/",
+      "es": "esperar (a alguien o algo)",
+      "clase": "expresión",
+      "orden": 29,
+      "ejemplo": "We're waiting for the client's feedback.",
+      "hueco": { "frase": "We're waiting ___ the client's feedback. (esperar algo)", "respuestas": ["for"] },
+      "nota": "wait for the bus, wait for me. Sin for solo cuando no dices qué esperas: Wait!"
+    },
+    {
+      "id": "listen-to",
+      "en": "listen to",
+      "ipa": "/ˈlɪsən tu/",
+      "es": "escuchar (algo o a alguien)",
+      "clase": "expresión",
+      "orden": 30,
+      "ejemplo": "I listen to podcasts on the bus.",
+      "hueco": { "frase": "I listen ___ podcasts on the bus. (escuchar algo)", "respuestas": ["to"] },
+      "nota": "listen to music, listen to the client. Hear no lleva to: I heard a noise."
+    },
+    {
+      "id": "arrive-at-in",
+      "en": "arrive at / arrive in",
+      "ipa": "/əˈraɪv æt/",
+      "es": "llegar a (at: lugar · in: ciudad)",
+      "clase": "expresión",
+      "orden": 31,
+      "ejemplo": "We arrived at the hotel at noon.",
+      "hueco": { "frase": "We arrived ___ the hotel at noon. (llegar a un lugar puntual)", "respuestas": ["at"] },
+      "nota": "arrive at the office / the airport; arrive in Bogotá / Colombia. Nunca arrive to. Y arrive home sin preposición."
+    },
+    {
+      "id": "talk-to-about",
+      "en": "talk to … about",
+      "ipa": "/tɔk tu əˈbaʊt/",
+      "es": "hablar con … sobre",
+      "clase": "expresión",
+      "orden": 32,
+      "ejemplo": "I talked to the client about the deadline.",
+      "hueco": { "frase": "I talked to the client ___ the deadline. (sobre)", "respuestas": ["about"] },
+      "nota": "talk to someone (también talk with en EE. UU.). Pero discuss something, sin about."
+    },
+    {
+      "id": "agree-with",
+      "en": "agree with",
+      "ipa": "/əˈɡri wɪð/",
+      "es": "estar de acuerdo con",
+      "clase": "expresión",
+      "orden": 33,
+      "ejemplo": "I agree with Laura: the video is too long.",
+      "hueco": { "frase": "I agree ___ Laura: the video is too long. (con)", "respuestas": ["with"] },
+      "nota": "agree with a person. Con una idea: agree on the plan / agree to the proposal."
+    },
+    {
+      "id": "pay-for",
+      "en": "pay for",
+      "ipa": "/peɪ fɔr/",
+      "es": "pagar (algo que compras)",
+      "clase": "expresión",
+      "orden": 34,
+      "ejemplo": "The client pays for the media, we pay for the production.",
+      "hueco": { "frase": "The client pays ___ the media. (pagar algo)", "respuestas": ["for"] },
+      "nota": "pay for the tickets, pay for lunch. Pero pay the bill, pay 50 dollars (sin for)."
+    },
+    {
+      "id": "apply-for",
+      "en": "apply for",
+      "ipa": "/əˈplaɪ fɔr/",
+      "es": "postularse a, solicitar",
+      "clase": "expresión",
+      "orden": 35,
+      "ejemplo": "Mike applied for a job at a digital agency.",
+      "hueco": { "frase": "Mike applied ___ a job at a digital agency. (postularse a)", "respuestas": ["for"] },
+      "nota": "apply for a job / a visa / a loan. Y apply to a company / a university."
+    },
+    {
+      "id": "look-for",
+      "en": "look for",
+      "ipa": "/lʊk fɔr/",
+      "es": "buscar",
+      "clase": "expresión",
+      "orden": 36,
+      "ejemplo": "We're looking for a new account manager.",
+      "hueco": { "frase": "We're looking ___ a new account manager. (buscar)", "respuestas": ["for"] },
+      "nota": "look for = buscar; look at = mirar; look after = cuidar."
+    },
+    {
+      "id": "ask-for",
+      "en": "ask for",
+      "ipa": "/æsk fɔr/",
+      "es": "pedir (algo)",
+      "clase": "expresión",
+      "orden": 37,
+      "ejemplo": "Can you ask the client for the final logo?",
+      "hueco": { "frase": "Can you ask the client ___ the final logo? (pedir algo)", "respuestas": ["for"] },
+      "nota": "ask for help, ask for the bill. Pero ask a question y ask someone (sin for)."
+    },
+    {
+      "id": "good-at",
+      "en": "good at / bad at",
+      "ipa": "/ɡʊd æt/",
+      "es": "bueno para / malo para",
+      "clase": "expresión",
+      "orden": 38,
+      "ejemplo": "Laura is really good at presentations.",
+      "hueco": { "frase": "Laura is really good ___ presentations. (bueno para)", "respuestas": ["at"] },
+      "nota": "good at numbers, bad at names, good at + -ing: good at negotiating."
+    },
+    {
+      "id": "interested-in",
+      "en": "interested in",
+      "ipa": "/ˈɪntrəstəd ɪn/",
+      "es": "interesado en",
+      "clase": "expresión",
+      "orden": 39,
+      "ejemplo": "The client is interested in a TikTok campaign.",
+      "hueco": { "frase": "The client is interested ___ a TikTok campaign. (interesado en)", "respuestas": ["in"] },
+      "nota": "interested in + sustantivo o -ing: interested in working with us."
+    },
+    {
+      "id": "responsible-for",
+      "en": "responsible for",
+      "ipa": "/rɪˈspɑnsəbəl fɔr/",
+      "es": "responsable de, a cargo de",
+      "clase": "expresión",
+      "orden": 40,
+      "ejemplo": "Camila is responsible for the media plan.",
+      "hueco": { "frase": "Camila is responsible ___ the media plan. (responsable de)", "respuestas": ["for"] },
+      "nota": "responsible for, in charge of. Nunca responsible of."
+    }
+  ],
+  "ejercicios": [
+    {
+      "id": "preposiciones-001",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "The meeting is ___ 3 pm.",
+      "opciones": ["at", "in", "on"],
+      "a": 0,
+      "explica": "Las horas exactas van con at: at 3 pm, at noon."
+    },
+    {
+      "id": "preposiciones-002",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "We have the status call ___ Monday.",
+      "opciones": ["on", "in", "at"],
+      "a": 0,
+      "explica": "Los días van con on. In es para meses y años."
+    },
+    {
+      "id": "preposiciones-003",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "The campaign launches ___ October.",
+      "opciones": ["in", "on", "at"],
+      "a": 0,
+      "explica": "Los meses son periodos largos: in October."
+    },
+    {
+      "id": "preposiciones-004",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "I go to the gym ___ the morning.",
+      "opciones": ["in", "at", "on"],
+      "a": 0,
+      "explica": "Las partes del día van con in the: in the morning, in the afternoon."
+    },
+    {
+      "id": "preposiciones-005",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "I usually read ___ night.",
+      "opciones": ["at", "in", "on"],
+      "a": 0,
+      "explica": "Night es la excepción: at night, sin the."
+    },
+    {
+      "id": "preposiciones-006",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Laura lives ___ Bogotá.",
+      "opciones": ["in", "at", "on"],
+      "a": 0,
+      "explica": "Ciudades y países son contenedores: in Bogotá, in Colombia."
+    },
+    {
+      "id": "preposiciones-007",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Our office is ___ the 5th floor.",
+      "opciones": ["on", "in", "at"],
+      "a": 0,
+      "explica": "Los pisos son superficies: on the 5th floor."
+    },
+    {
+      "id": "preposiciones-008",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "I'm ___ home today, working on a proposal.",
+      "opciones": ["at", "in", "on"],
+      "a": 0,
+      "explica": "At home, at work: punto donde estás, sin the."
+    },
+    {
+      "id": "preposiciones-009",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Mike was born ___ 1990.",
+      "respuestas": ["in"],
+      "explica": "Los años van con in: in 1990, in 2026."
+    },
+    {
+      "id": "preposiciones-010",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "See you ___ Friday!",
+      "respuestas": ["on"],
+      "explica": "Días de la semana con on: on Friday."
+    },
+    {
+      "id": "preposiciones-011",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Andrés is waiting ___ the client at the door.",
+      "respuestas": ["for"],
+      "explica": "Wait necesita for antes de la persona: wait for the client."
+    },
+    {
+      "id": "preposiciones-012",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "It depends ___ the budget.",
+      "respuestas": ["on"],
+      "explica": "Depend on, siempre. «Depender de» es la trampa."
+    },
+    {
+      "id": "preposiciones-013",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "I'm not very good ___ math.",
+      "respuestas": ["at"],
+      "explica": "Good at / bad at + habilidad."
+    },
+    {
+      "id": "preposiciones-014",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "I go ___ the office by bus.",
+      "respuestas": ["to"],
+      "explica": "El destino del movimiento va con to: go to the office."
+    },
+    {
+      "id": "preposiciones-015",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "USO",
+      "es": "La reunión es el lunes a las 10.",
+      "en": "The meeting is on Monday at 10.",
+      "extra": ["in", "for"],
+      "explica": "On + día, at + hora. In es la trampa del español «en lunes»."
+    },
+    {
+      "id": "preposiciones-016",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "USO",
+      "es": "Vivo en Bogotá con mi familia.",
+      "en": "I live in Bogotá with my family.",
+      "extra": ["at", "on"],
+      "explica": "Las ciudades van con in."
+    },
+    {
+      "id": "preposiciones-017",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "USO",
+      "frase": "I have a meeting in Monday.",
+      "correcta": false,
+      "correccion": ["I have a meeting on Monday."],
+      "explica": "Los días van con on, no con in."
+    },
+    {
+      "id": "preposiciones-018",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "USO",
+      "frase": "She arrived to the office at 9.",
+      "correcta": false,
+      "correccion": ["She arrived at the office at 9."],
+      "explica": "Arrive no lleva to: arrive at + lugar puntual."
+    },
+    {
+      "id": "preposiciones-019",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "USO",
+      "pares": [
+        ["at 7 pm", "a las 7 de la noche"],
+        ["on Tuesday", "el martes"],
+        ["in July", "en julio"],
+        ["at night", "de noche"],
+        ["in the afternoon", "en la tarde"]
+      ],
+      "explica": "At para horas y night, on para días, in para meses y partes del día."
+    },
+    {
+      "id": "preposiciones-020",
+      "tipo": "escuchar",
+      "nivel": 1,
+      "code": "USO",
+      "texto": "I'll see you at the office on Monday.",
+      "respuestas": ["I'll see you at the office on Monday.", "I will see you at the office on Monday."],
+      "explica": "At the office (punto) y on Monday (día). Las preposiciones suenan cortas y débiles: afina el oído."
+    },
+    {
+      "id": "preposiciones-021",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "I've worked at Brava ___ 2021.",
+      "opciones": ["since", "for", "during"],
+      "a": 0,
+      "explica": "2021 es un punto de inicio: since 2021. For sería para una cantidad (for five years)."
+    },
+    {
+      "id": "preposiciones-022",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "We've been in this meeting ___ two hours.",
+      "opciones": ["for", "since", "during"],
+      "a": 0,
+      "explica": "Two hours es una cantidad: for two hours. During va con eventos (during the meeting)."
+    },
+    {
+      "id": "preposiciones-023",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "I need the report ___ Friday, please. (a más tardar)",
+      "opciones": ["by", "until", "for"],
+      "a": 0,
+      "explica": "La fecha límite es by Friday. Until es «hasta» de duración y for es calco de «para»."
+    },
+    {
+      "id": "preposiciones-024",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Camila is responsible ___ the media plan.",
+      "opciones": ["for", "of", "about"],
+      "a": 0,
+      "explica": "Responsible for. «Responsable de» tienta a decir of, pero no existe."
+    },
+    {
+      "id": "preposiciones-025",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Sarah is married ___ a graphic designer.",
+      "opciones": ["to", "with", "of"],
+      "a": 0,
+      "explica": "Married to, aunque en español digamos «casada con»."
+    },
+    {
+      "id": "preposiciones-026",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "The phone rang ___ the presentation. (durante)",
+      "respuestas": ["during"],
+      "explica": "During + evento: during the presentation. For sería para una cantidad de tiempo."
+    },
+    {
+      "id": "preposiciones-027",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "We'll stay at the beach ___ Sunday. (hasta)",
+      "respuestas": ["until", "till"],
+      "explica": "Until marca el final de una duración: hasta el domingo."
+    },
+    {
+      "id": "preposiciones-028",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Are you interested ___ the new project?",
+      "respuestas": ["in"],
+      "explica": "Interested in + sustantivo o -ing."
+    },
+    {
+      "id": "preposiciones-029",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "I applied ___ a job at a digital agency last year.",
+      "respuestas": ["for"],
+      "explica": "Apply for a job / a visa. Apply to va con la empresa o la universidad."
+    },
+    {
+      "id": "preposiciones-030",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Don't forget to pay ___ the tickets tonight.",
+      "respuestas": ["for"],
+      "explica": "Pay for + lo que compras. Sin for solo con la cuenta o la cifra: pay the bill, pay 50 dollars."
+    },
+    {
+      "id": "preposiciones-031",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Can I talk to you ___ the budget for a minute?",
+      "respuestas": ["about"],
+      "explica": "Talk to someone about something. Discuss, en cambio, va sin about."
+    },
+    {
+      "id": "preposiciones-032",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "USO",
+      "es": "Hablé con el cliente sobre la fecha de entrega.",
+      "en": "I talked to the client about the deadline.",
+      "extra": ["of", "for"],
+      "explica": "Talk to + persona, about + tema. Of y for son calcos."
+    },
+    {
+      "id": "preposiciones-033",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "USO",
+      "es": "Llegamos a Cartagena el viernes por la noche.",
+      "en": "We arrived in Cartagena on Friday night.",
+      "extra": ["to", "at"],
+      "explica": "Arrive in + ciudad (at sería para un edificio). On Friday night, sin at ni in."
+    },
+    {
+      "id": "preposiciones-034",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "USO",
+      "es": "Trabajo aquí desde 2020.",
+      "en": "I have worked here since 2020.",
+      "extra": ["for", "during"],
+      "explica": "Since + punto de inicio (2020). For iría con una cantidad."
+    },
+    {
+      "id": "preposiciones-035",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "USO",
+      "es": "Necesito la propuesta para el miércoles.",
+      "en": "I need the proposal by Wednesday.",
+      "extra": ["until", "for"],
+      "explica": "«Para el miércoles» como fecha límite es by. Until y for son las dos trampas."
+    },
+    {
+      "id": "preposiciones-036",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "It depends of the client.",
+      "correcta": false,
+      "correccion": ["It depends on the client."],
+      "explica": "Depend on, nunca depend of."
+    },
+    {
+      "id": "preposiciones-037",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "Let's discuss about the budget tomorrow.",
+      "correcta": false,
+      "correccion": ["Let's discuss the budget tomorrow.", "Let's talk about the budget tomorrow."],
+      "explica": "Discuss ya significa «hablar sobre»: no lleva about. Si quieres about, usa talk about."
+    },
+    {
+      "id": "preposiciones-038",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "I'm waiting the bus.",
+      "correcta": false,
+      "correccion": ["I'm waiting for the bus.", "I am waiting for the bus."],
+      "explica": "Wait for + lo que esperas."
+    },
+    {
+      "id": "preposiciones-039",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "She listens to podcasts in the morning.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Correcta: listen to + algo, in the morning para la parte del día."
+    },
+    {
+      "id": "preposiciones-040",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "I'll be in the office until 6 pm today.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Correcta: in the office (o at the office) y until 6 pm, el final de una duración."
+    },
+    {
+      "id": "preposiciones-041",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "USO",
+      "es": "Nos vemos a las 8 en la oficina.",
+      "respuestas": [
+        "See you at 8 at the office.",
+        "See you at the office at 8.",
+        "I'll see you at 8 at the office.",
+        "I'll see you at the office at 8.",
+        "See you at 8 in the office.",
+        "See you in the office at 8.",
+        "I'll see you at 8 in the office.",
+        "I'll see you in the office at 8."
+      ],
+      "explica": "At 8 para la hora; at the office para el punto de encuentro (in the office también se oye)."
+    },
+    {
+      "id": "preposiciones-042",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "USO",
+      "es": "El lanzamiento es el 21 de octubre.",
+      "respuestas": [
+        "The launch is on October 21st.",
+        "The launch is on October 21.",
+        "The launch is on the 21st of October.",
+        "The launch is on October twenty-first.",
+        "The launch is on October the 21st."
+      ],
+      "explica": "Las fechas completas van con on: on October 21st."
+    },
+    {
+      "id": "preposiciones-043",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "USO",
+      "es": "Estoy esperando al cliente.",
+      "respuestas": [
+        "I'm waiting for the client.",
+        "I am waiting for the client."
+      ],
+      "explica": "Wait for + persona. El «al» del español no se traduce con to."
+    },
+    {
+      "id": "preposiciones-044",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "USO",
+      "es": "Soy bueno para las presentaciones.",
+      "respuestas": [
+        "I'm good at presentations.",
+        "I am good at presentations.",
+        "I'm good at giving presentations.",
+        "I am good at giving presentations.",
+        "I'm good at presenting.",
+        "I am good at presenting."
+      ],
+      "explica": "Good at + sustantivo o -ing. «Bueno para» no es good for (eso significa que algo te hace bien)."
+    },
+    {
+      "id": "preposiciones-045",
+      "tipo": "escuchar",
+      "nivel": 2,
+      "code": "USO",
+      "texto": "It depends on the budget and the deadline.",
+      "respuestas": ["It depends on the budget and the deadline."],
+      "explica": "Depends on: la preposición suena pegada al verbo, casi «dependson»."
+    },
+    {
+      "id": "preposiciones-046",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "USO",
+      "consigna": "Describe tu semana: qué haces el lunes y el viernes, a qué hora empiezas, dónde almuerzas, qué haces en la noche y qué haces el fin de semana.",
+      "objetivo": "on + día · at + hora · in the morning / at night · at / in + lugar · on weekends",
+      "ejemplo": "On Mondays I get to the office at 8:30 and we have a status meeting in the morning. I usually have lunch at a small restaurant near the office. On Fridays I work from home. At night I read or watch a series, and on weekends I go to the gym and visit my parents in Chía.",
+      "explica": "On para los días, at para las horas y los lugares puntuales, in para la ciudad y las partes del día (salvo at night)."
+    },
+    {
+      "id": "preposiciones-047",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Un lunes típico",
+      "instruccion": "Completa con la preposición correcta: at, on o in.",
+      "texto": "My Monday starts {1} (a las) 6 am. I go to the gym {2} (en la) the morning and I get to the office {3} (a las) 9. We have our status call {4} (los) Mondays, so I spend an hour {5} (en) the meeting room with the team. {6} (en la) the afternoon I answer emails and call clients. {7} (de) night I read or watch a series {8} (en) Netflix.",
+      "huecos": [
+        { "respuestas": ["at"] },
+        { "respuestas": ["in"] },
+        { "respuestas": ["at"] },
+        { "respuestas": ["on"] },
+        { "respuestas": ["in"] },
+        { "respuestas": ["In"] },
+        { "respuestas": ["At"] },
+        { "respuestas": ["on"] }
+      ],
+      "explica": "At para horas y night; on para días y pantallas (on Netflix); in para partes del día y cuartos."
+    },
+    {
+      "id": "preposiciones-048",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "El lanzamiento",
+      "instruccion": "Completa con la preposición correcta.",
+      "texto": "The campaign for our new client launches {1} (el) October 21st. The client is based {2} (en) Medellín, but the launch event is {3} (en) Bogotá, {4} (en el) the 12th floor of a hotel {5} (en el) the north of the city. We have been working on this {6} (durante, cantidad) three months, and the final files are due {7} (a más tardar) Friday. If we are late, the printer can't deliver them {8} (a) time.",
+      "huecos": [
+        { "respuestas": ["on"] },
+        { "respuestas": ["in"] },
+        { "respuestas": ["in"] },
+        { "respuestas": ["on"] },
+        { "respuestas": ["in"] },
+        { "respuestas": ["for"] },
+        { "respuestas": ["by"] },
+        { "respuestas": ["on"] }
+      ],
+      "explica": "On + fecha y piso; in + ciudad y zona; for + cantidad de tiempo; by + fecha límite; on time = puntual."
+    },
+    {
+      "id": "preposiciones-049",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Correo a Sarah",
+      "instruccion": "Elige la preposición que va con cada verbo.",
+      "texto": "Dear Sarah, thanks for your email. The final price depends {1} the number of pages, so I'm waiting {2} the printer's quote. I talked {3} our designer {4} the colors, and she agrees {5} you: the blue is too dark. We'll pay {6} the extra proofs, don't worry. Could you ask the client {7} the final logo? I'm looking {8} the old version, but I can't find it. Best, Andrés",
+      "huecos": [
+        { "opciones": ["on", "of", "from"], "a": 0 },
+        { "opciones": ["for", "to", "at"], "a": 0 },
+        { "opciones": ["to", "at", "for"], "a": 0 },
+        { "opciones": ["about", "of", "for"], "a": 0 },
+        { "opciones": ["with", "to", "on"], "a": 0 },
+        { "opciones": ["for", "by", "about"], "a": 0 },
+        { "opciones": ["for", "to", "with"], "a": 0 },
+        { "opciones": ["for", "to", "of"], "a": 0 }
+      ],
+      "explica": "Cada verbo trae su preposición fija: depend on, wait for, talk to … about, agree with, pay for, ask for, look for."
+    },
+    {
+      "id": "preposiciones-050",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Cuánto tiempo",
+      "instruccion": "Completa con for, since, during, until o by.",
+      "texto": "I have lived in Bogotá {1} (desde) 2015, and I have worked at Brava {2} (durante, cantidad) six years. Last week was crazy: I was in meetings {3} (hasta) 8 pm every day, and {4} (durante) the weekend I had to finish a proposal. The client needed it {5} (a más tardar) Monday morning. I have known this client {6} (desde) March, and he always sends the brief late. Next month I'm going to Cartagena {7} (durante, cantidad) four days. I won't check my email {8} (hasta que) I come back.",
+      "huecos": [
+        { "respuestas": ["since"] },
+        { "respuestas": ["for"] },
+        { "respuestas": ["until", "till"] },
+        { "respuestas": ["during"] },
+        { "respuestas": ["by"] },
+        { "respuestas": ["since"] },
+        { "respuestas": ["for"] },
+        { "respuestas": ["until", "till"] }
+      ],
+      "explica": "Since + inicio, for + cantidad, during + evento, until + fin de la duración, by + fecha límite."
+    },
+    {
+      "id": "preposiciones-051",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Sábado en Chía",
+      "instruccion": "Completa con la preposición de movimiento o de lugar.",
+      "texto": "Every Saturday, my family and I drive {1} (a) my mother's house in Chía. We leave {2} (desde) Bogotá {3} (a las) 9 and we usually arrive {4} (a, lugar puntual) her house before 10. The kids run {5} (hacia dentro de) the garden and I sit {6} (en) the kitchen with my mom. {7} (en la) the afternoon we walk {8} (al) the park.",
+      "huecos": [
+        { "respuestas": ["to"] },
+        { "respuestas": ["from"] },
+        { "respuestas": ["at"] },
+        { "respuestas": ["at"] },
+        { "respuestas": ["into"] },
+        { "respuestas": ["in"] },
+        { "respuestas": ["In"] },
+        { "respuestas": ["to"] }
+      ],
+      "explica": "To = destino, from = origen, into = entrar, arrive at + casa, in + cuarto, in the afternoon."
+    },
+    {
+      "id": "preposiciones-052",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Oferta de trabajo",
+      "instruccion": "Elige la preposición correcta en este aviso.",
+      "texto": "We are looking {1} a new account manager. The right person is good {2} numbers, interested {3} digital media and responsible {4} three or four clients. You will be part {5} a team of six and report {6} the strategy director. Interviews start {7} November and the position begins {8} January 15th.",
+      "huecos": [
+        { "opciones": ["for", "at", "to"], "a": 0 },
+        { "opciones": ["at", "in", "with"], "a": 0 },
+        { "opciones": ["in", "on", "for"], "a": 0 },
+        { "opciones": ["for", "of", "about"], "a": 0 },
+        { "opciones": ["of", "in", "from"], "a": 0 },
+        { "opciones": ["to", "at", "with"], "a": 0 },
+        { "opciones": ["in", "on", "at"], "a": 0 },
+        { "opciones": ["on", "in", "at"], "a": 0 }
+      ],
+      "explica": "Look for, good at, interested in, responsible for, part of, report to; in + mes y on + fecha completa."
+    },
+    {
+      "id": "preposiciones-053",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Fin de semana en Villa de Leyva",
+      "texto": "Last weekend Laura and Andrés went to Villa de Leyva. They left Bogotá on Friday at 6 pm and arrived at the hotel at 10. On Saturday morning they walked around the main square and had lunch at a small restaurant on the corner. In the afternoon it rained, so they stayed in the hotel room and watched a movie on Netflix. At night they met some friends from Medellín at a bar near the square. They came back to Bogotá on Sunday afternoon, and Andrés had to work on his presentation until midnight because the client meeting was on Monday at 9.",
+      "preguntas": [
+        {
+          "q": "When did they leave Bogotá?",
+          "opciones": ["On Friday at 6 pm", "On Saturday at 6 pm", "On Friday at 10 pm"],
+          "a": 0
+        },
+        {
+          "q": "Where did they have lunch?",
+          "opciones": ["At a small restaurant on the corner", "In the hotel room", "At a bar near the square"],
+          "a": 0
+        },
+        {
+          "q": "Why did Andrés work until midnight?",
+          "opciones": ["Because the client meeting was on Monday at 9", "Because it rained on Saturday", "Because the hotel was far from the square"],
+          "a": 0
+        },
+        {
+          "q": "¿Por qué el texto dice «on Sunday» pero «at night»?",
+          "opciones": ["On va con los días; at va con night y con las horas", "On es para fines de semana y at para días laborales", "Significan exactamente lo mismo"],
+          "a": 0
+        }
+      ],
+      "explica": "On + día, at + hora y at night, in the afternoon, at + punto (the hotel, a bar), in + cuarto, to + destino."
+    },
+    {
+      "id": "preposiciones-054",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Actualización del equipo",
+      "texto": "Hi team, quick update on the Nova campaign. The client approved the concept on Tuesday, so we are moving on to production. The shoot is on October 21st in Medellín, and we need to be at the studio at 7 am. Camila is responsible for the schedule and Mike is in charge of the budget. We have been waiting for the final script since Monday; the copywriter promised it by Thursday. Please send me your travel details by Friday at noon so I can book the hotel. We will stay in Medellín for two nights and come back to Bogotá on Thursday night. Thanks, Sarah",
+      "preguntas": [
+        {
+          "q": "When and where is the shoot?",
+          "opciones": ["On October 21st in Medellín", "On Tuesday in Bogotá", "On Thursday at noon"],
+          "a": 0
+        },
+        {
+          "q": "What time do they need to be at the studio?",
+          "opciones": ["At 7 am", "At noon", "At night"],
+          "a": 0
+        },
+        {
+          "q": "What have they been waiting for since Monday?",
+          "opciones": ["The final script", "The hotel booking", "The budget"],
+          "a": 0
+        },
+        {
+          "q": "«Send me your travel details by Friday» significa…",
+          "opciones": ["El viernes es el último momento para enviarlos", "Enviarlos todos los días hasta el viernes", "Enviarlos solo el viernes"],
+          "a": 0
+        }
+      ],
+      "explica": "Responsible for, in charge of, wait for, since + inicio, by + fecha límite, for + cantidad de noches."
+    },
+    {
+      "id": "preposiciones-055",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Daniela, planner",
+      "texto": "Daniela is a planner at Brava. She has worked in advertising for eight years, and she has been at Brava since 2022. She is good at presenting ideas and very interested in consumer data. She is responsible for three clients, including a bank and a motorcycle brand. Her day depends on the meetings: she usually arrives at the office at 8:30, listens to a podcast on the bus, and talks to her team about priorities before 9. She lives in Chapinero with her husband, who works from home. On weekends she doesn't look at her email; she waits for Monday.",
+      "preguntas": [
+        {
+          "q": "How long has Daniela been at Brava?",
+          "opciones": ["Since 2022", "For eight years", "Since 8:30"],
+          "a": 0
+        },
+        {
+          "q": "What is she responsible for?",
+          "opciones": ["Three clients", "The office", "A podcast"],
+          "a": 0
+        },
+        {
+          "q": "What does she do on weekends?",
+          "opciones": ["She doesn't check her email", "She listens to podcasts on the bus", "She talks to her team"],
+          "a": 0
+        },
+        {
+          "q": "¿Por qué «arrives at the office» pero «lives in Chapinero»?",
+          "opciones": ["At es un punto exacto; in es un barrio o ciudad que te contiene", "At es formal e in es informal", "Arrive siempre lleva at y live siempre lleva in"],
+          "a": 0
+        }
+      ],
+      "explica": "For + cantidad, since + inicio, good at, interested in, responsible for, depend on, arrive at, listen to, talk to … about, wait for."
+    },
+    {
+      "id": "preposiciones-056",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Viaje a la costa",
+      "texto": "Our trip to the coast was a small adventure. We flew from Bogotá to Santa Marta on Thursday morning, and from the airport we took a taxi to the hotel. The driver put our bags into the trunk and drove along the beach road for forty minutes. We arrived at the hotel at noon, left our things in the room and walked straight into the sea. During the next three days we went from one beach to another and only came back to the hotel at night. On Sunday we had to be at the airport by 5 pm, and we landed in Bogotá at 8.",
+      "preguntas": [
+        {
+          "q": "How did they get from the airport to the hotel?",
+          "opciones": ["By taxi", "On foot", "By bus"],
+          "a": 0
+        },
+        {
+          "q": "When did they arrive at the hotel?",
+          "opciones": ["At noon", "At night", "At 5 pm"],
+          "a": 0
+        },
+        {
+          "q": "¿Qué diferencia hay entre «walked into the sea» y «walked to the sea»?",
+          "opciones": ["Into = entraron al agua; to = solo llegaron hasta el mar", "Significan lo mismo", "Into es más formal"],
+          "a": 0
+        },
+        {
+          "q": "¿Por qué «landed in Bogotá» y no «at Bogotá»?",
+          "opciones": ["Las ciudades llevan in", "Los aeropuertos llevan in", "Land siempre lleva in"],
+          "a": 0
+        }
+      ],
+      "explica": "From … to para origen y destino, into para entrar, arrive at + edificio, in + ciudad, by + hora límite, for + duración."
+    },
+    {
+      "id": "preposiciones-057",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "USO",
+      "consigna": "Describe tu semana típica: di qué haces el lunes y otros dos días, a qué hora empiezas, dónde almuerzas o trabajas, y qué haces en la mañana y en la noche.",
+      "requisitos": [
+        { "texto": "Usa on + día de la semana", "patron": "\\bon\\s+(monday|tuesday|wednesday|thursday|friday|saturday|sunday)s?\\b" },
+        { "texto": "Usa at + hora", "patron": "\\bat\\s+\\d{1,2}" },
+        { "texto": "Usa in the morning / afternoon / evening o at night", "patron": "\\b(in\\s+the\\s+(morning|afternoon|evening)|at\\s+night)\\b" },
+        { "texto": "Usa at + lugar (at the office, at home, at the gym)", "patron": "\\bat\\s+(the\\s+)?(office|home|work|gym|school|university)\\b" }
+      ],
+      "minPalabras": 40,
+      "ejemplo": "On Mondays I wake up at 6 and go to the gym at 6:30. I arrive at the office at 9 and we have a status meeting in the morning. I usually have lunch at a small restaurant near the office. On Wednesdays I work from home, and on Fridays we finish early. At night I read or watch a series with my wife.",
+      "explica": "On para días, at para horas y lugares puntuales, in the para partes del día (salvo at night)."
+    },
+    {
+      "id": "preposiciones-058",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "USO",
+      "consigna": "Escribe un correo corto a un cliente confirmando el día, la hora y el lugar de una reunión, y la fecha límite en la que le enviarás un documento.",
+      "requisitos": [
+        { "texto": "Usa on + día o fecha", "patron": "\\bon\\s+(monday|tuesday|wednesday|thursday|friday|saturday|sunday|january|february|march|april|may|june|july|august|september|october|november|december)\\b" },
+        { "texto": "Usa at + hora", "patron": "\\bat\\s+\\d{1,2}" },
+        { "texto": "Usa by + plazo (by Wednesday, by the end of…)", "patron": "\\bby\\s+(monday|tuesday|wednesday|thursday|friday|saturday|sunday|the|next|tomorrow|noon|\\d)" },
+        { "texto": "Usa at / in + lugar (at our office, in the meeting room)", "patron": "\\b(at|in)\\s+(the|our|your)\\s+(office|meeting\\s+room|studio|agency)\\b" }
+      ],
+      "minPalabras": 40,
+      "ejemplo": "Hi Mike, I'm writing to confirm our meeting on Thursday, October 15th, at 10 am at our office in Bogotá. We'll go over the media plan in the meeting room on the 5th floor. I'll send you the final budget by Wednesday, so you can review it before we meet. Please let me know if the time works for you. Best, Andrés",
+      "explica": "On + día o fecha, at + hora, at/in + lugar, by + fecha límite (no until ni for)."
+    },
+    {
+      "id": "preposiciones-059",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "USO",
+      "consigna": "Cuenta cuánto tiempo llevas en tu trabajo y en tu ciudad, y qué hiciste el fin de semana pasado. Usa for, since, during y until.",
+      "requisitos": [
+        { "texto": "Usa for + cantidad de tiempo", "patron": "\\bfor\\s+(\\d+|a|an|two|three|four|five|six|seven|eight|nine|ten|several|many|a\\s+few)\\s+\\w+" },
+        { "texto": "Usa since + punto de inicio", "patron": "\\bsince\\s+\\w+" },
+        { "texto": "Usa during + evento o periodo", "patron": "\\bduring\\s+(the\\s+)?\\w+" },
+        { "texto": "Usa until o till", "patron": "\\b(until|till)\\s+\\w+" }
+      ],
+      "minPalabras": 40,
+      "ejemplo": "I have lived in Bogotá since 2010 and I have worked at Brava for six years. Last weekend was busy. During the day on Saturday I went to the gym and then I helped my daughter with a school project until 6 pm. On Sunday we visited my parents and stayed there until night. I have known my best friend since school, and he came for dinner.",
+      "explica": "For + cantidad, since + inicio, during + evento, until + final de la duración."
+    },
+    {
+      "id": "preposiciones-060",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "USO",
+      "consigna": "Describe a una persona de tu equipo (o a ti): qué hace, en qué es buena, qué le interesa, de qué es responsable y con quién habla a diario. Usa verbos y adjetivos con su preposición.",
+      "requisitos": [
+        { "texto": "Usa good at o bad at", "patron": "\\b(good|bad)\\s+at\\b" },
+        { "texto": "Usa interested in", "patron": "\\binterested\\s+in\\b" },
+        { "texto": "Usa responsible for", "patron": "\\bresponsible\\s+for\\b" },
+        { "texto": "Usa un verbo con su preposición: depend on, wait for, listen to, talk to, agree with, look for, ask for, pay for, apply for", "patron": "\\b(depends?\\s+on|waits?\\s+for|listens?\\s+to|talks?\\s+to|agrees?\\s+with|looks?\\s+for|asks?\\s+for|pays?\\s+for|appl(y|ies|ied)\\s+for)\\b" }
+      ],
+      "minPalabras": 40,
+      "ejemplo": "Camila is an account manager on my team. She is responsible for two clients: a bank and a coffee brand. She is very good at presentations and she is interested in social media trends. Every morning she talks to the creative team about priorities and listens to the client's feedback. Her day depends on the deadlines, but she always asks for help when she needs it.",
+      "explica": "La preposición se aprende con la palabra: good at, interested in, responsible for, talk to, listen to, depend on, ask for."
+    }
+  ]
+}

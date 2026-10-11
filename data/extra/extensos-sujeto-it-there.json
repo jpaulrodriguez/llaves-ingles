@@ -1,0 +1,316 @@
+{
+  "tema": "sujeto-it-there",
+  "ejercicios": [
+    {
+      "id": "sujeto-it-there-x3-001",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "SUJ",
+      "titulo": "Monday morning in Bogotá",
+      "instruccion": "Completa con it o there + el verbo entre paréntesis, en presente. It para clima, hora, tiempo y opiniones; there is / there are para decir que algo existe («hay»).",
+      "texto": "{1} (it / be) Monday, and {2} (it / rain) again in Bogotá. I get to the office at eight, but {3} (there / be / not) any coffee in the kitchen, so I go to the café downstairs. {4} (there / be) a lot of people in the line, and {5} (it / take) fifteen minutes to get a cappuccino. At ten {6} (there / be) a meeting with a new client. {7} (there / be) three people on their team, and they all speak fast. {8} (it / be) important to start on time with them, so I run upstairs with my coffee.",
+      "huecos": [
+        {
+          "respuestas": [
+            "It's",
+            "It is"
+          ]
+        },
+        {
+          "respuestas": [
+            "it's raining",
+            "it is raining"
+          ]
+        },
+        {
+          "respuestas": [
+            "there isn't",
+            "there is not",
+            "there's not"
+          ]
+        },
+        {
+          "respuestas": [
+            "There are"
+          ]
+        },
+        {
+          "respuestas": [
+            "it takes"
+          ]
+        },
+        {
+          "respuestas": [
+            "there's",
+            "there is"
+          ]
+        },
+        {
+          "respuestas": [
+            "There are"
+          ]
+        },
+        {
+          "respuestas": [
+            "It's",
+            "It is"
+          ]
+        }
+      ],
+      "explica": "Ninguna frase en inglés va sin sujeto: el día, el clima, el tiempo que tarda algo y las opiniones van con it (It's Monday, it's raining, it takes, it's important to). Lo que existe va con there, y el be concuerda con lo que sigue: there's a meeting, there are three people."
+    },
+    {
+      "id": "sujeto-it-there-x3-002",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "SUJ",
+      "titulo": "Your visit to our office",
+      "instruccion": "Elige la forma correcta. Es un email para un cliente que viene de visita: «hay» se dice there is / there are, nunca has / have.",
+      "texto": "Hi Mike, a few details for your visit on Thursday. Our office is in Chapinero. {1} about 20 minutes from your hotel by taxi. {2} a parking lot next to the building, but {3} many free spaces after nine, so come early. {4} a coffee shop on the first floor if you want breakfast. In the meeting room {5} two cameras and a big screen. Bring a jacket: {6} usually cold in the mornings here. — Thanks, Jonathan! {7} a place to print documents? — Yes, {8} a printer next to reception.",
+      "huecos": [
+        {
+          "opciones": [
+            "Is",
+            "It's",
+            "There is"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "There is",
+            "Has",
+            "It is"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "it isn't",
+            "there isn't",
+            "there aren't"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "Have",
+            "It's",
+            "There's"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "there are",
+            "there is",
+            "it has"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "there is",
+            "it's",
+            "is"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "Has",
+            "Is there",
+            "There is"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "it has",
+            "have",
+            "there's"
+          ],
+          "a": 2
+        }
+      ],
+      "explica": "Distancia y clima → it (It's 20 minutes, it's cold). Existencia → there + be: there's a parking lot, there aren't many spaces (plural), Is there a place…? en pregunta. «Hay» nunca es has ni have."
+    },
+    {
+      "id": "sujeto-it-there-x3-003",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "WW",
+      "titulo": "The launch event",
+      "instruccion": "Completa en pasado con it o there + be (o el verbo entre paréntesis). There was + singular, there were + plural; en pregunta, Was there / Were there.",
+      "texto": "Last Friday we had the launch event for a new coffee brand. {1} (it / be) a long day. In the morning {2} (there / be) a problem with the sound system, and {3} (there / be / not) enough chairs for the guests. {4} (there / be) more than two hundred people at seven! Then {5} (it / start) to rain, so we moved everything inside. {6} (there / be) any problems with the food? No, the food was perfect. At the end, the client said: '{7} (it / be) the best event of the year.' The next day {8} (there / be) a lot of photos on social media.",
+      "huecos": [
+        {
+          "respuestas": [
+            "It was"
+          ]
+        },
+        {
+          "respuestas": [
+            "there was"
+          ]
+        },
+        {
+          "respuestas": [
+            "there weren't",
+            "there were not"
+          ]
+        },
+        {
+          "respuestas": [
+            "There were"
+          ]
+        },
+        {
+          "respuestas": [
+            "it started"
+          ]
+        },
+        {
+          "respuestas": [
+            "Were there"
+          ]
+        },
+        {
+          "respuestas": [
+            "It was",
+            "It's",
+            "It is"
+          ]
+        },
+        {
+          "respuestas": [
+            "there were"
+          ]
+        }
+      ],
+      "explica": "En pasado el be de there concuerda con lo que viene detrás: there was a problem (uno), there weren't enough chairs / there were two hundred people / Were there any problems? (plural). El clima y las valoraciones siguen llevando it: it started to rain, it was a long day."
+    },
+    {
+      "id": "sujeto-it-there-x3-004",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "SUJ",
+      "titulo": "A new office in Chapinero",
+      "texto": "Brava is moving to a new office in Chapinero next month. It's a big change for the team. In the old office, there was only one meeting room, and there were always problems with the internet. In the new one, there are four meeting rooms and there's a terrace with a view of the mountains. It's ten minutes from my apartment, so I can walk to work. There's one problem, though: there isn't a parking lot, and it's difficult to find parking on the street. Laura is happy because there's a gym on the first floor. Andrés is not so happy. 'It's far from my house,' he says. 'It takes me an hour by bus.'",
+      "preguntas": [
+        {
+          "q": "How many meeting rooms are there in the new office?",
+          "opciones": [
+            "One",
+            "Four",
+            "Ten"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What is the problem with the new office?",
+          "opciones": [
+            "There isn't a parking lot",
+            "There's no internet",
+            "It's far from Jonathan's apartment"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«It takes me an hour by bus»: ¿por qué empieza con It?",
+          "opciones": [
+            "Porque toda frase en inglés necesita sujeto, aunque en español no lo haya",
+            "Porque it significa «el bus»",
+            "Porque es una pregunta"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«there were always problems»: ¿por qué were y no was?",
+          "opciones": [
+            "Porque problems es plural",
+            "Porque es una pregunta",
+            "Porque el sujeto es it"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "El texto alterna los dos sujetos vacíos: there + be para lo que existe (there was one room, there were problems, there isn't a parking lot) e it para distancia, tiempo y opiniones (It's ten minutes, it takes me an hour, it's difficult to…)."
+    },
+    {
+      "id": "sujeto-it-there-x3-005",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "SUJ",
+      "titulo": "The Monday call with Miami",
+      "texto": "Every Monday I have a call with Sarah, our client in Miami. We always start with the weather. 'How's the weather in Bogotá?' she asks. 'It's cold and it's raining, as usual,' I say. 'In Miami it's hot. It's 32 degrees today!' Then we talk about work. This week there are two problems with the campaign: there isn't enough budget for the video, and there are only three weeks before the launch. 'Is there a way to make a shorter video?' Sarah asks. 'Yes, there is. It's possible to use the photos from the shoot,' I answer. It's a good solution, and she likes it. Before we finish, she says, 'It was nice to talk to you, Jonathan.'",
+      "preguntas": [
+        {
+          "q": "What's the weather like in Bogotá?",
+          "opciones": [
+            "Hot and sunny",
+            "Cold and rainy",
+            "32 degrees"
+          ],
+          "a": 1
+        },
+        {
+          "q": "How many problems are there with the campaign?",
+          "opciones": [
+            "One",
+            "Two",
+            "Three"
+          ],
+          "a": 1
+        },
+        {
+          "q": "«Is there a way to make a shorter video?»: ¿cómo se forma la pregunta con there?",
+          "opciones": [
+            "Is / Are pasa delante de there",
+            "Con do: Does there…?",
+            "Con have: Has there…?"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«It's possible to use the photos»: ¿qué hace it aquí?",
+          "opciones": [
+            "Es el sujeto de una opinión impersonal (It's + adjetivo + to)",
+            "Se refiere al video",
+            "Es opcional, se puede quitar"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Clima, temperatura y opiniones → it (It's cold, It's 32 degrees, It's possible to…). Existencia → there is / there are, y en pregunta el be va primero: Is there a way…? Yes, there is."
+    },
+    {
+      "id": "sujeto-it-there-x3-006",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "SUJ",
+      "consigna": "Un cliente de Estados Unidos viene a Bogotá la semana próxima. Escríbele un email corto para describirle el clima, la distancia del hotel a la oficina y lo que hay (y no hay) cerca, y hazle una pregunta.",
+      "requisitos": [
+        {
+          "texto": "Usa It's / It is para el clima o la distancia",
+          "patron": "\\bit('s| is)\\b"
+        },
+        {
+          "texto": "Di lo que hay con There is / There are",
+          "patron": "\\bthere('s| is| are)\\b"
+        },
+        {
+          "texto": "Usa una negativa: there isn't / there aren't",
+          "patron": "\\bthere (isn't|aren't|is not|are not)\\b"
+        },
+        {
+          "texto": "Haz una pregunta con Is there…? / Are there…?",
+          "patron": "\\b(is|are) there\\b[^?]*\\?"
+        }
+      ],
+      "minPalabras": 50,
+      "ejemplo": "Hi Mike, welcome to Bogotá next week! It's usually cold in the mornings, so bring a jacket. Our office is in Chapinero, and it's about 20 minutes from your hotel by taxi. There are two good restaurants on our street, and there's a coffee shop on the first floor. There isn't a parking lot, though, so a taxi is the best option. Is there anything special you would like to do on Friday? Best, Jonathan",
+      "explica": "Para describir un lugar en inglés necesitas los dos sujetos vacíos: it para clima y distancia (It's cold, it's 20 minutes) y there + be para lo que existe, con el be concordando (there's a coffee shop, there are two restaurants, Is there…?)."
+    }
+  ]
+}

@@ -1,0 +1,2223 @@
+{
+  "id": "adverbios-tiempo",
+  "titulo": "Adverbios y expresiones de tiempo",
+  "grupo": "Adverbios y preposiciones",
+  "orden": 160,
+  "nivel": "A2–B1",
+  "resumen": "Qué tiempo verbal pide cada marcador: yesterday, ago e in 2020 (pasado); now, at the moment, currently y these days (continuo); already, yet, just, ever, never, since, for y so far (perfecto); tomorrow, next week, soon e in two days (futuro). Y dónde van already, yet, still y just.",
+  "llave": "el marcador elige el tiempo",
+  "teoria": {
+    "paraQue": "Para que el marcador de tiempo te diga qué tiempo verbal usar antes de abrir la boca. Si dices yesterday, el verbo va en pasado; si dices already, va en perfecto; si dices tomorrow, va en futuro. El marcador es la señal de tráfico del verbo.",
+    "llave": "La llave es el marcador: él elige el tiempo. Tiempo cerrado (yesterday, last week, ago, in 2020) → pasado simple. Momento presente (now, at the moment, currently, these days) → presente continuo. Periodo abierto o resultado (already, yet, just, ever, never, since, for, so far) → presente perfecto con have/has. Lo que viene (tomorrow, next week, soon, later, in two days) → futuro con will o going to. Aprende cada marcador con su tiempo pegado.",
+    "formulas": [
+      {
+        "tipo": "Pasado cerrado",
+        "formula": "yesterday / last week / two years ago / in 2020 / the other day + pasado simple",
+        "ejemplo": "I {{sent}} the proposal yesterday. We {{moved}} to Bogotá in 2020."
+      },
+      {
+        "tipo": "Ahora",
+        "formula": "now / right now / at the moment / currently / these days + be + -ing",
+        "ejemplo": "We[['re]] {{work((ing))}} on a pitch at the moment."
+      },
+      {
+        "tipo": "Perfecto · ya, todavía, acabar de",
+        "formula": "have/has + already / just / never / ever + participio · … yet (al final)",
+        "ejemplo": "I[['ve]] {{already}} {{sent}} it. She [[has]]n't {{answered}} yet."
+      },
+      {
+        "tipo": "Perfecto · desde cuándo",
+        "formula": "have/has + participio + since + inicio / for + cantidad · so far / lately / recently",
+        "ejemplo": "I[['ve]] {{worked}} here since 2020, for six years. So far we[['ve]] {{won}} three accounts."
+      },
+      {
+        "tipo": "Futuro",
+        "formula": "tomorrow / next week / soon / later / in two days / tonight + will / going to / be + -ing",
+        "ejemplo": "I[['ll]] {{call}} you tomorrow. We[['re]] {{present((ing))}} next week."
+      },
+      {
+        "tipo": "Posición de still / anymore",
+        "formula": "still antes del verbo y después de be · anymore al final, solo en negativas",
+        "ejemplo": "I[['m]] still {{wait((ing))}}. I [[do]]n't {{work}} there anymore."
+      },
+      {
+        "tipo": "Plazos y duración",
+        "formula": "by Friday (a más tardar) · until 6 (hasta) · during the meeting (durante) · on time (puntual) · in time (con margen)",
+        "ejemplo": "I[['ll]] {{send}} it by Friday. I[['ll]] {{be}} here until 6."
+      }
+    ],
+    "reglas": [
+      "Si el marcador cierra el tiempo (yesterday, last night, last week, two years ago, in 2020, the other day), el verbo va en pasado simple. Nunca have + yesterday.",
+      "Ago va después de la cantidad: two years ago, ten minutes ago. Y siempre con pasado simple.",
+      "Now, right now, at the moment, currently y these days piden presente continuo: lo que está pasando ahora o una tendencia temporal.",
+      "Already, just, ever y never van entre have y el participio: I've already sent it, Have you ever been…? Yet va al final, solo en negativas y preguntas: I haven't finished yet.",
+      "Since + punto de inicio (since 2020, since Monday); for + cantidad (for six years, for two hours). Los dos responden a How long…? y van con presente perfecto si el periodo sigue abierto.",
+      "So far, lately, recently y before (al final) piden presente perfecto porque el periodo sigue abierto o importa el resultado hoy.",
+      "Tomorrow, next week, soon, later, tonight e in two days (dentro de dos días) piden futuro: will para decisiones y promesas, going to o be + -ing para planes.",
+      "Still va antes del verbo y después de be: I still work there, I'm still waiting. Anymore va al final y solo en negativas: I don't work there anymore.",
+      "Nowadays pide presente simple (un hecho general de hoy). Eventually es «al final / con el tiempo», no «eventualmente». Finally es «por fin».",
+      "By Friday = a más tardar el viernes (plazo); until Friday = hasta el viernes (duración). On time = puntual; in time = a tiempo, con margen. During + nombre del evento, nunca + número.",
+      "Last, next, this, every, yesterday, tomorrow y tonight no llevan preposición: last week, next Monday, tonight (nunca in next week, in tonight)."
+    ],
+    "senales": [
+      "yesterday",
+      "last week",
+      "ago",
+      "in 2020",
+      "now",
+      "at the moment",
+      "currently",
+      "these days",
+      "already",
+      "yet",
+      "just",
+      "ever",
+      "never",
+      "since",
+      "for",
+      "so far",
+      "lately",
+      "tomorrow",
+      "next week",
+      "soon",
+      "in two days",
+      "still",
+      "anymore",
+      "by Friday",
+      "until",
+      "during"
+    ],
+    "usos": [
+      {
+        "uso": "Contar qué hiciste",
+        "contexto": "diario",
+        "ejemplo": "I {{went}} to the gym yesterday and I {{slept}} badly last night."
+      },
+      {
+        "uso": "Decir qué estás haciendo estos días",
+        "contexto": "diario",
+        "ejemplo": "I[['m]] {{read((ing))}} a lot about AI these days."
+      },
+      {
+        "uso": "Hablar de experiencias",
+        "contexto": "diario",
+        "ejemplo": "I[['ve]] never {{been}} to the Amazon. [[Have]] you ever {{been}} there?"
+      },
+      {
+        "uso": "Hacer planes",
+        "contexto": "diario",
+        "ejemplo": "I[['m]] {{go((ing))}} to the gym tonight and we[['re]] {{travel((ing))}} to Santa Marta next week."
+      },
+      {
+        "uso": "Dar el estado de un proyecto",
+        "contexto": "trabajo",
+        "ejemplo": "So far we[['ve]] {{finished}} the strategy, but the client [[has]]n't {{approved}} the budget yet."
+      },
+      {
+        "uso": "Confirmar un plazo",
+        "contexto": "trabajo",
+        "ejemplo": "I[['ll]] {{send}} you the files by Friday."
+      },
+      {
+        "uso": "Decir cuánto llevas en algo",
+        "contexto": "trabajo",
+        "ejemplo": "I[['ve]] {{worked}} at Brava since 2020, for six years."
+      },
+      {
+        "uso": "Explicar un cambio reciente",
+        "contexto": "trabajo",
+        "ejemplo": "We [[do]]n't {{work}} with print anymore. We[['ve]] recently {{hired}} two video editors."
+      }
+    ],
+    "errores": [
+      {
+        "mal": "I have sent the proposal yesterday.",
+        "bien": "I sent the proposal yesterday.",
+        "porque": "Yesterday cierra el tiempo: pasado simple, nunca perfecto.",
+        "code": "TPO"
+      },
+      {
+        "mal": "I am working at Brava since 2020.",
+        "bien": "I have worked at Brava since 2020.",
+        "porque": "Since pide presente perfecto, no continuo. En español «estoy trabajando desde» engaña.",
+        "code": "PP"
+      },
+      {
+        "mal": "We finished the video since two days.",
+        "bien": "We finished the video two days ago.",
+        "porque": "«Hace dos días» es ago, después de la cantidad.",
+        "code": "TPO"
+      },
+      {
+        "mal": "I already send the invoice.",
+        "bien": "I've already sent the invoice.",
+        "porque": "Already pide have + participio: 've sent.",
+        "code": "PP"
+      },
+      {
+        "mal": "I didn't finish yet the report.",
+        "bien": "I haven't finished the report yet.",
+        "porque": "Yet va al final y con presente perfecto.",
+        "code": "PP"
+      },
+      {
+        "mal": "I call you tomorrow.",
+        "bien": "I'll call you tomorrow.",
+        "porque": "Tomorrow pide futuro: will. El presente simple es para horarios fijos.",
+        "code": "FUT"
+      },
+      {
+        "mal": "I don't work there still.",
+        "bien": "I don't work there anymore.",
+        "porque": "«Ya no» es anymore al final. Still va antes del verbo y significa «todavía sigo».",
+        "code": "TPO"
+      },
+      {
+        "mal": "I'll be in the office by 6 pm, all afternoon.",
+        "bien": "I'll be in the office until 6 pm.",
+        "porque": "Until es hasta (duración); by es a más tardar (plazo).",
+        "code": "FUT"
+      }
+    ],
+    "contraste": [
+      {
+        "a": "I {{sent}} the brief yesterday.",
+        "b": "I[['ve]] {{just}} {{sent}} the brief.",
+        "nota": "Yesterday cierra el tiempo (pasado). Just mira el resultado hoy (perfecto)."
+      },
+      {
+        "a": "I {{worked}} there for two years.",
+        "b": "I[['ve]] {{worked}} here for two years.",
+        "nota": "Pasado + for: ya terminó. Perfecto + for: sigo ahí."
+      },
+      {
+        "a": "I[['m]] still {{wait((ing))}} for the answer.",
+        "b": "I [[do]]n't {{wait}} for his answer anymore.",
+        "nota": "Still = todavía sigue. Anymore = ya no (al final, negativa)."
+      },
+      {
+        "a": "I[['ll]] {{send}} it by Friday.",
+        "b": "I[['ll]] {{be}} here until Friday.",
+        "nota": "By = fecha límite. Until = hasta ese momento, todo el tiempo."
+      },
+      {
+        "a": "The meeting {{started}} on time.",
+        "b": "We {{arrived}} in time for the meeting.",
+        "nota": "On time = puntual, a la hora. In time = a tiempo, con margen."
+      }
+    ],
+    "frases": [
+      {
+        "en": "I'll get back to you tomorrow.",
+        "es": "Te respondo mañana.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "We haven't received the feedback yet.",
+        "es": "Todavía no hemos recibido la retroalimentación.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "So far, so good.",
+        "es": "Hasta ahora, todo bien.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I've just sent you the files.",
+        "es": "Acabo de enviarte los archivos.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I need it by Friday at the latest.",
+        "es": "Lo necesito a más tardar el viernes.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "We're currently working on three campaigns.",
+        "es": "Actualmente estamos trabajando en tres campañas.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'm still waiting for the client's approval.",
+        "es": "Todavía estoy esperando la aprobación del cliente.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Have you ever been to Cartagena?",
+        "es": "¿Alguna vez has estado en Cartagena?",
+        "contexto": "diario"
+      },
+      {
+        "en": "I haven't slept well lately.",
+        "es": "No he dormido bien últimamente.",
+        "contexto": "diario"
+      },
+      {
+        "en": "See you later!",
+        "es": "¡Hasta luego!",
+        "contexto": "diario"
+      },
+      {
+        "en": "I don't eat meat anymore.",
+        "es": "Ya no como carne.",
+        "contexto": "diario"
+      },
+      {
+        "en": "Long time no see! How long has it been?",
+        "es": "¡Cuánto tiempo! ¿Cuánto hace?",
+        "contexto": "diario"
+      }
+    ],
+    "tip": "Mira el marcador antes que el verbo. Si tiene fecha o «ago», es pasado. Si dice «ya, todavía, desde, alguna vez», es perfecto. Si dice «ahora», es continuo. Si mira al futuro, will. El marcador elige el tiempo; tú solo obedeces."
+  },
+  "palabras": [
+    {
+      "id": "yesterday",
+      "en": "yesterday",
+      "ipa": "/ˈjɛstərdeɪ/",
+      "es": "ayer",
+      "clase": "adverbio",
+      "orden": 1,
+      "ejemplo": "I sent the proposal yesterday.",
+      "hueco": {
+        "frase": "I sent the proposal ___. (ayer)",
+        "respuestas": [
+          "yesterday"
+        ]
+      },
+      "nota": "Pide pasado simple: el tiempo está cerrado. Nunca con have.",
+      "opuesto": "tomorrow"
+    },
+    {
+      "id": "tomorrow",
+      "en": "tomorrow",
+      "ipa": "/təˈmɑroʊ/",
+      "es": "mañana",
+      "clase": "adverbio",
+      "orden": 2,
+      "ejemplo": "I'll call you tomorrow.",
+      "hueco": {
+        "frase": "I'll call you ___. (mañana)",
+        "respuestas": [
+          "tomorrow"
+        ]
+      },
+      "nota": "Pide futuro: will, going to o presente continuo con plan.",
+      "opuesto": "yesterday"
+    },
+    {
+      "id": "now",
+      "en": "now",
+      "ipa": "/naʊ/",
+      "es": "ahora",
+      "clase": "adverbio",
+      "orden": 3,
+      "ejemplo": "I'm working on the budget now.",
+      "hueco": {
+        "frase": "I'm working on the budget ___. (ahora)",
+        "respuestas": [
+          "now"
+        ]
+      },
+      "nota": "Pide presente continuo: algo que pasa en este momento."
+    },
+    {
+      "id": "ago",
+      "en": "ago",
+      "ipa": "/əˈɡoʊ/",
+      "es": "hace (tiempo)",
+      "clase": "adverbio",
+      "orden": 4,
+      "ejemplo": "She joined Brava two years ago.",
+      "hueco": {
+        "frase": "She joined Brava two years ___. (hace)",
+        "respuestas": [
+          "ago"
+        ]
+      },
+      "nota": "Va después de la cantidad (two years ago) y pide pasado simple, nunca perfecto."
+    },
+    {
+      "id": "already",
+      "en": "already",
+      "ipa": "/ɔlˈrɛdi/",
+      "es": "ya (afirmativa)",
+      "clase": "adverbio",
+      "orden": 5,
+      "ejemplo": "I've already sent the invoice.",
+      "hueco": {
+        "frase": "I've ___ sent the invoice. (ya)",
+        "respuestas": [
+          "already"
+        ]
+      },
+      "nota": "Pide presente perfecto. Va entre have y el participio."
+    },
+    {
+      "id": "yet",
+      "en": "yet",
+      "ipa": "/jɛt/",
+      "es": "todavía (negativa) · ya (pregunta)",
+      "clase": "adverbio",
+      "orden": 6,
+      "ejemplo": "The client hasn't approved the budget yet.",
+      "hueco": {
+        "frase": "The client hasn't approved the budget ___. (todavía)",
+        "respuestas": [
+          "yet"
+        ]
+      },
+      "nota": "Pide presente perfecto en negativas y preguntas. Va al final de la frase."
+    },
+    {
+      "id": "just",
+      "en": "just",
+      "ipa": "/dʒʌst/",
+      "es": "acabar de, recién",
+      "clase": "adverbio",
+      "orden": 7,
+      "ejemplo": "We've just finished the presentation.",
+      "hueco": {
+        "frase": "We've ___ finished the presentation. (acabamos de)",
+        "respuestas": [
+          "just"
+        ]
+      },
+      "nota": "Pide presente perfecto: have + just + participio. En EE. UU. también se oye con pasado simple."
+    },
+    {
+      "id": "last-week",
+      "en": "last week",
+      "ipa": "/læst wiːk/",
+      "es": "la semana pasada",
+      "clase": "expresión",
+      "orden": 8,
+      "ejemplo": "We launched the campaign last week.",
+      "hueco": {
+        "frase": "We launched the campaign ___. (la semana pasada)",
+        "respuestas": [
+          "last week"
+        ]
+      },
+      "nota": "Pide pasado simple. Sin preposición: nunca «in last week». Igual last month, last year."
+    },
+    {
+      "id": "next-week",
+      "en": "next week",
+      "ipa": "/nɛkst wiːk/",
+      "es": "la próxima semana",
+      "clase": "expresión",
+      "orden": 9,
+      "ejemplo": "We're presenting to the client next week.",
+      "hueco": {
+        "frase": "We're presenting to the client ___. (la próxima semana)",
+        "respuestas": [
+          "next week"
+        ]
+      },
+      "nota": "Pide futuro. Sin preposición: nunca «in next week». Igual next month, next year."
+    },
+    {
+      "id": "still",
+      "en": "still",
+      "ipa": "/stɪl/",
+      "es": "todavía, aún (sigue pasando)",
+      "clase": "adverbio",
+      "orden": 10,
+      "ejemplo": "I'm still waiting for the client's answer.",
+      "hueco": {
+        "frase": "I'm ___ waiting for the client's answer. (todavía)",
+        "respuestas": [
+          "still"
+        ]
+      },
+      "nota": "Pide presente continuo o presente simple. Va antes del verbo y después de be."
+    },
+    {
+      "id": "at-the-moment",
+      "en": "at the moment",
+      "ipa": "/æt ðə ˈmoʊmənt/",
+      "es": "en este momento",
+      "clase": "expresión",
+      "orden": 11,
+      "ejemplo": "Laura is in a meeting at the moment.",
+      "hueco": {
+        "frase": "Laura is in a meeting ___. (en este momento)",
+        "respuestas": [
+          "at the moment"
+        ]
+      },
+      "nota": "Pide presente continuo (o be en presente). Equivale a right now."
+    },
+    {
+      "id": "since",
+      "en": "since",
+      "ipa": "/sɪns/",
+      "es": "desde (punto de inicio)",
+      "clase": "expresión",
+      "orden": 12,
+      "ejemplo": "I've worked at Brava since 2020.",
+      "hueco": {
+        "frase": "I've worked at Brava ___ 2020. (desde)",
+        "respuestas": [
+          "since"
+        ]
+      },
+      "nota": "Pide presente perfecto. Since + fecha o momento de inicio."
+    },
+    {
+      "id": "for",
+      "en": "for (duración)",
+      "ipa": "/fɔr/",
+      "es": "durante, hace (cantidad de tiempo)",
+      "clase": "expresión",
+      "orden": 13,
+      "ejemplo": "I've lived in Chapinero for six years.",
+      "hueco": {
+        "frase": "I've lived in Chapinero ___ six years. (durante / hace)",
+        "respuestas": [
+          "for"
+        ]
+      },
+      "nota": "Pide presente perfecto cuando el periodo sigue abierto (for six years = y sigo). Con pasado simple si ya terminó."
+    },
+    {
+      "id": "ever",
+      "en": "ever",
+      "ipa": "/ˈɛvər/",
+      "es": "alguna vez",
+      "clase": "adverbio",
+      "orden": 14,
+      "ejemplo": "Have you ever worked with a bank?",
+      "hueco": {
+        "frase": "Have you ___ worked with a bank? (alguna vez)",
+        "respuestas": [
+          "ever"
+        ]
+      },
+      "nota": "Pide presente perfecto en preguntas de experiencia. Va entre have y el participio."
+    },
+    {
+      "id": "never",
+      "en": "never (experiencia)",
+      "ipa": "/ˈnɛvər/",
+      "es": "nunca (hasta hoy)",
+      "clase": "adverbio",
+      "orden": 15,
+      "ejemplo": "I've never been to the Amazon.",
+      "hueco": {
+        "frase": "I've ___ been to the Amazon. (nunca)",
+        "respuestas": [
+          "never"
+        ]
+      },
+      "nota": "Con have pide presente perfecto: experiencia que no has tenido. Va entre have y el participio."
+    },
+    {
+      "id": "soon",
+      "en": "soon",
+      "ipa": "/suːn/",
+      "es": "pronto",
+      "clase": "adverbio",
+      "orden": 16,
+      "ejemplo": "I'll send you the files soon.",
+      "hueco": {
+        "frase": "I'll send you the files ___. (pronto)",
+        "respuestas": [
+          "soon"
+        ]
+      },
+      "nota": "Pide futuro con will. See you soon."
+    },
+    {
+      "id": "later",
+      "en": "later",
+      "ipa": "/ˈleɪtər/",
+      "es": "más tarde, luego",
+      "clase": "adverbio",
+      "orden": 17,
+      "ejemplo": "I'll finish the report later.",
+      "hueco": {
+        "frase": "I'll finish the report ___. (más tarde)",
+        "respuestas": [
+          "later"
+        ]
+      },
+      "nota": "Pide futuro, casi siempre will. Talk to you later.",
+      "opuesto": "earlier"
+    },
+    {
+      "id": "tonight",
+      "en": "tonight",
+      "ipa": "/təˈnaɪt/",
+      "es": "esta noche",
+      "clase": "adverbio",
+      "orden": 18,
+      "ejemplo": "I'm going to the gym tonight.",
+      "hueco": {
+        "frase": "I'm going to the gym ___. (esta noche)",
+        "respuestas": [
+          "tonight"
+        ]
+      },
+      "nota": "Pide futuro: going to o presente continuo con plan."
+    },
+    {
+      "id": "last-night",
+      "en": "last night",
+      "ipa": "/læst naɪt/",
+      "es": "anoche",
+      "clase": "expresión",
+      "orden": 19,
+      "ejemplo": "I slept badly last night.",
+      "hueco": {
+        "frase": "I slept badly ___. (anoche)",
+        "respuestas": [
+          "last night"
+        ]
+      },
+      "nota": "Pide pasado simple. Nunca «yesterday night»."
+    },
+    {
+      "id": "in-2020",
+      "en": "in + año (in 2020)",
+      "ipa": "/ɪn/",
+      "es": "en (año pasado)",
+      "clase": "expresión",
+      "orden": 20,
+      "ejemplo": "We moved to Bogotá in 2020.",
+      "hueco": {
+        "frase": "We moved to Bogotá ___ 2020. (en)",
+        "respuestas": [
+          "in"
+        ]
+      },
+      "nota": "Un año cerrado pide pasado simple. Si quieres «desde 2020», es since + perfecto."
+    },
+    {
+      "id": "currently",
+      "en": "currently",
+      "ipa": "/ˈkɜrəntli/",
+      "es": "actualmente",
+      "clase": "adverbio",
+      "orden": 21,
+      "ejemplo": "We're currently working with three clients.",
+      "hueco": {
+        "frase": "We're ___ working with three clients. (actualmente)",
+        "respuestas": [
+          "currently"
+        ]
+      },
+      "nota": "Pide presente continuo. Ojo: no significa «corrientemente»."
+    },
+    {
+      "id": "these-days",
+      "en": "these days",
+      "ipa": "/ðiːz deɪz/",
+      "es": "en estos días, últimamente",
+      "clase": "expresión",
+      "orden": 22,
+      "ejemplo": "Everyone is talking about AI these days.",
+      "hueco": {
+        "frase": "Everyone is talking about AI ___. (en estos días)",
+        "respuestas": [
+          "these days"
+        ]
+      },
+      "nota": "Pide presente continuo: una tendencia temporal."
+    },
+    {
+      "id": "recently",
+      "en": "recently",
+      "ipa": "/ˈriːsəntli/",
+      "es": "recientemente, hace poco",
+      "clase": "adverbio",
+      "orden": 23,
+      "ejemplo": "We've recently hired two designers.",
+      "hueco": {
+        "frase": "We've ___ hired two designers. (recientemente)",
+        "respuestas": [
+          "recently"
+        ]
+      },
+      "nota": "Pide presente perfecto (va entre have y participio o al final). Con una fecha concreta, pasado simple."
+    },
+    {
+      "id": "lately",
+      "en": "lately",
+      "ipa": "/ˈleɪtli/",
+      "es": "últimamente",
+      "clase": "adverbio",
+      "orden": 24,
+      "ejemplo": "I haven't slept well lately.",
+      "hueco": {
+        "frase": "I haven't slept well ___. (últimamente)",
+        "respuestas": [
+          "lately"
+        ]
+      },
+      "nota": "Pide presente perfecto, sobre todo en negativas y preguntas. Va al final."
+    },
+    {
+      "id": "so-far",
+      "en": "so far",
+      "ipa": "/soʊ fɑr/",
+      "es": "hasta ahora, hasta el momento",
+      "clase": "expresión",
+      "orden": 25,
+      "ejemplo": "So far we've received ten proposals.",
+      "hueco": {
+        "frase": "___ we've received ten proposals. (hasta ahora)",
+        "respuestas": [
+          "So far",
+          "so far"
+        ]
+      },
+      "nota": "Pide presente perfecto: el periodo sigue abierto."
+    },
+    {
+      "id": "by-friday",
+      "en": "by + fecha (by Friday)",
+      "ipa": "/baɪ/",
+      "es": "a más tardar el (plazo)",
+      "clase": "expresión",
+      "orden": 26,
+      "ejemplo": "I'll send you the files by Friday.",
+      "hueco": {
+        "frase": "I'll send you the files ___ Friday. (a más tardar el)",
+        "respuestas": [
+          "by"
+        ]
+      },
+      "nota": "Pide futuro: una fecha límite. No es until."
+    },
+    {
+      "id": "until",
+      "en": "until",
+      "ipa": "/ənˈtɪl/",
+      "es": "hasta (que termina algo)",
+      "clase": "expresión",
+      "orden": 27,
+      "ejemplo": "I'll be at the office until 7.",
+      "hueco": {
+        "frase": "I'll be at the office ___ 7. (hasta)",
+        "respuestas": [
+          "until",
+          "till"
+        ]
+      },
+      "nota": "Marca el fin de una duración; va con cualquier tiempo. Para plazos usa by."
+    },
+    {
+      "id": "during",
+      "en": "during",
+      "ipa": "/ˈdʊrɪŋ/",
+      "es": "durante (un evento)",
+      "clase": "expresión",
+      "orden": 28,
+      "ejemplo": "Please don't check your phone during the meeting.",
+      "hueco": {
+        "frase": "Please don't check your phone ___ the meeting. (durante)",
+        "respuestas": [
+          "during"
+        ]
+      },
+      "nota": "During + el nombre del evento (the meeting, the trip). Con cantidades (two hours) es for. Cualquier tiempo."
+    },
+    {
+      "id": "then",
+      "en": "then",
+      "ipa": "/ðɛn/",
+      "es": "entonces, luego",
+      "clase": "adverbio",
+      "orden": 29,
+      "ejemplo": "We had lunch and then we went back to the office.",
+      "hueco": {
+        "frase": "We had lunch and ___ we went back to the office. (luego)",
+        "respuestas": [
+          "then"
+        ]
+      },
+      "nota": "Ordena una historia en pasado simple. También «en esa época»: I was a student then."
+    },
+    {
+      "id": "afterwards",
+      "en": "afterwards",
+      "ipa": "/ˈæftərwərdz/",
+      "es": "después, luego",
+      "clase": "adverbio",
+      "orden": 30,
+      "ejemplo": "The meeting ended at 5 and afterwards we had a beer.",
+      "hueco": {
+        "frase": "The meeting ended at 5 and ___ we had a beer. (después)",
+        "respuestas": [
+          "afterwards",
+          "afterward"
+        ]
+      },
+      "nota": "Pasado simple en una narración (o futuro en un plan). En EE. UU. también afterward."
+    },
+    {
+      "id": "anymore",
+      "en": "anymore",
+      "ipa": "/ˌɛniˈmɔr/",
+      "es": "ya no (en negativas)",
+      "clase": "adverbio",
+      "orden": 31,
+      "ejemplo": "I don't drink coffee at night anymore.",
+      "hueco": {
+        "frase": "I don't drink coffee at night ___. (ya no)",
+        "respuestas": [
+          "anymore",
+          "any more"
+        ]
+      },
+      "nota": "Solo en negativas, al final. Pide presente simple: un hábito que terminó."
+    },
+    {
+      "id": "nowadays",
+      "en": "nowadays",
+      "ipa": "/ˈnaʊədeɪz/",
+      "es": "hoy en día",
+      "clase": "adverbio",
+      "orden": 32,
+      "ejemplo": "Nowadays most people watch series on their phones.",
+      "hueco": {
+        "frase": "___ most people watch series on their phones. (hoy en día)",
+        "respuestas": [
+          "Nowadays",
+          "nowadays"
+        ]
+      },
+      "nota": "Pide presente simple: un hecho general de la época actual."
+    },
+    {
+      "id": "meanwhile",
+      "en": "meanwhile",
+      "ipa": "/ˈmiːnwaɪl/",
+      "es": "mientras tanto",
+      "clase": "adverbio",
+      "orden": 33,
+      "ejemplo": "The designers are finishing the layout; meanwhile, I'm writing the copy.",
+      "hueco": {
+        "frase": "The designers are finishing the layout; ___, I'm writing the copy. (mientras tanto)",
+        "respuestas": [
+          "meanwhile"
+        ]
+      },
+      "nota": "Dos acciones a la vez: pide continuo (presente o pasado). Va al inicio de la frase."
+    },
+    {
+      "id": "eventually",
+      "en": "eventually",
+      "ipa": "/ɪˈvɛntʃuəli/",
+      "es": "al final, con el tiempo",
+      "clase": "adverbio",
+      "orden": 34,
+      "ejemplo": "We'll eventually move to a bigger office.",
+      "hueco": {
+        "frase": "We'll ___ move to a bigger office. (con el tiempo)",
+        "respuestas": [
+          "eventually"
+        ]
+      },
+      "nota": "Futuro (will) o pasado simple. Ojo: no es «eventualmente» (eso es occasionally)."
+    },
+    {
+      "id": "finally",
+      "en": "finally",
+      "ipa": "/ˈfaɪnəli/",
+      "es": "por fin, finalmente",
+      "clase": "adverbio",
+      "orden": 35,
+      "ejemplo": "We've finally signed the contract!",
+      "hueco": {
+        "frase": "We've ___ signed the contract! (por fin)",
+        "respuestas": [
+          "finally"
+        ]
+      },
+      "nota": "Perfecto cuando algo por fin se logró; pasado simple al cerrar una historia."
+    },
+    {
+      "id": "on-time",
+      "en": "on time",
+      "ipa": "/ɑn taɪm/",
+      "es": "puntual, a la hora",
+      "clase": "expresión",
+      "orden": 36,
+      "ejemplo": "The meeting started on time.",
+      "hueco": {
+        "frase": "The meeting started ___ time. (puntual: a la hora)",
+        "respuestas": [
+          "on"
+        ]
+      },
+      "nota": "A la hora exacta, ni antes ni después. Cualquier tiempo."
+    },
+    {
+      "id": "in-time",
+      "en": "in time",
+      "ipa": "/ɪn taɪm/",
+      "es": "a tiempo (antes de que sea tarde)",
+      "clase": "expresión",
+      "orden": 37,
+      "ejemplo": "We finished the video just in time for the launch.",
+      "hueco": {
+        "frase": "We finished the video just ___ time for the launch. (a tiempo: con margen)",
+        "respuestas": [
+          "in"
+        ]
+      },
+      "nota": "Con margen, antes del límite. Suele ir con for. Cualquier tiempo."
+    },
+    {
+      "id": "in-two-days",
+      "en": "in + cantidad (in two days)",
+      "ipa": "/ɪn tuː deɪz/",
+      "es": "en dos días, dentro de dos días",
+      "clase": "expresión",
+      "orden": 38,
+      "ejemplo": "The client arrives in two days.",
+      "hueco": {
+        "frase": "The client arrives ___ two days. (dentro de)",
+        "respuestas": [
+          "in"
+        ]
+      },
+      "nota": "Pide futuro: in + cantidad = dentro de. Nunca «within two days ago»."
+    },
+    {
+      "id": "the-other-day",
+      "en": "the other day",
+      "ipa": "/ði ˈʌðər deɪ/",
+      "es": "el otro día",
+      "clase": "expresión",
+      "orden": 39,
+      "ejemplo": "I ran into Mike the other day.",
+      "hueco": {
+        "frase": "I ran into Mike ___. (el otro día)",
+        "respuestas": [
+          "the other day"
+        ]
+      },
+      "nota": "Pide pasado simple: un día reciente no concreto."
+    },
+    {
+      "id": "right-now",
+      "en": "right now",
+      "ipa": "/raɪt naʊ/",
+      "es": "ahora mismo",
+      "clase": "expresión",
+      "orden": 40,
+      "ejemplo": "Sorry, I can't talk right now.",
+      "hueco": {
+        "frase": "Sorry, I can't talk ___. (ahora mismo)",
+        "respuestas": [
+          "right now"
+        ]
+      },
+      "nota": "Pide presente continuo o presente simple con modales (I can't talk right now)."
+    },
+    {
+      "id": "this-week",
+      "en": "this week",
+      "ipa": "/ðɪs wiːk/",
+      "es": "esta semana",
+      "clase": "expresión",
+      "orden": 41,
+      "ejemplo": "I'm working from home this week.",
+      "hueco": {
+        "frase": "I'm working from home ___. (esta semana)",
+        "respuestas": [
+          "this week"
+        ]
+      },
+      "nota": "Pide continuo si es algo temporal; perfecto si cuentas lo hecho hasta hoy (I've had three meetings this week)."
+    },
+    {
+      "id": "before",
+      "en": "before (alguna vez antes)",
+      "ipa": "/bɪˈfɔr/",
+      "es": "antes, alguna vez antes",
+      "clase": "adverbio",
+      "orden": 42,
+      "ejemplo": "I've seen this movie before.",
+      "hueco": {
+        "frase": "I've seen this movie ___. (antes)",
+        "respuestas": [
+          "before"
+        ]
+      },
+      "nota": "Al final de la frase pide presente perfecto: experiencia previa."
+    },
+    {
+      "id": "how-long",
+      "en": "How long…?",
+      "ipa": "/haʊ lɔŋ/",
+      "es": "¿Cuánto tiempo…? (desde cuándo)",
+      "clase": "expresión",
+      "orden": 43,
+      "ejemplo": "How long have you worked here?",
+      "hueco": {
+        "frase": "___ have you worked here? (cuánto tiempo)",
+        "respuestas": [
+          "How long",
+          "how long"
+        ]
+      },
+      "nota": "Pide presente perfecto; la respuesta lleva for o since."
+    },
+    {
+      "id": "the-day-after-tomorrow",
+      "en": "the day after tomorrow",
+      "ipa": "/ðə deɪ ˈæftər təˈmɑroʊ/",
+      "es": "pasado mañana",
+      "clase": "expresión",
+      "orden": 44,
+      "ejemplo": "The client is coming the day after tomorrow.",
+      "hueco": {
+        "frase": "The client is coming ___. (pasado mañana)",
+        "respuestas": [
+          "the day after tomorrow"
+        ]
+      },
+      "nota": "Pide futuro. Lo contrario es the day before yesterday (pasado simple)."
+    },
+    {
+      "id": "from-now-on",
+      "en": "from now on",
+      "ipa": "/frʌm naʊ ɑn/",
+      "es": "de ahora en adelante",
+      "clase": "expresión",
+      "orden": 45,
+      "ejemplo": "From now on, we'll send the report on Fridays.",
+      "hueco": {
+        "frase": "___, we'll send the report on Fridays. (de ahora en adelante)",
+        "respuestas": [
+          "From now on",
+          "from now on"
+        ]
+      },
+      "nota": "Pide futuro con will: una regla nueva desde hoy."
+    }
+  ],
+  "ejercicios": [
+    {
+      "id": "adverbios-tiempo-001",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "TPO",
+      "q": "I ___ the brief yesterday.",
+      "opciones": [
+        "sent",
+        "have sent",
+        "send"
+      ],
+      "a": 0,
+      "explica": "Yesterday cierra el tiempo: pasado simple, nunca perfecto."
+    },
+    {
+      "id": "adverbios-tiempo-002",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "TPO",
+      "q": "We ___ on a new campaign at the moment.",
+      "opciones": [
+        "are working",
+        "work",
+        "worked"
+      ],
+      "a": 0,
+      "explica": "At the moment pide presente continuo: algo que pasa ahora."
+    },
+    {
+      "id": "adverbios-tiempo-003",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "PP",
+      "q": "I've ___ sent the invoice.",
+      "opciones": [
+        "already",
+        "yet",
+        "ago"
+      ],
+      "a": 0,
+      "explica": "Con have + participio, «ya» es already, entre have y el participio."
+    },
+    {
+      "id": "adverbios-tiempo-004",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "PP",
+      "q": "Have you ___ worked with a bank?",
+      "opciones": [
+        "ever",
+        "yet",
+        "ago"
+      ],
+      "a": 0,
+      "explica": "«Alguna vez» en preguntas de experiencia es ever, entre have y el participio."
+    },
+    {
+      "id": "adverbios-tiempo-005",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "FUT",
+      "q": "I ___ you tomorrow.",
+      "opciones": [
+        "will call",
+        "called",
+        "have called"
+      ],
+      "a": 0,
+      "explica": "Tomorrow pide futuro: will + verbo base."
+    },
+    {
+      "id": "adverbios-tiempo-006",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "TPO",
+      "q": "We moved to Bogotá ___ 2020.",
+      "opciones": [
+        "in",
+        "since",
+        "for"
+      ],
+      "a": 0,
+      "explica": "Un año cerrado va con in y pasado simple. Since pediría perfecto."
+    },
+    {
+      "id": "adverbios-tiempo-007",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "TPO",
+      "q": "She joined Brava two years ___.",
+      "opciones": [
+        "ago",
+        "since",
+        "for"
+      ],
+      "a": 0,
+      "explica": "«Hace dos años» es two years ago: la cantidad primero y ago al final."
+    },
+    {
+      "id": "adverbios-tiempo-008",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "PP",
+      "q": "The client hasn't approved the budget ___.",
+      "opciones": [
+        "yet",
+        "already",
+        "still"
+      ],
+      "a": 0,
+      "explica": "En negativas, «todavía no» es yet, al final de la frase."
+    },
+    {
+      "id": "adverbios-tiempo-009",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "TPO",
+      "q": "Mike ___ (work) from home yesterday.",
+      "respuestas": [
+        "worked"
+      ],
+      "explica": "Yesterday pide pasado simple: worked."
+    },
+    {
+      "id": "adverbios-tiempo-010",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "FUT",
+      "q": "We ___ (present) the campaign next week.",
+      "respuestas": [
+        "will present",
+        "'ll present",
+        "are going to present",
+        "'re going to present",
+        "are presenting",
+        "'re presenting"
+      ],
+      "explica": "Next week pide futuro: will present, are going to present o are presenting (plan)."
+    },
+    {
+      "id": "adverbios-tiempo-011",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "PP",
+      "q": "I ___ (live) in Chapinero since 2018.",
+      "respuestas": [
+        "have lived",
+        "'ve lived",
+        "have been living",
+        "'ve been living"
+      ],
+      "explica": "Since + inicio pide presente perfecto: have lived (o have been living)."
+    },
+    {
+      "id": "adverbios-tiempo-012",
+      "tipo": "identificar",
+      "nivel": 1,
+      "code": "TPO",
+      "frase": "I'm reading a lot about AI these days.",
+      "opciones": [
+        "Presente continuo: tendencia temporal",
+        "Pasado simple: acción terminada",
+        "Presente perfecto: experiencia"
+      ],
+      "a": 0,
+      "explica": "These days marca una tendencia temporal: presente continuo."
+    },
+    {
+      "id": "adverbios-tiempo-013",
+      "tipo": "identificar",
+      "nivel": 1,
+      "code": "PP",
+      "frase": "Have you ever worked with a bank?",
+      "opciones": [
+        "Presente perfecto: experiencia hasta hoy",
+        "Pasado simple: momento concreto",
+        "Futuro: un plan"
+      ],
+      "a": 0,
+      "explica": "Ever + have + participio: experiencia hasta hoy, sin fecha."
+    },
+    {
+      "id": "adverbios-tiempo-014",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "TPO",
+      "pares": [
+        [
+          "yesterday",
+          "pasado simple"
+        ],
+        [
+          "at the moment",
+          "presente continuo"
+        ],
+        [
+          "already",
+          "presente perfecto"
+        ],
+        [
+          "tomorrow",
+          "futuro"
+        ],
+        [
+          "nowadays",
+          "presente simple"
+        ]
+      ],
+      "explica": "Cada marcador tiene su tiempo pegado: apréndelos en pareja."
+    },
+    {
+      "id": "adverbios-tiempo-015",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "PP",
+      "frase": "I have sent the proposal yesterday.",
+      "correcta": false,
+      "correccion": [
+        "I sent the proposal yesterday."
+      ],
+      "explica": "Yesterday cierra el tiempo: pasado simple, sin have."
+    },
+    {
+      "id": "adverbios-tiempo-016",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "TPO",
+      "frase": "We launched the campaign last week.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Last week pide pasado simple: la frase está bien."
+    },
+    {
+      "id": "adverbios-tiempo-017",
+      "tipo": "escuchar",
+      "nivel": 1,
+      "code": "PP",
+      "texto": "I've just finished the report.",
+      "respuestas": [
+        "I've just finished the report.",
+        "I have just finished the report."
+      ],
+      "explica": "Just va entre have y el participio: 've just finished."
+    },
+    {
+      "id": "adverbios-tiempo-018",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "PP",
+      "es": "Ya envié la factura.",
+      "en": "I have already sent the invoice.",
+      "extra": [
+        "yet",
+        "send"
+      ],
+      "explica": "Already va entre have y el participio sent. Yet sería para negativa o pregunta."
+    },
+    {
+      "id": "adverbios-tiempo-019",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "TPO",
+      "q": "Last night I ___ (watch) a movie with my wife.",
+      "respuestas": [
+        "watched"
+      ],
+      "explica": "Last night cierra el tiempo: pasado simple."
+    },
+    {
+      "id": "adverbios-tiempo-020",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "TPO",
+      "q": "Right now we ___ (wait) for the client's feedback.",
+      "respuestas": [
+        "are waiting",
+        "'re waiting"
+      ],
+      "explica": "Right now pide presente continuo: are waiting."
+    },
+    {
+      "id": "adverbios-tiempo-021",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "PP",
+      "q": "So far we ___ (receive) ten proposals.",
+      "respuestas": [
+        "have received",
+        "'ve received"
+      ],
+      "explica": "So far = hasta ahora: el periodo sigue abierto, presente perfecto."
+    },
+    {
+      "id": "adverbios-tiempo-022",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "FUT",
+      "q": "The client ___ (arrive) in two days.",
+      "respuestas": [
+        "will arrive",
+        "'ll arrive",
+        "is going to arrive",
+        "'s going to arrive",
+        "is arriving",
+        "'s arriving",
+        "arrives"
+      ],
+      "explica": "In two days = dentro de dos días: futuro (will, going to, continuo) o presente simple si es un horario fijo."
+    },
+    {
+      "id": "adverbios-tiempo-023",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "PP",
+      "q": "I ___ (not / see) Andrés lately.",
+      "respuestas": [
+        "haven't seen",
+        "have not seen"
+      ],
+      "explica": "Lately pide presente perfecto: haven't seen."
+    },
+    {
+      "id": "adverbios-tiempo-024",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "TPO",
+      "q": "I don't eat meat ___. (ya no)",
+      "respuestas": [
+        "anymore",
+        "any more"
+      ],
+      "explica": "«Ya no» en negativa es anymore, al final."
+    },
+    {
+      "id": "adverbios-tiempo-025",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "PP",
+      "q": "I ___ at Brava for six years, and I love it here.",
+      "opciones": [
+        "have worked",
+        "work",
+        "am working"
+      ],
+      "a": 0,
+      "explica": "For six years con el periodo abierto (sigo ahí) pide presente perfecto."
+    },
+    {
+      "id": "adverbios-tiempo-026",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "TPO",
+      "q": "We ___ the budget during yesterday's meeting.",
+      "opciones": [
+        "discussed",
+        "have discussed",
+        "are discussing"
+      ],
+      "a": 0,
+      "explica": "Yesterday's meeting cierra el tiempo: pasado simple aunque haya during."
+    },
+    {
+      "id": "adverbios-tiempo-027",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "FUT",
+      "q": "Don't worry, I ___ it later.",
+      "opciones": [
+        "'ll do",
+        "did",
+        "have done"
+      ],
+      "a": 0,
+      "explica": "Later pide futuro con will: una promesa o decisión del momento."
+    },
+    {
+      "id": "adverbios-tiempo-028",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "TPO",
+      "es": "Todavía estoy esperando la respuesta del cliente.",
+      "en": "I'm still waiting for the client's answer.",
+      "extra": [
+        "yet",
+        "wait"
+      ],
+      "explica": "Still va después de be y antes del verbo -ing. Yet iría al final de una negativa."
+    },
+    {
+      "id": "adverbios-tiempo-029",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "PP",
+      "es": "¿Alguna vez has trabajado con un banco?",
+      "en": "Have you ever worked with a bank?",
+      "extra": [
+        "Did",
+        "never"
+      ],
+      "explica": "Ever va entre have y el participio. Did pediría un momento concreto."
+    },
+    {
+      "id": "adverbios-tiempo-030",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "FUT",
+      "es": "Te llamo mañana después de la reunión.",
+      "en": "I'll call you tomorrow after the meeting.",
+      "extra": [
+        "called",
+        "am"
+      ],
+      "explica": "Tomorrow pide will: I'll call. Called es la trampa del pasado."
+    },
+    {
+      "id": "adverbios-tiempo-031",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "TPO",
+      "es": "Hace dos años nos mudamos a Bogotá.",
+      "en": "We moved to Bogotá two years ago.",
+      "extra": [
+        "have",
+        "since"
+      ],
+      "explica": "Ago va después de la cantidad y pide pasado simple: moved, sin have."
+    },
+    {
+      "id": "adverbios-tiempo-032",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "PP",
+      "frase": "I am working at Brava since 2020.",
+      "correcta": false,
+      "correccion": [
+        "I have worked at Brava since 2020.",
+        "I've worked at Brava since 2020.",
+        "I have been working at Brava since 2020.",
+        "I've been working at Brava since 2020."
+      ],
+      "explica": "Since pide presente perfecto, no presente continuo."
+    },
+    {
+      "id": "adverbios-tiempo-033",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "TPO",
+      "frase": "We have finished the video two days ago.",
+      "correcta": false,
+      "correccion": [
+        "We finished the video two days ago."
+      ],
+      "explica": "Two days ago cierra el tiempo: pasado simple, sin have."
+    },
+    {
+      "id": "adverbios-tiempo-034",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "TPO",
+      "frase": "I don't work with that client anymore.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Anymore al final y en negativa: «ya no». La frase está bien."
+    },
+    {
+      "id": "adverbios-tiempo-035",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "PP",
+      "frase": "I have already send the invoice.",
+      "correcta": false,
+      "correccion": [
+        "I have already sent the invoice.",
+        "I've already sent the invoice."
+      ],
+      "explica": "Already pide have + participio: sent, no send."
+    },
+    {
+      "id": "adverbios-tiempo-036",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "FUT",
+      "frase": "I sent the files yesterday.",
+      "instruccion": "Cámbiala para hablar de mañana (tomorrow).",
+      "respuestas": [
+        "I will send the files tomorrow.",
+        "I'll send the files tomorrow.",
+        "I am going to send the files tomorrow.",
+        "I'm going to send the files tomorrow.",
+        "I am sending the files tomorrow.",
+        "I'm sending the files tomorrow."
+      ],
+      "explica": "Tomorrow cambia el tiempo a futuro: will send, going to send o am sending."
+    },
+    {
+      "id": "adverbios-tiempo-037",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "PP",
+      "frase": "We finished the report.",
+      "instruccion": "Agrega «just» (acabamos de…).",
+      "respuestas": [
+        "We have just finished the report.",
+        "We've just finished the report.",
+        "We just finished the report."
+      ],
+      "explica": "«Acabamos de» es have + just + participio. En EE. UU. también se oye We just finished."
+    },
+    {
+      "id": "adverbios-tiempo-038",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "PP",
+      "es": "Todavía no he terminado la presentación.",
+      "respuestas": [
+        "I haven't finished the presentation yet.",
+        "I have not finished the presentation yet.",
+        "I still haven't finished the presentation.",
+        "I still have not finished the presentation."
+      ],
+      "explica": "«Todavía no» = haven't + participio + yet (o still haven't)."
+    },
+    {
+      "id": "adverbios-tiempo-039",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "TPO",
+      "es": "Actualmente trabajamos con tres clientes.",
+      "respuestas": [
+        "We are currently working with three clients.",
+        "We're currently working with three clients.",
+        "Currently we are working with three clients.",
+        "Currently, we are working with three clients.",
+        "Currently we're working with three clients.",
+        "Currently, we're working with three clients.",
+        "We are working with three clients currently.",
+        "We currently work with three clients.",
+        "Currently we work with three clients.",
+        "Currently, we work with three clients."
+      ],
+      "explica": "Currently pide presente continuo: are currently working."
+    },
+    {
+      "id": "adverbios-tiempo-040",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "FUT",
+      "es": "Nos vemos pronto.",
+      "respuestas": [
+        "See you soon.",
+        "I'll see you soon.",
+        "I will see you soon.",
+        "We'll see each other soon."
+      ],
+      "explica": "Soon mira al futuro: see you soon o I'll see you soon."
+    },
+    {
+      "id": "adverbios-tiempo-041",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "TPO",
+      "es": "Anoche dormí mal.",
+      "respuestas": [
+        "I slept badly last night.",
+        "Last night I slept badly.",
+        "I didn't sleep well last night.",
+        "I did not sleep well last night.",
+        "Last night I didn't sleep well.",
+        "Last night I did not sleep well."
+      ],
+      "explica": "Last night cierra el tiempo: pasado simple (slept / didn't sleep)."
+    },
+    {
+      "id": "adverbios-tiempo-042",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "TPO",
+      "consigna": "Cuenta qué hiciste ayer, qué estás haciendo esta semana, qué has hecho hasta ahora en el proyecto y qué vas a hacer mañana.",
+      "objetivo": "yesterday + pasado simple · this week / at the moment + presente continuo · so far / already + presente perfecto · tomorrow + will / going to",
+      "ejemplo": "Yesterday I had three meetings and I sent the budget to the client. This week I'm working on a pitch for a coffee brand. So far we've finished the strategy and we've already started the creative work. Tomorrow I'm going to present the first ideas to the team.",
+      "explica": "Cada marcador manda su tiempo: yesterday → pasado; this week / at the moment → continuo; so far / already → perfecto; tomorrow → will / going to."
+    },
+    {
+      "id": "adverbios-tiempo-043",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "TPO",
+      "titulo": "Un lunes en Brava",
+      "instruccion": "Completa con el tiempo que pide cada marcador.",
+      "texto": "Yesterday I {1} (have) a long day at Brava. I {2} (get) to the office at 8 and we {3} (start) the status meeting on time. Right now I {4} (work) on the budget for a new client, and the designers {5} (finish) the layouts at the moment. We {6} (not / send) the proposal yet, but so far the client {7} (love) our ideas. Tomorrow I {8} (present) the final version.",
+      "huecos": [
+        {
+          "respuestas": [
+            "had"
+          ]
+        },
+        {
+          "respuestas": [
+            "got"
+          ]
+        },
+        {
+          "respuestas": [
+            "started"
+          ]
+        },
+        {
+          "respuestas": [
+            "am working",
+            "'m working"
+          ]
+        },
+        {
+          "respuestas": [
+            "are finishing",
+            "'re finishing"
+          ]
+        },
+        {
+          "respuestas": [
+            "haven't sent",
+            "have not sent"
+          ]
+        },
+        {
+          "respuestas": [
+            "has loved",
+            "'s loved"
+          ]
+        },
+        {
+          "respuestas": [
+            "will present",
+            "'ll present",
+            "am going to present",
+            "'m going to present",
+            "am presenting",
+            "'m presenting"
+          ]
+        }
+      ],
+      "explica": "Yesterday y las horas cerradas → pasado; right now / at the moment → continuo; yet / so far → perfecto; tomorrow → futuro."
+    },
+    {
+      "id": "adverbios-tiempo-044",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "PP",
+      "titulo": "Tres años en Bogotá",
+      "instruccion": "Completa con la palabra o el verbo en el tiempo correcto.",
+      "texto": "Camila is a copywriter from Cali. She moved to Bogotá three years {1} (hace), when she got her first job at an agency. She {2} (live) in Chapinero {3} (desde) 2023, in a small apartment with a big window, and she {4} (work) at a digital agency {5} (durante: cantidad) two years now. On weekends she {6} (already / visit) Medellín and Cartagena with friends from the office, but she {7} (never / be) to the Amazon, which is her dream trip. {8} (hasta ahora), she loves the city: the food, the people and even the rain.",
+      "huecos": [
+        {
+          "respuestas": [
+            "ago"
+          ]
+        },
+        {
+          "respuestas": [
+            "has lived",
+            "'s lived",
+            "has been living",
+            "'s been living"
+          ]
+        },
+        {
+          "respuestas": [
+            "since"
+          ]
+        },
+        {
+          "respuestas": [
+            "has worked",
+            "'s worked",
+            "has been working",
+            "'s been working"
+          ]
+        },
+        {
+          "respuestas": [
+            "for"
+          ]
+        },
+        {
+          "respuestas": [
+            "has already visited",
+            "'s already visited"
+          ]
+        },
+        {
+          "respuestas": [
+            "has never been",
+            "'s never been"
+          ]
+        },
+        {
+          "respuestas": [
+            "So far",
+            "so far"
+          ]
+        }
+      ],
+      "explica": "Ago cierra el tiempo (pasado); since / for / already / never / so far piden presente perfecto."
+    },
+    {
+      "id": "adverbios-tiempo-045",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "FUT",
+      "titulo": "El plan de la próxima semana",
+      "instruccion": "Elige la opción correcta en cada desplegable.",
+      "texto": "Next week is going to be busy. On Monday we {1} the new campaign to the client. {2} we have the budget meeting with the finance team. The designers {3} the final layouts by Wednesday. I {4} from home on Thursday because my daughter has a school event. {5}, on Friday, we're having a team lunch to celebrate the launch. I {6} back to you with the final dates soon.",
+      "huecos": [
+        {
+          "opciones": [
+            "are presenting",
+            "presented",
+            "have presented"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "Afterwards",
+            "Yesterday",
+            "Ago"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "will finish",
+            "finished",
+            "have finished"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "am working",
+            "worked",
+            "have worked"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "Finally",
+            "Lately",
+            "Yet"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "'ll get",
+            "got",
+            "have got"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Next week y los días que vienen piden futuro (be + -ing, will, going to); afterwards y finally ordenan el plan."
+    },
+    {
+      "id": "adverbios-tiempo-046",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "TPO",
+      "titulo": "Un sábado en familia",
+      "instruccion": "Completa con el tiempo que pide cada marcador.",
+      "texto": "Last Saturday I {1} (wake) up late, around 10. I {2} (go) to the gym and then I {3} (have) lunch with my parents in Chía. Afterwards we {4} (walk) around the town for an hour. These days I {5} (try) to spend more time with my family, because I {6} (not / see) them much lately. Tonight I {7} (stay) home and watch a series.",
+      "huecos": [
+        {
+          "respuestas": [
+            "woke"
+          ]
+        },
+        {
+          "respuestas": [
+            "went"
+          ]
+        },
+        {
+          "respuestas": [
+            "had"
+          ]
+        },
+        {
+          "respuestas": [
+            "walked"
+          ]
+        },
+        {
+          "respuestas": [
+            "am trying",
+            "'m trying"
+          ]
+        },
+        {
+          "respuestas": [
+            "haven't seen",
+            "have not seen"
+          ]
+        },
+        {
+          "respuestas": [
+            "am staying",
+            "'m staying",
+            "am going to stay",
+            "'m going to stay",
+            "will stay",
+            "'ll stay"
+          ]
+        }
+      ],
+      "explica": "Last Saturday, then y afterwards → pasado simple; these days → continuo; lately → perfecto; tonight → futuro."
+    },
+    {
+      "id": "adverbios-tiempo-047",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "PP",
+      "titulo": "Correo de seguimiento",
+      "instruccion": "Elige la opción correcta en cada desplegable.",
+      "texto": "Hi Sarah, I hope you're well. I {1} the revised proposal on Monday afternoon, with the new budget and the updated timeline, but I {2} your feedback yet. On our side, we {3} finished the video {4}, and the team is {5} working on the social media posts and the landing page. Could you confirm the budget {6} Friday? We need the final approval {7} time for the launch on the 25th, because the media plan starts that same week. Thanks a lot, and talk soon! Andrés",
+      "huecos": [
+        {
+          "opciones": [
+            "sent",
+            "have sent",
+            "send"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "haven't received",
+            "haven't receive",
+            "hasn't received"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "have",
+            "are",
+            "did"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "already",
+            "yet",
+            "still"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "still",
+            "yet",
+            "anymore"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "by",
+            "until",
+            "since"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "in",
+            "on",
+            "at"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "On Monday (fecha) → pasado; yet y already → perfecto; still → continuo; by para el plazo e in time para llegar con margen."
+    },
+    {
+      "id": "adverbios-tiempo-048",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "TPO",
+      "titulo": "Cómo cambió la agencia",
+      "instruccion": "Completa con el tiempo que pide cada marcador.",
+      "texto": "Nowadays most of our clients {1} (want) short videos for social media. Five years ago, they {2} (ask) for TV commercials. At the moment we {3} (produce) around twenty videos a month, and so far this year we {4} (win) three new accounts. We {5} (not / work) with print anymore. Next month we {6} (hire) two more editors, and eventually we {7} (open) a small studio.",
+      "huecos": [
+        {
+          "respuestas": [
+            "want"
+          ]
+        },
+        {
+          "respuestas": [
+            "asked"
+          ]
+        },
+        {
+          "respuestas": [
+            "are producing",
+            "'re producing"
+          ]
+        },
+        {
+          "respuestas": [
+            "have won",
+            "'ve won"
+          ]
+        },
+        {
+          "respuestas": [
+            "don't work",
+            "do not work"
+          ]
+        },
+        {
+          "respuestas": [
+            "are hiring",
+            "'re hiring",
+            "are going to hire",
+            "'re going to hire",
+            "will hire",
+            "'ll hire"
+          ]
+        },
+        {
+          "respuestas": [
+            "will open",
+            "'ll open",
+            "are going to open",
+            "'re going to open"
+          ]
+        }
+      ],
+      "explica": "Nowadays → presente simple; five years ago → pasado; at the moment → continuo; so far this year → perfecto; anymore → presente negativo; next month / eventually → futuro."
+    },
+    {
+      "id": "adverbios-tiempo-049",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "TPO",
+      "titulo": "La semana de Andrés",
+      "texto": "Andrés is an account director at Brava. Last week he won a new client, a coffee brand from Huila, and yesterday he had the first meeting with their marketing team. At the moment his team is working on the strategy, and the designers are preparing three visual routes. So far the client has approved the budget and the timeline, but they haven't chosen a route yet. Andrés has already written the brief for the video, and tomorrow he's presenting the first ideas to the client's CEO. He needs the final approval by Friday, because the campaign launches in two weeks. He's a bit nervous, but so far, so good.",
+      "preguntas": [
+        {
+          "q": "When did Andrés win the coffee client?",
+          "opciones": [
+            "Last week",
+            "Yesterday",
+            "Two weeks ago"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What hasn't the client done yet?",
+          "opciones": [
+            "Chosen a visual route",
+            "Approved the budget",
+            "Approved the timeline"
+          ],
+          "a": 0
+        },
+        {
+          "q": "When does Andrés need the final approval?",
+          "opciones": [
+            "By Friday",
+            "Until Friday",
+            "In two weeks"
+          ],
+          "a": 0
+        },
+        {
+          "q": "¿Por qué el texto dice «has approved» pero «had the first meeting»?",
+          "opciones": [
+            "So far deja el periodo abierto (perfecto); yesterday lo cierra (pasado)",
+            "Approve siempre va en perfecto y have siempre en pasado",
+            "Son intercambiables; es cuestión de estilo"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Yesterday y last week → pasado; at the moment → continuo; so far / already / yet → perfecto; tomorrow / by Friday → futuro."
+    },
+    {
+      "id": "adverbios-tiempo-050",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "PP",
+      "titulo": "Un año en el gimnasio",
+      "texto": "Mike has gone to the same gym since January, so he has been a member for almost a year. Two years ago he hardly did any exercise, and he didn't sleep well. Last month he finally ran his first 10K in Bogotá, and he has already signed up for another race in Medellín. He has never lifted weights before, but these days he is trying a strength program with a trainer. He hasn't missed a class lately, and he feels much better. From now on, he says, he will train four times a week and eat less fast food. His wife, Laura, is not so sure: she has heard that promise before.",
+      "preguntas": [
+        {
+          "q": "How long has Mike been a member of the gym?",
+          "opciones": [
+            "Since January, almost a year",
+            "For two years",
+            "Since last month"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What did Mike do last month?",
+          "opciones": [
+            "He ran his first 10K",
+            "He signed up for the gym",
+            "He started lifting weights"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What is Mike doing these days?",
+          "opciones": [
+            "Trying a strength program",
+            "Running a race in Medellín",
+            "Eating fast food every day"
+          ],
+          "a": 0
+        },
+        {
+          "q": "¿Por qué «he has gone … since January» pero «two years ago he hardly did any exercise»?",
+          "opciones": [
+            "Since abre el periodo hasta hoy (perfecto); ago lo cierra en el pasado (pasado simple)",
+            "Go siempre va en perfecto y do en pasado",
+            "Porque since es formal y ago es informal"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Since / for / never / lately → perfecto; two years ago / last month → pasado; these days → continuo; from now on → futuro."
+    },
+    {
+      "id": "adverbios-tiempo-051",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "FUT",
+      "titulo": "Correo: estado del proyecto",
+      "texto": "Hi Camila, here is a quick update on the launch. We've already finished the TV spot and we've just sent the final cut to your team. The social media posts are still in production; the designers are working on the last three pieces right now. Tomorrow we're recording the radio spot, and next week we'll present the media plan to your board. We need your comments on the posts by Thursday, so we can deliver everything in time for the launch on the 25th. So far we are on schedule and on budget. I'll send you the final report soon. From now on, we'll have a short status call every Monday at 9. Thanks, Mike.",
+      "preguntas": [
+        {
+          "q": "What has the agency just sent?",
+          "opciones": [
+            "The final cut of the TV spot",
+            "The media plan",
+            "The radio spot"
+          ],
+          "a": 0
+        },
+        {
+          "q": "When are they recording the radio spot?",
+          "opciones": [
+            "Tomorrow",
+            "Next week",
+            "By Thursday"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why does Mike need the comments by Thursday?",
+          "opciones": [
+            "To deliver everything in time for the launch",
+            "Because the launch is on Thursday",
+            "Because the designers finish on Thursday"
+          ],
+          "a": 0
+        },
+        {
+          "q": "¿Qué diferencia hay entre «by Thursday» y «in time for the launch»?",
+          "opciones": [
+            "By es el plazo máximo; in time es llegar con margen antes del evento",
+            "Son sinónimos exactos",
+            "By es informal e in time es formal"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Tomorrow, next week, by Thursday y soon → futuro; already / just / so far → perfecto; still → continuo."
+    },
+    {
+      "id": "adverbios-tiempo-052",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "TPO",
+      "titulo": "El viaje a Santa Marta",
+      "texto": "Last weekend Laura and Andrés went to Santa Marta. They flew on Friday night and then they took a bus to Taganga. On Saturday they went snorkeling; afterwards they ate fish on the beach and slept until noon on Sunday. Laura had never been to the Caribbean before, and she loved it. Now they are planning a longer trip: at the moment they're looking at hotels in Palomino, but they haven't booked anything yet. Andrés still has two weeks of vacation this year, so they're going back next month, probably with Laura's parents. They don't travel by bus anymore, though: next time they'll rent a car.",
+      "preguntas": [
+        {
+          "q": "How did they get to Taganga?",
+          "opciones": [
+            "They flew to Santa Marta and then took a bus",
+            "They rented a car",
+            "They took a bus from Bogotá"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Had Laura been to the Caribbean before this trip?",
+          "opciones": [
+            "No, never",
+            "Yes, many times",
+            "Yes, once"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What are they doing at the moment?",
+          "opciones": [
+            "Looking at hotels in Palomino",
+            "Booking a bus to Palomino",
+            "Renting a car"
+          ],
+          "a": 0
+        },
+        {
+          "q": "¿Por qué «they haven't booked anything yet» va en perfecto?",
+          "opciones": [
+            "Yet deja el resultado abierto hasta hoy",
+            "Book siempre va en perfecto",
+            "Porque es una pregunta"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Last weekend / then / afterwards → pasado; now / at the moment → continuo; never / yet → perfecto; next month → futuro."
+    },
+    {
+      "id": "adverbios-tiempo-053",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "TPO",
+      "consigna": "Escribe sobre tu semana: qué hiciste ayer (yesterday), qué estás haciendo esta semana o ahora mismo (this week, right now) y qué harás mañana o la próxima semana.",
+      "requisitos": [
+        {
+          "texto": "Usa yesterday con un verbo en pasado",
+          "patron": "\\byesterday\\b"
+        },
+        {
+          "texto": "Usa this week, right now, at the moment o these days",
+          "patron": "\\b(this week|right now|at the moment|these days|now)\\b"
+        },
+        {
+          "texto": "Usa tomorrow, next week, soon o later",
+          "patron": "\\b(tomorrow|next week|soon|later|tonight)\\b"
+        },
+        {
+          "texto": "Usa will, 'll o going to para el futuro",
+          "patron": "\\b(will|'ll|going to)\\b"
+        }
+      ],
+      "minPalabras": 40,
+      "ejemplo": "Yesterday I had two client meetings and I sent the budget for the new campaign. This week I'm working on a pitch for a bank, so right now I'm reading a lot about financial apps. Tomorrow I'll present the first ideas to my team, and next week we're going to show them to the client.",
+      "explica": "Cada marcador elige su tiempo: yesterday + pasado, this week / right now + continuo, tomorrow + will / going to."
+    },
+    {
+      "id": "adverbios-tiempo-054",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "PP",
+      "consigna": "Cuenta tu experiencia en tu trabajo actual: cuánto tiempo llevas (for / since), qué has logrado hasta ahora (already, so far, just) y qué no has hecho todavía (yet).",
+      "requisitos": [
+        {
+          "texto": "Usa for o since con presente perfecto",
+          "patron": "\\b(for|since)\\b"
+        },
+        {
+          "texto": "Usa already, just, so far, ever o never",
+          "patron": "\\b(already|just|so far|ever|never)\\b"
+        },
+        {
+          "texto": "Usa yet al final de una negativa",
+          "patron": "\\b(haven't|hasn't|have not|has not)\\b.*\\byet\\b"
+        },
+        {
+          "texto": "Usa have / has / 've / 's + participio",
+          "patron": "\\b(have|has|'ve|'s)\\s+\\w+"
+        }
+      ],
+      "minPalabras": 40,
+      "ejemplo": "I have worked at Brava since 2020, so I've been here for six years. So far I've led campaigns for a bank, a coffee brand and two retail clients. I've already built a team of eight people and we have just won a new account. I haven't worked with an international client yet, but I have never stopped learning, and I'd love to try.",
+      "explica": "Since / for abren el periodo; already / just / so far cuentan lo logrado; yet al final de la negativa cierra lo pendiente."
+    },
+    {
+      "id": "adverbios-tiempo-055",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "FUT",
+      "consigna": "Escribe un correo corto a un cliente con los próximos pasos del proyecto: qué harán la próxima semana, qué enviarán y para cuándo (by…), y qué pasará después (afterwards, then, eventually).",
+      "requisitos": [
+        {
+          "texto": "Usa next week, tomorrow, in two days o soon",
+          "patron": "\\b(next week|tomorrow|in (two|three|a few|\\d+) days|soon|next month)\\b"
+        },
+        {
+          "texto": "Usa by + día o fecha para el plazo",
+          "patron": "\\bby\\s+(monday|tuesday|wednesday|thursday|friday|saturday|sunday|the end of|next)\\b"
+        },
+        {
+          "texto": "Usa afterwards, then, eventually o finally",
+          "patron": "\\b(afterwards|afterward|then|eventually|finally)\\b"
+        },
+        {
+          "texto": "Usa will, 'll o going to",
+          "patron": "\\b(will|'ll|going to)\\b"
+        }
+      ],
+      "minPalabras": 40,
+      "ejemplo": "Hi Sarah, here are the next steps. Next week we're going to record the video and we'll send you the first cut by Friday. Then your team can review it, and we will make the changes in two days. Afterwards, we'll prepare the social media posts and the media plan. Eventually, the full campaign will be ready by the end of the month. Talk to you soon, Andrés.",
+      "explica": "Next week / in two days / soon piden futuro; by marca el plazo; afterwards, then y eventually ordenan los pasos."
+    }
+  ]
+}

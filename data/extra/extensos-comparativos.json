@@ -1,0 +1,307 @@
+{
+  "tema": "comparativos",
+  "ejercicios": [
+    {
+      "id": "comparativos-x3-001",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "CMP",
+      "titulo": "Two proposals on the table",
+      "instruccion": "Completa con la forma correcta del adjetivo: comparativo (-er / more … than), superlativo (the -est / the most) o igualdad (as … as) cuando la pista lo pide.",
+      "texto": "The client received two proposals for the new website: ours and one from Studio Norte. Studio Norte is {1} (cheap) than Brava, but their timeline is {2} (long): twelve weeks instead of eight. Our team is {3} (small) than theirs, but in my opinion our ideas are {4} (creative). Their case studies are {5} (impressive) of all the agencies, I have to admit. Still, our price is not {6} (as / high) theirs; it's only 5% more. Yesterday the client said our presentation was {7} (good) one of the week, and theirs was {8} (bad) than last year's.",
+      "huecos": [
+        {
+          "respuestas": [
+            "cheaper"
+          ]
+        },
+        {
+          "respuestas": [
+            "longer"
+          ]
+        },
+        {
+          "respuestas": [
+            "smaller"
+          ]
+        },
+        {
+          "respuestas": [
+            "more creative"
+          ]
+        },
+        {
+          "respuestas": [
+            "the most impressive"
+          ]
+        },
+        {
+          "respuestas": [
+            "as high as"
+          ]
+        },
+        {
+          "respuestas": [
+            "the best"
+          ]
+        },
+        {
+          "respuestas": [
+            "worse"
+          ]
+        }
+      ],
+      "explica": "Adjetivo corto → -er / the -est (cheaper, longer, smaller). Largo → more / the most (more creative, the most impressive). Irregulares: good → the best, bad → worse. Para igualar: as high as, sin than."
+    },
+    {
+      "id": "comparativos-x3-002",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "CMP",
+      "titulo": "Medellín or Cartagena?",
+      "instruccion": "Elige la forma correcta. Es una conversación del equipo para escoger dónde hacer una sesión de fotos.",
+      "texto": "— So, Medellín or Cartagena for the shoot? — Cartagena is {1}, but it's also {2} in July: 35 degrees every day. — And Medellín is {3} for the crew; it's only a 40-minute flight. — True. Hotels in Medellín are {4} than in Cartagena, too. — But the light in Cartagena is {5} light I know for this kind of photo. — I agree, it's beautiful. Still, Medellín isn't {6} Cartagena, and the budget is {7} problem we have this year. — OK, let's go with Medellín. It's {8} than spending all the money in Cartagena.",
+      "huecos": [
+        {
+          "opciones": [
+            "beautifuler",
+            "more beautiful",
+            "more beautifuler"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "more hot",
+            "hoter",
+            "hotter"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "easier",
+            "easyer",
+            "more easy"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "more cheap",
+            "cheaper",
+            "cheapest"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "the better",
+            "the most good",
+            "the best"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "as expensive as",
+            "as expensive than",
+            "expensive as"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "the most big",
+            "the biggest",
+            "bigger"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "more good",
+            "more better",
+            "better"
+          ],
+          "a": 2
+        }
+      ],
+      "explica": "Largo → more beautiful. Corto con consonante-vocal-consonante → dobla: hotter, the biggest. -y → -ier: easier. Irregulares: the best, better. Nunca dos llaves (more better ✗) y as…as nunca lleva than."
+    },
+    {
+      "id": "comparativos-x3-003",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "CMP",
+      "titulo": "My team, compared",
+      "instruccion": "Completa con comparativo, superlativo o as … as (cuando la pista lo pide). Ojo con la ortografía: -y → -ier / -iest.",
+      "texto": "Let me tell you about my team. Camila is {1} (organized) person in the office; she never forgets a deadline. Andrés is {2} (funny) than everyone else, and his jokes save our long meetings. Laura is not {3} (as / talkative) Andrés, but her ideas are often {4} (good) than ours. Mike, our planner in Miami, works {5} (hard) than anyone I know. This year was {6} (busy) year in the agency's history, and the team was {7} (strong) than ever. I'm not {8} (as / patient) Camila, but I'm learning.",
+      "huecos": [
+        {
+          "respuestas": [
+            "the most organized"
+          ]
+        },
+        {
+          "respuestas": [
+            "funnier"
+          ]
+        },
+        {
+          "respuestas": [
+            "as talkative as"
+          ]
+        },
+        {
+          "respuestas": [
+            "better"
+          ]
+        },
+        {
+          "respuestas": [
+            "harder"
+          ]
+        },
+        {
+          "respuestas": [
+            "the busiest"
+          ]
+        },
+        {
+          "respuestas": [
+            "stronger"
+          ]
+        },
+        {
+          "respuestas": [
+            "as patient as"
+          ]
+        }
+      ],
+      "explica": "Organized es largo → the most organized. Funny y busy terminan en -y → funnier, the busiest. Good → better. Hard y strong son cortos → harder, stronger. Para comparar sin ganador: not as talkative as."
+    },
+    {
+      "id": "comparativos-x3-004",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "CMP",
+      "titulo": "Sarah's feedback",
+      "texto": "Hi Jonathan, thanks for the two options. Here are my thoughts. Option A is cheaper than Option B, and it's faster: we can launch in four weeks. But Option B is more creative, and in my opinion it's the strongest idea you showed us this year. The problem is the budget. Option B is 30% more expensive, and our budget is smaller than last year's. Option A isn't as exciting as B, but it's safer. My boss thinks the safest choice is the best choice right now. Personally, I prefer B. Could we find a cheaper version of B? Maybe with fewer videos and more photos? Best, Sarah",
+      "preguntas": [
+        {
+          "q": "Which option is faster?",
+          "opciones": [
+            "Option A",
+            "Option B",
+            "Both are the same"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What does Sarah's boss prefer?",
+          "opciones": [
+            "The most creative option",
+            "The safest option",
+            "A new option"
+          ],
+          "a": 1
+        },
+        {
+          "q": "«Option A isn't as exciting as B»: ¿qué significa?",
+          "opciones": [
+            "A es menos emocionante que B",
+            "A es igual de emocionante que B",
+            "A es más emocionante que B"
+          ],
+          "a": 0
+        },
+        {
+          "q": "¿Por qué se dice «more expensive» y no «expensiver»?",
+          "opciones": [
+            "Porque expensive es largo: lleva more delante",
+            "Porque es un superlativo",
+            "Porque es irregular, como good → better"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Un email de cliente es casi todo comparación: cheaper / faster (cortos), more creative / more expensive (largos), the strongest / the safest / the best (superlativos) y not as exciting as para decir «menos» sin sonar negativo."
+    },
+    {
+      "id": "comparativos-x3-005",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "CMP",
+      "titulo": "Bogotá or Medellín?",
+      "texto": "My girlfriend got a job offer in Medellín, so we're comparing the two cities. Medellín is warmer than Bogotá, and people say it's friendlier. Rent is also cheaper: a two-bedroom apartment costs about 20% less. But for my work, Bogotá is better. Most of our clients are here, and our office is the biggest one in the country. The traffic in Bogotá is the worst part of my day; Medellín's traffic isn't as bad, but it's not perfect either. My mom lives in Bogotá, and she's the most important reason to stay. We haven't decided yet. Maybe the easiest solution is to try it for six months.",
+      "preguntas": [
+        {
+          "q": "Which city is cheaper?",
+          "opciones": [
+            "Bogotá",
+            "Medellín",
+            "They cost the same"
+          ],
+          "a": 1
+        },
+        {
+          "q": "Why is Bogotá better for his work?",
+          "opciones": [
+            "It's warmer",
+            "Most of his clients are there",
+            "The traffic is better"
+          ],
+          "a": 1
+        },
+        {
+          "q": "«Medellín's traffic isn't as bad»: ¿qué significa?",
+          "opciones": [
+            "El tráfico de Medellín es menos malo",
+            "El tráfico de Medellín es peor",
+            "Los dos son igual de malos"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«the worst part of my day»: ¿de qué adjetivo viene worst?",
+          "opciones": [
+            "De bad (bad → worse → the worst)",
+            "De worse, que es un adjetivo normal",
+            "De good"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Warmer, cheaper, the biggest, the easiest: adjetivos cortos o en -y. The most important: largo. Better / the worst: irregulares. Isn't as bad as: comparación de igualdad en negativa."
+    },
+    {
+      "id": "comparativos-x3-006",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "CMP",
+      "consigna": "Tu jefa te pide comparar dos productoras para un video (inventa los nombres y los datos). Escríbele un mensaje corto con la comparación y tu recomendación.",
+      "requisitos": [
+        {
+          "texto": "Usa un comparativo corto con -er + than",
+          "patron": "\\b\\w+er than\\b"
+        },
+        {
+          "texto": "Usa un comparativo largo con more + adjetivo + than",
+          "patron": "\\bmore \\w+ than\\b"
+        },
+        {
+          "texto": "Usa un superlativo (the -est / the most / the best)",
+          "patron": "\\bthe (most \\w+|best|worst|\\w+est)\\b"
+        },
+        {
+          "texto": "Usa as … as o not as … as",
+          "patron": "\\bas \\w+ as\\b"
+        }
+      ],
+      "minPalabras": 50,
+      "ejemplo": "Hi Laura, I reviewed the two production companies for the video. Lumen is cheaper than Casa Roja, and their team is bigger. Casa Roja is more expensive than Lumen, but their reel is more creative and their director has the best portfolio I saw this year. Lumen is not as experienced as Casa Roja with food brands. My recommendation is Casa Roja: it's the safest option for a launch this important. Best, Jonathan",
+      "explica": "Para comparar propuestas: corto + -er + than (cheaper than), largo con more … than (more expensive than), superlativo con the (the best, the safest) y not as … as para matizar sin atacar. Nunca more cheaper ni as … than."
+    }
+  ]
+}

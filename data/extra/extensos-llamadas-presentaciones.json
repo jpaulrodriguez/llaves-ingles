@@ -1,0 +1,308 @@
+{
+  "tema": "llamadas-presentaciones",
+  "ejercicios": [
+    {
+      "id": "llamadas-presentaciones-x3-001",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Can you hear me?",
+      "instruccion": "Completa la llamada. Para pedir: Could you…? Para tomar el control: Let me + verbo base. Oír es hear, y en silencio es on mute.",
+      "texto": "— Hi everyone, can you {1} (oír) me? — Yes, but I think Laura is {2} (en silencio). — Sorry! Can you hear me now? — Yes. OK, {3} (let / me / share) my screen. {4} (can / you / see) it? — Yes, we can. — Great. Sorry, Mike, {5} (could / you / repeat) that? The audio cut out. — Sure. I said the client called this morning. — Thanks. Could you speak more {6} (despacio)? The connection is bad. — No problem. — I think Andrés {7} (freeze, pasado). — Let me {8} (check) the chat. He says he's coming back.",
+      "huecos": [
+        {
+          "respuestas": [
+            "hear"
+          ]
+        },
+        {
+          "respuestas": [
+            "on mute"
+          ]
+        },
+        {
+          "respuestas": [
+            "let me share"
+          ]
+        },
+        {
+          "respuestas": [
+            "Can you see"
+          ]
+        },
+        {
+          "respuestas": [
+            "could you repeat"
+          ]
+        },
+        {
+          "respuestas": [
+            "slowly"
+          ]
+        },
+        {
+          "respuestas": [
+            "froze"
+          ]
+        },
+        {
+          "respuestas": [
+            "check"
+          ]
+        }
+      ],
+      "explica": "En una llamada: Can you hear me? (no listen), You're on mute (no in mute), Could you repeat that? (that, no me), more slowly (no more slow), I think you froze. Let me share / Let me check: verbo base, sin to."
+    },
+    {
+      "id": "llamadas-presentaciones-x3-002",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Opening the presentation",
+      "instruccion": "Elige la forma correcta. Es la apertura de una presentación de resultados con su estructura fija.",
+      "texto": "Good morning, everyone, and thanks for joining. {1} to talk about the results of the summer campaign. {2}, I'll show you the numbers. Then, we'll look at what worked, and {3}, our recommendations for next year. Let me share my screen. As you can {4} on this {5}, sales went {6} 18% in July, and July was our best month. {7}, the campaign worked, and it worked fast. That's all from me. Any {8}?",
+      "huecos": [
+        {
+          "opciones": [
+            "Today I go",
+            "Today I'm going",
+            "Today I will going"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "At first time",
+            "Firstly of all",
+            "First"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "finally",
+            "at the final",
+            "lastly of"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "look",
+            "see",
+            "watch"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "graphic",
+            "draw",
+            "chart"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "up",
+            "on",
+            "over"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "Resuming",
+            "To sum up",
+            "In resume"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "question",
+            "doubts",
+            "questions"
+          ],
+          "a": 2
+        }
+      ],
+      "explica": "La estructura fija: Today I'm going to talk about… → First… Then… Finally… → As you can see on this chart (chart = gráfico de datos) → sales went up → To sum up → Any questions? (plural; doubts es un calco)."
+    },
+    {
+      "id": "llamadas-presentaciones-x3-003",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Questions after the presentation",
+      "instruccion": "Completa la ronda de preguntas. Agradece la pregunta, explica con Let me…, y si no sabes, promete volver con la respuesta.",
+      "texto": "— Thank you, Jonathan. I have a question about the budget. — That's a good {1} (pregunta). — Why did we spend more in July? — {2} (let / me / explain). We had {3} (más) people at the events, so we needed more staff. — How {4} (much / many) people came? — About 5,000. — And did sales go {5} (subir)? — Yes, 18%. — Interesting. What about the TikTok results? — I don't have the numbers here. {6} (dejarme / responderte luego) on that by Friday. {7} (does / that / answer) your question? — Yes, thanks. — Great. That's all {8} (de mi parte).",
+      "huecos": [
+        {
+          "respuestas": [
+            "question"
+          ]
+        },
+        {
+          "respuestas": [
+            "Let me explain"
+          ]
+        },
+        {
+          "respuestas": [
+            "more"
+          ]
+        },
+        {
+          "respuestas": [
+            "many"
+          ]
+        },
+        {
+          "respuestas": [
+            "up"
+          ]
+        },
+        {
+          "respuestas": [
+            "Let me get back to you",
+            "I'll get back to you"
+          ]
+        },
+        {
+          "respuestas": [
+            "Does that answer"
+          ]
+        },
+        {
+          "respuestas": [
+            "from me"
+          ]
+        }
+      ],
+      "explica": "Para las preguntas: That's a good question → Let me explain → Let me get back to you on that (si no sabes) → Does that answer your question? → That's all from me. People es contable: how many. Sales go up / down."
+    },
+    {
+      "id": "llamadas-presentaciones-x3-004",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "My first presentation in English",
+      "texto": "Last week I presented the quarterly results to our client in Miami, in English, for the first time. I practiced the structure five times: 'Today I'm going to talk about the results. First, the numbers. Then, what worked. Finally, next steps.' At the beginning, there was a problem: Sarah couldn't hear me. 'Jonathan, I think you're on mute,' she said. I fixed it and started again. When I showed the main chart, I said, 'As you can see, sales went up 18%.' At the end, Mike asked a difficult question about costs. I didn't know the answer, so I said, 'Let me get back to you on that.' It worked.",
+      "preguntas": [
+        {
+          "q": "How many times did he practice?",
+          "opciones": [
+            "Once",
+            "Five times",
+            "Eighteen times"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What was the problem at the beginning?",
+          "opciones": [
+            "He was on mute",
+            "The chart was wrong",
+            "Mike was late"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«Let me get back to you on that»: ¿para qué sirve?",
+          "opciones": [
+            "Para responder después cuando no sabes la respuesta",
+            "Para pedir que repitan",
+            "Para cerrar la presentación"
+          ],
+          "a": 0
+        },
+        {
+          "q": "¿Por qué dice chart y no graphic?",
+          "opciones": [
+            "Chart es un gráfico de datos; graphic es una pieza de diseño",
+            "Son lo mismo",
+            "Graphic es más formal"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Una presentación segura es una estructura ensayada (Today I'm going to… First… Then… Finally…) más tres salvavidas: You're on mute, As you can see… y Let me get back to you on that."
+    },
+    {
+      "id": "llamadas-presentaciones-x3-005",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Call rules at Brava",
+      "texto": "At Brava we have a lot of video calls with clients in the U.S., so we wrote some simple rules. First, join two minutes early and check your camera and microphone. Second, stay on mute when you're not speaking, especially in a noisy office. Third, if you don't understand something, don't stay quiet: say 'Sorry, I didn't catch that. Could you repeat that?' Nobody will think your English is bad. Fourth, if you're presenting, say what you're going to talk about first. Finally, at the end of the call, summarize the next steps and ask, 'Any questions?' Clients notice the difference.",
+      "preguntas": [
+        {
+          "q": "When should you join a call?",
+          "opciones": [
+            "Two minutes early",
+            "Exactly on time",
+            "Five minutes late"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What should you do if you don't understand something?",
+          "opciones": [
+            "Stay quiet",
+            "Ask them to repeat",
+            "Leave the call"
+          ],
+          "a": 1
+        },
+        {
+          "q": "¿Cuál es la forma INCORRECTA de pedir que repitan?",
+          "opciones": [
+            "Could you repeat me?",
+            "Sorry, could you repeat that?",
+            "Could you say that again?"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«stay on mute»: ¿qué preposición lleva mute?",
+          "opciones": [
+            "on",
+            "in",
+            "at"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Las reglas de la llamada son frases fijas: on mute (no in mute), Sorry, I didn't catch that, Could you repeat that? (that, no me), y Any questions? en plural para cerrar."
+    },
+    {
+      "id": "llamadas-presentaciones-x3-006",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "USO",
+      "consigna": "Mañana presentas los resultados de una campaña a un cliente en inglés. Escribe el guion de los primeros 30 segundos: saluda, comparte pantalla, di de qué vas a hablar, da la estructura y señala un dato.",
+      "requisitos": [
+        {
+          "texto": "Abre con Today I'm going to talk about / show / present",
+          "patron": "\\btoday i('m| am) going to (talk|show|present)\\b"
+        },
+        {
+          "texto": "Guía con First… y Then… / Finally…",
+          "patron": "\\bfirst\\b.*\\b(then|finally)\\b"
+        },
+        {
+          "texto": "Señala un dato con As you can see…",
+          "patron": "\\bas you can see\\b"
+        },
+        {
+          "texto": "Usa Let me + verbo base (sin to)",
+          "patron": "\\blet me (?!to\\b)\\w+"
+        }
+      ],
+      "minPalabras": 50,
+      "ejemplo": "Good morning, everyone, and thanks for joining. Let me share my screen. Today I'm going to talk about the results of the back-to-school campaign. First, I'll show you the main numbers. Then, we'll look at what worked on each channel, and finally, I'll share our recommendations for next year. As you can see on this chart, sales went up 22% in August. Let me explain why.",
+      "explica": "La apertura que nunca falla: Let me share my screen → Today I'm going to talk about… → First… Then… Finally… → As you can see on this chart… Let me va con verbo base: let me explain, nunca let me to explain."
+    }
+  ]
+}

@@ -1,0 +1,601 @@
+{
+  "tema": "contraste-pasados",
+  "ejercicios": [
+    {
+      "id": "contraste-pasados-x3-001",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "TPO",
+      "titulo": "The strangest meeting",
+      "instruccion": "Elige entre pasado simple (hechos, interrupciones) y pasado continuo (lo que estaba en marcha).",
+      "texto": "Last Tuesday at ten we {1} the new campaign to a big client. Everything {2} well: Laura {3} the first video and the client {4} at every joke. Suddenly, the fire alarm {5}. We all {6} down eight floors to the street. While we {7} outside, the client {8} me three questions about the budget. It was the strangest meeting of my life.",
+      "huecos": [
+        {
+          "opciones": [
+            "presented",
+            "were presenting",
+            "presenting"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "went",
+            "was going",
+            "goes"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "was showing",
+            "showed",
+            "shows"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "laughed",
+            "was laughing",
+            "laughs"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "was going off",
+            "went off",
+            "goes off"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "were walking",
+            "walked",
+            "walk"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "waited",
+            "were waiting",
+            "wait"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "asked",
+            "was asking",
+            "ask"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "At ten + la escena en marcha → continuo (were presenting, was going, was showing, was laughing). Lo que interrumpe o avanza la historia → simple (went off, walked). While trae la acción larga (were waiting); three questions es un hecho contado y terminado → asked."
+    },
+    {
+      "id": "contraste-pasados-x3-002",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "TPO",
+      "titulo": "How I broke my phone",
+      "instruccion": "Completa con pasado simple o continuo. Pregúntate: ¿acción larga de fondo o acción corta?",
+      "texto": "Last month I {1} (walk) to a meeting in the rain when my phone {2} (ring). I {3} (try) to answer it with one hand while I {4} (hold) my umbrella with the other. Of course, the phone {5} (fall) into a puddle. A man who {6} (sell) empanadas on the corner {7} (pick) it up and {8} (give) it back to me. It never worked again, but the empanadas were great.",
+      "huecos": [
+        {
+          "respuestas": [
+            "was walking"
+          ]
+        },
+        {
+          "respuestas": [
+            "rang"
+          ]
+        },
+        {
+          "respuestas": [
+            "tried"
+          ]
+        },
+        {
+          "respuestas": [
+            "was holding"
+          ]
+        },
+        {
+          "respuestas": [
+            "fell"
+          ]
+        },
+        {
+          "respuestas": [
+            "was selling"
+          ]
+        },
+        {
+          "respuestas": [
+            "picked"
+          ]
+        },
+        {
+          "respuestas": [
+            "gave"
+          ]
+        }
+      ],
+      "explica": "Acción larga + when + acción corta: I was walking when my phone rang. While trae la acción larga (while I was holding). Los hechos en secuencia van en simple: tried, fell, picked it up, gave it back."
+    },
+    {
+      "id": "contraste-pasados-x3-003",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "TPO",
+      "titulo": "My first day at Brava",
+      "instruccion": "Elige la forma correcta. Hay fondo (continuo), acciones en secuencia (simple) y algunas trampas de forma.",
+      "texto": "I remember my first day at Brava very well. When I {1}, the receptionist {2} on the phone, so I waited. The office was full: some people {3} at their desks and others {4} coffee in the kitchen. Then Laura {5} out of a meeting, {6} my hand and {7} me to my desk. While we {8}, she told me the secret of the agency: 'Never order the coffee from the machine.'",
+      "huecos": [
+        {
+          "opciones": [
+            "arrived",
+            "was arriving",
+            "arrive"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "talked",
+            "was talking",
+            "talks"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "were working",
+            "worked",
+            "was working"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "drank",
+            "was drinking",
+            "were drinking"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "came",
+            "was coming",
+            "comes"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "was shaking",
+            "shook",
+            "shaked"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "took",
+            "was taking",
+            "taked"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "walked",
+            "were walking",
+            "was walking"
+          ],
+          "a": 1
+        }
+      ],
+      "explica": "When I arrived (acción corta) + lo que ya estaba pasando (was talking, were working, were drinking). Laura came, shook, took: tres acciones seguidas → simple. While + acción larga: while we were walking."
+    },
+    {
+      "id": "contraste-pasados-x3-004",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "LL",
+      "titulo": "My stolen wallet",
+      "instruccion": "Completa la conversación con la policía. Mezcla preguntas y respuestas en pasado simple y continuo.",
+      "texto": "Yesterday someone stole my wallet at a café. The police officer asked me some questions. 'What {1} (you / do) when it happened?' 'I {2} (work) on my laptop.' '{3} (you / see) the person?' 'No, I {4} (not / see) anybody. I {5} (look) at the screen.' 'When {6} (you / notice) the problem?' 'When I {7} (try) to pay. I {8} (put) my hand in my bag and the wallet wasn't there.'",
+      "huecos": [
+        {
+          "respuestas": [
+            "were you doing"
+          ]
+        },
+        {
+          "respuestas": [
+            "was working"
+          ]
+        },
+        {
+          "respuestas": [
+            "Did you see"
+          ]
+        },
+        {
+          "respuestas": [
+            "didn't see",
+            "did not see"
+          ]
+        },
+        {
+          "respuestas": [
+            "was looking"
+          ]
+        },
+        {
+          "respuestas": [
+            "did you notice"
+          ]
+        },
+        {
+          "respuestas": [
+            "tried",
+            "was trying"
+          ]
+        },
+        {
+          "respuestas": [
+            "put"
+          ]
+        }
+      ],
+      "explica": "¿Qué estabas haciendo en ese momento? → What were you doing? / I was working. ¿Pasó o no pasó? → Did you see…? / I didn't see. Cada tiempo tiene su llave: were para el continuo, did para el simple."
+    },
+    {
+      "id": "contraste-pasados-x3-005",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "TPO",
+      "titulo": "A wedding in Villa de Leyva",
+      "instruccion": "Completa con pasado simple o continuo según la historia.",
+      "texto": "Two years ago my cousin got married in Villa de Leyva. The ceremony was beautiful. While the couple {1} (say) their vows, a dog {2} (run) into the church and {3} (sit) next to the priest. Everybody {4} (start) to laugh. At the party, the band {5} (play) a salsa song when the lights {6} (go) out. For a few minutes we {7} (dance) in the dark. Nobody {8} (want) to go home that night.",
+      "huecos": [
+        {
+          "respuestas": [
+            "were saying"
+          ]
+        },
+        {
+          "respuestas": [
+            "ran"
+          ]
+        },
+        {
+          "respuestas": [
+            "sat"
+          ]
+        },
+        {
+          "respuestas": [
+            "started"
+          ]
+        },
+        {
+          "respuestas": [
+            "was playing"
+          ]
+        },
+        {
+          "respuestas": [
+            "went"
+          ]
+        },
+        {
+          "respuestas": [
+            "danced",
+            "were dancing"
+          ]
+        },
+        {
+          "respuestas": [
+            "wanted"
+          ]
+        }
+      ],
+      "explica": "While + acción larga (were saying, was playing) y la interrupción en simple (ran, sat, went out). Want es verbo de estado: siempre simple (wanted). For a few minutes acepta los dos: we danced / we were dancing."
+    },
+    {
+      "id": "contraste-pasados-x3-006",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "TPO",
+      "titulo": "The internet died",
+      "instruccion": "Elige la forma correcta para contar qué pasó en la videollamada.",
+      "texto": "Last week I {1} a video call with a client about the new website when my internet {2}. While I {3} to reconnect, my boss {4} the call from his phone. When I finally {5} back, he {6} the client a new deadline at that exact moment. The client {7} very happy, but I wasn't. That deadline is impossible! Now the whole team is working on Saturdays because of him.",
+      "huecos": [
+        {
+          "opciones": [
+            "had",
+            "was having",
+            "have"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "was dying",
+            "died",
+            "dies"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "tried",
+            "was trying",
+            "try"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "joined",
+            "was joining",
+            "joins"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "was coming",
+            "came",
+            "come"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "was giving",
+            "gave",
+            "gives"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "was looking",
+            "looked",
+            "looks"
+          ],
+          "a": 1
+        }
+      ],
+      "explica": "Acción en marcha (was having, was trying, was giving at that exact moment) frente a lo que pasó de golpe (died, joined, came back). Look como «parecer» es estado: the client looked happy."
+    },
+    {
+      "id": "contraste-pasados-x3-007",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "TPO",
+      "titulo": "How I got the job",
+      "texto": "In 2019 I was working at a small agency and I wasn't happy. One afternoon I was waiting for a bus on Carrera Séptima when it started to rain hard. I ran into a café and sat at the only free table. A woman was sitting at the next table, and she was reading a marketing book. I made a comment about the book, and we started talking. She asked me a lot of questions about my work. When I left, she gave me her card. It said: Laura Méndez, Creative Director, Brava. Two weeks later, I was working for her.",
+      "preguntas": [
+        {
+          "q": "Why did he go into the café?",
+          "opciones": [
+            "To meet Laura",
+            "Because it started to rain",
+            "To read a book"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What was the woman doing?",
+          "opciones": [
+            "Reading a marketing book",
+            "Waiting for a bus",
+            "Writing a card"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«I was waiting for a bus… when it started to rain»: ¿qué acción interrumpe a la otra?",
+          "opciones": [
+            "I was waiting interrumpe a it started",
+            "Ninguna, pasan en orden",
+            "it started to rain interrumpe a I was waiting"
+          ],
+          "a": 2
+        },
+        {
+          "q": "«Two weeks later, I was working for her»: ¿qué sugiere el continuo?",
+          "opciones": [
+            "Que ya estaba en ese trabajo en ese momento",
+            "Que trabajó un solo día",
+            "Que es un hábito de hoy"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Dos planos: el fondo en continuo (was working, was waiting, was sitting, was reading) y los hechos en simple (started, ran, sat, made, gave). When trae la acción corta que interrumpe."
+    },
+    {
+      "id": "contraste-pasados-x3-008",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "TPO",
+      "titulo": "Laura and the whiteboard",
+      "texto": "Yesterday's meeting with the juice client didn't start well. When we arrived, the marketing team was arguing about the launch date. Nobody was paying attention to us. Laura waited for five minutes, then she stood up and drew a calendar on the whiteboard. While she was drawing, the room went quiet. She marked two possible dates and asked one question: 'Which one gives you more time in stores?' The client team discussed it for ten minutes and chose the second date. When we left, they were still talking about Laura's calendar.",
+      "preguntas": [
+        {
+          "q": "What was the marketing team doing when they arrived?",
+          "opciones": [
+            "Waiting quietly",
+            "Drinking juice",
+            "Arguing about the launch date"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What did Laura do after five minutes?",
+          "opciones": [
+            "She drew a calendar",
+            "She left the room",
+            "She called her boss"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«While she was drawing, the room went quiet»: ¿en qué tiempo va la acción larga?",
+          "opciones": [
+            "Pasado simple",
+            "Pasado continuo",
+            "Presente"
+          ],
+          "a": 1
+        },
+        {
+          "q": "«they were still talking»: ¿qué significa?",
+          "opciones": [
+            "Ya no hablaban",
+            "Seguían hablando",
+            "Nunca hablaron"
+          ],
+          "a": 1
+        }
+      ],
+      "explica": "Cuando llegaste, lo que ya estaba pasando → continuo (was arguing, was paying attention). Lo que Laura hizo, paso a paso → simple (waited, stood up, drew, marked, asked)."
+    },
+    {
+      "id": "contraste-pasados-x3-009",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "TPO",
+      "titulo": "The bike lesson",
+      "texto": "When I was ten, my dad taught me to ride a bike in a park in Manizales. It was a cold Sunday morning. Other kids were playing soccer and a man was selling ice cream near the gate. My dad was holding the back of the seat and running next to me. 'Don't stop pedaling!' he shouted. I was pedaling as fast as I could. After a few minutes I looked back and saw him. He was standing far away, waving at me. He wasn't holding the bike anymore. I fell immediately, of course. But the next day I rode alone.",
+      "preguntas": [
+        {
+          "q": "Where did he learn to ride a bike?",
+          "opciones": [
+            "In Bogotá",
+            "At school",
+            "In a park in Manizales"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What was the man near the gate doing?",
+          "opciones": [
+            "Selling ice cream",
+            "Playing soccer",
+            "Riding a bike"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«He wasn't holding the bike anymore»: ¿qué descubre el niño?",
+          "opciones": [
+            "Que su papá se había caído",
+            "Que estaba montando solo",
+            "Que el parque estaba cerrado"
+          ],
+          "a": 1
+        },
+        {
+          "q": "«I looked back and saw him»: ¿por qué pasado simple?",
+          "opciones": [
+            "Son acciones cortas en secuencia",
+            "Es el fondo de la escena",
+            "Es un hábito"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "La escena del parque se pinta en continuo (were playing, was selling, was holding, was running). El momento clave avanza en simple: looked back, saw, fell, rode."
+    },
+    {
+      "id": "contraste-pasados-x3-010",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "TPO",
+      "consigna": "Cuenta una anécdota de viaje: qué estabas haciendo cuando pasó algo inesperado y qué hiciste después.",
+      "requisitos": [
+        {
+          "texto": "Usa was / were + -ing para el fondo",
+          "patron": "\\b(was|were)\\s+(\\w+\\s+)?\\w+ing\\b"
+        },
+        {
+          "texto": "Usa un verbo irregular en pasado simple (went, lost, ran, bought…)",
+          "patron": "\\b(went|got|saw|took|lost|found|came|left|said|told|ran|fell|felt|made|had|gave|bought|began|forgot|broke|stole|met|thought|wrote|drove|ate|slept|spent|sent|knew|chose|heard|brought|sat|stood|won)\\b"
+        },
+        {
+          "texto": "Conecta con when",
+          "patron": "\\bwhen\\b"
+        },
+        {
+          "texto": "Ordena lo que hiciste después con then / after that",
+          "patron": "\\b(then|after that|later|finally)\\b"
+        }
+      ],
+      "minPalabras": 50,
+      "ejemplo": "Three years ago I was traveling to Mexico City for a pitch. I was waiting at the gate and I was reading the presentation one last time when a woman next to me spilled her coffee on my laptop. The screen went black. I ran to a store in the airport and bought a cheap USB drive. Then I found the file in my email and copied it. We won the pitch, and the woman sent me an apology card.",
+      "explica": "Fondo en continuo (was traveling, was waiting, was reading) + when + la interrupción en simple (spilled). Después, la secuencia de lo que hiciste en simple: ran, bought, found, copied."
+    },
+    {
+      "id": "contraste-pasados-x3-011",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "TPO",
+      "consigna": "Cuéntale a tu jefe cómo salió una reunión con un cliente: qué estaba pasando cuando llegaste, qué pasó durante la reunión y cómo terminó. Usa while al menos una vez.",
+      "requisitos": [
+        {
+          "texto": "Usa was / were + -ing",
+          "patron": "\\b(was|were)\\s+(\\w+\\s+)?\\w+ing\\b"
+        },
+        {
+          "texto": "Usa while + was / were + -ing",
+          "patron": "\\bwhile\\s+(\\w+\\s+){1,2}(was|were)\\s+\\w+ing\\b"
+        },
+        {
+          "texto": "Usa un verbo regular en pasado simple (-ed)",
+          "patron": "\\b\\w+ed\\b"
+        }
+      ],
+      "minPalabras": 50,
+      "ejemplo": "The meeting went well, but it started late. When I arrived, the client was finishing another call and his assistant was looking for a projector cable. We started at 10:20. While Sarah was showing the media plan, the client asked a lot of questions about the budget. I explained the numbers and he agreed to test the plan for one month. At the end, he invited us for lunch.",
+      "explica": "While + acción larga en continuo (while Sarah was showing) y lo que pasó en medio en simple (the client asked). Al llegar, lo que estaba en marcha: was finishing, was looking."
+    },
+    {
+      "id": "contraste-pasados-x3-012",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "TPO",
+      "consigna": "Escribe sobre un momento importante de tu vida (una oferta de trabajo, una noticia, un partido) y lo que estabas haciendo cuando te enteraste.",
+      "requisitos": [
+        {
+          "texto": "Usa was / were + -ing",
+          "patron": "\\b(was|were)\\s+(\\w+\\s+)?\\w+ing\\b"
+        },
+        {
+          "texto": "Usa when + una acción corta en pasado simple",
+          "patron": "\\bwhen\\s+\\w+(\\s+\\w+)?\\s+(\\w+ed|called|rang|told|said|came|got|heard|saw|sent|gave|wrote|found)\\b"
+        },
+        {
+          "texto": "Di cuándo fue (ago, last year, in 2016…)",
+          "patron": "\\b(ago|last (year|month|week)|in (19|20)\\d\\d)\\b"
+        }
+      ],
+      "minPalabras": 45,
+      "ejemplo": "In 2016 I was living with two friends in a small apartment in Teusaquillo. One Friday night I was cooking pasta and my friends were watching a soccer game when my phone rang. It was a director from an agency. She offered me my first real job in advertising. I burned the pasta, but I didn't care. That night we celebrated with pizza.",
+      "explica": "Lo que estabas haciendo cuando llegó la noticia → continuo (was cooking, were watching). La noticia → when + simple (when my phone rang). Lo que pasó después sigue en simple: offered, burned, celebrated."
+    }
+  ]
+}

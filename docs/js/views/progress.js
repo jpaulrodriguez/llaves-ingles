@@ -1,4 +1,4 @@
-import { S, temaMastery, temaSeen, temaIds, codeStats, CODES, save, localEvents, flushEvents } from "../store.js";
+import { S, temaMastery, temaSeen, temaIds, codeStats, CODES, save, localEvents, flushEvents, wordsLearned } from "../store.js";
 import { h, esc, icon, $, $$, englishVoices, speak, toast } from "../ui.js";
 import { today, addDays } from "../srs.js";
 import { applyTheme } from "../main.js";
@@ -28,6 +28,7 @@ export function viewProgress() {
       <div class="card stat"><b>${answers}</b><span>respuestas · ${minutes} min de práctica</span></div>
       <div class="card stat"><b>${a7.n ? Math.round(100 * a7.ok / a7.n) + "%" : "—"}</b><span>precisión últimos 7 días</span></div>
       <div class="card stat"><b>${P.xp}</b><span>XP acumulados</span></div>
+      ${S.words.length ? `<div class="card stat"><b>${wordsLearned()}<span class="muted" style="font-size:18px">/${S.words.length}</span></b><span>palabras aprendidas</span><div class="bar" style="margin-top:8px"><i style="transform:scaleX(${wordsLearned() / S.words.length})"></i></div></div>` : ""}
     </section>
 
     <section class="section card pad-lg">
@@ -56,6 +57,7 @@ export function viewProgress() {
       <div class="section-head"><div><h2 class="h2">${icon("sliders", 20, "inline")} Ajustes</h2></div></div>
       <div class="grid-3">
         <div class="field"><label>Ejercicios por sesión</label><div class="seg" data-size>${[10, 20, 30].map(n => `<button data-v="${n}" aria-pressed="${P.settings.size === n}">${n}</button>`).join("")}</div></div>
+        <div class="field"><label>Palabras nuevas por día</label><div class="seg" data-wpd>${[3, 5, 8, 12].map(n => `<button data-v="${n}" aria-pressed="${(P.settings.wordsPerDay ?? 5) === n}">${n}</button>`).join("")}</div></div>
         <div class="field"><label>Sonidos</label><div class="seg" data-sound><button data-v="1" aria-pressed="${!!P.settings.sound}">Sí</button><button data-v="0" aria-pressed="${!P.settings.sound}">No</button></div></div>
         <div class="field"><label>Apariencia</label><div class="seg" data-theme>${[["auto", "Auto"], ["light", "Claro"], ["dark", "Oscuro"]].map(([v, l]) => `<button data-v="${v}" aria-pressed="${P.settings.theme === v}">${l}</button>`).join("")}</div></div>
         <div class="field"><label for="voice">Voz en inglés</label><select class="input" id="voice"></select></div>
@@ -119,6 +121,7 @@ export function viewProgress() {
   });
   seg("[data-size]", v => P.settings.size = Number(v));
   seg("[data-sound]", v => P.settings.sound = v === "1");
+  seg("[data-wpd]", v => P.settings.wordsPerDay = Number(v));
   seg("[data-theme]", v => { P.settings.theme = v; applyTheme(); });
   const vs = $("#voice", el);
   const fillVoices = () => {

@@ -1,0 +1,1756 @@
+{
+  "id": "preguntas-wh",
+  "titulo": "Preguntas: what, where, when, who, why, how",
+  "grupo": "Estructuras",
+  "orden": 105,
+  "nivel": "A2",
+  "resumen": "Pedir información con las palabras interrogativas (what, where, when, who, why, how, which, whose, how much/many/long/often/far, what time, what kind of) en cada tiempo, preguntas de sujeto sin llave (Who called?), preposición al final (Who with?) y preguntas indirectas (Could you tell me where…?).",
+  "llave": "Wh- + llave + sujeto + verbo",
+  "teoria": {
+    "paraQue": "Para pedir información y no solo sí o no: dónde trabajas, a qué hora empieza la reunión, cuánto cuesta, por qué no vino el cliente. Las preguntas Wh- son el motor de cualquier conversación: con ellas entrevistas, haces un brief, pides direcciones y conoces a alguien.",
+    "llave": "La estructura siempre es la misma: Wh- + llave + sujeto + verbo. La palabra interrogativa va primero y después viene la pregunta normal del tiempo que estés usando: do/does (presente), did (pasado), am/is/are/was/were (be y continuos), will (futuro), have/has (perfecto). Cambia la llave, no el orden. Where DO you work? → Where DID you work? → Where WILL you work? → Where HAVE you worked?",
+    "formulas": [
+      {
+        "tipo": "Presente simple",
+        "formula": "Wh- + do / does + sujeto + verbo base",
+        "ejemplo": "Where [[do]] you {{work}}? · What time [[does]] the meeting {{start}}?"
+      },
+      {
+        "tipo": "Pasado simple",
+        "formula": "Wh- + did + sujeto + verbo base",
+        "ejemplo": "Where [[did]] you {{go}} last weekend? · Why [[did]] she {{leave}} early?"
+      },
+      {
+        "tipo": "Con el verbo be",
+        "formula": "Wh- + am / is / are / was / were + sujeto",
+        "ejemplo": "Where [[are]] you? · How old [[is]] your son? · How [[was]] the meeting?"
+      },
+      {
+        "tipo": "Continuos",
+        "formula": "Wh- + am / is / are / was / were + sujeto + verbo-ing",
+        "ejemplo": "What [[are]] you {{do((ing))}}? · What [[were]] you {{do((ing))}} at 9?"
+      },
+      {
+        "tipo": "Futuro",
+        "formula": "Wh- + will + sujeto + verbo base",
+        "ejemplo": "What [[will]] you {{do}} after the launch? · When [[will]] the client {{answer}}?"
+      },
+      {
+        "tipo": "Presente perfecto",
+        "formula": "Wh- + have / has + sujeto + participio",
+        "ejemplo": "Where [[have]] you {{been}}? · How long [[has]] she {{worked}} here?"
+      },
+      {
+        "tipo": "Pregunta de sujeto (sin llave)",
+        "formula": "Who / What + verbo conjugado (+ objeto)",
+        "ejemplo": "Who {{called}}? · Who {{work((s))}} with Laura? · What {{happened}}?"
+      },
+      {
+        "tipo": "Preposición al final",
+        "formula": "Wh- + llave + sujeto + verbo + preposición",
+        "ejemplo": "Who [[did]] you {{talk}} to? · Where [[are]] you from? · What [[is]] this for?"
+      },
+      {
+        "tipo": "Pregunta indirecta",
+        "formula": "Could you tell me / Do you know + wh- + sujeto + verbo (orden de afirmación, sin do/does/did)",
+        "ejemplo": "Could you tell me where the meeting room [[is]]? · Do you know what time it {{start((s))}}?"
+      }
+    ],
+    "reglas": [
+      "Orden fijo: Wh- + llave + sujeto + verbo. La palabra interrogativa nunca va sola delante del sujeto: «Where you live?» es español con palabras inglesas; se dice Where do you live?",
+      "La llave es la del tiempo: do/does en presente, did en pasado, will en futuro, have/has en perfecto. Con be y con los continuos, el propio be es la llave y se adelanta: Where are you? What are you doing?",
+      "Después de do/does/did el verbo vuelve a la base: Where did you go? (no «did you went»), What does she do? (no «does she does»).",
+      "Pregunta de sujeto: si el Wh- es quien hace la acción (Who called? What happened?), no hay llave y el verbo se conjuga como en una afirmación: Who works here? Who called you?",
+      "Compara: Who called Laura? (¿quién llamó a Laura? → sujeto, sin llave) vs. Who did Laura call? (¿a quién llamó Laura? → objeto, con did).",
+      "La preposición va al final, no delante: Who did you talk to? Where are you from? What are you looking for? «To whom» existe, pero es muy formal.",
+      "What vs. which: what es abierto (What color do you want?); which es entre opciones conocidas (Which one, the red or the blue?).",
+      "How + adjetivo/adverbio crea nuevas preguntas: how old (edad), how long (duración), how often (frecuencia), how far (distancia), how much (incontables y precio), how many (contables).",
+      "Pregunta indirecta (Could you tell me…? Do you know…?): después del Wh- el orden es de afirmación y desaparece do/does/did: Could you tell me where she works? (no «where does she work»).",
+      "Respuesta corta a la pregunta Wh-: no repitas toda la frase. Where do you work? — At Brava. Why are you late? — Because of the traffic."
+    ],
+    "senales": [
+      "what",
+      "where",
+      "when",
+      "who",
+      "why",
+      "how",
+      "which",
+      "whose",
+      "how much",
+      "how many",
+      "how long",
+      "how often",
+      "how far",
+      "what time",
+      "what kind of",
+      "Could you tell me…?",
+      "Do you know…?"
+    ],
+    "usos": [
+      {
+        "uso": "Conocer a alguien",
+        "contexto": "diario",
+        "ejemplo": "Where [[are]] you from? What [[do]] you {{do}}? How long [[have]] you {{lived}} in Bogotá?"
+      },
+      {
+        "uso": "Pedir direcciones y datos prácticos",
+        "contexto": "diario",
+        "ejemplo": "How far [[is]] the hotel? What time [[does]] the store {{close}}? How much [[is]] it?"
+      },
+      {
+        "uso": "Preguntar por el fin de semana",
+        "contexto": "diario",
+        "ejemplo": "What [[did]] you {{do}} on Saturday? Who [[did]] you {{go}} with? How [[was]] it?"
+      },
+      {
+        "uso": "Hacer planes",
+        "contexto": "diario",
+        "ejemplo": "When [[are]] you {{com((ing))}} back? What [[will]] we {{do}} on Sunday? How about Friday?"
+      },
+      {
+        "uso": "Hacer un brief con el cliente",
+        "contexto": "trabajo",
+        "ejemplo": "Who [[is]] the target? What kind of campaign [[do]] you {{need}}? When [[is]] the launch? How much [[is]] the budget?"
+      },
+      {
+        "uso": "Reunión de estado",
+        "contexto": "trabajo",
+        "ejemplo": "Who [[is]] {{work((ing))}} on the video? Why [[did]] the client {{reject}} it? How long [[will]] it {{take}}?"
+      },
+      {
+        "uso": "Entrevistar a un candidato",
+        "contexto": "trabajo",
+        "ejemplo": "Where [[did]] you {{work}} before? How many people [[did]] you {{manage}}? Why [[do]] you {{want}} this job?"
+      },
+      {
+        "uso": "Pedir información con cortesía",
+        "contexto": "trabajo",
+        "ejemplo": "Could you tell me when the files [[will]] {{be}} ready? Do you know who [[is]] in charge?"
+      }
+    ],
+    "errores": [
+      {
+        "mal": "Where you work?",
+        "bien": "Where do you work?",
+        "porque": "Falta la llave. En presente simple la pregunta necesita do/does después del Wh-.",
+        "code": "LL"
+      },
+      {
+        "mal": "Where did you went?",
+        "bien": "Where did you go?",
+        "porque": "Did ya marca el pasado; el verbo vuelve a la base: did you go.",
+        "code": "TPO"
+      },
+      {
+        "mal": "What does she does?",
+        "bien": "What does she do?",
+        "porque": "Does ya lleva la -s; el verbo queda en base: does she do.",
+        "code": "LL"
+      },
+      {
+        "mal": "Who did call you?",
+        "bien": "Who called you?",
+        "porque": "Who es el sujeto (quién llamó): pregunta de sujeto, sin did.",
+        "code": "LL"
+      },
+      {
+        "mal": "What are you looking?",
+        "bien": "What are you looking for?",
+        "porque": "La preposición del verbo no se pierde: look for → What are you looking for?",
+        "code": "LL"
+      },
+      {
+        "mal": "Could you tell me where is the bathroom?",
+        "bien": "Could you tell me where the bathroom is?",
+        "porque": "En la pregunta indirecta el orden es de afirmación: where the bathroom is.",
+        "code": "LL"
+      },
+      {
+        "mal": "How many years do you have?",
+        "bien": "How old are you?",
+        "porque": "La edad en inglés va con be: How old are you? I'm 38.",
+        "code": "LL"
+      },
+      {
+        "mal": "What time the meeting starts?",
+        "bien": "What time does the meeting start?",
+        "porque": "Falta does; y con does el verbo queda en base: start.",
+        "code": "LL"
+      }
+    ],
+    "contraste": [
+      {
+        "a": "Who {{called}} Laura?",
+        "b": "Who [[did]] Laura {{call}}?",
+        "nota": "A: quién llamó a Laura (who = sujeto, sin llave). B: a quién llamó Laura (who = objeto, con did)."
+      },
+      {
+        "a": "Where [[do]] you {{work}}?",
+        "b": "Where [[did]] you {{work}} before Brava?",
+        "nota": "Misma estructura, solo cambia la llave: do (presente) → did (pasado). El verbo queda en base en los dos."
+      },
+      {
+        "a": "Where [[is]] the meeting room?",
+        "b": "Could you tell me where the meeting room [[is]]?",
+        "nota": "Directa: be se adelanta. Indirecta: orden de afirmación, be al final."
+      },
+      {
+        "a": "What [[do]] you {{do}}?",
+        "b": "What [[are]] you {{do((ing))}}?",
+        "nota": "A: a qué te dedicas (hábito, presente simple). B: qué estás haciendo ahora (continuo)."
+      },
+      {
+        "a": "How much [[is]] it?",
+        "b": "How many [[are]] there?",
+        "nota": "How much: precio e incontables. How many: cosas que se cuentan, en plural."
+      }
+    ],
+    "frases": [
+      {
+        "en": "What do you do?",
+        "es": "¿A qué te dedicas?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "What time does the meeting start?",
+        "es": "¿A qué hora empieza la reunión?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Who is in charge of this account?",
+        "es": "¿Quién está a cargo de esta cuenta?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "How long will it take?",
+        "es": "¿Cuánto va a tomar?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Why did the client reject the proposal?",
+        "es": "¿Por qué el cliente rechazó la propuesta?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Could you tell me when the files will be ready?",
+        "es": "¿Me podrías decir cuándo estarán listos los archivos?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "What kind of campaign do you have in mind?",
+        "es": "¿Qué tipo de campaña tienen en mente?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Where are you from?",
+        "es": "¿De dónde eres?",
+        "contexto": "diario"
+      },
+      {
+        "en": "How was your weekend?",
+        "es": "¿Cómo estuvo tu fin de semana?",
+        "contexto": "diario"
+      },
+      {
+        "en": "How much is it?",
+        "es": "¿Cuánto cuesta?",
+        "contexto": "diario"
+      },
+      {
+        "en": "How far is it from here?",
+        "es": "¿Qué tan lejos queda de aquí?",
+        "contexto": "diario"
+      },
+      {
+        "en": "Who did you go with?",
+        "es": "¿Con quién fuiste?",
+        "contexto": "diario"
+      }
+    ],
+    "tip": "Arma la pregunta en dos pasos: primero la pregunta de sí/no (Do you work in Bogotá?) y luego pega el Wh- delante y quita la respuesta (Where do you work?). Si el Wh- es quien hace la acción (Who called?), no pegues nada: la frase ya es la pregunta."
+  },
+  "palabras": [
+    {
+      "id": "what",
+      "en": "what",
+      "ipa": "/wʌt/",
+      "es": "qué, cuál",
+      "clase": "expresión",
+      "orden": 1,
+      "ejemplo": "What do you do? — I'm an account director.",
+      "hueco": {
+        "frase": "___ do you do? — I'm an account director. (qué)",
+        "respuestas": [
+          "What"
+        ]
+      },
+      "nota": "La más general: cosas, acciones, información. What do you do? = ¿a qué te dedicas?"
+    },
+    {
+      "id": "where",
+      "en": "where",
+      "ipa": "/wɛr/",
+      "es": "dónde, adónde",
+      "clase": "expresión",
+      "orden": 2,
+      "ejemplo": "Where do you live? — In Chapinero.",
+      "hueco": {
+        "frase": "___ do you live? — In Chapinero. (dónde)",
+        "respuestas": [
+          "Where"
+        ]
+      },
+      "nota": "Lugar y destino. Where are you from? / Where are you going?"
+    },
+    {
+      "id": "when",
+      "en": "when",
+      "ipa": "/wɛn/",
+      "es": "cuándo",
+      "clase": "expresión",
+      "orden": 3,
+      "ejemplo": "When is the deadline? — Next Friday.",
+      "hueco": {
+        "frase": "___ is the deadline? — Next Friday. (cuándo)",
+        "respuestas": [
+          "When"
+        ]
+      },
+      "nota": "Momento general: día, mes, año. Para la hora exacta, what time."
+    },
+    {
+      "id": "who",
+      "en": "who",
+      "ipa": "/hu/",
+      "es": "quién, a quién",
+      "clase": "expresión",
+      "orden": 4,
+      "ejemplo": "Who is your account director? — Laura.",
+      "hueco": {
+        "frase": "___ is your account director? — Laura. (quién)",
+        "respuestas": [
+          "Who"
+        ]
+      },
+      "nota": "Personas. Si pregunta por el sujeto no lleva llave: Who called? (no «Who did call?»)."
+    },
+    {
+      "id": "why",
+      "en": "why",
+      "ipa": "/waɪ/",
+      "es": "por qué",
+      "clase": "expresión",
+      "orden": 5,
+      "ejemplo": "Why are you late? — Because of the traffic.",
+      "hueco": {
+        "frase": "___ are you late? — Because of the traffic. (por qué)",
+        "respuestas": [
+          "Why"
+        ]
+      },
+      "nota": "Razón. La respuesta empieza con because. Why don't we…? = ¿por qué no…? (propuesta)."
+    },
+    {
+      "id": "how",
+      "en": "how",
+      "ipa": "/haʊ/",
+      "es": "cómo",
+      "clase": "expresión",
+      "orden": 6,
+      "ejemplo": "How do you get to work? — By bike.",
+      "hueco": {
+        "frase": "___ do you get to work? — By bike. (cómo)",
+        "respuestas": [
+          "How"
+        ]
+      },
+      "nota": "Manera y estado. How are you? / How was the meeting? / How do you spell it?"
+    },
+    {
+      "id": "which",
+      "en": "which",
+      "ipa": "/wɪtʃ/",
+      "es": "cuál (entre opciones)",
+      "clase": "expresión",
+      "orden": 7,
+      "ejemplo": "Which option do you prefer, A or B?",
+      "hueco": {
+        "frase": "___ option do you prefer, A or B? (cuál de estas)",
+        "respuestas": [
+          "Which"
+        ]
+      },
+      "nota": "Cuando hay un grupo cerrado de opciones. What color? (abierto) vs. Which color, red or blue? (cerrado)."
+    },
+    {
+      "id": "whose",
+      "en": "whose",
+      "ipa": "/huz/",
+      "es": "de quién",
+      "clase": "expresión",
+      "orden": 8,
+      "ejemplo": "Whose laptop is this? — It's Mike's.",
+      "hueco": {
+        "frase": "___ laptop is this? — It's Mike's. (de quién)",
+        "respuestas": [
+          "Whose"
+        ]
+      },
+      "nota": "Posesión. Suena igual que who's (who is), pero se escribe distinto. Whose + sustantivo."
+    },
+    {
+      "id": "how-much",
+      "en": "how much",
+      "ipa": "/haʊ mʌtʃ/",
+      "es": "cuánto (incontable, precio)",
+      "clase": "expresión",
+      "orden": 9,
+      "ejemplo": "How much is the ticket? — 80,000 pesos.",
+      "hueco": {
+        "frase": "___ is the ticket? — 80,000 pesos. (cuánto)",
+        "respuestas": [
+          "How much"
+        ]
+      },
+      "nota": "Precio y cosas que no se cuentan: how much time, how much money, how much coffee."
+    },
+    {
+      "id": "how-many",
+      "en": "how many",
+      "ipa": "/haʊ ˈmɛni/",
+      "es": "cuántos, cuántas",
+      "clase": "expresión",
+      "orden": 10,
+      "ejemplo": "How many people are on your team? — Six.",
+      "hueco": {
+        "frase": "___ people are on your team? — Six. (cuántos)",
+        "respuestas": [
+          "How many"
+        ]
+      },
+      "nota": "Cosas que se cuentan, en plural: how many people, how many meetings, how many days."
+    },
+    {
+      "id": "how-long",
+      "en": "how long",
+      "ipa": "/haʊ lɔŋ/",
+      "es": "cuánto tiempo",
+      "clase": "expresión",
+      "orden": 11,
+      "ejemplo": "How long have you worked here? — For six years.",
+      "hueco": {
+        "frase": "___ have you worked here? — For six years. (cuánto tiempo)",
+        "respuestas": [
+          "How long"
+        ]
+      },
+      "nota": "Duración. Se responde con for o since. How long does it take? = ¿cuánto se demora?"
+    },
+    {
+      "id": "how-often",
+      "en": "how often",
+      "ipa": "/haʊ ˈɔfən/",
+      "es": "con qué frecuencia, cada cuánto",
+      "clase": "expresión",
+      "orden": 12,
+      "ejemplo": "How often do you go to the gym? — Three times a week.",
+      "hueco": {
+        "frase": "___ do you go to the gym? — Three times a week. (cada cuánto)",
+        "respuestas": [
+          "How often"
+        ]
+      },
+      "nota": "Frecuencia. Se responde con every day, once a week, twice a month."
+    },
+    {
+      "id": "how-far",
+      "en": "how far",
+      "ipa": "/haʊ fɑr/",
+      "es": "a qué distancia, qué tan lejos",
+      "clase": "expresión",
+      "orden": 13,
+      "ejemplo": "How far is the office from your house? — About 20 minutes.",
+      "hueco": {
+        "frase": "___ is the office from your house? — About 20 minutes. (qué tan lejos)",
+        "respuestas": [
+          "How far"
+        ]
+      },
+      "nota": "Distancia. How far is it to…? Se responde con kilómetros o minutos."
+    },
+    {
+      "id": "what-time",
+      "en": "what time",
+      "ipa": "/wʌt taɪm/",
+      "es": "a qué hora",
+      "clase": "expresión",
+      "orden": 14,
+      "ejemplo": "What time does the meeting start? — At 10.",
+      "hueco": {
+        "frase": "___ does the meeting start? — At 10. (a qué hora)",
+        "respuestas": [
+          "What time"
+        ]
+      },
+      "nota": "Hora exacta. When es más general. What time is it? = ¿qué hora es?"
+    },
+    {
+      "id": "what-kind-of",
+      "en": "what kind of",
+      "ipa": "/wʌt kaɪnd əv/",
+      "es": "qué tipo de, qué clase de",
+      "clase": "expresión",
+      "orden": 15,
+      "ejemplo": "What kind of music do you like?",
+      "hueco": {
+        "frase": "___ music do you like? (qué tipo de)",
+        "respuestas": [
+          "What kind of",
+          "What type of"
+        ]
+      },
+      "nota": "Tipo o categoría. What kind of clients do you work with? Variante: what type of."
+    },
+    {
+      "id": "how-old",
+      "en": "how old",
+      "ipa": "/haʊ oʊld/",
+      "es": "cuántos años, qué edad",
+      "clase": "expresión",
+      "orden": 16,
+      "ejemplo": "How old is your daughter? — She's eight.",
+      "hueco": {
+        "frase": "___ is your daughter? — She's eight. (cuántos años)",
+        "respuestas": [
+          "How old"
+        ]
+      },
+      "nota": "Edad, siempre con be: How old are you? I'm 38. Nunca «how many years do you have»."
+    },
+    {
+      "id": "how-about",
+      "en": "how about",
+      "ipa": "/haʊ əˈbaʊt/",
+      "es": "¿qué tal…?, ¿y…?",
+      "clase": "expresión",
+      "orden": 17,
+      "ejemplo": "I'm free on Thursday. How about you?",
+      "hueco": {
+        "frase": "I'm free on Thursday. ___ you? (¿y tú?)",
+        "respuestas": [
+          "How about",
+          "What about"
+        ]
+      },
+      "nota": "Para proponer o devolver la pregunta: How about Friday? How about you? Variante: what about."
+    },
+    {
+      "id": "what-for",
+      "en": "what … for",
+      "ipa": "/wʌt fɔr/",
+      "es": "para qué",
+      "clase": "expresión",
+      "orden": 18,
+      "ejemplo": "What is this meeting for? — To approve the budget.",
+      "hueco": {
+        "frase": "What is this meeting ___? — To approve the budget. (para qué)",
+        "respuestas": [
+          "for"
+        ]
+      },
+      "nota": "Para qué: la preposición for va al final. What do you need it for? = ¿para qué lo necesitas?"
+    },
+    {
+      "id": "who-with",
+      "en": "who … with",
+      "ipa": "/hu wɪð/",
+      "es": "con quién",
+      "clase": "expresión",
+      "orden": 19,
+      "ejemplo": "Who did you go to the concert with?",
+      "hueco": {
+        "frase": "Who did you go to the concert ___? (con quién)",
+        "respuestas": [
+          "with"
+        ]
+      },
+      "nota": "La preposición va al final en el inglés hablado: Who with? Who are you talking to? Where are you from?"
+    },
+    {
+      "id": "could-you-tell-me",
+      "en": "Could you tell me…?",
+      "ipa": "/kʊd ju tɛl mi/",
+      "es": "¿me podrías decir…?",
+      "clase": "expresión",
+      "orden": 20,
+      "ejemplo": "Could you tell me where the meeting room is?",
+      "hueco": {
+        "frase": "___ where the meeting room is? (¿me podrías decir…?)",
+        "respuestas": [
+          "Could you tell me",
+          "Can you tell me",
+          "Do you know"
+        ]
+      },
+      "nota": "Pregunta indirecta, más cortés. Después del wh-, orden de afirmación: where the room IS (no «where is the room»)."
+    }
+  ],
+  "ejercicios": [
+    {
+      "id": "preguntas-wh-001",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "LL",
+      "q": "___ do you live? — In Chapinero.",
+      "opciones": [
+        "Where",
+        "What",
+        "When"
+      ],
+      "a": 0,
+      "explica": "La respuesta es un lugar, así que la pregunta es where. Después viene la llave do y el sujeto."
+    },
+    {
+      "id": "preguntas-wh-002",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "LL",
+      "q": "___ time does the meeting start? — At 10.",
+      "opciones": [
+        "What",
+        "Which",
+        "How"
+      ],
+      "a": 0,
+      "explica": "La hora exacta se pregunta con what time. Luego la llave does y el verbo en base: start."
+    },
+    {
+      "id": "preguntas-wh-003",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "LL",
+      "q": "___ called this morning? — The client.",
+      "opciones": [
+        "Who",
+        "Whose",
+        "Whom"
+      ],
+      "a": 0,
+      "explica": "Who es el sujeto (quién llamó): pregunta de sujeto, sin llave, verbo conjugado en pasado."
+    },
+    {
+      "id": "preguntas-wh-004",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "LL",
+      "q": "___ are you late? — Because of the traffic.",
+      "opciones": [
+        "Why",
+        "How",
+        "When"
+      ],
+      "a": 0,
+      "explica": "La respuesta empieza con because: la pregunta es why. Con be, la llave es el propio are."
+    },
+    {
+      "id": "preguntas-wh-005",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "LL",
+      "q": "Where ___ you work? — At Brava, an agency in Bogotá.",
+      "opciones": [
+        "do",
+        "are",
+        "does"
+      ],
+      "a": 0,
+      "explica": "Presente simple con you: la llave es do. Are es para be o continuos; does es para he/she/it."
+    },
+    {
+      "id": "preguntas-wh-006",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "TPO",
+      "q": "What ___ you doing right now?",
+      "opciones": [
+        "are",
+        "do",
+        "does"
+      ],
+      "a": 0,
+      "explica": "Doing (-ing) y right now piden presente continuo: la llave es are, no do."
+    },
+    {
+      "id": "preguntas-wh-007",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "TPO",
+      "q": "Where ___ you go last weekend? — To Villa de Leyva.",
+      "opciones": [
+        "did",
+        "do",
+        "were"
+      ],
+      "a": 0,
+      "explica": "Last weekend es pasado: la llave es did y el verbo queda en base (go)."
+    },
+    {
+      "id": "preguntas-wh-008",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "LL",
+      "q": "___ coffee do you drink a day? — Three cups.",
+      "opciones": [
+        "How much",
+        "How many",
+        "How often"
+      ],
+      "a": 0,
+      "explica": "Coffee es incontable: how much. How many va con plurales (how many cups)."
+    },
+    {
+      "id": "preguntas-wh-009",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "LL",
+      "q": "___ do you live? — In Bogotá. (dónde)",
+      "respuestas": [
+        "Where"
+      ],
+      "explica": "Lugar → where. Después, la llave do y el sujeto you."
+    },
+    {
+      "id": "preguntas-wh-010",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "LL",
+      "q": "___ does the status call start? — At 9. (a qué hora)",
+      "respuestas": [
+        "What time",
+        "When"
+      ],
+      "explica": "Hora exacta → what time (when también vale, es más general). La llave does va después."
+    },
+    {
+      "id": "preguntas-wh-011",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "LL",
+      "q": "Where ___ you work? (llave del presente simple)",
+      "respuestas": [
+        "do"
+      ],
+      "explica": "Wh- + llave + sujeto + verbo: Where DO you work? Sin la llave la pregunta queda en español."
+    },
+    {
+      "id": "preguntas-wh-012",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "TPO",
+      "q": "What ___ you do yesterday? (llave del pasado)",
+      "respuestas": [
+        "did"
+      ],
+      "explica": "Yesterday → pasado → did. El verbo do queda en base porque did ya marca el tiempo."
+    },
+    {
+      "id": "preguntas-wh-013",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "LL",
+      "pares": [
+        [
+          "where",
+          "dónde"
+        ],
+        [
+          "when",
+          "cuándo"
+        ],
+        [
+          "why",
+          "por qué"
+        ],
+        [
+          "who",
+          "quién"
+        ],
+        [
+          "whose",
+          "de quién"
+        ]
+      ],
+      "explica": "Who (quién) y whose (de quién) se parecen: whose siempre va con un sustantivo (whose laptop)."
+    },
+    {
+      "id": "preguntas-wh-014",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "LL",
+      "pares": [
+        [
+          "how often",
+          "con qué frecuencia"
+        ],
+        [
+          "how long",
+          "cuánto tiempo"
+        ],
+        [
+          "how far",
+          "a qué distancia"
+        ],
+        [
+          "how much",
+          "cuánto (precio)"
+        ],
+        [
+          "how many",
+          "cuántos"
+        ]
+      ],
+      "explica": "How + adjetivo crea una pregunta nueva: often (frecuencia), long (duración), far (distancia), much/many (cantidad)."
+    },
+    {
+      "id": "preguntas-wh-015",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "LL",
+      "es": "¿Dónde trabajas?",
+      "en": "Where do you work?",
+      "extra": [
+        "works",
+        "are"
+      ],
+      "explica": "Wh- + do + you + verbo base. Works (con -s) y are son las trampas: la llave es do."
+    },
+    {
+      "id": "preguntas-wh-016",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "LL",
+      "es": "¿A qué hora empieza la reunión?",
+      "en": "What time does the meeting start?",
+      "extra": [
+        "starts",
+        "do"
+      ],
+      "explica": "Does lleva la -s; el verbo queda en base: start. Do no sirve con the meeting (it)."
+    },
+    {
+      "id": "preguntas-wh-017",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "LL",
+      "frase": "Where you live?",
+      "correcta": false,
+      "correccion": [
+        "Where do you live?"
+      ],
+      "explica": "Falta la llave: en presente simple la pregunta necesita do después del Wh-."
+    },
+    {
+      "id": "preguntas-wh-018",
+      "tipo": "escuchar",
+      "nivel": 1,
+      "code": "LL",
+      "texto": "What time do you usually get to the office?",
+      "respuestas": [
+        "What time do you usually get to the office?"
+      ],
+      "explica": "What time + do + you + verbo. El do suena corto y débil entre time y you: afina el oído."
+    },
+    {
+      "id": "preguntas-wh-019",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "TPO",
+      "q": "Where ___ you go on vacation last year? (llave)",
+      "respuestas": [
+        "did"
+      ],
+      "explica": "Last year → pasado → did. Después, el verbo en base: go."
+    },
+    {
+      "id": "preguntas-wh-020",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "TPO",
+      "q": "What ___ you doing when I called you yesterday? (llave)",
+      "respuestas": [
+        "were"
+      ],
+      "explica": "Doing + pasado (when I called) → pasado continuo: were you doing."
+    },
+    {
+      "id": "preguntas-wh-021",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "TPO",
+      "q": "How long ___ you worked at Brava? (llave)",
+      "respuestas": [
+        "have"
+      ],
+      "explica": "How long + participio (worked) → presente perfecto: have you worked."
+    },
+    {
+      "id": "preguntas-wh-022",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "LL",
+      "q": "Who ___ the meeting yesterday? — Laura did. (cancel)",
+      "respuestas": [
+        "canceled",
+        "cancelled"
+      ],
+      "explica": "Who es el sujeto (quién canceló): sin did, el verbo va conjugado en pasado: Who canceled…?"
+    },
+    {
+      "id": "preguntas-wh-023",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "LL",
+      "q": "___ bag is this? — It's Mike's. (de quién)",
+      "respuestas": [
+        "Whose"
+      ],
+      "explica": "Posesión → whose + sustantivo. No confundir con who's (who is)."
+    },
+    {
+      "id": "preguntas-wh-024",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "LL",
+      "q": "___ sent this email? — Camila.",
+      "opciones": [
+        "Who",
+        "Who did",
+        "Whom did"
+      ],
+      "a": 0,
+      "explica": "Who es el sujeto (quién envió): pregunta de sujeto, sin llave: Who sent…?"
+    },
+    {
+      "id": "preguntas-wh-025",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "LL",
+      "q": "Who ___ you talk to at the client's office?",
+      "opciones": [
+        "did",
+        "does",
+        "were"
+      ],
+      "a": 0,
+      "explica": "Aquí who es el objeto (con quién hablaste): necesita llave, y en pasado es did. La preposición to queda al final."
+    },
+    {
+      "id": "preguntas-wh-026",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "LL",
+      "q": "Could you tell me where ___?",
+      "opciones": [
+        "the meeting room is",
+        "is the meeting room",
+        "does the meeting room is"
+      ],
+      "a": 0,
+      "explica": "Pregunta indirecta: después de where el orden es de afirmación: the meeting room is."
+    },
+    {
+      "id": "preguntas-wh-027",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "LL",
+      "frase": "She works in Medellín.",
+      "instruccion": "Pregunta por el lugar (Where…?).",
+      "respuestas": [
+        "Where does she work?"
+      ],
+      "explica": "Wh- + does + she + verbo base: Where does she work? La -s pasa de works a does."
+    },
+    {
+      "id": "preguntas-wh-028",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "TPO",
+      "frase": "They launched the campaign in October.",
+      "instruccion": "Pregunta por el momento (When…?).",
+      "respuestas": [
+        "When did they launch the campaign?"
+      ],
+      "explica": "Pasado → did + verbo base: did they launch. La -ed desaparece porque did ya marca el tiempo."
+    },
+    {
+      "id": "preguntas-wh-029",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "LL",
+      "frase": "Mike is talking to the client.",
+      "instruccion": "Pregunta por la persona (Who… to?).",
+      "respuestas": [
+        "Who is Mike talking to?",
+        "Who is he talking to?",
+        "To whom is Mike talking?",
+        "Who is Mike speaking to?"
+      ],
+      "explica": "Con el continuo, la llave es is y se adelanta: Who is Mike talking to? La preposición to va al final."
+    },
+    {
+      "id": "preguntas-wh-030",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "LL",
+      "frase": "We have three meetings today.",
+      "instruccion": "Pregunta por la cantidad (How many…?).",
+      "respuestas": [
+        "How many meetings do you have today?",
+        "How many meetings do we have today?"
+      ],
+      "explica": "How many + sustantivo plural + do + sujeto + verbo: How many meetings do you have today?"
+    },
+    {
+      "id": "preguntas-wh-031",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "LL",
+      "frase": "Where is the bathroom?",
+      "instruccion": "Hazla indirecta: Could you tell me…?",
+      "respuestas": [
+        "Could you tell me where the bathroom is?"
+      ],
+      "explica": "En la indirecta, be vuelve al final: where the bathroom is. Nada de «where is the bathroom» después de tell me."
+    },
+    {
+      "id": "preguntas-wh-032",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "TPO",
+      "frase": "Where did you went last night?",
+      "correcta": false,
+      "correccion": [
+        "Where did you go last night?"
+      ],
+      "explica": "Did ya marca el pasado; el verbo vuelve a la base: did you go."
+    },
+    {
+      "id": "preguntas-wh-033",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "LL",
+      "frase": "What time does the presentation start?",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Correcta: what time + does + the presentation + start (verbo en base)."
+    },
+    {
+      "id": "preguntas-wh-034",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "LL",
+      "frase": "Who did call you this morning?",
+      "correcta": false,
+      "correccion": [
+        "Who called you this morning?"
+      ],
+      "explica": "Who es el sujeto (quién te llamó): pregunta de sujeto, sin did: Who called you?"
+    },
+    {
+      "id": "preguntas-wh-035",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "LL",
+      "es": "¿Con quién fuiste al concierto?",
+      "en": "Who did you go to the concert with?",
+      "extra": [
+        "went",
+        "whom"
+      ],
+      "explica": "Did + verbo base (go), y la preposición with al final. «With whom» es muy formal."
+    },
+    {
+      "id": "preguntas-wh-036",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "TPO",
+      "es": "¿Cuánto tiempo llevas trabajando aquí?",
+      "en": "How long have you worked here?",
+      "extra": [
+        "do",
+        "since"
+      ],
+      "explica": "How long + have + you + participio: presente perfecto. Do es la trampa del presente simple."
+    },
+    {
+      "id": "preguntas-wh-037",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "LL",
+      "es": "¿Me podrías decir a qué hora cierra la tienda?",
+      "en": "Could you tell me what time the store closes?",
+      "extra": [
+        "does",
+        "close"
+      ],
+      "explica": "Indirecta: sin does, y el verbo lleva la -s porque es afirmación: the store closes."
+    },
+    {
+      "id": "preguntas-wh-038",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "TPO",
+      "es": "¿Dónde almorzaste?",
+      "respuestas": [
+        "Where did you have lunch?",
+        "Where did you eat lunch?",
+        "Where did you have lunch today?",
+        "Where did you eat?"
+      ],
+      "explica": "Pasado → where + did + you + verbo base: have lunch / eat lunch."
+    },
+    {
+      "id": "preguntas-wh-039",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "LL",
+      "es": "¿Cuántas personas hay en tu equipo?",
+      "respuestas": [
+        "How many people are there on your team?",
+        "How many people are on your team?",
+        "How many people are there in your team?",
+        "How many people are in your team?",
+        "How many people do you have on your team?",
+        "How many people do you have in your team?"
+      ],
+      "explica": "People es plural: how many. Con there is/are, la llave es are: How many people are there…?"
+    },
+    {
+      "id": "preguntas-wh-040",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "TPO",
+      "es": "¿Por qué no viniste a la reunión?",
+      "respuestas": [
+        "Why didn't you come to the meeting?",
+        "Why didn't you go to the meeting?",
+        "Why didn't you attend the meeting?"
+      ],
+      "explica": "Pasado negativo: why + didn't + you + verbo base (come). Nunca «didn't came»."
+    },
+    {
+      "id": "preguntas-wh-041",
+      "tipo": "escuchar",
+      "nivel": 2,
+      "code": "LL",
+      "texto": "How often do you go to the gym?",
+      "respuestas": [
+        "How often do you go to the gym?"
+      ],
+      "explica": "How often + do + you + verbo: la frecuencia se pregunta así y se responde con twice a week, every day."
+    },
+    {
+      "id": "preguntas-wh-042",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "LL",
+      "consigna": "Imagina que entrevistas a una persona nueva para tu equipo. Hazle seis preguntas en voz alta: dónde trabajaba antes, cuánto tiempo estuvo allí, por qué quiere este trabajo, qué tipo de campañas ha hecho, cuántas personas ha manejado y a qué hora le gusta empezar el día.",
+      "objetivo": "Wh- + llave + sujeto + verbo en distintos tiempos: Where did…? How long were…? Why do…? What kind of… have…? How many… did…? What time do…?",
+      "ejemplo": "Where did you work before? How long were you there? Why do you want this job? What kind of campaigns have you worked on? How many people did you manage? What time do you like to start your day?",
+      "explica": "La estructura no cambia; cambia la llave según el tiempo: did (pasado), do (presente), have (perfecto), were (be en pasado)."
+    },
+    {
+      "id": "preguntas-wh-043",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "LL",
+      "titulo": "Entrevista de trabajo en Brava",
+      "instruccion": "Completa cada pregunta con la llave correcta: do, does, did, are, were, have o will.",
+      "texto": "Laura is interviewing a candidate for the creative team. «Thanks for coming, Sarah. Where {1} you work right now?» «At a small agency in Medellín.» «And how long {2} you worked there?» «For three years.» «Where {3} you work before that?» «In Cali, at a design studio.» «What {4} you doing there, exactly?» «I was designing packaging.» «Why {5} you want to change jobs?» «I want to work on bigger campaigns.» «What kind of clients {6} you like?» «Food and beverage brands.» «Okay. When {7} you be able to start?» «In two weeks.» «Perfect. One last question: who {8} the person who recommended you?»",
+      "huecos": [
+        {
+          "respuestas": [
+            "do"
+          ]
+        },
+        {
+          "respuestas": [
+            "have"
+          ]
+        },
+        {
+          "respuestas": [
+            "did"
+          ]
+        },
+        {
+          "respuestas": [
+            "were"
+          ]
+        },
+        {
+          "respuestas": [
+            "do"
+          ]
+        },
+        {
+          "respuestas": [
+            "do"
+          ]
+        },
+        {
+          "respuestas": [
+            "will",
+            "would"
+          ]
+        },
+        {
+          "respuestas": [
+            "is",
+            "was"
+          ]
+        }
+      ],
+      "explica": "Lee las señales: right now → do; how long + worked → have; before that → did; doing + pasado → were; start en el futuro → will. La última es be: who is the person…?"
+    },
+    {
+      "id": "preguntas-wh-044",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "LL",
+      "titulo": "Conociendo a un cliente nuevo",
+      "instruccion": "Elige la palabra interrogativa correcta para cada pregunta del brief.",
+      "texto": "Andrés has his first meeting with a new client, a coffee brand. He opens his notebook and asks: «{1} is your target consumer?» «Young professionals.» «{2} kind of campaign do you have in mind?» «Something digital.» «{3} is the launch?» «In March.» «{4} is the budget?» «Around 200 million pesos.» «{5} cities will the campaign run in?» «Bogotá and Medellín.» «{6} did you decide to change agencies?» «We wanted fresh ideas.» «{7} will be our main contact on your side?» «Me and the marketing manager.» «And {8} do you usually send feedback, by email or in meetings?»",
+      "huecos": [
+        {
+          "opciones": [
+            "Who",
+            "Whose",
+            "Which"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "What",
+            "Which",
+            "How"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "When",
+            "Where",
+            "How long"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "How much",
+            "How many",
+            "How often"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "Which",
+            "Whose",
+            "Why"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "Why",
+            "Where",
+            "When"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "Who",
+            "Whose",
+            "What time"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "how",
+            "what",
+            "where"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "La respuesta te dice el Wh-: persona → who; tipo → what kind of; fecha → when; dinero → how much; opciones cerradas → which; razón → why; manera → how."
+    },
+    {
+      "id": "preguntas-wh-045",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "LL",
+      "titulo": "Preguntas con cortesía en el hotel",
+      "instruccion": "Elige la versión correcta de cada pregunta indirecta.",
+      "texto": "Mike arrives at a hotel in Cartagena for a conference. At the front desk he says: «Good afternoon. Could you tell me {1}?» «It's at 3 pm, sir.» «And do you know {2}?» «On the second floor, next to the pool.» «Great. Can you tell me {3}?» «From 6:30 to 10 am.» «One more thing: could you tell me {4}?» «About fifteen minutes by taxi.» «Do you know {5}?» «Around 20,000 pesos.» «Thank you. Oh, and could you tell me {6}?» «Yes, it's free for guests. The password is on your key card.»",
+      "huecos": [
+        {
+          "opciones": [
+            "what time check-in is",
+            "what time is check-in",
+            "what time does check-in is"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "where the gym is",
+            "where is the gym",
+            "where does the gym is"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "what time breakfast is served",
+            "what time is breakfast served",
+            "what time does breakfast served"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "how far the convention center is",
+            "how far is the convention center",
+            "how far does the convention center is"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "how much a taxi costs",
+            "how much does a taxi cost",
+            "how much costs a taxi"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "if the Wi-Fi is free",
+            "is the Wi-Fi free",
+            "does the Wi-Fi is free"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Después de Could you tell me / Do you know, el orden es de afirmación: sujeto + verbo (check-in is, a taxi costs). Sin do/does y sin adelantar be. Para sí/no se usa if."
+    },
+    {
+      "id": "preguntas-wh-046",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "LL",
+      "titulo": "¿Quién hizo qué? El lunes después del lanzamiento",
+      "instruccion": "Completa con la forma correcta. Si Who es el sujeto, el verbo va conjugado sin llave; si es el objeto, usa did + verbo base.",
+      "texto": "The campaign launched on Friday and on Monday Laura wants to know everything. «Who {1} (approve) the final video?» «The client did, on Thursday.» «Who {2} (talk) to about the budget?» «I talked to Camila.» «Who {3} (post) the first ad on Instagram?» «Mike posted it at 8 am.» «And who {4} (call) when the website went down?» «I called IT immediately.» «Who {5} (fix) it?» «Andrés fixed it in twenty minutes.» «Who {6} (email) the results to?» «I emailed them to the whole client team.» «Great. Who {7} (write) the report?» «Camila wrote it.»",
+      "huecos": [
+        {
+          "respuestas": [
+            "approved"
+          ]
+        },
+        {
+          "respuestas": [
+            "did you talk"
+          ]
+        },
+        {
+          "respuestas": [
+            "posted"
+          ]
+        },
+        {
+          "respuestas": [
+            "did you call"
+          ]
+        },
+        {
+          "respuestas": [
+            "fixed"
+          ]
+        },
+        {
+          "respuestas": [
+            "did you email"
+          ]
+        },
+        {
+          "respuestas": [
+            "wrote"
+          ]
+        }
+      ],
+      "explica": "Mira la respuesta: si contesta quién hizo la acción (The client did, Mike posted), who es sujeto → sin did. Si contesta a quién o con quién (I talked to Camila), who es objeto → did you + base."
+    },
+    {
+      "id": "preguntas-wh-047",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "TPO",
+      "titulo": "Mensajes del domingo",
+      "instruccion": "Completa cada pregunta de la conversación con la llave correcta: do, does, did, are, were, is, was, have o will.",
+      "texto": "Camila texts her friend Daniela on Sunday. «Hey! How {1} your weekend?» «Great! I went to Guatavita.» «Nice! Who {2} you go with?» «With my sister.» «What {3} you doing there, hiking?» «Yes, we hiked around the lake.» «How long {4} it take to get there?» «About two hours by car.» «And what {5} you doing now?» «Cooking lunch.» «What time {6} you usually have lunch on Sundays?» «Around 2.» «{7} you ever been to Villa de Leyva? I'm going next weekend.» «Yes, twice!» «Where {8} we stay, then? Any recommendations?»",
+      "huecos": [
+        {
+          "respuestas": [
+            "was"
+          ]
+        },
+        {
+          "respuestas": [
+            "did"
+          ]
+        },
+        {
+          "respuestas": [
+            "were"
+          ]
+        },
+        {
+          "respuestas": [
+            "did",
+            "does"
+          ]
+        },
+        {
+          "respuestas": [
+            "are"
+          ]
+        },
+        {
+          "respuestas": [
+            "do"
+          ]
+        },
+        {
+          "respuestas": [
+            "Have"
+          ]
+        },
+        {
+          "respuestas": [
+            "will",
+            "should",
+            "can"
+          ]
+        }
+      ],
+      "explica": "La llave sigue al tiempo: pasado (was, did, were), ahora (are), hábito (do), experiencia (have…ever), futuro (will). El Wh- va siempre primero y el orden no cambia."
+    },
+    {
+      "id": "preguntas-wh-048",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "LL",
+      "titulo": "La primera reunión con el cliente",
+      "texto": "Last Tuesday Andrés had his first meeting with a new client, a Colombian sports brand. He prepared a list of questions the night before, because a good brief starts with good questions. First he asked, «Who is your target consumer?» The marketing director answered, «Men and women between 25 and 40 who run or go to the gym.» Then he asked, «What kind of campaign do you have in mind?» and «When is the launch?» They wanted a digital campaign for March. Andrés also asked how much the budget was and how many cities the campaign would run in. The hardest question was the last one: «Why did you leave your previous agency?» The director smiled and said, «Because they never asked us questions.» Andrés wrote that down. He knew the account was his.",
+      "preguntas": [
+        {
+          "q": "Why did Andrés prepare questions the night before?",
+          "opciones": [
+            "Because a good brief starts with good questions",
+            "Because the client asked him to",
+            "Because he didn't know the brand"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Who is the brand's target consumer?",
+          "opciones": [
+            "People between 25 and 40 who run or go to the gym",
+            "Teenagers who play soccer",
+            "Marketing directors"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why did the client leave their previous agency?",
+          "opciones": [
+            "Because the agency never asked them questions",
+            "Because the budget was too high",
+            "Because the launch was late"
+          ],
+          "a": 0
+        },
+        {
+          "q": "En «Who is your target consumer?», ¿por qué no hay do/does?",
+          "opciones": [
+            "Porque el verbo es be, y be es su propia llave: se adelanta",
+            "Porque who nunca lleva llave",
+            "Porque es una pregunta indirecta"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Who is…? (be adelantado), What kind of… do you…? (do), When is…? (be), How much / How many…, Why did you…? (did + base). Un brief entero en preguntas Wh-."
+    },
+    {
+      "id": "preguntas-wh-049",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "LL",
+      "titulo": "Perdido en Cartagena",
+      "texto": "Mike arrived in Cartagena on Friday for a conference. At the airport he asked a taxi driver, «How far is the hotel from here?» The driver said twenty minutes, but it took almost an hour because of the traffic. When Mike got to the hotel, the receptionist asked him, «Where are you from?» and «How long are you staying?» He answered, «From Bogotá, for three nights.» Then Mike asked, «Could you tell me where the convention center is?» It was only two blocks away. On Saturday night he got lost in the old city, so he asked a woman, «Do you know what time the last bus leaves?» She laughed and said there were no buses in the walled city, only taxis. Mike asked her how much a taxi cost, and she said about 15,000 pesos. He thanked her and took one back to the hotel.",
+      "preguntas": [
+        {
+          "q": "How long did it take Mike to get to the hotel?",
+          "opciones": [
+            "Almost an hour",
+            "Twenty minutes",
+            "Three nights"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What did the receptionist want to know?",
+          "opciones": [
+            "Where Mike was from and how long he was staying",
+            "Where the convention center was",
+            "How much a taxi cost"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why did the woman laugh?",
+          "opciones": [
+            "Because there were no buses in the walled city",
+            "Because the taxi was expensive",
+            "Because Mike was from Bogotá"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«Could you tell me where the convention center is?»: ¿por qué «is» va al final?",
+          "opciones": [
+            "Porque en la pregunta indirecta el orden es de afirmación",
+            "Porque where siempre va con is al final",
+            "Porque es un error del texto"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Directas: How far is…? Where are you from? How long are you staying? Indirectas: Could you tell me where … is? Do you know what time … leaves? En las indirectas, el verbo vuelve a su lugar."
+    },
+    {
+      "id": "preguntas-wh-050",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "LL",
+      "titulo": "El interrogatorio del lunes",
+      "texto": "Every Monday at 9, Laura runs the status meeting at Brava, and the team calls it «the interrogation» because she asks a lot of questions. «Who is working on the coffee video?» Mike raises his hand. «How long will it take?» «Two more days.» «Why did the client reject the first version?» «Because the music was too slow.» Then she turns to Camila: «What did you send the bank on Friday?» «The media plan and the budget.» «When will they answer?» «They said by Wednesday.» «And who called this morning?» «The sports brand. They want a new slogan.» Laura smiles. «Okay. How many ideas do we have?» Silence. «That's what I thought. Brainstorming at 11. Who's bringing the coffee?» Everybody laughs. The meeting takes twenty minutes, and everybody leaves knowing exactly what to do.",
+      "preguntas": [
+        {
+          "q": "Why does the team call the meeting «the interrogation»?",
+          "opciones": [
+            "Because Laura asks a lot of questions",
+            "Because it takes a long time",
+            "Because the client is there"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why did the client reject the first version of the video?",
+          "opciones": [
+            "Because the music was too slow",
+            "Because it took two more days",
+            "Because the budget was wrong"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Who called this morning?",
+          "opciones": [
+            "The sports brand",
+            "The bank",
+            "Camila"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«Who called this morning?» y «What did you send…?»: ¿por qué una lleva did y la otra no?",
+          "opciones": [
+            "En la primera who es el sujeto (sin llave); en la segunda what es el objeto (con did)",
+            "Porque who nunca lleva did y what siempre",
+            "Porque la primera es presente y la segunda pasado"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Who is working…? (continuo), How long will…? (futuro), Why did…? (pasado con did), Who called? (sujeto, sin llave), How many ideas do we have? (presente). Mismo orden, distinta llave."
+    },
+    {
+      "id": "preguntas-wh-051",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "LL",
+      "titulo": "Una cita con muchas preguntas",
+      "texto": "Camila's cousin Juliana went on a first date on Saturday, and on Sunday Camila wanted to know everything. «Where did you go?» «To a small Italian restaurant in Usaquén.» «Who paid?» «We split the bill.» «What does he do?» «He's an architect. He designs houses in Chía.» «How old is he?» «Thirty-four.» «What did you talk about?» «Travel, mostly. He has been to twelve countries.» «How long did you stay?» «Almost three hours.» «And how was it?» Juliana smiled. «Really nice. He's funny and he asks a lot of questions.» «What kind of questions?» «Where I grew up, why I became a nurse, what I do on weekends… Nobody had asked me so many things in years.» «So, when are you seeing him again?» «On Friday. He's cooking dinner.»",
+      "preguntas": [
+        {
+          "q": "What does Juliana's date do?",
+          "opciones": [
+            "He is an architect",
+            "He is a nurse",
+            "He owns an Italian restaurant"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why did Juliana like him?",
+          "opciones": [
+            "Because he is funny and asks a lot of questions",
+            "Because he paid for dinner",
+            "Because he has a house in Chía"
+          ],
+          "a": 0
+        },
+        {
+          "q": "When is Juliana seeing him again?",
+          "opciones": [
+            "On Friday",
+            "On Sunday",
+            "In twelve days"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«Where I grew up, why I became a nurse»: ¿por qué no dicen «where did I grow up»?",
+          "opciones": [
+            "Porque son preguntas indirectas (reportadas) y llevan orden de afirmación",
+            "Porque grew up es un phrasal verb",
+            "Porque el pasado nunca lleva did en preguntas"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Where did you go? Who paid? (sujeto) What does he do? How old is he? How long did you stay? When are you seeing him? Y las reportadas (where I grew up) sin llave: orden de afirmación."
+    },
+    {
+      "id": "preguntas-wh-052",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "LL",
+      "consigna": "Escribe seis preguntas para entrevistar a un candidato para tu equipo: dónde trabajó antes, cuánto tiempo, por qué quiere el puesto, qué tipo de proyectos ha hecho, cuántas personas ha manejado y qué hará el primer mes.",
+      "requisitos": [
+        {
+          "texto": "Pregunta con where / why / what + do, does o did",
+          "patron": "\\b(where|why|what|when|how)\\s+(do|does|did)\\s+you\\b"
+        },
+        {
+          "texto": "Pregunta con how long, how many o how much",
+          "patron": "\\bhow\\s+(long|many|much)\\b"
+        },
+        {
+          "texto": "Pregunta en pasado con did",
+          "patron": "\\bdid\\s+you\\s+\\w+"
+        },
+        {
+          "texto": "Pregunta sobre el futuro con will o are you going to",
+          "patron": "\\b(what|where|when|how)\\s+(will\\s+you|are\\s+you\\s+going\\s+to)\\b"
+        }
+      ],
+      "minPalabras": 40,
+      "ejemplo": "Where did you work before this? How long were you there? Why do you want to work at Brava? What kind of projects have you worked on? How many people did you manage in your last job? What will you do in your first month here? And one more: what time do you like to start your day?",
+      "explica": "Cada pregunta sigue Wh- + llave + sujeto + verbo. La llave cambia con el tiempo: did (pasado), do (presente), have (perfecto), will (futuro)."
+    },
+    {
+      "id": "preguntas-wh-053",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "LL",
+      "consigna": "Vas a tener la primera reunión con un cliente nuevo. Escribe seis preguntas para el brief: quién es el consumidor, qué tipo de campaña quiere, cuándo es el lanzamiento, cuánto es el presupuesto, en qué ciudades y una pregunta indirecta de cortesía (Could you tell me…?).",
+      "requisitos": [
+        {
+          "texto": "Pregunta con who + is / are",
+          "patron": "\\bwho\\s+(is|are|will)\\b"
+        },
+        {
+          "texto": "Pregunta con what kind of",
+          "patron": "\\bwhat\\s+(kind|type)\\s+of\\b"
+        },
+        {
+          "texto": "Pregunta con how much o how many",
+          "patron": "\\bhow\\s+(much|many)\\b"
+        },
+        {
+          "texto": "Pregunta indirecta: Could you tell me + wh- (sin do/does)",
+          "patron": "\\b(could|can)\\s+you\\s+tell\\s+me\\s+(what|where|when|who|why|how)\\b"
+        }
+      ],
+      "minPalabras": 45,
+      "ejemplo": "Who is your target consumer? What kind of campaign do you have in mind, digital or TV? When is the launch? How much is the budget for this year? Which cities will the campaign run in? And finally, could you tell me who our main contact will be on your side? Thank you for your time.",
+      "explica": "En el brief, who is / when is con be adelantado; what kind of … do you…? con do; y la indirecta con orden de afirmación: could you tell me who our contact will be."
+    },
+    {
+      "id": "preguntas-wh-054",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "TPO",
+      "consigna": "Un amigo volvió de un viaje. Escríbele un mensaje con al menos cinco preguntas en pasado: adónde fue, con quién, cuánto tiempo se quedó, qué fue lo mejor, por qué eligió ese lugar y cuánto gastó.",
+      "requisitos": [
+        {
+          "texto": "Pregunta con where + did",
+          "patron": "\\bwhere\\s+did\\s+you\\b"
+        },
+        {
+          "texto": "Pregunta con how long, how much o how many",
+          "patron": "\\bhow\\s+(long|much|many)\\b"
+        },
+        {
+          "texto": "Pregunta con preposición al final (who … with?)",
+          "patron": "\\bwho\\s+did\\s+you\\s+(\\w+\\s+)+with\\b"
+        },
+        {
+          "texto": "Pregunta con why + did o what was",
+          "patron": "\\b(why\\s+did\\s+you|what\\s+was)\\b"
+        }
+      ],
+      "minPalabras": 40,
+      "ejemplo": "Hey Andrés! Welcome back! Where did you go in the end? Who did you travel with? How long did you stay there? What was the best part of the trip? Why did you choose that place? And how much did you spend? Tell me everything on Friday. I want to see the photos too!",
+      "explica": "Pasado: Wh- + did + you + verbo base (did you go, did you stay, did you spend). Con be, was se adelanta: what was the best part?"
+    },
+    {
+      "id": "preguntas-wh-055",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "LL",
+      "consigna": "Llegas a un hotel en otra ciudad para un congreso. Escribe lo que le preguntas a la recepcionista con preguntas indirectas (Could you tell me…? Do you know…?): a qué hora es el desayuno, dónde está el gimnasio, qué tan lejos queda el centro de convenciones, cuánto cuesta un taxi y si el wifi es gratis.",
+      "requisitos": [
+        {
+          "texto": "Usa Could you tell me / Do you know + wh- al menos dos veces",
+          "patron": "\\b(could|can)\\s+you\\s+tell\\s+me\\s+(what|where|when|who|why|how|if)\\b[\\s\\S]*\\b(do\\s+you\\s+know|could\\s+you\\s+tell\\s+me|can\\s+you\\s+tell\\s+me)\\s+(what|where|when|who|why|how|if)\\b"
+        },
+        {
+          "texto": "Pregunta indirecta con what time + sujeto + verbo (sin do/does)",
+          "patron": "\\bwhat\\s+time\\s+(the\\s+)?([\\w-]+\\s+){1,3}(is|are|starts|opens|closes|begins)\\b"
+        },
+        {
+          "texto": "Pregunta indirecta con how far o how much",
+          "patron": "\\bhow\\s+(far|much)\\s+(the\\s+|a\\s+)?([\\w-]+\\s+){1,3}(is|are|costs)\\b"
+        },
+        {
+          "texto": "Pregunta indirecta de sí/no con if",
+          "patron": "\\b(know|me)\\s+if\\s+(the\\s+)?([\\w-]+\\s+){1,3}(is|are|has|have)\\b"
+        }
+      ],
+      "minPalabras": 45,
+      "ejemplo": "Good afternoon. I have a reservation under Rodríguez. Could you tell me what time breakfast is? And do you know where the gym is? I also need to know how far the convention center is from here, and how much a taxi costs. One more thing: could you tell me if the Wi-Fi is free for guests? Thank you very much.",
+      "explica": "En las indirectas el orden es de afirmación: what time breakfast is, where the gym is, how much a taxi costs. Sin do/does y con be en su lugar. Para sí/no, if."
+    }
+  ]
+}

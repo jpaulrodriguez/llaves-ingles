@@ -1,0 +1,3223 @@
+{
+  "id": "adjetivos",
+  "titulo": "Adjetivos: describir con precisión",
+  "grupo": "Vocabulario",
+  "orden": 305,
+  "nivel": "A2–B1",
+  "resumen": "Describir personas, cosas y situaciones: adjetivo antes del sustantivo o después de be, sin plural, en el orden correcto; -ed vs -ing (bored/boring), intensificadores (very, pretty, absolutely), adjetivo + preposición (good at, interested in) y opuestos con prefijo (un-, im-, in-, dis-). Con 100 adjetivos útiles.",
+  "llave": "adjetivo antes del sustantivo · después de be",
+  "teoria": {
+    "paraQue": "Para describir con precisión personas, cosas, lugares y situaciones: cómo es el cliente, cómo quedó la campaña, cómo te sientes después de una reunión. El adjetivo inglés es una palabra fija: nunca cambia por género ni por número, y casi siempre va antes del sustantivo o después de be.",
+    "llave": "La llave es la posición. El adjetivo va delante del sustantivo (a creative team, two new clients) o después de be y de los verbos de parecer y percepción (the brief is clear, it looks expensive, she seems tired). Nunca detrás del sustantivo como en español (*a team creative* ✗) y nunca con -s (*differents* ✗).",
+    "formulas": [
+      {
+        "tipo": "Antes del sustantivo",
+        "formula": "(a / the / two…) + adjetivo + sustantivo",
+        "ejemplo": "We {{have}} a creative team and two new clients."
+      },
+      {
+        "tipo": "Después de be y verbos de parecer",
+        "formula": "Sujeto + be / seem / look / feel / sound + adjetivo",
+        "ejemplo": "The brief [[is]] clear and the client {{seems}} happy."
+      },
+      {
+        "tipo": "Sin plural",
+        "formula": "adjetivo invariable + sustantivo plural",
+        "ejemplo": "They [[are]] different clients with important projects."
+      },
+      {
+        "tipo": "Orden de adjetivos",
+        "formula": "opinión + tamaño + edad + color + origen + material + sustantivo",
+        "ejemplo": "She {{bought}} a beautiful small old Colombian wooden table."
+      },
+      {
+        "tipo": "-ed vs -ing",
+        "formula": "-ed = cómo se siente alguien · -ing = cómo es la cosa que lo provoca",
+        "ejemplo": "I [[was]] bored because the meeting [[was]] boring."
+      },
+      {
+        "tipo": "Intensificadores",
+        "formula": "very / really / pretty / quite / a bit / extremely + adjetivo graduable · absolutely / completely + adjetivo extremo",
+        "ejemplo": "I[['m]] very tired. In fact, I[['m]] absolutely exhausted."
+      },
+      {
+        "tipo": "Adjetivo + preposición",
+        "formula": "good at · bad at · interested in · responsible for · worried about · proud of · afraid of · similar to · different from · tired of · excited about · famous for · married to",
+        "ejemplo": "Laura [[is]] good at numbers and responsible for two accounts."
+      },
+      {
+        "tipo": "Prefijos de opuesto",
+        "formula": "un- (unhappy, unclear) · im- (impossible, impatient) · in- (informal, incorrect) · dis- (dishonest) · ir- (irresponsible)",
+        "ejemplo": "The brief [[is]] unclear and the deadline [[is]] impossible."
+      }
+    ],
+    "reglas": [
+      "El adjetivo va antes del sustantivo: *a long meeting*, *an expensive restaurant*. Decir *a meeting long* es calcar el español.",
+      "Después de *be*, *seem*, *look*, *feel*, *sound*, *smell* y *taste* va adjetivo, no adverbio: *It looks good*, *I feel tired*, *That sounds great*.",
+      "El adjetivo nunca lleva -s: *three important clients*, *two different ideas*. *Differents*, *importants* y *olds* no existen.",
+      "Algunos adjetivos solo van después de *be*: *afraid, alone, asleep, awake, alive*. Se dice *the baby is asleep*, no *an asleep baby*.",
+      "Otros solo van antes del sustantivo: *main, only, former, elder*. Se dice *the main problem*, no *the problem is main*.",
+      "Si pones varios adjetivos, el orden es opinión → tamaño → edad → forma → color → origen → material → propósito: *a nice big new Colombian wooden desk*. En la práctica rara vez usas más de dos o tres.",
+      "Terminados en -ed hablan de cómo se siente alguien (*bored, tired, interested, excited*). Terminados en -ing hablan de la cosa o persona que provoca ese sentimiento (*boring, tiring, interesting, exciting*). Si dices *I'm boring* estás diciendo que tú aburres a los demás.",
+      "Los graduables aceptan *very, really, pretty, quite, a bit, extremely* (*very tired, pretty cold, a bit nervous*). Los extremos (*exhausted, delicious, huge, impossible, perfect, terrible*) ya llevan el «muy» dentro: van con *absolutely, completely, totally* o solos, nunca con *very*.",
+      "Cada adjetivo tiene su preposición y se aprende con ella: *good AT, interested IN, responsible FOR, worried ABOUT, proud OF, afraid OF, similar TO, different FROM, married TO*. En español casi nunca coincide.",
+      "El opuesto se forma muchas veces con prefijo: *un-* es el más común (*unhappy, unclear, unfair, unusual, unlucky*); *im-* antes de p y m (*impossible, impatient, impolite*); *in-* (*informal, incorrect, inaccurate*); *dis-* (*dishonest, disorganized*); *ir-* antes de r (*irresponsible, irregular*). Si dudas, usa *not*: *not possible* siempre funciona."
+    ],
+    "senales": [
+      "very",
+      "really",
+      "pretty",
+      "quite",
+      "a bit",
+      "extremely",
+      "absolutely",
+      "so",
+      "too",
+      "enough",
+      "look",
+      "seem",
+      "feel",
+      "sound"
+    ],
+    "usos": [
+      {
+        "uso": "Describir cómo te sientes",
+        "contexto": "diario",
+        "ejemplo": "I[['m]] exhausted but really happy with the weekend."
+      },
+      {
+        "uso": "Hablar de comida y restaurantes",
+        "contexto": "diario",
+        "ejemplo": "The food [[was]] delicious and the place [[was]] quiet and clean."
+      },
+      {
+        "uso": "Describir un lugar o un viaje",
+        "contexto": "diario",
+        "ejemplo": "Cartagena [[is]] a beautiful old city, but it[['s]] very hot in the afternoon."
+      },
+      {
+        "uso": "Hablar de la familia y los amigos",
+        "contexto": "diario",
+        "ejemplo": "My brother [[is]] funny, kind and a bit lazy."
+      },
+      {
+        "uso": "Dar feedback sobre una pieza o una idea",
+        "contexto": "trabajo",
+        "ejemplo": "The idea [[is]] creative, but the copy [[is]] too long and a bit confusing."
+      },
+      {
+        "uso": "Describir al cliente o al equipo",
+        "contexto": "trabajo",
+        "ejemplo": "The client [[is]] demanding but fair, and the team [[is]] young and reliable."
+      },
+      {
+        "uso": "Marcar prioridades",
+        "contexto": "trabajo",
+        "ejemplo": "This [[is]] urgent; the other requests [[are]] important but not urgent."
+      },
+      {
+        "uso": "Hablar de resultados",
+        "contexto": "trabajo",
+        "ejemplo": "The campaign [[was]] successful and the client [[is]] very pleased."
+      }
+    ],
+    "errores": [
+      {
+        "mal": "They are differents clients.",
+        "bien": "They are different clients.",
+        "porque": "El adjetivo nunca lleva -s, aunque el sustantivo sea plural.",
+        "code": "USO"
+      },
+      {
+        "mal": "We have a team creative.",
+        "bien": "We have a creative team.",
+        "porque": "El adjetivo va antes del sustantivo, no después como en español.",
+        "code": "USO"
+      },
+      {
+        "mal": "I'm boring in this meeting.",
+        "bien": "I'm bored in this meeting.",
+        "porque": "-ed es cómo te sientes; -ing es lo que provoca el sentimiento. Boring = que aburres a otros.",
+        "code": "VOC"
+      },
+      {
+        "mal": "The food looks well.",
+        "bien": "The food looks good.",
+        "porque": "Después de look, seem, feel, sound y taste va adjetivo (good), no adverbio (well).",
+        "code": "VOC"
+      },
+      {
+        "mal": "I'm very exhausted.",
+        "bien": "I'm exhausted. / I'm absolutely exhausted.",
+        "porque": "Exhausted ya significa «muy cansado»: los adjetivos extremos no van con very.",
+        "code": "VOC"
+      },
+      {
+        "mal": "She's interested on marketing.",
+        "bien": "She's interested in marketing.",
+        "porque": "Interested va con in. La preposición se aprende con el adjetivo.",
+        "code": "USO"
+      },
+      {
+        "mal": "He's responsible of the budget.",
+        "bien": "He's responsible for the budget.",
+        "porque": "Responsible for, aunque en español digamos «responsable de».",
+        "code": "USO"
+      },
+      {
+        "mal": "It's unpossible to finish today.",
+        "bien": "It's impossible to finish today.",
+        "porque": "Antes de p y m el prefijo es im-: impossible, impatient, impolite.",
+        "code": "VOC"
+      }
+    ],
+    "contraste": [
+      {
+        "a": "The movie [[was]] boring.",
+        "b": "I [[was]] bored.",
+        "nota": "-ing describe la película (la causa); -ed describe cómo quedaste tú (el efecto)."
+      },
+      {
+        "a": "I[['m]] very tired.",
+        "b": "I[['m]] absolutely exhausted.",
+        "nota": "Tired es graduable y acepta very; exhausted es extremo y va con absolutely o solo."
+      },
+      {
+        "a": "He [[is]] a tall man.",
+        "b": "It [[is]] a high building.",
+        "nota": "Tall para personas y cosas delgadas y altas (árboles, torres); high para cosas anchas o para niveles (prices, quality)."
+      },
+      {
+        "a": "The client [[is]] happy.",
+        "b": "The client [[is]] unhappy.",
+        "nota": "El prefijo un- convierte el adjetivo en su opuesto sin cambiar nada más."
+      },
+      {
+        "a": "I[['m]] good at presentations.",
+        "b": "I[['m]] interested in presentations.",
+        "nota": "Cada adjetivo tiene su preposición fija: at con good/bad, in con interested."
+      }
+    ],
+    "frases": [
+      {
+        "en": "That sounds great.",
+        "es": "Eso suena muy bien.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'm really excited about this project.",
+        "es": "Estoy muy emocionado con este proyecto.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "The client is happy with the results.",
+        "es": "El cliente está contento con los resultados.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "It's urgent, but not impossible.",
+        "es": "Es urgente, pero no imposible.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'm responsible for the creative team.",
+        "es": "Estoy a cargo del equipo creativo.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "The brief is a bit confusing.",
+        "es": "El brief es un poco confuso.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Are you available on Thursday?",
+        "es": "¿Estás disponible el jueves?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'm exhausted. It was a long day.",
+        "es": "Estoy agotado. Fue un día largo.",
+        "contexto": "diario"
+      },
+      {
+        "en": "The food was delicious.",
+        "es": "La comida estaba deliciosa.",
+        "contexto": "diario"
+      },
+      {
+        "en": "I'm not very good at cooking.",
+        "es": "No soy muy bueno cocinando.",
+        "contexto": "diario"
+      },
+      {
+        "en": "It's pretty cold tonight.",
+        "es": "Hace bastante frío esta noche.",
+        "contexto": "diario"
+      },
+      {
+        "en": "I'm so proud of you.",
+        "es": "Estoy muy orgulloso de ti.",
+        "contexto": "diario"
+      }
+    ],
+    "tip": "Dos preguntas te salvan: ¿quién lo siente? → -ed (I'm bored). ¿Qué lo causa? → -ing (The meeting is boring). Y el adjetivo es una foto fija: nunca cambia, nunca lleva -s, siempre va antes del sustantivo."
+  },
+  "palabras": [
+    {
+      "id": "good",
+      "en": "good",
+      "ipa": "/ɡʊd/",
+      "es": "bueno",
+      "clase": "adjetivo",
+      "orden": 1,
+      "opuesto": "bad",
+      "comparativo": "better",
+      "superlativo": "the best",
+      "ejemplo": "The feedback from the client was good.",
+      "hueco": {
+        "frase": "The feedback from the client was ___. (bueno)",
+        "respuestas": [
+          "good"
+        ]
+      },
+      "nota": "good at + actividad: I'm good at presentations. Comparativo irregular: better, the best."
+    },
+    {
+      "id": "bad",
+      "en": "bad",
+      "ipa": "/bæd/",
+      "es": "malo",
+      "clase": "adjetivo",
+      "orden": 2,
+      "opuesto": "good",
+      "comparativo": "worse",
+      "superlativo": "the worst",
+      "ejemplo": "The traffic in Bogotá was really bad this morning.",
+      "hueco": {
+        "frase": "The traffic in Bogotá was really ___ this morning. (malo)",
+        "respuestas": [
+          "bad"
+        ]
+      },
+      "nota": "bad at numbers · comparativo irregular: worse, the worst"
+    },
+    {
+      "id": "big",
+      "en": "big",
+      "ipa": "/bɪɡ/",
+      "es": "grande",
+      "clase": "adjetivo",
+      "orden": 3,
+      "opuesto": "small",
+      "comparativo": "bigger",
+      "superlativo": "the biggest",
+      "ejemplo": "We won a big client last week.",
+      "hueco": {
+        "frase": "We won a ___ client last week. (grande)",
+        "respuestas": [
+          "big"
+        ]
+      },
+      "nota": "big = tamaño físico o importancia: a big decision. Dobla la g: bigger."
+    },
+    {
+      "id": "small",
+      "en": "small",
+      "ipa": "/smɔl/",
+      "es": "pequeño",
+      "clase": "adjetivo",
+      "orden": 4,
+      "opuesto": "big",
+      "comparativo": "smaller",
+      "superlativo": "the smallest",
+      "ejemplo": "It's a small agency with twelve people.",
+      "hueco": {
+        "frase": "It's a ___ agency with twelve people. (pequeña)",
+        "respuestas": [
+          "small"
+        ]
+      },
+      "nota": "small talk = charla ligera antes de la reunión"
+    },
+    {
+      "id": "new",
+      "en": "new",
+      "ipa": "/nu/",
+      "es": "nuevo",
+      "clase": "adjetivo",
+      "orden": 5,
+      "opuesto": "old",
+      "comparativo": "newer",
+      "superlativo": "the newest",
+      "ejemplo": "We have two new clients this month.",
+      "hueco": {
+        "frase": "We have two ___ clients this month. (nuevos)",
+        "respuestas": [
+          "new"
+        ]
+      },
+      "nota": "Sin -s: two new clients. What's new? = ¿Qué hay de nuevo?"
+    },
+    {
+      "id": "old",
+      "en": "old",
+      "ipa": "/oʊld/",
+      "es": "viejo, antiguo",
+      "clase": "adjetivo",
+      "orden": 6,
+      "opuesto": "new",
+      "comparativo": "older",
+      "superlativo": "the oldest",
+      "ejemplo": "My car is old, but it still works.",
+      "hueco": {
+        "frase": "My car is ___, but it still works. (viejo)",
+        "respuestas": [
+          "old"
+        ]
+      },
+      "nota": "Para la edad: How old are you? I'm 38 years old. Opuesto de young y de new."
+    },
+    {
+      "id": "young",
+      "en": "young",
+      "ipa": "/jʌŋ/",
+      "es": "joven",
+      "clase": "adjetivo",
+      "orden": 7,
+      "opuesto": "old",
+      "comparativo": "younger",
+      "superlativo": "the youngest",
+      "ejemplo": "The team is young and full of energy.",
+      "hueco": {
+        "frase": "The team is ___ and full of energy. (joven)",
+        "respuestas": [
+          "young"
+        ]
+      },
+      "nota": "my younger brother = mi hermano menor"
+    },
+    {
+      "id": "easy",
+      "en": "easy",
+      "ipa": "/ˈizi/",
+      "es": "fácil",
+      "clase": "adjetivo",
+      "orden": 8,
+      "opuesto": "difficult",
+      "comparativo": "easier",
+      "superlativo": "the easiest",
+      "ejemplo": "The brief was easy to understand.",
+      "hueco": {
+        "frase": "The brief was ___ to understand. (fácil)",
+        "respuestas": [
+          "easy"
+        ]
+      },
+      "nota": "-y → -ier: easier. Take it easy = tranquilo."
+    },
+    {
+      "id": "difficult",
+      "en": "difficult",
+      "ipa": "/ˈdɪfɪkəlt/",
+      "es": "difícil",
+      "clase": "adjetivo",
+      "orden": 9,
+      "opuesto": "easy",
+      "comparativo": "more difficult",
+      "superlativo": "the most difficult",
+      "ejemplo": "It's difficult to find good copywriters.",
+      "hueco": {
+        "frase": "It's ___ to find good copywriters. (difícil)",
+        "respuestas": [
+          "difficult",
+          "hard"
+        ]
+      },
+      "nota": "Tres sílabas: more difficult, nunca difficulter."
+    },
+    {
+      "id": "hard",
+      "en": "hard",
+      "ipa": "/hɑrd/",
+      "es": "difícil; duro",
+      "clase": "adjetivo",
+      "orden": 10,
+      "opuesto": "easy",
+      "comparativo": "harder",
+      "superlativo": "the hardest",
+      "ejemplo": "It was a hard decision for the client.",
+      "hueco": {
+        "frase": "It was a ___ decision for the client. (difícil)",
+        "respuestas": [
+          "hard",
+          "difficult"
+        ]
+      },
+      "nota": "hard = difícil o duro (a hard chair). Como adverbio también es hard: work hard."
+    },
+    {
+      "id": "important",
+      "en": "important",
+      "ipa": "/ɪmˈpɔrtənt/",
+      "es": "importante",
+      "clase": "adjetivo",
+      "orden": 11,
+      "opuesto": "unimportant",
+      "comparativo": "more important",
+      "superlativo": "the most important",
+      "ejemplo": "This is the most important meeting of the year.",
+      "hueco": {
+        "frase": "This is the most ___ meeting of the year. (importante)",
+        "respuestas": [
+          "important"
+        ]
+      },
+      "nota": "Sin -s: important meetings. Pronuncia im-POR-tant."
+    },
+    {
+      "id": "busy",
+      "en": "busy",
+      "ipa": "/ˈbɪzi/",
+      "es": "ocupado",
+      "clase": "adjetivo",
+      "orden": 12,
+      "opuesto": "free",
+      "comparativo": "busier",
+      "superlativo": "the busiest",
+      "ejemplo": "Sorry, I'm busy until 4 pm.",
+      "hueco": {
+        "frase": "Sorry, I'm ___ until 4 pm. (ocupado)",
+        "respuestas": [
+          "busy"
+        ]
+      },
+      "nota": "busy with + algo: I'm busy with a pitch. Se pronuncia /ˈbɪzi/, no /ˈbusi/."
+    },
+    {
+      "id": "free",
+      "en": "free",
+      "ipa": "/fri/",
+      "es": "libre; gratis",
+      "clase": "adjetivo",
+      "orden": 13,
+      "opuesto": "busy",
+      "comparativo": "freer",
+      "superlativo": "the freest",
+      "ejemplo": "Are you free for a quick call at 3?",
+      "hueco": {
+        "frase": "Are you ___ for a quick call at 3? (libre)",
+        "respuestas": [
+          "free",
+          "available"
+        ]
+      },
+      "nota": "free = libre (Are you free?) y gratis (It's free). Free time = tiempo libre."
+    },
+    {
+      "id": "tired",
+      "en": "tired",
+      "ipa": "/ˈtaɪərd/",
+      "es": "cansado",
+      "clase": "adjetivo",
+      "orden": 14,
+      "opuesto": "rested",
+      "comparativo": "more tired",
+      "superlativo": "the most tired",
+      "ejemplo": "I'm tired because I slept four hours.",
+      "hueco": {
+        "frase": "I'm ___ because I slept four hours. (cansado)",
+        "respuestas": [
+          "tired"
+        ]
+      },
+      "nota": "tired of + algo = harto de: I'm tired of long meetings. No confundir con tiring (agotador)."
+    },
+    {
+      "id": "happy",
+      "en": "happy",
+      "ipa": "/ˈhæpi/",
+      "es": "feliz, contento",
+      "clase": "adjetivo",
+      "orden": 15,
+      "opuesto": "sad",
+      "comparativo": "happier",
+      "superlativo": "the happiest",
+      "ejemplo": "The client is happy with the new logo.",
+      "hueco": {
+        "frase": "The client is ___ with the new logo. (contento)",
+        "respuestas": [
+          "happy",
+          "pleased"
+        ]
+      },
+      "nota": "happy with + resultado · happy for + persona · -y → -ier: happier"
+    },
+    {
+      "id": "sad",
+      "en": "sad",
+      "ipa": "/sæd/",
+      "es": "triste",
+      "clase": "adjetivo",
+      "orden": 16,
+      "opuesto": "happy",
+      "comparativo": "sadder",
+      "superlativo": "the saddest",
+      "ejemplo": "I was sad when the project ended.",
+      "hueco": {
+        "frase": "I was ___ when the project ended. (triste)",
+        "respuestas": [
+          "sad"
+        ]
+      },
+      "nota": "Dobla la d: sadder. Sad news = malas noticias."
+    },
+    {
+      "id": "expensive",
+      "en": "expensive",
+      "ipa": "/ɪkˈspɛnsɪv/",
+      "es": "caro",
+      "clase": "adjetivo",
+      "orden": 17,
+      "opuesto": "cheap",
+      "comparativo": "more expensive",
+      "superlativo": "the most expensive",
+      "ejemplo": "That restaurant is expensive but very good.",
+      "hueco": {
+        "frase": "That restaurant is ___ but very good. (caro)",
+        "respuestas": [
+          "expensive"
+        ]
+      },
+      "nota": "Tres sílabas: more expensive. Nunca *expensiver*."
+    },
+    {
+      "id": "cheap",
+      "en": "cheap",
+      "ipa": "/tʃip/",
+      "es": "barato",
+      "clase": "adjetivo",
+      "orden": 18,
+      "opuesto": "expensive",
+      "comparativo": "cheaper",
+      "superlativo": "the cheapest",
+      "ejemplo": "The flights to Medellín are cheap in May.",
+      "hueco": {
+        "frase": "The flights to Medellín are ___ in May. (baratos)",
+        "respuestas": [
+          "cheap"
+        ]
+      },
+      "nota": "cheap también puede sonar a «de mala calidad»; para «buen precio» di affordable o inexpensive."
+    },
+    {
+      "id": "early",
+      "en": "early",
+      "ipa": "/ˈɜrli/",
+      "es": "temprano",
+      "clase": "adjetivo",
+      "orden": 19,
+      "opuesto": "late",
+      "comparativo": "earlier",
+      "superlativo": "the earliest",
+      "ejemplo": "I like to arrive early at the office.",
+      "hueco": {
+        "frase": "I like to arrive ___ at the office. (temprano)",
+        "respuestas": [
+          "early"
+        ]
+      },
+      "nota": "Es adjetivo y adverbio: an early meeting · I woke up early."
+    },
+    {
+      "id": "late",
+      "en": "late",
+      "ipa": "/leɪt/",
+      "es": "tarde; tardío",
+      "clase": "adjetivo",
+      "orden": 20,
+      "opuesto": "early",
+      "comparativo": "later",
+      "superlativo": "the latest",
+      "ejemplo": "Sorry I'm late, the traffic was terrible.",
+      "hueco": {
+        "frase": "Sorry I'm ___, the traffic was terrible. (tarde)",
+        "respuestas": [
+          "late"
+        ]
+      },
+      "nota": "late for + evento: late for the meeting. The latest = lo más reciente (the latest version)."
+    },
+    {
+      "id": "fast",
+      "en": "fast",
+      "ipa": "/fæst/",
+      "es": "rápido",
+      "clase": "adjetivo",
+      "orden": 21,
+      "opuesto": "slow",
+      "comparativo": "faster",
+      "superlativo": "the fastest",
+      "ejemplo": "We need a fast answer from the client.",
+      "hueco": {
+        "frase": "We need a ___ answer from the client. (rápida)",
+        "respuestas": [
+          "fast",
+          "quick"
+        ]
+      },
+      "nota": "fast es adjetivo y adverbio: a fast car · he drives fast. Nunca *fastly*."
+    },
+    {
+      "id": "slow",
+      "en": "slow",
+      "ipa": "/sloʊ/",
+      "es": "lento",
+      "clase": "adjetivo",
+      "orden": 22,
+      "opuesto": "fast",
+      "comparativo": "slower",
+      "superlativo": "the slowest",
+      "ejemplo": "The internet at the office is slow today.",
+      "hueco": {
+        "frase": "The internet at the office is ___ today. (lento)",
+        "respuestas": [
+          "slow"
+        ]
+      },
+      "nota": "slow down = bajar el ritmo"
+    },
+    {
+      "id": "long",
+      "en": "long",
+      "ipa": "/lɔŋ/",
+      "es": "largo",
+      "clase": "adjetivo",
+      "orden": 23,
+      "opuesto": "short",
+      "comparativo": "longer",
+      "superlativo": "the longest",
+      "ejemplo": "It was a long meeting: three hours.",
+      "hueco": {
+        "frase": "It was a ___ meeting: three hours. (larga)",
+        "respuestas": [
+          "long"
+        ]
+      },
+      "nota": "How long…? = ¿cuánto tiempo? · a long time = mucho tiempo"
+    },
+    {
+      "id": "short",
+      "en": "short",
+      "ipa": "/ʃɔrt/",
+      "es": "corto; bajo",
+      "clase": "adjetivo",
+      "orden": 24,
+      "opuesto": "long",
+      "comparativo": "shorter",
+      "superlativo": "the shortest",
+      "ejemplo": "Please write a short email, not a report.",
+      "hueco": {
+        "frase": "Please write a ___ email, not a report. (corto)",
+        "respuestas": [
+          "short",
+          "brief"
+        ]
+      },
+      "nota": "short = corto (a short video) y bajo de estatura (he's short). Opuesto de long y de tall."
+    },
+    {
+      "id": "tall",
+      "en": "tall",
+      "ipa": "/tɔl/",
+      "es": "alto (personas)",
+      "clase": "adjetivo",
+      "orden": 25,
+      "opuesto": "short",
+      "comparativo": "taller",
+      "superlativo": "the tallest",
+      "ejemplo": "Andrés is tall, almost two meters.",
+      "hueco": {
+        "frase": "Andrés is ___, almost two meters. (alto)",
+        "respuestas": [
+          "tall"
+        ]
+      },
+      "nota": "tall para personas, árboles y edificios delgados; high para montañas, precios, niveles."
+    },
+    {
+      "id": "high",
+      "en": "high",
+      "ipa": "/haɪ/",
+      "es": "alto (cosas, niveles)",
+      "clase": "adjetivo",
+      "orden": 26,
+      "opuesto": "low",
+      "comparativo": "higher",
+      "superlativo": "the highest",
+      "ejemplo": "The price is too high for this client.",
+      "hueco": {
+        "frase": "The price is too ___ for this client. (alto)",
+        "respuestas": [
+          "high"
+        ]
+      },
+      "nota": "high prices, high quality, high season. No se usa para personas (*a high man* ✗)."
+    },
+    {
+      "id": "low",
+      "en": "low",
+      "ipa": "/loʊ/",
+      "es": "bajo",
+      "clase": "adjetivo",
+      "orden": 27,
+      "opuesto": "high",
+      "comparativo": "lower",
+      "superlativo": "the lowest",
+      "ejemplo": "Our budget is low this quarter.",
+      "hueco": {
+        "frase": "Our budget is ___ this quarter. (bajo)",
+        "respuestas": [
+          "low"
+        ]
+      },
+      "nota": "low budget, low price, low season. Para personas bajas: short."
+    },
+    {
+      "id": "hot",
+      "en": "hot",
+      "ipa": "/hɑt/",
+      "es": "caliente, caluroso",
+      "clase": "adjetivo",
+      "orden": 28,
+      "opuesto": "cold",
+      "comparativo": "hotter",
+      "superlativo": "the hottest",
+      "ejemplo": "Cartagena is really hot in the afternoon.",
+      "hueco": {
+        "frase": "Cartagena is really ___ in the afternoon. (caluroso)",
+        "respuestas": [
+          "hot"
+        ]
+      },
+      "nota": "Dobla la t: hotter. It's hot (hace calor), no *it makes heat*."
+    },
+    {
+      "id": "cold",
+      "en": "cold",
+      "ipa": "/koʊld/",
+      "es": "frío",
+      "clase": "adjetivo",
+      "orden": 29,
+      "opuesto": "hot",
+      "comparativo": "colder",
+      "superlativo": "the coldest",
+      "ejemplo": "It's cold in Bogotá at night.",
+      "hueco": {
+        "frase": "It's ___ in Bogotá at night. (frío)",
+        "respuestas": [
+          "cold"
+        ]
+      },
+      "nota": "I'm cold = tengo frío (nunca *I have cold*). A cold = un resfriado."
+    },
+    {
+      "id": "ready",
+      "en": "ready",
+      "ipa": "/ˈrɛdi/",
+      "es": "listo",
+      "clase": "adjetivo",
+      "orden": 30,
+      "ejemplo": "The presentation is ready for tomorrow.",
+      "hueco": {
+        "frase": "The presentation is ___ for tomorrow. (lista)",
+        "respuestas": [
+          "ready"
+        ]
+      },
+      "nota": "ready for + evento · ready to + verbo: ready to start. Are you ready?"
+    },
+    {
+      "id": "right",
+      "en": "right",
+      "ipa": "/raɪt/",
+      "es": "correcto",
+      "clase": "adjetivo",
+      "orden": 31,
+      "opuesto": "wrong",
+      "ejemplo": "You're right, the headline is too long.",
+      "hueco": {
+        "frase": "You're ___, the headline is too long. (en lo correcto)",
+        "respuestas": [
+          "right",
+          "correct"
+        ]
+      },
+      "nota": "You're right = tienes razón (no *you have reason*). También «derecha»: on the right."
+    },
+    {
+      "id": "wrong",
+      "en": "wrong",
+      "ipa": "/rɔŋ/",
+      "es": "equivocado, incorrecto",
+      "clase": "adjetivo",
+      "orden": 32,
+      "opuesto": "right",
+      "ejemplo": "Sorry, I sent the wrong file.",
+      "hueco": {
+        "frase": "Sorry, I sent the ___ file. (equivocado)",
+        "respuestas": [
+          "wrong"
+        ]
+      },
+      "nota": "What's wrong? = ¿Qué pasa? · the wrong number = número equivocado"
+    },
+    {
+      "id": "different",
+      "en": "different",
+      "ipa": "/ˈdɪfərənt/",
+      "es": "diferente",
+      "clase": "adjetivo",
+      "orden": 33,
+      "opuesto": "similar",
+      "comparativo": "more different",
+      "superlativo": "the most different",
+      "ejemplo": "They are very different clients.",
+      "hueco": {
+        "frase": "They are very ___ clients. (diferentes)",
+        "respuestas": [
+          "different"
+        ]
+      },
+      "nota": "Sin -s: different clients. different from (no *different of*)."
+    },
+    {
+      "id": "similar",
+      "en": "similar",
+      "ipa": "/ˈsɪmələr/",
+      "es": "parecido",
+      "clase": "adjetivo",
+      "orden": 34,
+      "opuesto": "different",
+      "comparativo": "more similar",
+      "superlativo": "the most similar",
+      "ejemplo": "Your idea is similar to mine.",
+      "hueco": {
+        "frase": "Your idea is ___ to mine. (parecida)",
+        "respuestas": [
+          "similar"
+        ]
+      },
+      "nota": "similar to + algo"
+    },
+    {
+      "id": "same",
+      "en": "same",
+      "ipa": "/seɪm/",
+      "es": "mismo",
+      "clase": "adjetivo",
+      "orden": 35,
+      "opuesto": "different",
+      "ejemplo": "We work in the same building.",
+      "hueco": {
+        "frase": "We work in the ___ building. (mismo)",
+        "respuestas": [
+          "same"
+        ]
+      },
+      "nota": "Casi siempre con the: the same. the same as = igual que."
+    },
+    {
+      "id": "nice",
+      "en": "nice",
+      "ipa": "/naɪs/",
+      "es": "agradable, amable",
+      "clase": "adjetivo",
+      "orden": 36,
+      "opuesto": "unpleasant",
+      "comparativo": "nicer",
+      "superlativo": "the nicest",
+      "ejemplo": "Our new client is really nice.",
+      "hueco": {
+        "frase": "Our new client is really ___. (agradable)",
+        "respuestas": [
+          "nice"
+        ]
+      },
+      "nota": "Comodín para personas, lugares y cosas: nice to meet you, a nice place, nice work."
+    },
+    {
+      "id": "kind",
+      "en": "kind",
+      "ipa": "/kaɪnd/",
+      "es": "amable",
+      "clase": "adjetivo",
+      "orden": 37,
+      "opuesto": "unkind",
+      "comparativo": "kinder",
+      "superlativo": "the kindest",
+      "ejemplo": "Thank you, that's very kind of you.",
+      "hueco": {
+        "frase": "Thank you, that's very ___ of you. (amable)",
+        "respuestas": [
+          "kind",
+          "nice"
+        ]
+      },
+      "nota": "kind to + persona · kind of you · También «tipo»: what kind of client?"
+    },
+    {
+      "id": "friendly",
+      "en": "friendly",
+      "ipa": "/ˈfrɛndli/",
+      "es": "amigable",
+      "clase": "adjetivo",
+      "orden": 38,
+      "opuesto": "unfriendly",
+      "comparativo": "friendlier",
+      "superlativo": "the friendliest",
+      "ejemplo": "People in Medellín are very friendly.",
+      "hueco": {
+        "frase": "People in Medellín are very ___. (amigables)",
+        "respuestas": [
+          "friendly"
+        ]
+      },
+      "nota": "Termina en -ly pero es adjetivo, no adverbio: a friendly team."
+    },
+    {
+      "id": "funny",
+      "en": "funny",
+      "ipa": "/ˈfʌni/",
+      "es": "gracioso",
+      "clase": "adjetivo",
+      "orden": 39,
+      "opuesto": "serious",
+      "comparativo": "funnier",
+      "superlativo": "the funniest",
+      "ejemplo": "The ad is funny, people will share it.",
+      "hueco": {
+        "frase": "The ad is ___, people will share it. (gracioso)",
+        "respuestas": [
+          "funny"
+        ]
+      },
+      "nota": "funny = que da risa; fun = divertido (a fun weekend). Something funny también = raro."
+    },
+    {
+      "id": "serious",
+      "en": "serious",
+      "ipa": "/ˈsɪriəs/",
+      "es": "serio",
+      "clase": "adjetivo",
+      "orden": 40,
+      "opuesto": "funny",
+      "comparativo": "more serious",
+      "superlativo": "the most serious",
+      "ejemplo": "This is a serious problem for the brand.",
+      "hueco": {
+        "frase": "This is a ___ problem for the brand. (serio)",
+        "respuestas": [
+          "serious"
+        ]
+      },
+      "nota": "Are you serious? = ¿En serio? · Pronuncia SI-ri-us."
+    },
+    {
+      "id": "interesting",
+      "en": "interesting",
+      "ipa": "/ˈɪntrəstɪŋ/",
+      "es": "interesante",
+      "clase": "adjetivo",
+      "orden": 41,
+      "opuesto": "boring",
+      "comparativo": "more interesting",
+      "superlativo": "the most interesting",
+      "ejemplo": "The talk about AI was really interesting.",
+      "hueco": {
+        "frase": "The talk about AI was really ___. (interesante)",
+        "respuestas": [
+          "interesting"
+        ]
+      },
+      "nota": "-ing = la cosa que interesa. Pronuncia IN-tres-ting, tres sílabas."
+    },
+    {
+      "id": "interested",
+      "en": "interested",
+      "ipa": "/ˈɪntrəstəd/",
+      "es": "interesado",
+      "clase": "adjetivo",
+      "orden": 42,
+      "opuesto": "bored",
+      "comparativo": "more interested",
+      "superlativo": "the most interested",
+      "ejemplo": "I'm interested in the new project.",
+      "hueco": {
+        "frase": "I'm ___ in the new project. (interesado)",
+        "respuestas": [
+          "interested"
+        ]
+      },
+      "nota": "-ed = cómo te sientes tú · interested IN (no *on*)."
+    },
+    {
+      "id": "boring",
+      "en": "boring",
+      "ipa": "/ˈbɔrɪŋ/",
+      "es": "aburrido (que aburre)",
+      "clase": "adjetivo",
+      "orden": 43,
+      "opuesto": "interesting",
+      "comparativo": "more boring",
+      "superlativo": "the most boring",
+      "ejemplo": "The webinar was so boring that I left.",
+      "hueco": {
+        "frase": "The webinar was so ___ that I left. (aburrido)",
+        "respuestas": [
+          "boring"
+        ]
+      },
+      "nota": "Describe la cosa: a boring meeting. Si dices I'm boring, dices que tú aburres."
+    },
+    {
+      "id": "bored",
+      "en": "bored",
+      "ipa": "/bɔrd/",
+      "es": "aburrido (que se aburre)",
+      "clase": "adjetivo",
+      "orden": 44,
+      "opuesto": "interested",
+      "comparativo": "more bored",
+      "superlativo": "the most bored",
+      "ejemplo": "I was bored during the whole presentation.",
+      "hueco": {
+        "frase": "I was ___ during the whole presentation. (aburrido)",
+        "respuestas": [
+          "bored"
+        ]
+      },
+      "nota": "Cómo te sientes: I'm bored. bored with + algo."
+    },
+    {
+      "id": "exciting",
+      "en": "exciting",
+      "ipa": "/ɪkˈsaɪtɪŋ/",
+      "es": "emocionante",
+      "clase": "adjetivo",
+      "orden": 45,
+      "opuesto": "boring",
+      "comparativo": "more exciting",
+      "superlativo": "the most exciting",
+      "ejemplo": "It's an exciting project with a big budget.",
+      "hueco": {
+        "frase": "It's an ___ project with a big budget. (emocionante)",
+        "respuestas": [
+          "exciting"
+        ]
+      },
+      "nota": "Describe la cosa: an exciting campaign."
+    },
+    {
+      "id": "excited",
+      "en": "excited",
+      "ipa": "/ɪkˈsaɪtəd/",
+      "es": "emocionado",
+      "clase": "adjetivo",
+      "orden": 46,
+      "opuesto": "bored",
+      "comparativo": "more excited",
+      "superlativo": "the most excited",
+      "ejemplo": "We're excited about the launch.",
+      "hueco": {
+        "frase": "We're ___ about the launch. (emocionados)",
+        "respuestas": [
+          "excited"
+        ]
+      },
+      "nota": "excited ABOUT + algo. Cómo te sientes tú."
+    },
+    {
+      "id": "surprised",
+      "en": "surprised",
+      "ipa": "/sərˈpraɪzd/",
+      "es": "sorprendido",
+      "clase": "adjetivo",
+      "orden": 47,
+      "comparativo": "more surprised",
+      "superlativo": "the most surprised",
+      "ejemplo": "I was surprised by the results.",
+      "hueco": {
+        "frase": "I was ___ by the results. (sorprendido)",
+        "respuestas": [
+          "surprised"
+        ]
+      },
+      "nota": "surprised by / at + algo. La cosa es surprising."
+    },
+    {
+      "id": "confusing",
+      "en": "confusing",
+      "ipa": "/kənˈfjuzɪŋ/",
+      "es": "confuso (que confunde)",
+      "clase": "adjetivo",
+      "orden": 48,
+      "opuesto": "clear",
+      "comparativo": "more confusing",
+      "superlativo": "the most confusing",
+      "ejemplo": "The instructions were confusing.",
+      "hueco": {
+        "frase": "The instructions were ___. (confusas)",
+        "respuestas": [
+          "confusing"
+        ]
+      },
+      "nota": "Describe la cosa: a confusing brief."
+    },
+    {
+      "id": "confused",
+      "en": "confused",
+      "ipa": "/kənˈfjuzd/",
+      "es": "confundido",
+      "clase": "adjetivo",
+      "orden": 49,
+      "comparativo": "more confused",
+      "superlativo": "the most confused",
+      "ejemplo": "I'm confused: which version is final?",
+      "hueco": {
+        "frase": "I'm ___: which version is final? (confundido)",
+        "respuestas": [
+          "confused"
+        ]
+      },
+      "nota": "Cómo te sientes: I'm confused about the dates."
+    },
+    {
+      "id": "relaxing",
+      "en": "relaxing",
+      "ipa": "/rɪˈlæksɪŋ/",
+      "es": "relajante",
+      "clase": "adjetivo",
+      "orden": 50,
+      "opuesto": "stressful",
+      "comparativo": "more relaxing",
+      "superlativo": "the most relaxing",
+      "ejemplo": "We had a relaxing weekend at the farm.",
+      "hueco": {
+        "frase": "We had a ___ weekend at the farm. (relajante)",
+        "respuestas": [
+          "relaxing"
+        ]
+      },
+      "nota": "Describe la cosa: a relaxing trip."
+    },
+    {
+      "id": "relaxed",
+      "en": "relaxed",
+      "ipa": "/rɪˈlækst/",
+      "es": "relajado",
+      "clase": "adjetivo",
+      "orden": 51,
+      "opuesto": "stressed",
+      "comparativo": "more relaxed",
+      "superlativo": "the most relaxed",
+      "ejemplo": "I feel relaxed after the gym.",
+      "hueco": {
+        "frase": "I feel ___ after the gym. (relajado)",
+        "respuestas": [
+          "relaxed"
+        ]
+      },
+      "nota": "Cómo te sientes. Pronuncia la -ed como /t/: relaxt."
+    },
+    {
+      "id": "stressful",
+      "en": "stressful",
+      "ipa": "/ˈstrɛsfəl/",
+      "es": "estresante",
+      "clase": "adjetivo",
+      "orden": 52,
+      "opuesto": "relaxing",
+      "comparativo": "more stressful",
+      "superlativo": "the most stressful",
+      "ejemplo": "December is a stressful month at the agency.",
+      "hueco": {
+        "frase": "December is a ___ month at the agency. (estresante)",
+        "respuestas": [
+          "stressful"
+        ]
+      },
+      "nota": "Describe la situación: a stressful week."
+    },
+    {
+      "id": "stressed",
+      "en": "stressed",
+      "ipa": "/strɛst/",
+      "es": "estresado",
+      "clase": "adjetivo",
+      "orden": 53,
+      "opuesto": "relaxed",
+      "comparativo": "more stressed",
+      "superlativo": "the most stressed",
+      "ejemplo": "I'm stressed because of the deadline.",
+      "hueco": {
+        "frase": "I'm ___ because of the deadline. (estresado)",
+        "respuestas": [
+          "stressed"
+        ]
+      },
+      "nota": "stressed about + algo · también stressed out"
+    },
+    {
+      "id": "exhausted",
+      "en": "exhausted",
+      "ipa": "/ɪɡˈzɔstəd/",
+      "es": "agotado",
+      "clase": "adjetivo",
+      "orden": 54,
+      "opuesto": "rested",
+      "ejemplo": "After the pitch I was absolutely exhausted.",
+      "hueco": {
+        "frase": "After the pitch I was absolutely ___. (agotado)",
+        "respuestas": [
+          "exhausted"
+        ]
+      },
+      "nota": "Adjetivo extremo: absolutely exhausted, nunca *very exhausted*."
+    },
+    {
+      "id": "worried",
+      "en": "worried",
+      "ipa": "/ˈwɜrid/",
+      "es": "preocupado",
+      "clase": "adjetivo",
+      "orden": 55,
+      "opuesto": "calm",
+      "comparativo": "more worried",
+      "superlativo": "the most worried",
+      "ejemplo": "I'm worried about the budget.",
+      "hueco": {
+        "frase": "I'm ___ about the budget. (preocupado)",
+        "respuestas": [
+          "worried"
+        ]
+      },
+      "nota": "worried ABOUT + algo (no *for*). Don't worry = no te preocupes."
+    },
+    {
+      "id": "nervous",
+      "en": "nervous",
+      "ipa": "/ˈnɜrvəs/",
+      "es": "nervioso",
+      "clase": "adjetivo",
+      "orden": 56,
+      "opuesto": "calm",
+      "comparativo": "more nervous",
+      "superlativo": "the most nervous",
+      "ejemplo": "I'm always nervous before a big presentation.",
+      "hueco": {
+        "frase": "I'm always ___ before a big presentation. (nervioso)",
+        "respuestas": [
+          "nervous"
+        ]
+      },
+      "nota": "nervous about + algo"
+    },
+    {
+      "id": "calm",
+      "en": "calm",
+      "ipa": "/kɑm/",
+      "es": "tranquilo",
+      "clase": "adjetivo",
+      "orden": 57,
+      "opuesto": "nervous",
+      "comparativo": "calmer",
+      "superlativo": "the calmest",
+      "ejemplo": "Stay calm, we still have two days.",
+      "hueco": {
+        "frase": "Stay ___, we still have two days. (tranquilo)",
+        "respuestas": [
+          "calm"
+        ]
+      },
+      "nota": "La l no se pronuncia: /kɑm/. Keep calm."
+    },
+    {
+      "id": "angry",
+      "en": "angry",
+      "ipa": "/ˈæŋɡri/",
+      "es": "enojado, bravo",
+      "clase": "adjetivo",
+      "orden": 58,
+      "opuesto": "calm",
+      "comparativo": "angrier",
+      "superlativo": "the angriest",
+      "ejemplo": "The client was angry about the delay.",
+      "hueco": {
+        "frase": "The client was ___ about the delay. (enojado)",
+        "respuestas": [
+          "angry",
+          "mad",
+          "upset"
+        ]
+      },
+      "nota": "angry with + persona · angry about + cosa. En EE. UU. también mad."
+    },
+    {
+      "id": "disappointed",
+      "en": "disappointed",
+      "ipa": "/ˌdɪsəˈpɔɪntəd/",
+      "es": "decepcionado",
+      "clase": "adjetivo",
+      "orden": 59,
+      "opuesto": "satisfied",
+      "comparativo": "more disappointed",
+      "superlativo": "the most disappointed",
+      "ejemplo": "The client was disappointed with the first draft.",
+      "hueco": {
+        "frase": "The client was ___ with the first draft. (decepcionado)",
+        "respuestas": [
+          "disappointed"
+        ]
+      },
+      "nota": "disappointed with / by + algo. La cosa es disappointing."
+    },
+    {
+      "id": "embarrassed",
+      "en": "embarrassed",
+      "ipa": "/ɪmˈbærəst/",
+      "es": "avergonzado",
+      "clase": "adjetivo",
+      "orden": 60,
+      "opuesto": "proud",
+      "comparativo": "more embarrassed",
+      "superlativo": "the most embarrassed",
+      "ejemplo": "I was embarrassed when I forgot his name.",
+      "hueco": {
+        "frase": "I was ___ when I forgot his name. (avergonzado)",
+        "respuestas": [
+          "embarrassed"
+        ]
+      },
+      "nota": "No es «embarazada» (pregnant). embarrassed about + algo."
+    },
+    {
+      "id": "annoying",
+      "en": "annoying",
+      "ipa": "/əˈnɔɪɪŋ/",
+      "es": "molesto, fastidioso",
+      "clase": "adjetivo",
+      "orden": 61,
+      "opuesto": "pleasant",
+      "comparativo": "more annoying",
+      "superlativo": "the most annoying",
+      "ejemplo": "Pop-up ads are really annoying.",
+      "hueco": {
+        "frase": "Pop-up ads are really ___. (molestos)",
+        "respuestas": [
+          "annoying"
+        ]
+      },
+      "nota": "Describe la cosa que fastidia. Cómo te sientes: annoyed."
+    },
+    {
+      "id": "proud",
+      "en": "proud",
+      "ipa": "/praʊd/",
+      "es": "orgulloso",
+      "clase": "adjetivo",
+      "orden": 62,
+      "opuesto": "ashamed",
+      "comparativo": "prouder",
+      "superlativo": "the proudest",
+      "ejemplo": "I'm proud of my team.",
+      "hueco": {
+        "frase": "I'm ___ of my team. (orgulloso)",
+        "respuestas": [
+          "proud"
+        ]
+      },
+      "nota": "proud OF + persona o cosa"
+    },
+    {
+      "id": "afraid",
+      "en": "afraid",
+      "ipa": "/əˈfreɪd/",
+      "es": "asustado, con miedo",
+      "clase": "adjetivo",
+      "orden": 63,
+      "opuesto": "brave",
+      "comparativo": "more afraid",
+      "superlativo": "the most afraid",
+      "ejemplo": "I'm afraid of flying.",
+      "hueco": {
+        "frase": "I'm ___ of flying. (con miedo)",
+        "respuestas": [
+          "afraid",
+          "scared"
+        ]
+      },
+      "nota": "Solo después de be: I'm afraid. afraid OF + algo. I'm afraid… = me temo que…"
+    },
+    {
+      "id": "sure",
+      "en": "sure",
+      "ipa": "/ʃʊr/",
+      "es": "seguro (certeza)",
+      "clase": "adjetivo",
+      "orden": 64,
+      "opuesto": "unsure",
+      "ejemplo": "Are you sure about the date?",
+      "hueco": {
+        "frase": "Are you ___ about the date? (seguro)",
+        "respuestas": [
+          "sure",
+          "certain"
+        ]
+      },
+      "nota": "sure about + algo · I'm not sure = no estoy seguro. Para «sin peligro» es safe."
+    },
+    {
+      "id": "clear",
+      "en": "clear",
+      "ipa": "/klɪr/",
+      "es": "claro",
+      "clase": "adjetivo",
+      "orden": 65,
+      "opuesto": "confusing",
+      "comparativo": "clearer",
+      "superlativo": "the clearest",
+      "ejemplo": "The brief is clear and short.",
+      "hueco": {
+        "frase": "The brief is ___ and short. (claro)",
+        "respuestas": [
+          "clear"
+        ]
+      },
+      "nota": "Is that clear? = ¿Queda claro? · opuesto con prefijo: unclear"
+    },
+    {
+      "id": "urgent",
+      "en": "urgent",
+      "ipa": "/ˈɜrdʒənt/",
+      "es": "urgente",
+      "clase": "adjetivo",
+      "orden": 66,
+      "comparativo": "more urgent",
+      "superlativo": "the most urgent",
+      "ejemplo": "This is urgent: the client needs it today.",
+      "hueco": {
+        "frase": "This is ___: the client needs it today. (urgente)",
+        "respuestas": [
+          "urgent"
+        ]
+      },
+      "nota": "Pronuncia UR-yent. Urgent, not important: la clásica matriz de prioridades."
+    },
+    {
+      "id": "available",
+      "en": "available",
+      "ipa": "/əˈveɪləbəl/",
+      "es": "disponible",
+      "clase": "adjetivo",
+      "orden": 67,
+      "opuesto": "unavailable",
+      "ejemplo": "Are you available for a call on Thursday?",
+      "hueco": {
+        "frase": "Are you ___ for a call on Thursday? (disponible)",
+        "respuestas": [
+          "available",
+          "free"
+        ]
+      },
+      "nota": "available for + evento · available on + día"
+    },
+    {
+      "id": "responsible",
+      "en": "responsible",
+      "ipa": "/rɪˈspɑnsəbəl/",
+      "es": "responsable",
+      "clase": "adjetivo",
+      "orden": 68,
+      "opuesto": "irresponsible",
+      "comparativo": "more responsible",
+      "superlativo": "the most responsible",
+      "ejemplo": "Laura is responsible for the media plan.",
+      "hueco": {
+        "frase": "Laura is ___ for the media plan. (responsable)",
+        "respuestas": [
+          "responsible"
+        ]
+      },
+      "nota": "responsible FOR (no *of*). Opuesto con ir-: irresponsible."
+    },
+    {
+      "id": "reliable",
+      "en": "reliable",
+      "ipa": "/rɪˈlaɪəbəl/",
+      "es": "confiable",
+      "clase": "adjetivo",
+      "orden": 69,
+      "opuesto": "unreliable",
+      "comparativo": "more reliable",
+      "superlativo": "the most reliable",
+      "ejemplo": "Mike is reliable: he always delivers on time.",
+      "hueco": {
+        "frase": "Mike is ___: he always delivers on time. (confiable)",
+        "respuestas": [
+          "reliable"
+        ]
+      },
+      "nota": "Para personas, datos y proveedores: a reliable source."
+    },
+    {
+      "id": "useful",
+      "en": "useful",
+      "ipa": "/ˈjusfəl/",
+      "es": "útil",
+      "clase": "adjetivo",
+      "orden": 70,
+      "opuesto": "useless",
+      "comparativo": "more useful",
+      "superlativo": "the most useful",
+      "ejemplo": "That template is really useful.",
+      "hueco": {
+        "frase": "That template is really ___. (útil)",
+        "respuestas": [
+          "useful"
+        ]
+      },
+      "nota": "useful for + algo · opuesto: useless (inútil)"
+    },
+    {
+      "id": "successful",
+      "en": "successful",
+      "ipa": "/səkˈsɛsfəl/",
+      "es": "exitoso",
+      "clase": "adjetivo",
+      "orden": 71,
+      "opuesto": "unsuccessful",
+      "comparativo": "more successful",
+      "superlativo": "the most successful",
+      "ejemplo": "It was a successful campaign.",
+      "hueco": {
+        "frase": "It was a ___ campaign. (exitosa)",
+        "respuestas": [
+          "successful"
+        ]
+      },
+      "nota": "Doble c y doble s: successful. Sustantivo: success."
+    },
+    {
+      "id": "creative",
+      "en": "creative",
+      "ipa": "/kriˈeɪtɪv/",
+      "es": "creativo",
+      "clase": "adjetivo",
+      "orden": 72,
+      "opuesto": "unimaginative",
+      "comparativo": "more creative",
+      "superlativo": "the most creative",
+      "ejemplo": "We need a more creative idea.",
+      "hueco": {
+        "frase": "We need a more ___ idea. (creativa)",
+        "respuestas": [
+          "creative"
+        ]
+      },
+      "nota": "Pronuncia cri-EI-tiv. the creative team = el equipo creativo."
+    },
+    {
+      "id": "effective",
+      "en": "effective",
+      "ipa": "/ɪˈfɛktɪv/",
+      "es": "eficaz, efectivo",
+      "clase": "adjetivo",
+      "orden": 73,
+      "opuesto": "ineffective",
+      "comparativo": "more effective",
+      "superlativo": "the most effective",
+      "ejemplo": "Video is more effective than banners for this audience.",
+      "hueco": {
+        "frase": "Video is more ___ than banners for this audience. (eficaz)",
+        "respuestas": [
+          "effective"
+        ]
+      },
+      "nota": "effective = que funciona · efficient = que gasta poco. Opuesto: ineffective."
+    },
+    {
+      "id": "professional",
+      "en": "professional",
+      "ipa": "/prəˈfɛʃənəl/",
+      "es": "profesional",
+      "clase": "adjetivo",
+      "orden": 74,
+      "opuesto": "unprofessional",
+      "comparativo": "more professional",
+      "superlativo": "the most professional",
+      "ejemplo": "Her presentation was very professional.",
+      "hueco": {
+        "frase": "Her presentation was very ___. (profesional)",
+        "respuestas": [
+          "professional"
+        ]
+      },
+      "nota": "Opuesto: unprofessional. También sustantivo: a marketing professional."
+    },
+    {
+      "id": "accurate",
+      "en": "accurate",
+      "ipa": "/ˈækjərət/",
+      "es": "exacto, preciso",
+      "clase": "adjetivo",
+      "orden": 75,
+      "opuesto": "inaccurate",
+      "comparativo": "more accurate",
+      "superlativo": "the most accurate",
+      "ejemplo": "The report is accurate; I checked every number.",
+      "hueco": {
+        "frase": "The report is ___; I checked every number. (preciso)",
+        "respuestas": [
+          "accurate"
+        ]
+      },
+      "nota": "Pronuncia A-kiu-ret. Opuesto: inaccurate."
+    },
+    {
+      "id": "possible",
+      "en": "possible",
+      "ipa": "/ˈpɑsəbəl/",
+      "es": "posible",
+      "clase": "adjetivo",
+      "orden": 76,
+      "opuesto": "impossible",
+      "ejemplo": "Is it possible to move the meeting to Friday?",
+      "hueco": {
+        "frase": "Is it ___ to move the meeting to Friday? (posible)",
+        "respuestas": [
+          "possible"
+        ]
+      },
+      "nota": "as soon as possible (ASAP) · opuesto con im-: impossible"
+    },
+    {
+      "id": "patient",
+      "en": "patient",
+      "ipa": "/ˈpeɪʃənt/",
+      "es": "paciente",
+      "clase": "adjetivo",
+      "orden": 77,
+      "opuesto": "impatient",
+      "comparativo": "more patient",
+      "superlativo": "the most patient",
+      "ejemplo": "Be patient, the client will answer soon.",
+      "hueco": {
+        "frase": "Be ___, the client will answer soon. (paciente)",
+        "respuestas": [
+          "patient"
+        ]
+      },
+      "nota": "patient with + persona · opuesto: impatient · También sustantivo: paciente del médico."
+    },
+    {
+      "id": "polite",
+      "en": "polite",
+      "ipa": "/pəˈlaɪt/",
+      "es": "educado, cortés",
+      "clase": "adjetivo",
+      "orden": 78,
+      "opuesto": "rude",
+      "comparativo": "more polite",
+      "superlativo": "the most polite",
+      "ejemplo": "Always be polite in emails, even when you're angry.",
+      "hueco": {
+        "frase": "Always be ___ in emails, even when you're angry. (cortés)",
+        "respuestas": [
+          "polite"
+        ]
+      },
+      "nota": "polite to + persona · opuestos: impolite, rude"
+    },
+    {
+      "id": "honest",
+      "en": "honest",
+      "ipa": "/ˈɑnəst/",
+      "es": "honesto",
+      "clase": "adjetivo",
+      "orden": 79,
+      "opuesto": "dishonest",
+      "comparativo": "more honest",
+      "superlativo": "the most honest",
+      "ejemplo": "To be honest, I don't like the logo.",
+      "hueco": {
+        "frase": "To be ___, I don't like the logo. (honesto)",
+        "respuestas": [
+          "honest"
+        ]
+      },
+      "nota": "La h no se pronuncia: /ˈɑnəst/. To be honest = para ser sincero. Opuesto: dishonest."
+    },
+    {
+      "id": "fair",
+      "en": "fair",
+      "ipa": "/fɛr/",
+      "es": "justo",
+      "clase": "adjetivo",
+      "orden": 80,
+      "opuesto": "unfair",
+      "comparativo": "fairer",
+      "superlativo": "the fairest",
+      "ejemplo": "The price is fair for this amount of work.",
+      "hueco": {
+        "frase": "The price is ___ for this amount of work. (justo)",
+        "respuestas": [
+          "fair"
+        ]
+      },
+      "nota": "That's not fair = no es justo · fair enough = vale, de acuerdo"
+    },
+    {
+      "id": "comfortable",
+      "en": "comfortable",
+      "ipa": "/ˈkʌmftərbəl/",
+      "es": "cómodo",
+      "clase": "adjetivo",
+      "orden": 81,
+      "opuesto": "uncomfortable",
+      "comparativo": "more comfortable",
+      "superlativo": "the most comfortable",
+      "ejemplo": "The new chairs are really comfortable.",
+      "hueco": {
+        "frase": "The new chairs are really ___. (cómodas)",
+        "respuestas": [
+          "comfortable"
+        ]
+      },
+      "nota": "Tres sílabas en la práctica: CUMF-ter-bul. comfortable with + idea = estar de acuerdo."
+    },
+    {
+      "id": "healthy",
+      "en": "healthy",
+      "ipa": "/ˈhɛlθi/",
+      "es": "saludable",
+      "clase": "adjetivo",
+      "orden": 82,
+      "opuesto": "unhealthy",
+      "comparativo": "healthier",
+      "superlativo": "the healthiest",
+      "ejemplo": "I try to eat healthy food during the week.",
+      "hueco": {
+        "frase": "I try to eat ___ food during the week. (saludable)",
+        "respuestas": [
+          "healthy"
+        ]
+      },
+      "nota": "healthy food, a healthy lifestyle. Opuesto: unhealthy."
+    },
+    {
+      "id": "lucky",
+      "en": "lucky",
+      "ipa": "/ˈlʌki/",
+      "es": "afortunado, con suerte",
+      "clase": "adjetivo",
+      "orden": 83,
+      "opuesto": "unlucky",
+      "comparativo": "luckier",
+      "superlativo": "the luckiest",
+      "ejemplo": "We were lucky: the client approved everything.",
+      "hueco": {
+        "frase": "We were ___: the client approved everything. (afortunados)",
+        "respuestas": [
+          "lucky"
+        ]
+      },
+      "nota": "I'm lucky = tengo suerte (no *I have luck*). Good luck!"
+    },
+    {
+      "id": "clean",
+      "en": "clean",
+      "ipa": "/klin/",
+      "es": "limpio",
+      "clase": "adjetivo",
+      "orden": 84,
+      "opuesto": "dirty",
+      "comparativo": "cleaner",
+      "superlativo": "the cleanest",
+      "ejemplo": "The design is clean and simple.",
+      "hueco": {
+        "frase": "The design is ___ and simple. (limpio)",
+        "respuestas": [
+          "clean"
+        ]
+      },
+      "nota": "Para diseño también: a clean layout. Opuesto: dirty."
+    },
+    {
+      "id": "quiet",
+      "en": "quiet",
+      "ipa": "/ˈkwaɪət/",
+      "es": "silencioso, tranquilo",
+      "clase": "adjetivo",
+      "orden": 85,
+      "opuesto": "loud",
+      "comparativo": "quieter",
+      "superlativo": "the quietest",
+      "ejemplo": "I need a quiet room for the call.",
+      "hueco": {
+        "frase": "I need a ___ room for the call. (silenciosa)",
+        "respuestas": [
+          "quiet"
+        ]
+      },
+      "nota": "No confundir con quite (bastante). Opuestos: loud, noisy."
+    },
+    {
+      "id": "strong",
+      "en": "strong",
+      "ipa": "/strɔŋ/",
+      "es": "fuerte",
+      "clase": "adjetivo",
+      "orden": 86,
+      "opuesto": "weak",
+      "comparativo": "stronger",
+      "superlativo": "the strongest",
+      "ejemplo": "The brand has a strong presence on Instagram.",
+      "hueco": {
+        "frase": "The brand has a ___ presence on Instagram. (fuerte)",
+        "respuestas": [
+          "strong"
+        ]
+      },
+      "nota": "strong coffee, a strong idea, a strong brand. Opuesto: weak."
+    },
+    {
+      "id": "main",
+      "en": "main",
+      "ipa": "/meɪn/",
+      "es": "principal",
+      "clase": "adjetivo",
+      "orden": 87,
+      "ejemplo": "The main problem is the budget.",
+      "hueco": {
+        "frase": "The ___ problem is the budget. (principal)",
+        "respuestas": [
+          "main"
+        ]
+      },
+      "nota": "Solo antes del sustantivo: the main idea, the main client. No se dice *the problem is main*."
+    },
+    {
+      "id": "huge",
+      "en": "huge",
+      "ipa": "/hjudʒ/",
+      "es": "enorme",
+      "clase": "adjetivo",
+      "orden": 88,
+      "opuesto": "tiny",
+      "ejemplo": "It's a huge opportunity for the agency.",
+      "hueco": {
+        "frase": "It's a ___ opportunity for the agency. (enorme)",
+        "respuestas": [
+          "huge",
+          "enormous"
+        ]
+      },
+      "nota": "Adjetivo extremo: absolutely huge, nunca *very huge*."
+    },
+    {
+      "id": "safe",
+      "en": "safe",
+      "ipa": "/seɪf/",
+      "es": "seguro (sin peligro)",
+      "clase": "adjetivo",
+      "orden": 89,
+      "opuesto": "dangerous",
+      "comparativo": "safer",
+      "superlativo": "the safest",
+      "ejemplo": "Is this neighborhood safe at night?",
+      "hueco": {
+        "frase": "Is this neighborhood ___ at night? (seguro)",
+        "respuestas": [
+          "safe"
+        ]
+      },
+      "nota": "safe = sin peligro · sure = con certeza. Have a safe trip!"
+    },
+    {
+      "id": "dangerous",
+      "en": "dangerous",
+      "ipa": "/ˈdeɪndʒərəs/",
+      "es": "peligroso",
+      "clase": "adjetivo",
+      "orden": 90,
+      "opuesto": "safe",
+      "comparativo": "more dangerous",
+      "superlativo": "the most dangerous",
+      "ejemplo": "Riding a bike in traffic can be dangerous.",
+      "hueco": {
+        "frase": "Riding a bike in traffic can be ___. (peligroso)",
+        "respuestas": [
+          "dangerous"
+        ]
+      },
+      "nota": "Pronuncia DEIN-ye-rus."
+    },
+    {
+      "id": "close",
+      "en": "close",
+      "ipa": "/kloʊs/",
+      "es": "cercano",
+      "clase": "adjetivo",
+      "orden": 91,
+      "opuesto": "far",
+      "comparativo": "closer",
+      "superlativo": "the closest",
+      "ejemplo": "The office is close to my apartment.",
+      "hueco": {
+        "frase": "The office is ___ to my apartment. (cerca)",
+        "respuestas": [
+          "close",
+          "near"
+        ]
+      },
+      "nota": "close TO + lugar. El adjetivo suena /kloʊs/ (s suave); el verbo close suena /kloʊz/."
+    },
+    {
+      "id": "far",
+      "en": "far",
+      "ipa": "/fɑr/",
+      "es": "lejano, lejos",
+      "clase": "adjetivo",
+      "orden": 92,
+      "opuesto": "close",
+      "comparativo": "farther",
+      "superlativo": "the farthest",
+      "ejemplo": "The client's office is far from here.",
+      "hueco": {
+        "frase": "The client's office is ___ from here. (lejos)",
+        "respuestas": [
+          "far"
+        ]
+      },
+      "nota": "far FROM + lugar · How far is it? · También further / the furthest."
+    },
+    {
+      "id": "beautiful",
+      "en": "beautiful",
+      "ipa": "/ˈbjutəfəl/",
+      "es": "hermoso",
+      "clase": "adjetivo",
+      "orden": 93,
+      "opuesto": "ugly",
+      "comparativo": "more beautiful",
+      "superlativo": "the most beautiful",
+      "ejemplo": "Villa de Leyva is a beautiful town.",
+      "hueco": {
+        "frase": "Villa de Leyva is a ___ town. (hermoso)",
+        "respuestas": [
+          "beautiful"
+        ]
+      },
+      "nota": "Una sola l: beautiful. Comparativo largo: more beautiful."
+    },
+    {
+      "id": "hungry",
+      "en": "hungry",
+      "ipa": "/ˈhʌŋɡri/",
+      "es": "con hambre",
+      "clase": "adjetivo",
+      "orden": 94,
+      "opuesto": "full",
+      "comparativo": "hungrier",
+      "superlativo": "the hungriest",
+      "ejemplo": "I'm hungry, let's have lunch.",
+      "hueco": {
+        "frase": "I'm ___, let's have lunch. (con hambre)",
+        "respuestas": [
+          "hungry"
+        ]
+      },
+      "nota": "I'm hungry = tengo hambre (nunca *I have hunger*)."
+    },
+    {
+      "id": "full",
+      "en": "full",
+      "ipa": "/fʊl/",
+      "es": "lleno",
+      "clase": "adjetivo",
+      "orden": 95,
+      "opuesto": "empty",
+      "comparativo": "fuller",
+      "superlativo": "the fullest",
+      "ejemplo": "My calendar is full on Monday.",
+      "hueco": {
+        "frase": "My calendar is ___ on Monday. (lleno)",
+        "respuestas": [
+          "full"
+        ]
+      },
+      "nota": "full of + algo · I'm full = ya no quiero más comida"
+    },
+    {
+      "id": "delicious",
+      "en": "delicious",
+      "ipa": "/dɪˈlɪʃəs/",
+      "es": "delicioso",
+      "clase": "adjetivo",
+      "orden": 96,
+      "opuesto": "disgusting",
+      "ejemplo": "The ajiaco at that place is delicious.",
+      "hueco": {
+        "frase": "The ajiaco at that place is ___. (delicioso)",
+        "respuestas": [
+          "delicious"
+        ]
+      },
+      "nota": "Adjetivo extremo: absolutely delicious, nunca *very delicious*."
+    },
+    {
+      "id": "simple",
+      "en": "simple",
+      "ipa": "/ˈsɪmpəl/",
+      "es": "sencillo",
+      "clase": "adjetivo",
+      "orden": 97,
+      "opuesto": "complicated",
+      "comparativo": "simpler",
+      "superlativo": "the simplest",
+      "ejemplo": "Keep the message simple.",
+      "hueco": {
+        "frase": "Keep the message ___. (sencillo)",
+        "respuestas": [
+          "simple"
+        ]
+      },
+      "nota": "Comparativo corto: simpler. Opuesto: complicated."
+    },
+    {
+      "id": "modern",
+      "en": "modern",
+      "ipa": "/ˈmɑdərn/",
+      "es": "moderno",
+      "clase": "adjetivo",
+      "orden": 98,
+      "opuesto": "old-fashioned",
+      "comparativo": "more modern",
+      "superlativo": "the most modern",
+      "ejemplo": "The new office is modern and bright.",
+      "hueco": {
+        "frase": "The new office is ___ and bright. (moderna)",
+        "respuestas": [
+          "modern"
+        ]
+      },
+      "nota": "Pronuncia MA-dern. Opuesto: old-fashioned."
+    },
+    {
+      "id": "popular",
+      "en": "popular",
+      "ipa": "/ˈpɑpjələr/",
+      "es": "popular",
+      "clase": "adjetivo",
+      "orden": 99,
+      "opuesto": "unpopular",
+      "comparativo": "more popular",
+      "superlativo": "the most popular",
+      "ejemplo": "TikTok is popular with young audiences.",
+      "hueco": {
+        "frase": "TikTok is ___ with young audiences. (popular)",
+        "respuestas": [
+          "popular"
+        ]
+      },
+      "nota": "popular with + grupo de personas"
+    },
+    {
+      "id": "famous",
+      "en": "famous",
+      "ipa": "/ˈfeɪməs/",
+      "es": "famoso",
+      "clase": "adjetivo",
+      "orden": 100,
+      "opuesto": "unknown",
+      "comparativo": "more famous",
+      "superlativo": "the most famous",
+      "ejemplo": "Medellín is famous for its flower festival.",
+      "hueco": {
+        "frase": "Medellín is ___ for its flower festival. (famosa)",
+        "respuestas": [
+          "famous"
+        ]
+      },
+      "nota": "famous FOR + la razón"
+    }
+  ],
+  "ejercicios": [
+    {
+      "id": "adjetivos-001",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "We need a ___ idea for the campaign.",
+      "opciones": [
+        "creative",
+        "creatively",
+        "creativity"
+      ],
+      "a": 0,
+      "explica": "Antes del sustantivo va el adjetivo (creative). Creatively es adverbio y creativity es sustantivo."
+    },
+    {
+      "id": "adjetivos-002",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "They are very ___ clients.",
+      "opciones": [
+        "differents",
+        "different",
+        "differences"
+      ],
+      "a": 1,
+      "explica": "El adjetivo nunca lleva -s aunque el sustantivo sea plural: different clients."
+    },
+    {
+      "id": "adjetivos-003",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "The meeting was so ___ that I almost fell asleep.",
+      "opciones": [
+        "boring",
+        "bored",
+        "bore"
+      ],
+      "a": 0,
+      "explica": "-ing describe la cosa que causa el sentimiento: la reunión aburre, es boring."
+    },
+    {
+      "id": "adjetivos-004",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "I'm ___ in the new project.",
+      "opciones": [
+        "interesting",
+        "interest",
+        "interested"
+      ],
+      "a": 2,
+      "explica": "-ed describe cómo te sientes tú: I'm interested. Interesting sería que tú interesas a otros."
+    },
+    {
+      "id": "adjetivos-005",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Laura is very good ___ presentations.",
+      "opciones": [
+        "at",
+        "in",
+        "for"
+      ],
+      "a": 0,
+      "explica": "Good at + actividad. «Bueno para» o «bueno en» no se traducen con for ni in."
+    },
+    {
+      "id": "adjetivos-006",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Andrés is responsible ___ the media plan.",
+      "opciones": [
+        "of",
+        "for",
+        "by"
+      ],
+      "a": 1,
+      "explica": "Responsible for, aunque en español digamos «responsable de»."
+    },
+    {
+      "id": "adjetivos-007",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "This brief is not clear. It's ___.",
+      "opciones": [
+        "unclear",
+        "inclear",
+        "disclear"
+      ],
+      "a": 0,
+      "explica": "El prefijo más común para el opuesto es un-: unclear, unhappy, unfair."
+    },
+    {
+      "id": "adjetivos-008",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "It's ___ to finish today. We don't have time.",
+      "opciones": [
+        "unpossible",
+        "inpossible",
+        "impossible"
+      ],
+      "a": 2,
+      "explica": "Antes de p y m el prefijo es im-: impossible, impatient, impolite."
+    },
+    {
+      "id": "adjetivos-009",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "The opposite of expensive is ___. (barato)",
+      "respuestas": [
+        "cheap"
+      ],
+      "explica": "Expensive ↔ cheap. Para «buen precio» también se dice affordable."
+    },
+    {
+      "id": "adjetivos-010",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "I'm ___ because I only slept four hours. (cansado)",
+      "respuestas": [
+        "tired",
+        "exhausted",
+        "sleepy"
+      ],
+      "explica": "Tired = cansado. Si es extremo, exhausted (agotado)."
+    },
+    {
+      "id": "adjetivos-011",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "I'm worried ___ the deadline. (preposición)",
+      "respuestas": [
+        "about"
+      ],
+      "explica": "Worried about + algo. No se dice worried for."
+    },
+    {
+      "id": "adjetivos-012",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "The opposite of happy is ___. (triste)",
+      "respuestas": [
+        "sad",
+        "unhappy"
+      ],
+      "explica": "Happy ↔ sad. También unhappy con prefijo un-."
+    },
+    {
+      "id": "adjetivos-013",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "USO",
+      "es": "Es una campaña muy exitosa.",
+      "en": "It is a very successful campaign.",
+      "extra": [
+        "successfully",
+        "success"
+      ],
+      "explica": "Antes del sustantivo va el adjetivo (successful), no el adverbio ni el sustantivo. Very va justo antes del adjetivo."
+    },
+    {
+      "id": "adjetivos-014",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "USO",
+      "es": "Tenemos dos clientes nuevos.",
+      "en": "We have two new clients.",
+      "extra": [
+        "news"
+      ],
+      "explica": "El adjetivo va antes del sustantivo y nunca lleva -s: two new clients."
+    },
+    {
+      "id": "adjetivos-015",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "USO",
+      "frase": "They are differents from us.",
+      "correcta": false,
+      "correccion": [
+        "They are different from us."
+      ],
+      "explica": "El adjetivo no tiene plural: different. Además, different from."
+    },
+    {
+      "id": "adjetivos-016",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "VOC",
+      "frase": "The presentation was very interesting.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Correcta: interesting describe la presentación (la causa), con very porque es graduable."
+    },
+    {
+      "id": "adjetivos-017",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "VOC",
+      "pares": [
+        [
+          "cheap",
+          "barato"
+        ],
+        [
+          "busy",
+          "ocupado"
+        ],
+        [
+          "tired",
+          "cansado"
+        ],
+        [
+          "proud",
+          "orgulloso"
+        ],
+        [
+          "reliable",
+          "confiable"
+        ]
+      ],
+      "explica": "Vocabulario base de adjetivos: aprende cada uno con su opuesto (cheap/expensive, busy/free)."
+    },
+    {
+      "id": "adjetivos-018",
+      "tipo": "escuchar",
+      "nivel": 1,
+      "code": "VOC",
+      "texto": "The new office is small but very comfortable.",
+      "respuestas": [
+        "The new office is small but very comfortable."
+      ],
+      "explica": "Dos adjetivos: new antes del sustantivo y small / comfortable después de be. Comfortable suena CUMF-ter-bul."
+    },
+    {
+      "id": "adjetivos-019",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "She bought a ___ table for the meeting room.",
+      "opciones": [
+        "wooden old beautiful",
+        "beautiful old wooden",
+        "old beautiful wooden"
+      ],
+      "a": 1,
+      "explica": "Orden: opinión (beautiful) → edad (old) → material (wooden) → sustantivo."
+    },
+    {
+      "id": "adjetivos-020",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "The client was ___ with the first draft.",
+      "opciones": [
+        "disappointing",
+        "disappoint",
+        "disappointed"
+      ],
+      "a": 2,
+      "explica": "El cliente siente la decepción: -ed. El borrador sería disappointing."
+    },
+    {
+      "id": "adjetivos-021",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "It's ___ cold in Bogotá at night, so bring a jacket.",
+      "opciones": [
+        "pretty",
+        "absolutely",
+        "totally"
+      ],
+      "a": 0,
+      "explica": "Cold es graduable: va con pretty, very, really, quite. Absolutely y totally son para adjetivos extremos (freezing)."
+    },
+    {
+      "id": "adjetivos-022",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Camila is married ___ a designer from Cali.",
+      "opciones": [
+        "with",
+        "to",
+        "by"
+      ],
+      "a": 1,
+      "explica": "Married to, aunque en español digamos «casada con»."
+    },
+    {
+      "id": "adjetivos-023",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "I was ___ by the results of the campaign. (surprise)",
+      "respuestas": [
+        "surprised"
+      ],
+      "explica": "Yo siento la sorpresa: -ed. Los resultados serían surprising."
+    },
+    {
+      "id": "adjetivos-024",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "Working twelve hours a day is ___. (tire)",
+      "respuestas": [
+        "tiring",
+        "exhausting"
+      ],
+      "explica": "La actividad causa el cansancio: -ing. Tú quedas tired."
+    },
+    {
+      "id": "adjetivos-025",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "He never tells the truth. He's ___. (opuesto de honest)",
+      "respuestas": [
+        "dishonest"
+      ],
+      "explica": "Honest → dishonest con el prefijo dis-."
+    },
+    {
+      "id": "adjetivos-026",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "Andrés gets angry when he has to wait. He's very ___. (opuesto de patient)",
+      "respuestas": [
+        "impatient"
+      ],
+      "explica": "Antes de p el prefijo es im-: impatient, impossible, impolite."
+    },
+    {
+      "id": "adjetivos-027",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "She has a car red.",
+      "correcta": false,
+      "correccion": [
+        "She has a red car."
+      ],
+      "explica": "El adjetivo va antes del sustantivo: a red car. Detrás es un calco del español."
+    },
+    {
+      "id": "adjetivos-028",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "VOC",
+      "frase": "I'm boring in this meeting.",
+      "correcta": false,
+      "correccion": [
+        "I'm bored in this meeting.",
+        "I am bored in this meeting."
+      ],
+      "explica": "Tú sientes el aburrimiento: bored. Boring diría que tú aburres a los demás."
+    },
+    {
+      "id": "adjetivos-029",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "Camila is interested on digital marketing.",
+      "correcta": false,
+      "correccion": [
+        "Camila is interested in digital marketing."
+      ],
+      "explica": "Interested in. La preposición se aprende pegada al adjetivo."
+    },
+    {
+      "id": "adjetivos-030",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "The new office is big, modern, and comfortable.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Correcta: new antes del sustantivo; los demás después de be, sin -s y sin cambios."
+    },
+    {
+      "id": "adjetivos-031",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "VOC",
+      "es": "Es un restaurante italiano pequeño y encantador.",
+      "en": "It's a lovely small Italian restaurant.",
+      "extra": [
+        "lovelys",
+        "restaurants"
+      ],
+      "explica": "Orden: opinión (lovely) → tamaño (small) → origen (Italian). Los adjetivos nunca llevan -s."
+    },
+    {
+      "id": "adjetivos-032",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "USO",
+      "es": "Estoy muy emocionado con el lanzamiento.",
+      "en": "I'm really excited about the launch.",
+      "extra": [
+        "exciting",
+        "with"
+      ],
+      "explica": "Yo siento la emoción: excited (no exciting). Excited about, no with."
+    },
+    {
+      "id": "adjetivos-033",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "VOC",
+      "es": "Fue un día largo y estresante.",
+      "en": "It was a long, stressful day.",
+      "extra": [
+        "stressed",
+        "longs"
+      ],
+      "aceptadas": [
+        "It was a long and stressful day."
+      ],
+      "explica": "Los dos adjetivos van antes del sustantivo. El día es stressful (causa); tú quedas stressed."
+    },
+    {
+      "id": "adjetivos-034",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "USO",
+      "es": "El brief es claro y corto.",
+      "respuestas": [
+        "The brief is clear and short.",
+        "The brief is short and clear."
+      ],
+      "explica": "Después de be el adjetivo no cambia: is clear, is short."
+    },
+    {
+      "id": "adjetivos-035",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "USO",
+      "es": "Estoy orgulloso de mi equipo.",
+      "respuestas": [
+        "I'm proud of my team.",
+        "I am proud of my team.",
+        "I'm really proud of my team."
+      ],
+      "explica": "Proud of + persona o cosa."
+    },
+    {
+      "id": "adjetivos-036",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "USO",
+      "es": "Tenemos tres reuniones importantes hoy.",
+      "respuestas": [
+        "We have three important meetings today.",
+        "Today we have three important meetings.",
+        "We've got three important meetings today.",
+        "We have got three important meetings today."
+      ],
+      "explica": "Important va antes del sustantivo y sin -s: three important meetings."
+    },
+    {
+      "id": "adjetivos-037",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "VOC",
+      "frase": "It's possible to finish by Friday.",
+      "instruccion": "Pásala al opuesto usando un prefijo.",
+      "respuestas": [
+        "It's impossible to finish by Friday.",
+        "It is impossible to finish by Friday."
+      ],
+      "explica": "Possible → impossible con im- (antes de p). Nada más cambia en la frase."
+    },
+    {
+      "id": "adjetivos-038",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "VOC",
+      "consigna": "Describe tu oficina y a tu equipo con al menos seis adjetivos: cómo es el espacio, cómo son las personas y cómo te sientes allí.",
+      "objetivo": "adjetivo + sustantivo · be + adjetivo · -ed para sentimientos · adjetivo + preposición (good at, responsible for)",
+      "ejemplo": "Our office is small but modern, with big windows and comfortable chairs. My team is young and creative. Laura is very good at numbers and responsible for two clients. Andrés is quiet but reliable. I'm usually busy and a bit stressed, but I'm proud of the work we do.",
+      "explica": "El adjetivo va antes del sustantivo o después de be, sin -s. Para sentimientos usa -ed (stressed, no stressing)."
+    },
+    {
+      "id": "adjetivos-039",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "Un lunes agotador",
+      "instruccion": "Completa con la forma -ed o -ing del adjetivo entre paréntesis.",
+      "texto": "Monday was a {1} (tire) day. I had three meetings and I was {2} (exhaust) by 6 pm. The first meeting was about the new campaign and it was really {3} (interest): the client is {4} (excite) about the idea. The second one was a long webinar about taxes, and honestly it was {5} (bore). I was so {6} (bore) that I checked my phone twice. The last meeting was a bit {7} (confuse), because nobody knew who was responsible for the budget. Now I'm {8} (relax) on the sofa with a cup of coffee.",
+      "huecos": [
+        {
+          "respuestas": [
+            "tiring"
+          ]
+        },
+        {
+          "respuestas": [
+            "exhausted"
+          ]
+        },
+        {
+          "respuestas": [
+            "interesting"
+          ]
+        },
+        {
+          "respuestas": [
+            "excited"
+          ]
+        },
+        {
+          "respuestas": [
+            "boring"
+          ]
+        },
+        {
+          "respuestas": [
+            "bored"
+          ]
+        },
+        {
+          "respuestas": [
+            "confusing"
+          ]
+        },
+        {
+          "respuestas": [
+            "relaxed"
+          ]
+        }
+      ],
+      "explica": "-ing para lo que causa el sentimiento (a tiring day, a boring webinar); -ed para quien lo siente (I was bored, I'm relaxed)."
+    },
+    {
+      "id": "adjetivos-040",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "El equipo de Brava",
+      "instruccion": "Elige la preposición que acompaña a cada adjetivo.",
+      "texto": "Let me tell you about my team at Brava. Laura is good {1} numbers and responsible {2} the media plan. Andrés is our designer; he's interested {3} typography and famous {4} his long lunches. Camila is new, so she's a bit nervous {5} the client meetings, but she's very proud {6} her first campaign. And me? I'm worried {7} the deadlines, as always, but I'm excited {8} this year.",
+      "huecos": [
+        {
+          "opciones": [
+            "at",
+            "in",
+            "for"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "of",
+            "for",
+            "about"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "on",
+            "for",
+            "in"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "for",
+            "by",
+            "of"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "of",
+            "about",
+            "for"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "for",
+            "about",
+            "of"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "about",
+            "of",
+            "with"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "of",
+            "about",
+            "in"
+          ],
+          "a": 1
+        }
+      ],
+      "explica": "Cada adjetivo lleva su preposición fija: good at, responsible for, interested in, famous for, nervous about, proud of, worried about, excited about."
+    },
+    {
+      "id": "adjetivos-041",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "Feedback honesto",
+      "instruccion": "Escribe el opuesto del adjetivo con el prefijo correcto (un-, im-, in-, dis-, ir-).",
+      "texto": "Dear team, here is my honest feedback on the first draft. The headline is {1} (opuesto de clear): I read it three times and I still don't understand it. The colors look {2} (opuesto de professional) for a bank. The deadline on page two is {3} (opuesto de possible): nobody can print 10,000 flyers in one day. Some numbers in the chart are {4} (opuesto de accurate), so please check them again. I know the client is {5} (opuesto de patient) and that this is {6} (opuesto de fair), but we can fix it. Don't be {7} (opuesto de happy): the idea is strong, the execution just needs work.",
+      "huecos": [
+        {
+          "respuestas": [
+            "unclear"
+          ]
+        },
+        {
+          "respuestas": [
+            "unprofessional"
+          ]
+        },
+        {
+          "respuestas": [
+            "impossible"
+          ]
+        },
+        {
+          "respuestas": [
+            "inaccurate"
+          ]
+        },
+        {
+          "respuestas": [
+            "impatient"
+          ]
+        },
+        {
+          "respuestas": [
+            "unfair"
+          ]
+        },
+        {
+          "respuestas": [
+            "unhappy"
+          ]
+        }
+      ],
+      "explica": "Un- es el prefijo más común (unclear, unfair, unhappy); im- antes de p (impossible, impatient); in- en inaccurate."
+    },
+    {
+      "id": "adjetivos-042",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "Reseña de un restaurante",
+      "instruccion": "Elige el intensificador correcto: los adjetivos graduables van con very, really, pretty, quite, a bit; los extremos con absolutely.",
+      "texto": "Last Saturday we tried the new restaurant in Usaquén. The place is {1} small, so book a table. The service was {2} slow, but the waiter was friendly. The food? {3} delicious. The ajiaco was {4} hot, so wait a minute before you eat it. The dessert was {5} huge: we shared one between three people. The bill was {6} expensive for Bogotá, but not crazy. In short: a {7} good place for a special dinner.",
+      "huecos": [
+        {
+          "opciones": [
+            "pretty",
+            "absolutely",
+            "totally"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "completely",
+            "a bit",
+            "absolutely"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "Very",
+            "A bit",
+            "Absolutely"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "really",
+            "absolutely",
+            "totally"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "very",
+            "absolutely",
+            "a bit"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "absolutely",
+            "completely",
+            "quite"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "totally",
+            "really",
+            "absolutely"
+          ],
+          "a": 1
+        }
+      ],
+      "explica": "Small, slow, hot, expensive y good son graduables: pretty, a bit, really, quite. Delicious y huge son extremos: absolutely, nunca very."
+    },
+    {
+      "id": "adjetivos-043",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "La nueva oficina",
+      "instruccion": "Traduce el adjetivo entre paréntesis. Recuerda: antes del sustantivo y sin -s.",
+      "texto": "We moved to a {1} (nueva) office in Chapinero last month. It's on the fifth floor of a {2} (moderno) building, and we have three {3} (grandes) meeting rooms with {4} (cómodas) chairs. The kitchen is {5} (pequeña) but {6} (limpia), and there's a {7} (hermosa) view of the mountains from the terrace. The {8} (principal) problem is the internet: it's slow in the afternoon, so we usually send the heavy files early in the morning.",
+      "huecos": [
+        {
+          "respuestas": [
+            "new"
+          ]
+        },
+        {
+          "respuestas": [
+            "modern"
+          ]
+        },
+        {
+          "respuestas": [
+            "big",
+            "large"
+          ]
+        },
+        {
+          "respuestas": [
+            "comfortable"
+          ]
+        },
+        {
+          "respuestas": [
+            "small"
+          ]
+        },
+        {
+          "respuestas": [
+            "clean"
+          ]
+        },
+        {
+          "respuestas": [
+            "beautiful"
+          ]
+        },
+        {
+          "respuestas": [
+            "main"
+          ]
+        }
+      ],
+      "explica": "El adjetivo es invariable: three big meeting rooms, comfortable chairs. Main solo va antes del sustantivo."
+    },
+    {
+      "id": "adjetivos-044",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "La presentación al cliente",
+      "texto": "Yesterday we presented the new campaign to Mike, the marketing director of a big bank. I was nervous because Mike is a serious and demanding client, but the meeting was surprisingly relaxed. He said the idea was creative and the copy was clear, although the video was a bit long. Laura, who is responsible for the media plan, explained the budget, and Mike was happy with the numbers. At the end he said something important: \"I'm not interested in a cheap campaign; I'm interested in an effective one.\" We left the building exhausted but proud. Now we have two short weeks to produce everything, which is stressful, but the team is excited.",
+      "preguntas": [
+        {
+          "q": "How did the speaker feel before the meeting?",
+          "opciones": [
+            "Relaxed",
+            "Nervous",
+            "Bored"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What did Mike think about the video?",
+          "opciones": [
+            "It was a bit long",
+            "It was too expensive",
+            "It was confusing"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What kind of campaign is Mike interested in?",
+          "opciones": [
+            "A cheap one",
+            "A long one",
+            "An effective one"
+          ],
+          "a": 2
+        },
+        {
+          "q": "¿Por qué el texto dice «the team is excited» y no «exciting»?",
+          "opciones": [
+            "Porque describe cómo se siente el equipo (-ed); exciting describiría lo que causa la emoción",
+            "Porque excited es más formal",
+            "Porque después de is siempre va -ed"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Adjetivos después de be (was nervous, was clear) y antes del sustantivo (a big bank, two short weeks); -ed para sentimientos; interested in, responsible for, happy with."
+    },
+    {
+      "id": "adjetivos-045",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "Fin de semana en Villa de Leyva",
+      "texto": "Camila and I spent the weekend in Villa de Leyva. It's a small, quiet town three hours from Bogotá, famous for its huge main square and its old white houses. The drive was long and the road was a bit dangerous because of the rain, but the hotel was comfortable and the owner was very friendly. On Saturday we visited a vineyard; the tour was interesting and the wine was delicious. At night it was cold, so we had a hot soup near the fire. On Sunday we were tired of walking, and the town was full of tourists, so we stayed by the pool. It was a relaxing weekend, and much cheaper than a trip to the coast.",
+      "preguntas": [
+        {
+          "q": "Why was the road a bit dangerous?",
+          "opciones": [
+            "Because of the rain",
+            "Because it was dark",
+            "Because of the tourists"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What is Villa de Leyva famous for?",
+          "opciones": [
+            "Its food",
+            "Its huge main square and old white houses",
+            "Its vineyards"
+          ],
+          "a": 1
+        },
+        {
+          "q": "Why did they stay by the pool on Sunday?",
+          "opciones": [
+            "Because it was cold",
+            "Because the town was empty",
+            "Because they were tired of walking and the town was full of tourists"
+          ],
+          "a": 2
+        },
+        {
+          "q": "En «its old white houses», ¿por qué old va antes de white?",
+          "opciones": [
+            "Porque la edad va antes del color en el orden de adjetivos",
+            "Porque old es más corto",
+            "Porque white es más importante"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Orden de adjetivos (old white houses), adjetivo + preposición (famous for, tired of, full of) y -ing para la causa (a relaxing weekend)."
+    },
+    {
+      "id": "adjetivos-046",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "Un nuevo compañero",
+      "texto": "Santiago joined the creative team two months ago. At first, some people thought he was unfriendly because he is quiet and doesn't talk much in meetings. The truth is different: he is shy, not rude. He is also extremely reliable. When a deadline is impossible, he stays late and finds a simple solution. He's honest, maybe too honest: last week he told the client that the brief was unclear, and the client was surprised but thankful. The only unprofessional thing about Santiago is his desk, which is never clean. His boss says he is the most patient person in the agency, and that's a useful quality when you work with impatient clients.",
+      "preguntas": [
+        {
+          "q": "Why did some people think Santiago was unfriendly?",
+          "opciones": [
+            "Because he is quiet and doesn't talk much",
+            "Because he is rude to clients",
+            "Because his desk is dirty"
+          ],
+          "a": 0
+        },
+        {
+          "q": "How did the client react when Santiago said the brief was unclear?",
+          "opciones": [
+            "Angry",
+            "Surprised but thankful",
+            "Disappointed"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What is the only unprofessional thing about Santiago?",
+          "opciones": [
+            "His emails",
+            "His clothes",
+            "His desk"
+          ],
+          "a": 2
+        },
+        {
+          "q": "¿Qué prefijo forma el opuesto de patient, como aparece en el texto?",
+          "opciones": [
+            "un-",
+            "im-",
+            "in-"
+          ],
+          "a": 1
+        }
+      ],
+      "explica": "Opuestos con prefijo (unfriendly, impossible, unclear, unprofessional, impatient) y adjetivos de personalidad después de be."
+    },
+    {
+      "id": "adjetivos-047",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "Email de una clienta",
+      "texto": "Hi Laura, thanks for sending the first version of the video. To be honest, we were a little disappointed. The music is nice, but the message is confusing: our customers won't understand what the new app does. The video is also too long; thirty seconds is enough for social media. We know the deadline is tight and we're not angry, just worried about the launch date. The good news: the animation is beautiful and the voice is perfect. Could we have a shorter, clearer version by Thursday? We're available for a call tomorrow at 10 if that's useful. Best, Sarah",
+      "preguntas": [
+        {
+          "q": "How did the client feel about the first version?",
+          "opciones": [
+            "A little disappointed",
+            "Very angry",
+            "Totally satisfied"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What is the main problem with the message?",
+          "opciones": [
+            "It is too formal",
+            "It is confusing",
+            "It is too short"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What does Sarah like about the video?",
+          "opciones": [
+            "The length and the music",
+            "The animation and the voice",
+            "The message and the deadline"
+          ],
+          "a": 1
+        },
+        {
+          "q": "Sarah escribe «we were disappointed» y «the message is confusing». ¿Por qué una termina en -ed y la otra en -ing?",
+          "opciones": [
+            "Porque disappointed describe cómo se sienten ellos y confusing describe el mensaje que causa la confusión",
+            "Porque -ed es pasado e -ing es presente",
+            "Porque confusing es un verbo"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "-ed para quien siente (disappointed, worried), -ing para la causa (confusing); too + adjetivo; worried about, available for."
+    },
+    {
+      "id": "adjetivos-048",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "VOC",
+      "consigna": "Describe tu equipo o tu oficina ideal: cómo es el espacio, cómo son las personas y cómo te sientes trabajando allí.",
+      "requisitos": [
+        {
+          "texto": "Usa un adjetivo de sentimiento con -ed después de be o feel (I'm excited, I feel relaxed)",
+          "patron": "\\b(am|'m|is|are|was|were|feel|feels)\\s+(really\\s+|very\\s+|so\\s+|pretty\\s+|a bit\\s+)?(bored|tired|interested|excited|surprised|confused|relaxed|stressed|exhausted|worried|disappointed|embarrassed|annoyed|satisfied|pleased|motivated)\\b"
+        },
+        {
+          "texto": "Usa un adjetivo + preposición (good at, interested in, responsible for, proud of…)",
+          "patron": "\\b(good|bad)\\s+at\\b|\\binterested\\s+in\\b|\\bresponsible\\s+for\\b|\\bproud\\s+of\\b|\\bworried\\s+about\\b|\\bexcited\\s+about\\b|\\bfamous\\s+for\\b|\\bafraid\\s+of\\b|\\bsimilar\\s+to\\b|\\bdifferent\\s+from\\b|\\btired\\s+of\\b"
+        },
+        {
+          "texto": "Usa un intensificador antes de un adjetivo (very, really, pretty, quite, a bit)",
+          "patron": "\\b(very|really|pretty|quite|extremely)\\s+\\w+|\\ba\\s+bit\\s+\\w+"
+        },
+        {
+          "texto": "Usa un opuesto con prefijo (un-, im-, in-, dis-, ir-)",
+          "patron": "\\b(unhappy|unclear|unfair|unusual|uncomfortable|unreliable|unprofessional|unhealthy|unlucky|unfriendly|unkind|unimportant|unavailable|unsuccessful|impossible|impatient|impolite|incorrect|informal|inaccurate|ineffective|dishonest|disorganized|irresponsible)\\b"
+        }
+      ],
+      "minPalabras": 50,
+      "ejemplo": "My ideal office is big, bright and quiet, with comfortable chairs and a small kitchen. The team is young and creative, and everyone is responsible for one client. My boss is honest and fair, never impatient. I feel relaxed there because the deadlines are realistic, and I'm really proud of the work we do. It's not a perfect place, but it's a very good one.",
+      "explica": "Adjetivo antes del sustantivo (comfortable chairs) o después de be (is honest); -ed para sentimientos; preposición fija (proud of); prefijo para el opuesto (impatient)."
+    },
+    {
+      "id": "adjetivos-049",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "VOC",
+      "consigna": "Cuenta un fin de semana o un viaje reciente: el lugar, la comida, el clima y cómo te sentiste.",
+      "requisitos": [
+        {
+          "texto": "Usa dos adjetivos -ing para describir cosas (relaxing, boring, exciting, interesting, tiring…)",
+          "patron": "\\b(relaxing|boring|exciting|interesting|tiring|amazing|surprising|confusing|annoying|disappointing)\\b[\\s\\S]*\\b(relaxing|boring|exciting|interesting|tiring|amazing|surprising|confusing|annoying|disappointing)\\b"
+        },
+        {
+          "texto": "Usa un adjetivo extremo (exhausted, delicious, huge, perfect, terrible…), solo o con absolutely",
+          "patron": "\\b(exhausted|delicious|huge|perfect|terrible|amazing|freezing|boiling|awful|wonderful|enormous|tiny)\\b"
+        },
+        {
+          "texto": "Pon dos adjetivos juntos antes de un sustantivo (a small quiet town)",
+          "patron": "\\b(a|an|the|two|three|some)\\s+\\w+,?\\s+\\w+\\s+(town|city|hotel|restaurant|place|room|beach|house|day|weekend|trip|road|food|dinner|lunch|view)\\b"
+        },
+        {
+          "texto": "Di cómo te sentiste con un adjetivo -ed (I was tired / we were excited)",
+          "patron": "\\b(i|we)\\s+(was|were|felt)\\s+(really\\s+|very\\s+|so\\s+|a bit\\s+|pretty\\s+|absolutely\\s+)?(tired|excited|relaxed|bored|surprised|exhausted|disappointed|interested|stressed|worried)\\b"
+        }
+      ],
+      "minPalabras": 50,
+      "ejemplo": "Last weekend we went to Guatavita. It's a small quiet town about an hour from Bogotá. The drive was relaxing and the lake was absolutely beautiful, but the weather was terrible in the afternoon: cold and rainy. We had lunch at a tiny family restaurant and the trout was delicious. The boat tour was interesting, although a bit expensive. At night I was exhausted, but we were really happy with the trip.",
+      "explica": "-ing para la cosa (a relaxing drive), -ed para ti (I was exhausted); los extremos no llevan very; el orden tamaño → opinión/origen antes del sustantivo."
+    },
+    {
+      "id": "adjetivos-050",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "USO",
+      "consigna": "Escribe un email corto de feedback a un diseñador sobre una pieza (un video, un post o un logo): qué está bien, qué no, y qué necesitas.",
+      "requisitos": [
+        {
+          "texto": "Usa adjetivo + sustantivo (a short video, the main message, the final version)",
+          "patron": "\\b(a|an|the)\\s+(short|long|clear|confusing|simple|strong|weak|new|final|main|small|big|creative|nice|good|bad|modern|clean|urgent|important|different|same|first)\\s+(video|post|logo|message|headline|version|idea|color|colors|font|image|draft|file|design|copy|problem|point)\\b"
+        },
+        {
+          "texto": "Usa too o a bit antes de un adjetivo (too long, a bit confusing)",
+          "patron": "\\b(too|a bit|a little)\\s+(long|short|dark|bright|small|big|confusing|busy|formal|informal|slow|expensive|loud|serious|simple|complicated|late|early|boring)\\b"
+        },
+        {
+          "texto": "Usa un adjetivo + preposición (happy with, worried about, interested in, available for…)",
+          "patron": "\\b(happy|pleased|satisfied|disappointed)\\s+with\\b|\\bworried\\s+about\\b|\\binterested\\s+in\\b|\\bproud\\s+of\\b|\\bresponsible\\s+for\\b|\\bexcited\\s+about\\b|\\bready\\s+for\\b|\\bavailable\\s+for\\b"
+        },
+        {
+          "texto": "Cierra con una petición: Could you…? / Can you…?",
+          "patron": "\\b(could|can)\\s+you\\b"
+        }
+      ],
+      "minPalabras": 45,
+      "ejemplo": "Hi Andrés, thanks for the first draft of the video. The animation is beautiful and the music is perfect. However, the main message is a bit confusing and the video is too long for Instagram. The client is happy with the colors but worried about the launch date. Could you send a shorter, clearer version by Thursday? I'm available for a quick call tomorrow morning. Thanks!",
+      "explica": "Adjetivo antes del sustantivo (the main message), too / a bit + adjetivo graduable, y la preposición fija de cada adjetivo (happy with, worried about)."
+    }
+  ]
+}

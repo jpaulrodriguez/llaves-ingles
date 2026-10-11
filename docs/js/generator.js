@@ -212,3 +212,14 @@ export const BY_CODE = {
   TPO: () => Math.random() < .5 ? generateContrast(["ps", "pc"]) : generateContrast(["pas", "pac"]),
   BE: () => generate({ tenses: ["ps", "pc"], forms: ["aff"], kinds: ["elegir"] }),
 };
+
+// Los verbos que vas aprendiendo (vocabulario progresivo) también entran al gimnasio.
+const known = new Set(V.map(v => v.b));
+export function addVerbs(words) {
+  for (const w of words) {
+    if (known.has(w.en)) continue;
+    const f = w.formas;
+    V.push({ b: w.en, s: f.s, p: f.pasado, ing: f.ing, c: w.comp.slice(0, 3), irr: !!w.irregular });
+    known.add(w.en);
+  }
+}

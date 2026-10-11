@@ -1,0 +1,318 @@
+{
+  "tema": "emails",
+  "ejercicios": [
+    {
+      "id": "emails-x3-001",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Confirming the meeting",
+      "instruccion": "Completa el email con las piezas fijas: motivo, adjunto, pedido, seguimiento y cierre. No traduzcas del español: usa las fórmulas.",
+      "texto": "Hi Mike, I'm {1} (write) to confirm our meeting on Thursday at 10 a.m. {2} (adjunto) the agenda and the latest version of the proposal. {3} (could / you / review) it before the meeting? I'd also like {4} (you / invite) Sarah, because she knows the budget. I'm also {5} (follow) up on the contract: did your legal team sign it? Let me know if you have any {6} (preguntas). Looking forward to {7} (see) you on Thursday. {8} (cierre formal), Jonathan",
+      "huecos": [
+        {
+          "respuestas": [
+            "writing"
+          ]
+        },
+        {
+          "respuestas": [
+            "Please find attached",
+            "I've attached",
+            "I have attached",
+            "Attached is"
+          ]
+        },
+        {
+          "respuestas": [
+            "Could you review"
+          ]
+        },
+        {
+          "respuestas": [
+            "you to invite"
+          ]
+        },
+        {
+          "respuestas": [
+            "following"
+          ]
+        },
+        {
+          "respuestas": [
+            "questions"
+          ]
+        },
+        {
+          "respuestas": [
+            "seeing"
+          ]
+        },
+        {
+          "respuestas": [
+            "Best regards",
+            "Kind regards",
+            "Best",
+            "Regards"
+          ]
+        }
+      ],
+      "explica": "Un email son piezas: I'm writing to… (motivo, en continuo), Please find attached… (adjunto), Could you + verbo? (pedido), I'd like you to + verbo (no «I want that you»), I'm following up on…, Looking forward to + -ing y Best regards."
+    },
+    {
+      "id": "emails-x3-002",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Moving the call",
+      "instruccion": "Elige la forma correcta. Es un email para mover una llamada; fíjate en las fórmulas fijas.",
+      "texto": "{1} Sarah, Sorry for the {2} reply; this week was crazy. I'm writing {3} our call on Friday. Unfortunately, I have a conflict at 3 p.m. Could we {4} it to Monday? Would 10 a.m. {5} for you? I've also {6} the new version of the deck, with the changes from Tuesday. {7} you have any questions before the call, let me know. Looking forward to {8} from you. Best regards, Jonathan",
+      "huecos": [
+        {
+          "opciones": [
+            "Estimated",
+            "Hi",
+            "Dear Mrs."
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "delay",
+            "later",
+            "late"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "about",
+            "for",
+            "to you about"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "change of",
+            "to move",
+            "move"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "works",
+            "work",
+            "working"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "attached",
+            "attach",
+            "attaching"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "Because",
+            "If",
+            "Although"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "hear",
+            "heard",
+            "hearing"
+          ],
+          "a": 2
+        }
+      ],
+      "explica": "Hi + nombre (Estimated es un calco). Sorry for the late reply. I'm writing about… Could we move it…? Would 10 a.m. work for you? (verbo base tras would). I've attached. Looking forward to hearing: -ing después de to."
+    },
+    {
+      "id": "emails-x3-003",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "ING",
+      "titulo": "Following up",
+      "instruccion": "Completa el email de seguimiento. Recuerda: I'm following / looking forward to + -ing, Could you + verbo base, I'd like you to + verbo.",
+      "texto": "Hi Mike, I'm {1} (follow) up on the proposal I sent last week. I know you have {2} (mucho) work this month, so here is a short summary. We need {3} (unos pocos) days to prepare the production, so we'd like to start on the 15th. {4} (could / you / confirm) the budget by Friday? If you prefer, we can {5} (programar) a 15-minute call. I'd like {6} (you / send) us the logo files too. Thanks for your help, and sorry {7} (por) the delay on our side last month. {8} (look forward / hear) from you. Best, Jonathan",
+      "huecos": [
+        {
+          "respuestas": [
+            "following"
+          ]
+        },
+        {
+          "respuestas": [
+            "a lot of",
+            "lots of"
+          ]
+        },
+        {
+          "respuestas": [
+            "a few"
+          ]
+        },
+        {
+          "respuestas": [
+            "Could you confirm"
+          ]
+        },
+        {
+          "respuestas": [
+            "schedule",
+            "set up",
+            "have"
+          ]
+        },
+        {
+          "respuestas": [
+            "you to send"
+          ]
+        },
+        {
+          "respuestas": [
+            "for"
+          ]
+        },
+        {
+          "respuestas": [
+            "Looking forward to hearing",
+            "I'm looking forward to hearing",
+            "I look forward to hearing"
+          ]
+        }
+      ],
+      "explica": "Seguimiento: I'm following up on… Work es incontable (a lot of work) y days contable (a few days). Pedidos: Could you confirm…?, I'd like you to send… Disculpa: sorry for the delay. Cierre: Looking forward to hearing from you."
+    },
+    {
+      "id": "emails-x3-004",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Feedback from the client",
+      "texto": "Hi Jonathan, Thanks for the proposal. I'm writing to share some feedback from our team. In general, we love the creative idea, especially the videos with real customers. However, the budget is a bit higher than we expected. Could you send us a version with fewer videos and more photos? We'd also like to move the launch from May 3 to May 17, because our new stores open that week. Please find attached the store calendar. Would Tuesday at 4 p.m. work for a quick call? Sorry for the short notice. Looking forward to hearing from you. Kind regards, Sarah",
+      "preguntas": [
+        {
+          "q": "What does Sarah want to change?",
+          "opciones": [
+            "The creative idea",
+            "The budget and the launch date",
+            "The agency"
+          ],
+          "a": 1
+        },
+        {
+          "q": "Why does she want to move the launch?",
+          "opciones": [
+            "The new stores open that week",
+            "The videos are not ready",
+            "She is on vacation"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«Would Tuesday at 4 p.m. work for a quick call?»: ¿qué hace Sarah?",
+          "opciones": [
+            "Propone un horario con cortesía",
+            "Cancela la reunión",
+            "Pide un documento"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«Looking forward to hearing from you»: ¿por qué hearing con -ing?",
+          "opciones": [
+            "Porque después de looking forward to va -ing",
+            "Porque es presente continuo",
+            "Es opcional: también vale to hear"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Un email de cliente nativo usa las mismas piezas que tú debes usar: I'm writing to share…, Could you send us…?, We'd like to…, Please find attached…, Would + hora + work…?, Looking forward to hearing from you."
+    },
+    {
+      "id": "emails-x3-005",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Building emails like Lego",
+      "texto": "When I started writing emails in English, I translated from Spanish. My emails looked like this: 'Estimated Mike: I write you to send you attached the proposal. I want that you review it. Attentively, Jonathan.' Mike was polite, but my boss laughed. She showed me how to write with fixed pieces: 'Hi Mike, I'm writing to share the proposal. Please find it attached. Could you review it by Friday? Let me know if you have any questions. Best regards, Jonathan.' Now I have a list of these pieces on my desk. I don't translate anymore; I build my emails like Lego.",
+      "preguntas": [
+        {
+          "q": "What was the problem with his first emails?",
+          "opciones": [
+            "They were too short",
+            "He translated from Spanish",
+            "He wrote them too late"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What does he have on his desk now?",
+          "opciones": [
+            "A list of fixed pieces",
+            "A dictionary",
+            "A Lego set"
+          ],
+          "a": 0
+        },
+        {
+          "q": "¿Cómo se dice bien «Quiero que lo revises»?",
+          "opciones": [
+            "Could you review it?",
+            "I want that you review it.",
+            "I want you review it."
+          ],
+          "a": 0
+        },
+        {
+          "q": "¿Qué cierre NO se usa en un email en inglés?",
+          "opciones": [
+            "Attentively",
+            "Best regards",
+            "Kind regards"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Estimated, I write you to, I want that you y Attentively son calcos. Sus piezas en inglés: Hi + nombre, I'm writing to…, Please find attached…, Could you…?, Best regards."
+    },
+    {
+      "id": "emails-x3-006",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "USO",
+      "consigna": "Escribe un email a un cliente para enviarle la propuesta de una campaña (adjunta) y proponerle una llamada para revisarla.",
+      "requisitos": [
+        {
+          "texto": "Abre con I'm writing to + verbo",
+          "patron": "\\bi('m| am) writing to \\w+"
+        },
+        {
+          "texto": "Menciona el adjunto (Please find attached / I've attached)",
+          "patron": "\\b(please find attached|i've attached|i have attached|attached is)\\b"
+        },
+        {
+          "texto": "Pide con Could you…? o propone con Would … work for you?",
+          "patron": "\\b(could you\\b[^?]*|would\\b[^?]*\\bwork for you)\\?"
+        },
+        {
+          "texto": "Cierra con Looking forward to + -ing",
+          "patron": "\\blooking forward to \\w+ing\\b"
+        }
+      ],
+      "minPalabras": 50,
+      "ejemplo": "Hi Mike, I'm writing to share our proposal for the summer campaign. Please find attached the deck with the two creative routes and the budget. Could you review it with your team before next week? I'd like to schedule a 30-minute call to answer your questions. Would Tuesday at 10 a.m. work for you? Let me know if you need anything else. Looking forward to hearing from you. Best regards, Jonathan",
+      "explica": "Un email que no suena traducido usa la secuencia fija: I'm writing to… → Please find attached… → Could you…? / Would … work for you? → Looking forward to hearing from you → Best regards. Después de looking forward to, siempre -ing."
+    }
+  ]
+}

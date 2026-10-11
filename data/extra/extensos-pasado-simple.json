@@ -1,0 +1,391 @@
+{
+  "tema": "pasado-simple",
+  "ejercicios": [
+    {
+      "id": "pasado-simple-x3-001",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "IRR",
+      "titulo": "A bad Monday",
+      "instruccion": "Completa con el pasado simple. Casi todos los verbos son irregulares: no llevan -ed.",
+      "texto": "Last Monday was a disaster. I {1} (wake) up late because my phone {2} (die) during the night. I {3} (take) a quick shower, {4} (put) on the first shirt I {5} (find) and {6} (run) to the corner. Of course, there {7} (be) no taxis. I {8} (get) to the office at ten, sweaty and angry, and the meeting was already over. My boss just looked at me and smiled.",
+      "huecos": [
+        {
+          "respuestas": [
+            "woke"
+          ]
+        },
+        {
+          "respuestas": [
+            "died"
+          ]
+        },
+        {
+          "respuestas": [
+            "took"
+          ]
+        },
+        {
+          "respuestas": [
+            "put"
+          ]
+        },
+        {
+          "respuestas": [
+            "found"
+          ]
+        },
+        {
+          "respuestas": [
+            "ran"
+          ]
+        },
+        {
+          "respuestas": [
+            "were"
+          ]
+        },
+        {
+          "respuestas": [
+            "got"
+          ]
+        }
+      ],
+      "explica": "Una secuencia de acciones terminadas → pasado simple. Irregulares: wake → woke, take → took, put → put, find → found, run → ran, get → got. There + plural → there were."
+    },
+    {
+      "id": "pasado-simple-x3-002",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "LL",
+      "titulo": "Monday in the kitchen",
+      "instruccion": "Completa la conversación. En preguntas y negativas aparece did y el verbo vuelve a la base.",
+      "texto": "Monday morning, in the kitchen. Camila: 'Hey! What {1} (you / do) on the weekend?' Me: 'Not much. I {2} (not / go) out on Saturday because I was tired. On Sunday we {3} (visit) my girlfriend's parents in Chía.' Camila: '{4} (you / eat) a lot?' Me: 'Too much! Gloria {5} (cook) for ten people again.' Camila: 'And {6} (you / see) the game?' Me: 'No, I {7} (not / see) it. Who {8} (win)?'",
+      "huecos": [
+        {
+          "respuestas": [
+            "did you do"
+          ]
+        },
+        {
+          "respuestas": [
+            "didn't go",
+            "did not go"
+          ]
+        },
+        {
+          "respuestas": [
+            "visited"
+          ]
+        },
+        {
+          "respuestas": [
+            "Did you eat"
+          ]
+        },
+        {
+          "respuestas": [
+            "cooked"
+          ]
+        },
+        {
+          "respuestas": [
+            "did you see"
+          ]
+        },
+        {
+          "respuestas": [
+            "didn't see",
+            "did not see"
+          ]
+        },
+        {
+          "respuestas": [
+            "won"
+          ]
+        }
+      ],
+      "explica": "Did se lleva la marca de pasado: did you do, didn't go, did you see (nunca did you saw). En la afirmativa did se esconde y deja su marca: visited, cooked. Con who como sujeto no hay did: Who won?"
+    },
+    {
+      "id": "pasado-simple-x3-003",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "DM",
+      "titulo": "The pitch we lost",
+      "instruccion": "Elige la forma correcta. Recuerda: una sola marca de pasado por frase.",
+      "texto": "Last year we {1} for a big account. We {2} three weeks on the idea and we {3} a beautiful film. On the day of the pitch, the client {4} once. They {5} questions about the budget and they {6} our film twice. Two days later, they {7} us with the news: we didn't win. Why {8} we lose? The price. Another agency was cheaper. We still talk about that film.",
+      "huecos": [
+        {
+          "opciones": [
+            "pitched",
+            "did pitch",
+            "pitch"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "spend",
+            "spent",
+            "spended"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "made",
+            "maked",
+            "did make"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "didn't smiled",
+            "didn't smile",
+            "not smiled"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "ask",
+            "asked",
+            "did asked"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "watch",
+            "did watched",
+            "watched"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "call",
+            "did called",
+            "called"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "did",
+            "were",
+            "do"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "La marca de pasado aparece una sola vez: o en el verbo (spent, made, asked) o en did (didn't smile, Why did we lose?). Did + verbo con -ed es doble marca: did watched es un error."
+    },
+    {
+      "id": "pasado-simple-x3-004",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "BE",
+      "titulo": "A shoot in the rain",
+      "instruccion": "Completa con el pasado simple. Ojo: be va con was / were y no usa did.",
+      "texto": "In March I {1} (be) in Cartagena for a shoot. The weather {2} (be) terrible: it {3} (rain) for three days. The actors {4} (not / be) happy, and the director {5} (not / want) to shoot in the rain. On the fourth day the sun {6} (come) out and we {7} (finish) everything in one afternoon. {8} (it / be) stressful? Yes. But the final video looks great. We celebrated with fried fish on the beach that night.",
+      "huecos": [
+        {
+          "respuestas": [
+            "was"
+          ]
+        },
+        {
+          "respuestas": [
+            "was"
+          ]
+        },
+        {
+          "respuestas": [
+            "rained"
+          ]
+        },
+        {
+          "respuestas": [
+            "weren't",
+            "were not"
+          ]
+        },
+        {
+          "respuestas": [
+            "didn't want",
+            "did not want"
+          ]
+        },
+        {
+          "respuestas": [
+            "came"
+          ]
+        },
+        {
+          "respuestas": [
+            "finished"
+          ]
+        },
+        {
+          "respuestas": [
+            "Was it"
+          ]
+        }
+      ],
+      "explica": "Be tiene su propia llave: was/were, wasn't/weren't, Was it…? Los demás verbos usan did: didn't want. Afirmativa: rained, finished (regulares) y came (irregular)."
+    },
+    {
+      "id": "pasado-simple-x3-005",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "IRR",
+      "titulo": "How I met my girlfriend",
+      "texto": "I met my girlfriend five years ago at a friend's birthday party in Chapinero. I almost didn't go because I felt tired after a long week. I arrived late, around eleven, and I didn't know anybody except my friend. Then she came into the kitchen and asked me for a glass of water. We started talking about music and we didn't stop for three hours. I took her phone number, but I didn't call her the next day. I sent her a message two days later. She replied with one word: 'Finally.'",
+      "preguntas": [
+        {
+          "q": "Why did he almost stay home?",
+          "opciones": [
+            "He didn't know the address",
+            "He felt tired",
+            "It was raining"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What did she ask him for?",
+          "opciones": [
+            "His phone number",
+            "A song",
+            "A glass of water"
+          ],
+          "a": 2
+        },
+        {
+          "q": "«I didn't know anybody»: ¿por qué know y no knew?",
+          "opciones": [
+            "Porque didn't ya lleva el pasado y el verbo vuelve a la base",
+            "Porque know es regular",
+            "Porque es presente"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«She replied»: replied es…",
+          "opciones": [
+            "Un participio irregular",
+            "El pasado de reply (y → ied)",
+            "Presente"
+          ],
+          "a": 1
+        }
+      ],
+      "explica": "Una historia terminada se cuenta en pasado simple: met, felt, arrived, came, took, sent. Con didn't el verbo vuelve a la base (didn't know, didn't call). Reply → replied: la y pasa a i."
+    },
+    {
+      "id": "pasado-simple-x3-006",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "LL",
+      "titulo": "My first brief",
+      "texto": "My first job was at a small agency in Medellín. I was twenty-two and I didn't have any experience. On my first day, my boss gave me a brief for a supermarket and said: 'You have until five.' I didn't understand half of the words in the brief, but I didn't ask any questions because I felt embarrassed. I wrote three ideas and presented them at five. My boss read them in silence. Then he said: 'The third one is good. Did you write it alone?' I said yes. It was the first idea I ever sold.",
+      "preguntas": [
+        {
+          "q": "How old was he?",
+          "opciones": [
+            "Twenty-two",
+            "Twenty-five",
+            "Eighteen"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why didn't he ask questions?",
+          "opciones": [
+            "His boss was out",
+            "He understood everything",
+            "He felt embarrassed"
+          ],
+          "a": 2
+        },
+        {
+          "q": "«Did you write it alone?»: ¿por qué write y no wrote?",
+          "opciones": [
+            "Porque es una orden",
+            "Porque did ya lleva la marca de pasado",
+            "Porque write es regular"
+          ],
+          "a": 1
+        },
+        {
+          "q": "¿Cuál es el pasado de give en el texto?",
+          "opciones": [
+            "gave",
+            "gived",
+            "given"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Hechos terminados → pasado simple (gave, said, wrote, read). En la pregunta y la negativa did sale a la luz y el verbo queda en base: Did you write…?, I didn't understand."
+    },
+    {
+      "id": "pasado-simple-x3-007",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "LL",
+      "consigna": "Cuenta qué hiciste el fin de semana pasado: al menos tres acciones en orden, algo que no hiciste y una pregunta para tu interlocutor.",
+      "requisitos": [
+        {
+          "texto": "Usa un verbo irregular en pasado (went, had, saw, slept…)",
+          "patron": "\\b(went|got|saw|took|lost|found|came|left|said|told|ran|fell|felt|made|had|gave|bought|began|forgot|broke|stole|met|thought|wrote|drove|ate|slept|spent|sent|knew|chose|heard|brought|sat|stood|won)\\b"
+        },
+        {
+          "texto": "Ordena con first / then / after that / finally",
+          "patron": "\\b(first|then|after that|later|finally)\\b"
+        },
+        {
+          "texto": "Incluye una negativa con didn't + verbo base",
+          "patron": "\\b(didn't|did not)\\s+(?!\\w+ed\\b)\\w+"
+        },
+        {
+          "texto": "Haz una pregunta con did you…?",
+          "patron": "\\bdid\\s+you\\b[^?]*\\?"
+        }
+      ],
+      "minPalabras": 45,
+      "ejemplo": "Last weekend was quiet. On Saturday I slept until nine, then I went to the gym and after that I had lunch with my girlfriend in Usaquén. In the afternoon we watched a movie at home. On Sunday we drove to Chía and ate at her parents' house. I didn't work at all, and I didn't check my email once. What did you do on the weekend?",
+      "explica": "Narrar el fin de semana es una cadena de pasados simples: slept, went, had, watched, drove, ate. Negativa: didn't + base (didn't work, didn't check). Pregunta: What did you do…?"
+    },
+    {
+      "id": "pasado-simple-x3-008",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "IRR",
+      "consigna": "Cuenta la última presentación importante que hiciste a un cliente: cuándo fue, qué pasó, qué dijo el cliente y cómo terminó.",
+      "requisitos": [
+        {
+          "texto": "Di cuándo fue (yesterday, last week, two weeks ago…)",
+          "patron": "\\b(yesterday|last (week|month|year|monday|tuesday|wednesday|thursday|friday)|ago)\\b"
+        },
+        {
+          "texto": "Cuenta lo que dijo el cliente con said o told",
+          "patron": "\\b(said|told)\\b"
+        },
+        {
+          "texto": "Usa was o were",
+          "patron": "\\b(was|were|wasn't|weren't)\\b"
+        },
+        {
+          "texto": "Usa un verbo irregular en pasado",
+          "patron": "\\b(went|got|saw|took|lost|found|came|left|said|told|ran|fell|felt|made|had|gave|bought|began|forgot|broke|stole|met|thought|wrote|drove|ate|slept|spent|sent|knew|chose|heard|brought|sat|stood|won)\\b"
+        }
+      ],
+      "minPalabras": 50,
+      "ejemplo": "Two weeks ago we presented a new campaign to the bank. The meeting was at their office and there were eight people in the room. Laura showed the storyboard and I explained the media plan. At first the client didn't say anything, and I felt nervous. Then the marketing director smiled and said: 'This is exactly what we needed.' We left the building at noon and celebrated with a big lunch.",
+      "explica": "Hechos terminados con un momento claro (two weeks ago) → pasado simple. Be usa was/were; say → said, feel → felt, leave → left. La negativa con did: didn't say."
+    }
+  ]
+}

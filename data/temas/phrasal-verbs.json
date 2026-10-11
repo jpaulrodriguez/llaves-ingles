@@ -1,0 +1,2624 @@
+{
+  "id": "phrasal-verbs",
+  "titulo": "Phrasal verbs del día a día y del trabajo",
+  "grupo": "Vocabulario",
+  "orden": 335,
+  "nivel": "A2–B1",
+  "resumen": "Los 45 phrasal verbs que más se oyen en casa y en la oficina (get up, turn off, pick up, set up, follow up, figure out, deal with…): qué significan, cuáles se separan, dónde va el pronombre (turn it off) y cómo se conjugan.",
+  "llave": "verbo + partícula = significado nuevo",
+  "teoria": {
+    "paraQue": "Para hablar como se habla de verdad en inglés: la gente no dice «I awakened», dice «I woke up»; no dice «postpone», dice «put off». Un phrasal verb es un verbo + una partícula (up, off, out, on, for, with…) que juntos significan algo nuevo. Son la mitad de las conversaciones del día a día y de la oficina, y la mayoría viene de verbos que ya conoces: get, take, put, look, turn.",
+    "llave": "La llave es: el significado no está en el verbo, está en la pareja. Get = conseguir, pero get up = levantarse y get along with = llevarse bien. Apréndelos como una sola palabra. Y recuerda dos cosas: (1) el que se conjuga es el verbo, nunca la partícula (gets up, got up, getting up); (2) si es separable, el pronombre va en medio: turn it off, pick her up, nunca «turn off it».",
+    "formulas": [
+      {
+        "tipo": "Separable con sustantivo",
+        "formula": "verbo + partícula + objeto  o  verbo + objeto + partícula",
+        "ejemplo": "{{Turn}} off the lights. = {{Turn}} the lights off."
+      },
+      {
+        "tipo": "Separable con pronombre",
+        "formula": "verbo + pronombre + partícula (el pronombre SIEMPRE en medio)",
+        "ejemplo": "{{Turn}} it off. · {{Pick}} me up at 7. · [[Did]] you {{write}} it down?"
+      },
+      {
+        "tipo": "No separable",
+        "formula": "verbo + partícula + objeto (nada en medio, ni pronombre)",
+        "ejemplo": "I[['m]] {{look((ing))}} for my keys. · I {{get}} along with her. · We {{ran}} out of coffee."
+      },
+      {
+        "tipo": "Sin objeto (intransitivo)",
+        "formula": "sujeto + verbo + partícula",
+        "ejemplo": "She {{get((s))}} up at 6. · The client {{show((ed))}} up late. · {{Hold}} on!"
+      },
+      {
+        "tipo": "Conjugación",
+        "formula": "Solo cambia el verbo: -s, pasado, -ing; la partícula no se toca",
+        "ejemplo": "He {{set((s))}} up meetings. · He {{set}} up a meeting. · He[['s]] {{sett((ing))}} up a meeting."
+      },
+      {
+        "tipo": "Negativa y pregunta",
+        "formula": "Misma llave del tiempo (do / does / did / be) + verbo + partícula",
+        "ejemplo": "[[Did]] you {{find}} out the price? · She [[does]]n't {{work}} out on weekends."
+      },
+      {
+        "tipo": "Phrasal verb + -ing",
+        "formula": "give up / put off / look forward to / end up + verbo-ing",
+        "ejemplo": "I[['m]] {{look((ing))}} forward to meet((ing)) you. · He {{gave}} up smok((ing))."
+      }
+    ],
+    "reglas": [
+      "El significado es de la pareja completa: look (mirar) + for = buscar; look + after = cuidar; look + up = buscar un dato. Apréndelos como una palabra nueva, con su traducción.",
+      "Se conjuga el verbo, no la partícula: get up → gets up, got up, getting up. Las irregulares siguen siendo irregulares: woke up, took off, brought up, dealt with.",
+      "Separables: el objeto puede ir detrás o en medio (turn off the TV / turn the TV off). Pero si el objeto es un pronombre (it, them, me, him, her), va obligatoriamente en medio: turn it off, pick them up, call me back.",
+      "No separables: nada se mete en medio, ni siquiera un pronombre: look for it, deal with it, look after them, get along with him.",
+      "Los de tres palabras siempre son no separables: come up with, run out of, get along with, look forward to.",
+      "Los intransitivos no llevan objeto y no se separan: get up, show up, check in, hold on, move on, work out (ejercicio). Muchos de ellos conectan con una preposición: sign up FOR, log in TO, follow up WITH, catch up ON.",
+      "Después de look forward to, give up, put off, end up va un sustantivo o un verbo en -ing, nunca el infinitivo: I'm looking forward to seeing you (no «to see»).",
+      "Nada de reflexivos: en inglés no te «despiertas a ti mismo». I wake up, I get up, I sign up (no «I wake me up»).",
+      "Las preguntas y negativas usan la llave normal del tiempo: Did you turn it off? What time do you get up? She didn't show up.",
+      "La misma pareja puede tener varios sentidos según el contexto: take off (quitarse / despegar), check out (dejar el hotel / mirar), work out (hacer ejercicio / salir bien / resolver), pick up (recoger / contestar)."
+    ],
+    "senales": [
+      "up",
+      "off",
+      "on",
+      "out",
+      "in",
+      "back",
+      "over",
+      "for",
+      "with",
+      "after",
+      "forward to",
+      "out of",
+      "along with",
+      "it off",
+      "me up",
+      "them back"
+    ],
+    "usos": [
+      {
+        "uso": "Tu rutina de la mañana",
+        "contexto": "diario",
+        "ejemplo": "I {{wake}} up at 5:30, {{get}} up at 5:45 and {{put}} on my gym clothes."
+      },
+      {
+        "uso": "Llevar y recoger a alguien",
+        "contexto": "diario",
+        "ejemplo": "I {{drop}} off my daughter at 7 and {{pick}} her up at 3."
+      },
+      {
+        "uso": "Viajar",
+        "contexto": "diario",
+        "ejemplo": "We {{checked}} in at 2 and the plane {{took}} off on time."
+      },
+      {
+        "uso": "Hablar de hábitos y cambios",
+        "contexto": "diario",
+        "ejemplo": "I {{gave}} up sugar and now I {{work}} out four times a week."
+      },
+      {
+        "uso": "Organizar reuniones y seguimiento",
+        "contexto": "trabajo",
+        "ejemplo": "{{Set}} up a call with the client and {{follow}} up with an email."
+      },
+      {
+        "uso": "Resolver problemas con el equipo",
+        "contexto": "trabajo",
+        "ejemplo": "We {{figured}} out the problem and {{sorted}} it out before the launch."
+      },
+      {
+        "uso": "Proponer ideas y presentar",
+        "contexto": "trabajo",
+        "ejemplo": "The team {{came}} up with a new idea, and Laura {{pointed}} out two risks."
+      },
+      {
+        "uso": "Entregar y posponer",
+        "contexto": "trabajo",
+        "ejemplo": "We {{handed}} in the proposal on Friday, but the client {{put}} off the decision."
+      }
+    ],
+    "errores": [
+      {
+        "mal": "Can you turn off it?",
+        "bien": "Can you turn it off?",
+        "porque": "Con pronombre, el separable va con el pronombre en medio: turn it off, pick me up.",
+        "code": "VOC"
+      },
+      {
+        "mal": "I'm looking forward to see you.",
+        "bien": "I'm looking forward to seeing you.",
+        "porque": "Look forward to + -ing. Ese to es una preposición, no el to del infinitivo.",
+        "code": "VOC"
+      },
+      {
+        "mal": "I wake up me at six.",
+        "bien": "I wake up at six.",
+        "porque": "Nada de reflexivos. Wake up y get up ya significan despertarse y levantarse.",
+        "code": "VOC"
+      },
+      {
+        "mal": "She looks the kids after.",
+        "bien": "She looks after the kids.",
+        "porque": "Look after no es separable: nada se mete entre look y after.",
+        "code": "VOC"
+      },
+      {
+        "mal": "We came up an idea with.",
+        "bien": "We came up with an idea.",
+        "porque": "Los phrasal verbs de tres palabras nunca se separan: come up with, run out of, get along with.",
+        "code": "VOC"
+      },
+      {
+        "mal": "He didn't showed up.",
+        "bien": "He didn't show up.",
+        "porque": "Con did ya está la marca de pasado: didn't + show up. La partícula tampoco cambia.",
+        "code": "VOC"
+      },
+      {
+        "mal": "I gave up to smoke.",
+        "bien": "I gave up smoking.",
+        "porque": "Give up, put off y end up van con -ing, no con infinitivo.",
+        "code": "VOC"
+      },
+      {
+        "mal": "She call me back yesterday.",
+        "bien": "She called me back yesterday.",
+        "porque": "Se conjuga el verbo: called. La partícula back no cambia.",
+        "code": "VOC"
+      }
+    ],
+    "contraste": [
+      {
+        "a": "I[['m]] {{look((ing))}} for my glasses.",
+        "b": "I[['m]] {{look((ing))}} up a word.",
+        "nota": "Look for = buscar algo perdido. Look up = buscar un dato en el diccionario o en internet."
+      },
+      {
+        "a": "I {{drop}} off the kids at 7.",
+        "b": "I {{pick}} up the kids at 3.",
+        "nota": "Drop off = dejar en un lugar. Pick up = recoger. Son el ida y vuelta."
+      },
+      {
+        "a": "{{Put}} on your coat.",
+        "b": "{{Take}} off your coat.",
+        "nota": "Put on = ponerse. Take off = quitarse. Separables los dos: put it on, take it off."
+      },
+      {
+        "a": "We {{checked}} in at noon.",
+        "b": "We {{checked}} out at 11 the next day.",
+        "nota": "Check in = llegar y registrarse. Check out = pagar y salir."
+      },
+      {
+        "a": "{{Turn}} the lights off.",
+        "b": "{{Turn}} them off.",
+        "nota": "Con sustantivo puedes elegir la posición; con pronombre, siempre en medio."
+      }
+    ],
+    "frases": [
+      {
+        "en": "Hold on a second.",
+        "es": "Espera un segundo.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Can I call you back in ten minutes?",
+        "es": "¿Te puedo devolver la llamada en diez minutos?",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Let's set up a call for Thursday.",
+        "es": "Organicemos una llamada para el jueves.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'll follow up with the client tomorrow.",
+        "es": "Mañana le hago seguimiento al cliente.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Let's go over the numbers one more time.",
+        "es": "Repasemos los números una vez más.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "We'll figure it out.",
+        "es": "Lo resolveremos.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Let's move on to the next point.",
+        "es": "Pasemos al siguiente punto.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "I'm looking forward to meeting you.",
+        "es": "Tengo ganas de conocerte.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Can you pick me up at 7?",
+        "es": "¿Me puedes recoger a las 7?",
+        "contexto": "diario"
+      },
+      {
+        "en": "We ran out of milk.",
+        "es": "Se nos acabó la leche.",
+        "contexto": "diario"
+      },
+      {
+        "en": "I work out before work.",
+        "es": "Hago ejercicio antes del trabajo.",
+        "contexto": "diario"
+      },
+      {
+        "en": "Don't give up!",
+        "es": "¡No te rindas!",
+        "contexto": "diario"
+      }
+    ],
+    "tip": "Prueba del pronombre: si puedes decir «___ it ___» (turn it off, pick it up, figure it out), es separable y el it va en medio. Si suena mal (look it for, deal it with), es no separable y el it va al final: look for it, deal with it."
+  },
+  "palabras": [
+    {
+      "id": "get-up",
+      "en": "get up",
+      "ipa": "/ɡɛt ʌp/",
+      "es": "levantarse (de la cama)",
+      "clase": "phrasal verb",
+      "orden": 1,
+      "formas": {
+        "s": "gets up",
+        "pasado": "got up",
+        "participio": "gotten up",
+        "ing": "getting up"
+      },
+      "irregular": true,
+      "comp": [
+        "early",
+        "late"
+      ],
+      "ejemplo": "I get up at 5:30 and go to the gym before work.",
+      "hueco": {
+        "frase": "I ___ up at 5:30 and go to the gym before work. (levantarse)",
+        "respuestas": [
+          "get"
+        ]
+      },
+      "nota": "Sin objeto, no se separa. No lleva reflexivo: get up, nunca «get me up»."
+    },
+    {
+      "id": "wake-up",
+      "en": "wake up",
+      "ipa": "/weɪk ʌp/",
+      "es": "despertarse; despertar a alguien",
+      "clase": "phrasal verb",
+      "orden": 2,
+      "formas": {
+        "s": "wakes up",
+        "pasado": "woke up",
+        "participio": "woken up",
+        "ing": "waking up"
+      },
+      "irregular": true,
+      "comp": [
+        "the kids",
+        "early"
+      ],
+      "ejemplo": "My alarm didn't work, so I woke up at 8.",
+      "hueco": {
+        "frase": "My alarm didn't work, so I ___ up at 8. (wake)",
+        "respuestas": [
+          "woke"
+        ]
+      },
+      "nota": "Separable cuando tiene objeto: wake the kids up, wake them up. Sin reflexivo: I wake up."
+    },
+    {
+      "id": "turn-on",
+      "en": "turn on",
+      "ipa": "/tɝn ɑn/",
+      "es": "encender, prender",
+      "clase": "phrasal verb",
+      "orden": 3,
+      "formas": {
+        "s": "turns on",
+        "pasado": "turned on",
+        "participio": "turned on",
+        "ing": "turning on"
+      },
+      "irregular": false,
+      "comp": [
+        "the lights",
+        "the projector",
+        "the TV"
+      ],
+      "ejemplo": "Can you turn on the projector, please?",
+      "hueco": {
+        "frase": "Can you ___ on the projector, please? (encender)",
+        "respuestas": [
+          "turn"
+        ]
+      },
+      "nota": "Separable: turn on the lights = turn the lights on. Con pronombre, siempre en medio: turn it on."
+    },
+    {
+      "id": "turn-off",
+      "en": "turn off",
+      "ipa": "/tɝn ɔf/",
+      "es": "apagar",
+      "clase": "phrasal verb",
+      "orden": 4,
+      "formas": {
+        "s": "turns off",
+        "pasado": "turned off",
+        "participio": "turned off",
+        "ing": "turning off"
+      },
+      "irregular": false,
+      "comp": [
+        "the lights",
+        "my phone",
+        "the computer"
+      ],
+      "ejemplo": "Please turn off your phone during the presentation.",
+      "hueco": {
+        "frase": "Please ___ off your phone during the presentation. (apagar)",
+        "respuestas": [
+          "turn"
+        ]
+      },
+      "nota": "Separable: turn off the TV = turn the TV off = turn it off (nunca «turn off it»)."
+    },
+    {
+      "id": "pick-up",
+      "en": "pick up",
+      "ipa": "/pɪk ʌp/",
+      "es": "recoger (a alguien o algo); contestar el teléfono",
+      "clase": "phrasal verb",
+      "orden": 5,
+      "formas": {
+        "s": "picks up",
+        "pasado": "picked up",
+        "participio": "picked up",
+        "ing": "picking up"
+      },
+      "irregular": false,
+      "comp": [
+        "the kids",
+        "the phone",
+        "a package"
+      ],
+      "ejemplo": "I'll pick you up at the airport at 7.",
+      "hueco": {
+        "frase": "I'll ___ you up at the airport at 7. (recoger)",
+        "respuestas": [
+          "pick"
+        ]
+      },
+      "nota": "Separable: pick up the kids = pick the kids up = pick them up. También pick up the phone (contestar)."
+    },
+    {
+      "id": "put-on",
+      "en": "put on",
+      "ipa": "/pʊt ɑn/",
+      "es": "ponerse (ropa, zapatos, crema)",
+      "clase": "phrasal verb",
+      "orden": 6,
+      "formas": {
+        "s": "puts on",
+        "pasado": "put on",
+        "participio": "put on",
+        "ing": "putting on"
+      },
+      "irregular": true,
+      "comp": [
+        "a jacket",
+        "my shoes",
+        "sunscreen"
+      ],
+      "ejemplo": "It's cold outside. Put on your jacket.",
+      "hueco": {
+        "frase": "It's cold outside. ___ on your jacket. (ponerse)",
+        "respuestas": [
+          "Put",
+          "put"
+        ]
+      },
+      "nota": "Separable: put on your jacket = put your jacket on = put it on. Lo contrario es take off."
+    },
+    {
+      "id": "take-off",
+      "en": "take off",
+      "ipa": "/teɪk ɔf/",
+      "es": "quitarse (ropa); despegar (avión)",
+      "clase": "phrasal verb",
+      "orden": 7,
+      "formas": {
+        "s": "takes off",
+        "pasado": "took off",
+        "participio": "taken off",
+        "ing": "taking off"
+      },
+      "irregular": true,
+      "comp": [
+        "my shoes",
+        "my jacket"
+      ],
+      "ejemplo": "Take off your shoes before you come in. The plane takes off at 6.",
+      "hueco": {
+        "frase": "The plane ___ off at 6, so we need to be at the airport at 4. (take)",
+        "respuestas": [
+          "takes"
+        ]
+      },
+      "nota": "Separable con ropa: take off your coat = take it off. Con aviones no lleva objeto: the plane took off."
+    },
+    {
+      "id": "look-for",
+      "en": "look for",
+      "ipa": "/lʊk fɔr/",
+      "es": "buscar",
+      "clase": "phrasal verb",
+      "orden": 8,
+      "formas": {
+        "s": "looks for",
+        "pasado": "looked for",
+        "participio": "looked for",
+        "ing": "looking for"
+      },
+      "irregular": false,
+      "comp": [
+        "my keys",
+        "a new job",
+        "a parking spot"
+      ],
+      "ejemplo": "I'm looking for my keys. Have you seen them?",
+      "hueco": {
+        "frase": "I'm ___ for my keys. Have you seen them? (buscar)",
+        "respuestas": [
+          "looking"
+        ]
+      },
+      "nota": "No separable: look for my keys, look for them (nunca «look them for»). No es «search» ni «look»: lleva for."
+    },
+    {
+      "id": "look-forward-to",
+      "en": "look forward to",
+      "ipa": "/lʊk ˈfɔrwɚd tu/",
+      "es": "esperar con ganas, tener ganas de",
+      "clase": "phrasal verb",
+      "orden": 9,
+      "formas": {
+        "s": "looks forward to",
+        "pasado": "looked forward to",
+        "participio": "looked forward to",
+        "ing": "looking forward to"
+      },
+      "irregular": false,
+      "comp": [
+        "the weekend",
+        "the trip",
+        "meeting you"
+      ],
+      "ejemplo": "I'm looking forward to the weekend.",
+      "hueco": {
+        "frase": "I'm looking ___ to the weekend. (con ganas)",
+        "respuestas": [
+          "forward"
+        ]
+      },
+      "nota": "No separable. Después va un sustantivo o -ing: looking forward to meeting you (nunca «to meet»). Cierre clásico de email."
+    },
+    {
+      "id": "find-out",
+      "en": "find out",
+      "ipa": "/faɪnd aʊt/",
+      "es": "averiguar, enterarse",
+      "clase": "phrasal verb",
+      "orden": 10,
+      "formas": {
+        "s": "finds out",
+        "pasado": "found out",
+        "participio": "found out",
+        "ing": "finding out"
+      },
+      "irregular": true,
+      "comp": [
+        "the price",
+        "what happened",
+        "the truth"
+      ],
+      "ejemplo": "I found out that the client changed the deadline.",
+      "hueco": {
+        "frase": "I ___ out that the client changed the deadline. (find)",
+        "respuestas": [
+          "found"
+        ]
+      },
+      "nota": "Separable con pronombre (find it out), pero casi siempre va seguido: find out what happened, find out the price."
+    },
+    {
+      "id": "give-up",
+      "en": "give up",
+      "ipa": "/ɡɪv ʌp/",
+      "es": "dejar (un hábito), renunciar, rendirse",
+      "clase": "phrasal verb",
+      "orden": 11,
+      "formas": {
+        "s": "gives up",
+        "pasado": "gave up",
+        "participio": "given up",
+        "ing": "giving up"
+      },
+      "irregular": true,
+      "comp": [
+        "sugar",
+        "smoking",
+        "the idea"
+      ],
+      "ejemplo": "He gave up sugar last month and he feels great.",
+      "hueco": {
+        "frase": "He ___ up sugar last month and he feels great. (give)",
+        "respuestas": [
+          "gave"
+        ]
+      },
+      "nota": "Separable: give up sugar = give it up. Con verbo, -ing: give up smoking. Sin objeto = rendirse: don't give up!"
+    },
+    {
+      "id": "set-up",
+      "en": "set up",
+      "ipa": "/sɛt ʌp/",
+      "es": "montar, organizar, configurar",
+      "clase": "phrasal verb",
+      "orden": 12,
+      "formas": {
+        "s": "sets up",
+        "pasado": "set up",
+        "participio": "set up",
+        "ing": "setting up"
+      },
+      "irregular": true,
+      "comp": [
+        "a meeting",
+        "the projector",
+        "a new account"
+      ],
+      "ejemplo": "Can you set up a meeting with the client for Tuesday?",
+      "hueco": {
+        "frase": "Can you ___ up a meeting with the client for Tuesday? (organizar)",
+        "respuestas": [
+          "set"
+        ]
+      },
+      "nota": "Separable: set up a meeting = set it up. Reuniones, cuentas, equipos, proyectores: set up the account, set up the screen."
+    },
+    {
+      "id": "follow-up",
+      "en": "follow up",
+      "ipa": "/ˈfɑloʊ ʌp/",
+      "es": "hacer seguimiento",
+      "clase": "phrasal verb",
+      "orden": 13,
+      "formas": {
+        "s": "follows up",
+        "pasado": "followed up",
+        "participio": "followed up",
+        "ing": "following up"
+      },
+      "irregular": false,
+      "comp": [
+        "with the client",
+        "on the email"
+      ],
+      "ejemplo": "I'll follow up with the client on Friday.",
+      "hueco": {
+        "frase": "I'll ___ up with the client on Friday. (hacer seguimiento)",
+        "respuestas": [
+          "follow"
+        ]
+      },
+      "nota": "Sin objeto directo: follow up WITH alguien, follow up ON algo. También sustantivo: a follow-up email."
+    },
+    {
+      "id": "catch-up",
+      "en": "catch up",
+      "ipa": "/kætʃ ʌp/",
+      "es": "ponerse al día",
+      "clase": "phrasal verb",
+      "orden": 14,
+      "formas": {
+        "s": "catches up",
+        "pasado": "caught up",
+        "participio": "caught up",
+        "ing": "catching up"
+      },
+      "irregular": true,
+      "comp": [
+        "with a friend",
+        "on emails"
+      ],
+      "ejemplo": "Let's have coffee and catch up. I haven't seen you in months.",
+      "hueco": {
+        "frase": "Let's have coffee and ___ up. I haven't seen you in months. (ponerse al día)",
+        "respuestas": [
+          "catch"
+        ]
+      },
+      "nota": "Sin objeto directo: catch up WITH una persona, catch up ON el trabajo o las noticias (catch up on emails)."
+    },
+    {
+      "id": "call-back",
+      "en": "call back",
+      "ipa": "/kɔl bæk/",
+      "es": "devolver la llamada",
+      "clase": "phrasal verb",
+      "orden": 15,
+      "formas": {
+        "s": "calls back",
+        "pasado": "called back",
+        "participio": "called back",
+        "ing": "calling back"
+      },
+      "irregular": false,
+      "comp": [
+        "the client",
+        "my mom"
+      ],
+      "ejemplo": "She's in a meeting. Can she call you back in an hour?",
+      "hueco": {
+        "frase": "She's in a meeting. Can she ___ you back in an hour? (call)",
+        "respuestas": [
+          "call"
+        ]
+      },
+      "nota": "Separable, y casi siempre con pronombre en medio: call you back, call him back. No es «call again» ni «return the call»."
+    },
+    {
+      "id": "carry-out",
+      "en": "carry out",
+      "ipa": "/ˈkæri aʊt/",
+      "es": "llevar a cabo, realizar",
+      "clase": "phrasal verb",
+      "orden": 16,
+      "formas": {
+        "s": "carries out",
+        "pasado": "carried out",
+        "participio": "carried out",
+        "ing": "carrying out"
+      },
+      "irregular": false,
+      "comp": [
+        "a survey",
+        "the plan",
+        "a test"
+      ],
+      "ejemplo": "We carried out a survey with 500 consumers.",
+      "hueco": {
+        "frase": "We ___ out a survey with 500 consumers. (carry)",
+        "respuestas": [
+          "carried"
+        ]
+      },
+      "nota": "Separable (carry it out), formal. Va con plan, survey, study, research, test, task."
+    },
+    {
+      "id": "figure-out",
+      "en": "figure out",
+      "ipa": "/ˈfɪɡjɚ aʊt/",
+      "es": "resolver, entender cómo funciona algo",
+      "clase": "phrasal verb",
+      "orden": 17,
+      "formas": {
+        "s": "figures out",
+        "pasado": "figured out",
+        "participio": "figured out",
+        "ing": "figuring out"
+      },
+      "irregular": false,
+      "comp": [
+        "the problem",
+        "how it works",
+        "the budget"
+      ],
+      "ejemplo": "I can't figure out how to use this software.",
+      "hueco": {
+        "frase": "I can't ___ out how to use this software. (figure)",
+        "respuestas": [
+          "figure"
+        ]
+      },
+      "nota": "Separable: figure out the problem = figure it out. Muy estadounidense; en inglés británico dicen work out."
+    },
+    {
+      "id": "come-up-with",
+      "en": "come up with",
+      "ipa": "/kʌm ʌp wɪð/",
+      "es": "proponer, idear, ocurrírsele",
+      "clase": "phrasal verb",
+      "orden": 18,
+      "formas": {
+        "s": "comes up with",
+        "pasado": "came up with",
+        "participio": "come up with",
+        "ing": "coming up with"
+      },
+      "irregular": true,
+      "comp": [
+        "an idea",
+        "a solution",
+        "a name"
+      ],
+      "ejemplo": "The team came up with three ideas for the campaign.",
+      "hueco": {
+        "frase": "The team ___ up with three ideas for the campaign. (come)",
+        "respuestas": [
+          "came"
+        ]
+      },
+      "nota": "No separable, tres palabras: come up with an idea (nunca «come up an idea with»). El verbo de los brainstormings."
+    },
+    {
+      "id": "deal-with",
+      "en": "deal with",
+      "ipa": "/dil wɪð/",
+      "es": "lidiar con, manejar, ocuparse de",
+      "clase": "phrasal verb",
+      "orden": 19,
+      "formas": {
+        "s": "deals with",
+        "pasado": "dealt with",
+        "participio": "dealt with",
+        "ing": "dealing with"
+      },
+      "irregular": true,
+      "comp": [
+        "a problem",
+        "the client",
+        "complaints"
+      ],
+      "ejemplo": "Laura deals with difficult clients every day.",
+      "hueco": {
+        "frase": "Laura ___ with difficult clients every day. (deal)",
+        "respuestas": [
+          "deals"
+        ]
+      },
+      "nota": "No separable: deal with a problem, deal with it. Pasado irregular: dealt (se pronuncia /dɛlt/)."
+    },
+    {
+      "id": "go-over",
+      "en": "go over",
+      "ipa": "/ɡoʊ ˈoʊvɚ/",
+      "es": "repasar, revisar",
+      "clase": "phrasal verb",
+      "orden": 20,
+      "formas": {
+        "s": "goes over",
+        "pasado": "went over",
+        "participio": "gone over",
+        "ing": "going over"
+      },
+      "irregular": true,
+      "comp": [
+        "the numbers",
+        "the report",
+        "the plan"
+      ],
+      "ejemplo": "Let's go over the numbers before the presentation.",
+      "hueco": {
+        "frase": "Let's ___ over the numbers before the presentation. (repasar)",
+        "respuestas": [
+          "go"
+        ]
+      },
+      "nota": "No separable: go over the report, go over it. Más informal que review."
+    },
+    {
+      "id": "put-off",
+      "en": "put off",
+      "ipa": "/pʊt ɔf/",
+      "es": "posponer, aplazar",
+      "clase": "phrasal verb",
+      "orden": 21,
+      "formas": {
+        "s": "puts off",
+        "pasado": "put off",
+        "participio": "put off",
+        "ing": "putting off"
+      },
+      "irregular": true,
+      "comp": [
+        "the meeting",
+        "the launch",
+        "the decision"
+      ],
+      "ejemplo": "They put off the launch until November.",
+      "hueco": {
+        "frase": "They ___ off the launch until November. (put)",
+        "respuestas": [
+          "put"
+        ]
+      },
+      "nota": "Separable: put off the meeting = put it off. Con verbo, -ing: put off calling him. Sinónimo informal de postpone."
+    },
+    {
+      "id": "run-out-of",
+      "en": "run out of",
+      "ipa": "/rʌn aʊt əv/",
+      "es": "quedarse sin, acabarse",
+      "clase": "phrasal verb",
+      "orden": 22,
+      "formas": {
+        "s": "runs out of",
+        "pasado": "ran out of",
+        "participio": "run out of",
+        "ing": "running out of"
+      },
+      "irregular": true,
+      "comp": [
+        "time",
+        "coffee",
+        "battery"
+      ],
+      "ejemplo": "We ran out of coffee, so I'm going to the store.",
+      "hueco": {
+        "frase": "We ___ out of coffee, so I'm going to the store. (run)",
+        "respuestas": [
+          "ran"
+        ]
+      },
+      "nota": "No separable, tres palabras: run out of time, run out of money, run out of battery. Sin «of» = agotarse: time is running out."
+    },
+    {
+      "id": "check-in",
+      "en": "check in",
+      "ipa": "/tʃɛk ɪn/",
+      "es": "registrarse (hotel, aeropuerto); reportarse",
+      "clase": "phrasal verb",
+      "orden": 23,
+      "formas": {
+        "s": "checks in",
+        "pasado": "checked in",
+        "participio": "checked in",
+        "ing": "checking in"
+      },
+      "irregular": false,
+      "comp": [
+        "at the hotel",
+        "for the flight",
+        "with the team"
+      ],
+      "ejemplo": "We checked in at the hotel at noon.",
+      "hueco": {
+        "frase": "We ___ in at the hotel at noon. (check)",
+        "respuestas": [
+          "checked"
+        ]
+      },
+      "nota": "Sin objeto directo: check in at the hotel, check in for the flight. En el trabajo, check in with someone = ver cómo va."
+    },
+    {
+      "id": "check-out",
+      "en": "check out",
+      "ipa": "/tʃɛk aʊt/",
+      "es": "dejar el hotel; echar un vistazo",
+      "clase": "phrasal verb",
+      "orden": 24,
+      "formas": {
+        "s": "checks out",
+        "pasado": "checked out",
+        "participio": "checked out",
+        "ing": "checking out"
+      },
+      "irregular": false,
+      "comp": [
+        "the website",
+        "this video",
+        "of the hotel"
+      ],
+      "ejemplo": "Check out this video. It's the competitor's new ad.",
+      "hueco": {
+        "frase": "___ out this video. It's the competitor's new ad. (mirar)",
+        "respuestas": [
+          "Check",
+          "check"
+        ]
+      },
+      "nota": "Sin objeto = dejar el hotel (we checked out at 11). Con objeto, separable = mirar: check out the website, check it out."
+    },
+    {
+      "id": "fill-in",
+      "en": "fill in",
+      "ipa": "/fɪl ɪn/",
+      "es": "rellenar (huecos, datos); poner al día a alguien",
+      "clase": "phrasal verb",
+      "orden": 25,
+      "formas": {
+        "s": "fills in",
+        "pasado": "filled in",
+        "participio": "filled in",
+        "ing": "filling in"
+      },
+      "irregular": false,
+      "comp": [
+        "the blanks",
+        "your name",
+        "the details"
+      ],
+      "ejemplo": "Fill in your name and email at the top.",
+      "hueco": {
+        "frase": "___ in your name and email at the top. (rellenar)",
+        "respuestas": [
+          "Fill",
+          "fill"
+        ]
+      },
+      "nota": "Separable: fill in the blanks, fill them in. Con persona = contarle lo que pasó: fill me in."
+    },
+    {
+      "id": "fill-out",
+      "en": "fill out",
+      "ipa": "/fɪl aʊt/",
+      "es": "llenar (un formulario completo)",
+      "clase": "phrasal verb",
+      "orden": 26,
+      "formas": {
+        "s": "fills out",
+        "pasado": "filled out",
+        "participio": "filled out",
+        "ing": "filling out"
+      },
+      "irregular": false,
+      "comp": [
+        "a form",
+        "the survey",
+        "the application"
+      ],
+      "ejemplo": "You have to fill out a form to get the visa.",
+      "hueco": {
+        "frase": "You have to ___ out a form to get the visa. (llenar)",
+        "respuestas": [
+          "fill"
+        ]
+      },
+      "nota": "Separable: fill out the form = fill it out. En EE. UU. fill out es el formulario completo; fill in son las casillas."
+    },
+    {
+      "id": "hand-in",
+      "en": "hand in",
+      "ipa": "/hænd ɪn/",
+      "es": "entregar (un trabajo, un informe)",
+      "clase": "phrasal verb",
+      "orden": 27,
+      "formas": {
+        "s": "hands in",
+        "pasado": "handed in",
+        "participio": "handed in",
+        "ing": "handing in"
+      },
+      "irregular": false,
+      "comp": [
+        "the report",
+        "the proposal",
+        "my resignation"
+      ],
+      "ejemplo": "We handed in the proposal an hour before the deadline.",
+      "hueco": {
+        "frase": "We ___ in the proposal an hour before the deadline. (hand)",
+        "respuestas": [
+          "handed"
+        ]
+      },
+      "nota": "Separable: hand in the report = hand it in. Entregar a quien manda o evalúa (jefe, profesor, cliente)."
+    },
+    {
+      "id": "show-up",
+      "en": "show up",
+      "ipa": "/ʃoʊ ʌp/",
+      "es": "aparecer, llegar, presentarse",
+      "clase": "phrasal verb",
+      "orden": 28,
+      "formas": {
+        "s": "shows up",
+        "pasado": "showed up",
+        "participio": "shown up",
+        "ing": "showing up"
+      },
+      "irregular": true,
+      "comp": [
+        "late",
+        "on time"
+      ],
+      "ejemplo": "The client showed up 30 minutes late.",
+      "hueco": {
+        "frase": "The client ___ up 30 minutes late. (show)",
+        "respuestas": [
+          "showed"
+        ]
+      },
+      "nota": "Sin objeto, no se separa. Suele llevar late, on time o early. Informal; la versión formal es arrive."
+    },
+    {
+      "id": "work-out",
+      "en": "work out",
+      "ipa": "/wɝk aʊt/",
+      "es": "hacer ejercicio; salir bien; resolver",
+      "clase": "phrasal verb",
+      "orden": 29,
+      "formas": {
+        "s": "works out",
+        "pasado": "worked out",
+        "participio": "worked out",
+        "ing": "working out"
+      },
+      "irregular": false,
+      "comp": [
+        "at the gym",
+        "the details"
+      ],
+      "ejemplo": "I work out three times a week. I hope the plan works out.",
+      "hueco": {
+        "frase": "I ___ out three times a week at the gym. (work)",
+        "respuestas": [
+          "work"
+        ]
+      },
+      "nota": "Tres usos: sin objeto = hacer ejercicio; sin objeto = salir bien (it worked out); con objeto, separable = resolver (work it out)."
+    },
+    {
+      "id": "sort-out",
+      "en": "sort out",
+      "ipa": "/sɔrt aʊt/",
+      "es": "resolver, arreglar, organizar",
+      "clase": "phrasal verb",
+      "orden": 30,
+      "formas": {
+        "s": "sorts out",
+        "pasado": "sorted out",
+        "participio": "sorted out",
+        "ing": "sorting out"
+      },
+      "irregular": false,
+      "comp": [
+        "the problem",
+        "the invoices",
+        "my schedule"
+      ],
+      "ejemplo": "Don't worry, I'll sort out the invoice problem today.",
+      "hueco": {
+        "frase": "Don't worry, I'll ___ out the invoice problem today. (resolver)",
+        "respuestas": [
+          "sort"
+        ]
+      },
+      "nota": "Separable: sort out the problem = sort it out. Resolver algo enredado: papeles, un error, una pelea."
+    },
+    {
+      "id": "back-up",
+      "en": "back up",
+      "ipa": "/bæk ʌp/",
+      "es": "hacer una copia de seguridad; respaldar a alguien",
+      "clase": "phrasal verb",
+      "orden": 31,
+      "formas": {
+        "s": "backs up",
+        "pasado": "backed up",
+        "participio": "backed up",
+        "ing": "backing up"
+      },
+      "irregular": false,
+      "comp": [
+        "my files",
+        "the data",
+        "the team"
+      ],
+      "ejemplo": "Back up your files before you update the computer.",
+      "hueco": {
+        "frase": "___ up your files before you update the computer. (copia de seguridad)",
+        "respuestas": [
+          "Back",
+          "back"
+        ]
+      },
+      "nota": "Separable: back up the files = back them up. Con persona = respaldar: my boss backed me up. Sustantivo: a backup."
+    },
+    {
+      "id": "bring-up",
+      "en": "bring up",
+      "ipa": "/brɪŋ ʌp/",
+      "es": "sacar un tema, mencionar; criar",
+      "clase": "phrasal verb",
+      "orden": 32,
+      "formas": {
+        "s": "brings up",
+        "pasado": "brought up",
+        "participio": "brought up",
+        "ing": "bringing up"
+      },
+      "irregular": true,
+      "comp": [
+        "the budget",
+        "a topic",
+        "the issue"
+      ],
+      "ejemplo": "Mike brought up the budget in the meeting.",
+      "hueco": {
+        "frase": "Mike ___ up the budget in the meeting. (bring)",
+        "respuestas": [
+          "brought"
+        ]
+      },
+      "nota": "Separable: bring up the topic = bring it up. También criar hijos: she brought up three kids."
+    },
+    {
+      "id": "point-out",
+      "en": "point out",
+      "ipa": "/pɔɪnt aʊt/",
+      "es": "señalar, hacer notar",
+      "clase": "phrasal verb",
+      "orden": 33,
+      "formas": {
+        "s": "points out",
+        "pasado": "pointed out",
+        "participio": "pointed out",
+        "ing": "pointing out"
+      },
+      "irregular": false,
+      "comp": [
+        "a mistake",
+        "the risks",
+        "a detail"
+      ],
+      "ejemplo": "Camila pointed out a mistake in the slide.",
+      "hueco": {
+        "frase": "Camila ___ out a mistake in the slide. (point)",
+        "respuestas": [
+          "pointed"
+        ]
+      },
+      "nota": "Separable: point out the error = point it out. Hacer que alguien note algo: point out that…"
+    },
+    {
+      "id": "get-along-with",
+      "en": "get along with",
+      "ipa": "/ɡɛt əˈlɔŋ wɪð/",
+      "es": "llevarse bien con",
+      "clase": "phrasal verb",
+      "orden": 34,
+      "formas": {
+        "s": "gets along with",
+        "pasado": "got along with",
+        "participio": "gotten along with",
+        "ing": "getting along with"
+      },
+      "irregular": true,
+      "comp": [
+        "my coworkers",
+        "my boss",
+        "everyone"
+      ],
+      "ejemplo": "I get along with my coworkers really well.",
+      "hueco": {
+        "frase": "I ___ along with my coworkers really well. (llevarse bien)",
+        "respuestas": [
+          "get"
+        ]
+      },
+      "nota": "No separable, tres palabras: get along with someone. Sin with: we get along (nos llevamos bien)."
+    },
+    {
+      "id": "look-after",
+      "en": "look after",
+      "ipa": "/lʊk ˈæftɚ/",
+      "es": "cuidar",
+      "clase": "phrasal verb",
+      "orden": 35,
+      "formas": {
+        "s": "looks after",
+        "pasado": "looked after",
+        "participio": "looked after",
+        "ing": "looking after"
+      },
+      "irregular": false,
+      "comp": [
+        "the kids",
+        "my dog",
+        "the clients"
+      ],
+      "ejemplo": "Who looks after your dog when you travel?",
+      "hueco": {
+        "frase": "Who ___ after your dog when you travel? (look)",
+        "respuestas": [
+          "looks"
+        ]
+      },
+      "nota": "No separable: look after the kids, look after them. Sinónimo de take care of."
+    },
+    {
+      "id": "log-in",
+      "en": "log in",
+      "ipa": "/lɔɡ ɪn/",
+      "es": "iniciar sesión",
+      "clase": "phrasal verb",
+      "orden": 36,
+      "formas": {
+        "s": "logs in",
+        "pasado": "logged in",
+        "participio": "logged in",
+        "ing": "logging in"
+      },
+      "irregular": false,
+      "comp": [
+        "to my account",
+        "with my password"
+      ],
+      "ejemplo": "I can't log in to my email. The password doesn't work.",
+      "hueco": {
+        "frase": "I can't ___ in to my email. The password doesn't work. (iniciar sesión)",
+        "respuestas": [
+          "log"
+        ]
+      },
+      "nota": "Sin objeto directo: log in TO the account, log in with your password. Lo contrario: log out. Doble g en logged, logging."
+    },
+    {
+      "id": "sign-up",
+      "en": "sign up",
+      "ipa": "/saɪn ʌp/",
+      "es": "inscribirse, registrarse",
+      "clase": "phrasal verb",
+      "orden": 37,
+      "formas": {
+        "s": "signs up",
+        "pasado": "signed up",
+        "participio": "signed up",
+        "ing": "signing up"
+      },
+      "irregular": false,
+      "comp": [
+        "for a class",
+        "for the newsletter",
+        "for the webinar"
+      ],
+      "ejemplo": "I signed up for a Pilates class on Saturdays.",
+      "hueco": {
+        "frase": "I ___ up for a Pilates class on Saturdays. (sign)",
+        "respuestas": [
+          "signed"
+        ]
+      },
+      "nota": "Sin objeto directo: sign up FOR the course, the newsletter, the gym. Con persona, separable: sign me up."
+    },
+    {
+      "id": "drop-off",
+      "en": "drop off",
+      "ipa": "/drɑp ɔf/",
+      "es": "dejar (a alguien o algo en un lugar)",
+      "clase": "phrasal verb",
+      "orden": 38,
+      "formas": {
+        "s": "drops off",
+        "pasado": "dropped off",
+        "participio": "dropped off",
+        "ing": "dropping off"
+      },
+      "irregular": false,
+      "comp": [
+        "the kids",
+        "a package",
+        "the car"
+      ],
+      "ejemplo": "I drop off my daughter at school at 7.",
+      "hueco": {
+        "frase": "I ___ off my daughter at school at 7. (dejar)",
+        "respuestas": [
+          "drop"
+        ]
+      },
+      "nota": "Separable: drop off the kids = drop them off. Lo contrario es pick up. Doble p en dropped, dropping."
+    },
+    {
+      "id": "take-over",
+      "en": "take over",
+      "ipa": "/teɪk ˈoʊvɚ/",
+      "es": "asumir el control, hacerse cargo",
+      "clase": "phrasal verb",
+      "orden": 39,
+      "formas": {
+        "s": "takes over",
+        "pasado": "took over",
+        "participio": "taken over",
+        "ing": "taking over"
+      },
+      "irregular": true,
+      "comp": [
+        "the account",
+        "the project",
+        "the company"
+      ],
+      "ejemplo": "Sarah is taking over the Honda account next month.",
+      "hueco": {
+        "frase": "Sarah is ___ over the Honda account next month. (take)",
+        "respuestas": [
+          "taking"
+        ]
+      },
+      "nota": "Separable: take over the account = take it over. Sin objeto = tomar el mando: a new CEO took over."
+    },
+    {
+      "id": "end-up",
+      "en": "end up",
+      "ipa": "/ɛnd ʌp/",
+      "es": "terminar (acabar en una situación)",
+      "clase": "phrasal verb",
+      "orden": 40,
+      "formas": {
+        "s": "ends up",
+        "pasado": "ended up",
+        "participio": "ended up",
+        "ing": "ending up"
+      },
+      "irregular": false,
+      "comp": [
+        "paying more",
+        "at the office",
+        "in a taxi"
+      ],
+      "ejemplo": "We ended up working until midnight.",
+      "hueco": {
+        "frase": "We ___ up working until midnight. (end)",
+        "respuestas": [
+          "ended"
+        ]
+      },
+      "nota": "Sin objeto, no se separa. Después va -ing o un lugar: end up paying more, end up in Cartagena."
+    },
+    {
+      "id": "hang-up",
+      "en": "hang up",
+      "ipa": "/hæŋ ʌp/",
+      "es": "colgar (el teléfono)",
+      "clase": "phrasal verb",
+      "orden": 41,
+      "formas": {
+        "s": "hangs up",
+        "pasado": "hung up",
+        "participio": "hung up",
+        "ing": "hanging up"
+      },
+      "irregular": true,
+      "comp": [
+        "the phone",
+        "my coat"
+      ],
+      "ejemplo": "Don't hang up! I need to tell you something.",
+      "hueco": {
+        "frase": "Don't ___ up! I need to tell you something. (colgar)",
+        "respuestas": [
+          "hang"
+        ]
+      },
+      "nota": "Sin objeto = colgar: she hung up. Con objeto, separable = colgar ropa: hang up your coat. Pasado hung, no «hanged»."
+    },
+    {
+      "id": "hold-on",
+      "en": "hold on",
+      "ipa": "/hoʊld ɑn/",
+      "es": "esperar (un momento)",
+      "clase": "phrasal verb",
+      "orden": 42,
+      "formas": {
+        "s": "holds on",
+        "pasado": "held on",
+        "participio": "held on",
+        "ing": "holding on"
+      },
+      "irregular": true,
+      "ejemplo": "Hold on, I'll get a pen.",
+      "hueco": {
+        "frase": "___ on, I'll get a pen. (esperar)",
+        "respuestas": [
+          "Hold",
+          "hold"
+        ]
+      },
+      "nota": "Sin objeto, no se separa. Al teléfono y en persona: hold on a second. Sinónimo: hang on."
+    },
+    {
+      "id": "move-on",
+      "en": "move on",
+      "ipa": "/muv ɑn/",
+      "es": "seguir adelante, pasar a lo siguiente",
+      "clase": "phrasal verb",
+      "orden": 43,
+      "formas": {
+        "s": "moves on",
+        "pasado": "moved on",
+        "participio": "moved on",
+        "ing": "moving on"
+      },
+      "irregular": false,
+      "comp": [
+        "to the next point",
+        "to the budget"
+      ],
+      "ejemplo": "Okay, let's move on to the next slide.",
+      "hueco": {
+        "frase": "Okay, let's ___ on to the next slide. (seguir)",
+        "respuestas": [
+          "move"
+        ]
+      },
+      "nota": "Sin objeto directo: move on TO the next point. También emocional: it's time to move on (pasar la página)."
+    },
+    {
+      "id": "write-down",
+      "en": "write down",
+      "ipa": "/raɪt daʊn/",
+      "es": "anotar, apuntar",
+      "clase": "phrasal verb",
+      "orden": 44,
+      "formas": {
+        "s": "writes down",
+        "pasado": "wrote down",
+        "participio": "written down",
+        "ing": "writing down"
+      },
+      "irregular": true,
+      "comp": [
+        "the number",
+        "the address",
+        "the ideas"
+      ],
+      "ejemplo": "Write down the client's number before you forget it.",
+      "hueco": {
+        "frase": "___ down the client's number before you forget it. (anotar)",
+        "respuestas": [
+          "Write",
+          "write"
+        ]
+      },
+      "nota": "Separable: write down the number = write it down. Cualquier dato que apuntas en papel o pantalla."
+    },
+    {
+      "id": "look-up",
+      "en": "look up",
+      "ipa": "/lʊk ʌp/",
+      "es": "buscar (en el diccionario, en internet)",
+      "clase": "phrasal verb",
+      "orden": 45,
+      "formas": {
+        "s": "looks up",
+        "pasado": "looked up",
+        "participio": "looked up",
+        "ing": "looking up"
+      },
+      "irregular": false,
+      "comp": [
+        "the word",
+        "the address",
+        "the price"
+      ],
+      "ejemplo": "I looked up the word on my phone.",
+      "hueco": {
+        "frase": "I ___ up the word on my phone. (look)",
+        "respuestas": [
+          "looked"
+        ]
+      },
+      "nota": "Separable: look up the word = look it up. Buscar un dato puntual; look for es buscar algo perdido."
+    }
+  ],
+  "ejercicios": [
+    {
+      "id": "phrasal-verbs-001",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "It's dark in here. Can you turn ___ the lights?",
+      "opciones": [
+        "on",
+        "off",
+        "up"
+      ],
+      "a": 0,
+      "explica": "Turn on = encender. Turn off = apagar. La partícula cambia el significado por completo."
+    },
+    {
+      "id": "phrasal-verbs-002",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "I usually ___ up at 5:30 and go to the gym.",
+      "opciones": [
+        "get",
+        "take",
+        "put"
+      ],
+      "a": 0,
+      "explica": "Get up = levantarse. Take up y put up existen, pero significan otra cosa."
+    },
+    {
+      "id": "phrasal-verbs-003",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "I can't find my keys. I'm looking ___ them everywhere.",
+      "opciones": [
+        "for",
+        "after",
+        "up"
+      ],
+      "a": 0,
+      "explica": "Look for = buscar algo perdido. Look after = cuidar; look up = buscar un dato."
+    },
+    {
+      "id": "phrasal-verbs-004",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "Please fill ___ this form and sign at the bottom.",
+      "opciones": [
+        "out",
+        "up",
+        "off"
+      ],
+      "a": 0,
+      "explica": "Fill out a form = llenar un formulario completo (fill in también sirve, pero no está en las opciones)."
+    },
+    {
+      "id": "phrasal-verbs-005",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "Sarah is in a meeting now. Can she call you ___ in an hour?",
+      "opciones": [
+        "back",
+        "behind",
+        "return"
+      ],
+      "a": 0,
+      "explica": "Call back = devolver la llamada. «Call you return» es un calco de «devolver»."
+    },
+    {
+      "id": "phrasal-verbs-006",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "We're running ___ of time. Let's move on to the next slide.",
+      "opciones": [
+        "out",
+        "off",
+        "over"
+      ],
+      "a": 0,
+      "explica": "Run out of = quedarse sin (tiempo, café, batería). Tres palabras, siempre juntas."
+    },
+    {
+      "id": "phrasal-verbs-007",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "I'm looking forward ___ the weekend.",
+      "opciones": [
+        "to",
+        "for",
+        "at"
+      ],
+      "a": 0,
+      "explica": "Look forward TO = esperar con ganas. Esa preposición va fija."
+    },
+    {
+      "id": "phrasal-verbs-008",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "Please turn ___ your phone during the presentation. (apagar)",
+      "respuestas": [
+        "off"
+      ],
+      "explica": "Turn off = apagar. Turn on sería encender."
+    },
+    {
+      "id": "phrasal-verbs-009",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "I need to ___ out this form before Friday. (rellenar)",
+      "respuestas": [
+        "fill"
+      ],
+      "explica": "Fill out = llenar un formulario. El verbo es fill; la partícula out no cambia."
+    },
+    {
+      "id": "phrasal-verbs-010",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "My flight leaves at 7, so I have to ___ up at 4. (levantarse)",
+      "respuestas": [
+        "get",
+        "wake"
+      ],
+      "explica": "Get up = levantarse (salir de la cama). Wake up = despertarse. Los dos encajan aquí."
+    },
+    {
+      "id": "phrasal-verbs-011",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "Can you ___ me up at the airport tomorrow? (recoger)",
+      "respuestas": [
+        "pick"
+      ],
+      "explica": "Pick up = recoger a alguien. Separable: el pronombre me va en medio."
+    },
+    {
+      "id": "phrasal-verbs-012",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "VOC",
+      "pares": [
+        [
+          "give up",
+          "dejar, rendirse"
+        ],
+        [
+          "find out",
+          "averiguar"
+        ],
+        [
+          "set up",
+          "montar, organizar"
+        ],
+        [
+          "put off",
+          "posponer"
+        ],
+        [
+          "show up",
+          "aparecer, llegar"
+        ]
+      ],
+      "explica": "El significado está en la pareja: give + up no es «dar arriba», es rendirse o dejar un hábito."
+    },
+    {
+      "id": "phrasal-verbs-013",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "VOC",
+      "pares": [
+        [
+          "look after",
+          "cuidar"
+        ],
+        [
+          "deal with",
+          "lidiar con"
+        ],
+        [
+          "come up with",
+          "proponer, idear"
+        ],
+        [
+          "go over",
+          "repasar"
+        ],
+        [
+          "point out",
+          "señalar"
+        ]
+      ],
+      "explica": "Look después de after es cuidar; después de for es buscar; después de up es consultar. Cada partícula, un verbo nuevo."
+    },
+    {
+      "id": "phrasal-verbs-014",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "VOC",
+      "es": "Ella se levanta a las seis.",
+      "en": "She gets up at six.",
+      "extra": [
+        "get",
+        "ups"
+      ],
+      "explica": "Se conjuga el verbo (gets), nunca la partícula (up no lleva -s)."
+    },
+    {
+      "id": "phrasal-verbs-015",
+      "tipo": "ordenar",
+      "nivel": 1,
+      "code": "VOC",
+      "es": "Apágalo, por favor.",
+      "en": "Turn it off, please.",
+      "extra": [
+        "on",
+        "turns"
+      ],
+      "explica": "Con pronombre, el separable lo lleva en medio: turn it off, no «turn off it»."
+    },
+    {
+      "id": "phrasal-verbs-016",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "VOC",
+      "frase": "I wake up me at 6 every day.",
+      "correcta": false,
+      "correccion": [
+        "I wake up at 6 every day."
+      ],
+      "explica": "Nada de reflexivos: wake up ya significa despertarse. «Me» sobra."
+    },
+    {
+      "id": "phrasal-verbs-017",
+      "tipo": "escuchar",
+      "nivel": 1,
+      "code": "VOC",
+      "texto": "Hold on, I'll call you back in five minutes.",
+      "respuestas": [
+        "Hold on, I'll call you back in five minutes.",
+        "Hold on, I will call you back in five minutes."
+      ],
+      "explica": "Dos phrasal verbs seguidos: hold on (espera) y call you back (te devuelvo la llamada), con el pronombre en medio."
+    },
+    {
+      "id": "phrasal-verbs-018",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "She ___ up at 6 and went to the gym before work. (get)",
+      "respuestas": [
+        "got"
+      ],
+      "explica": "Pasado irregular del verbo: got up. La partícula up no cambia."
+    },
+    {
+      "id": "phrasal-verbs-019",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "Yesterday the client ___ up two hours late for the meeting. (show)",
+      "respuestas": [
+        "showed"
+      ],
+      "explica": "Show up = aparecer, llegar. El pasado se marca en el verbo: showed up."
+    },
+    {
+      "id": "phrasal-verbs-020",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "Have you ___ out why the website is down? (figure)",
+      "respuestas": [
+        "figured"
+      ],
+      "explica": "Figure out = resolver, entender. Con have va el participio: figured out."
+    },
+    {
+      "id": "phrasal-verbs-021",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "Andrés ___ with difficult clients every day. (deal)",
+      "respuestas": [
+        "deals"
+      ],
+      "explica": "Deal with = lidiar con. Tercera persona: deals; with no cambia."
+    },
+    {
+      "id": "phrasal-verbs-022",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "Last week the team ___ up with three ideas for the campaign. (come)",
+      "respuestas": [
+        "came"
+      ],
+      "explica": "Come up with = proponer. Pasado irregular: came up with. Tres palabras, nada en medio."
+    },
+    {
+      "id": "phrasal-verbs-023",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "My phone is ringing in the middle of the meeting. I need to turn ___.",
+      "opciones": [
+        "it off",
+        "off it",
+        "them off"
+      ],
+      "a": 0,
+      "explica": "Pronombre en medio del separable: turn it off. Them no sirve porque phone es singular."
+    },
+    {
+      "id": "phrasal-verbs-024",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "I don't know the price yet, but I'll ___ and let you know.",
+      "opciones": [
+        "find out",
+        "look for",
+        "figure"
+      ],
+      "a": 0,
+      "explica": "Find out = averiguar un dato. Look for necesita objeto (buscar algo), y figure solo no existe: es figure out."
+    },
+    {
+      "id": "phrasal-verbs-025",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "We can't ___ the deadline again. The client has waited enough.",
+      "opciones": [
+        "put off",
+        "put on",
+        "put away"
+      ],
+      "a": 0,
+      "explica": "Put off = posponer. Put on = ponerse ropa; put away = guardar."
+    },
+    {
+      "id": "phrasal-verbs-026",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "VOC",
+      "frase": "Can you turn off it, please?",
+      "correcta": false,
+      "correccion": [
+        "Can you turn it off, please?"
+      ],
+      "explica": "Con pronombre, el separable va partido: turn it off. «Turn off it» es el error número uno."
+    },
+    {
+      "id": "phrasal-verbs-027",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "VOC",
+      "frase": "I'm looking forward to see you next week.",
+      "correcta": false,
+      "correccion": [
+        "I'm looking forward to seeing you next week."
+      ],
+      "explica": "Look forward to + -ing: ese to es preposición, no el to del infinitivo."
+    },
+    {
+      "id": "phrasal-verbs-028",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "VOC",
+      "frase": "She looks after her little brother on weekends.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Correcta: look after = cuidar, no separable, con -s de tercera persona en el verbo."
+    },
+    {
+      "id": "phrasal-verbs-029",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "VOC",
+      "frase": "He gave up smoke last year.",
+      "correcta": false,
+      "correccion": [
+        "He gave up smoking last year."
+      ],
+      "explica": "Give up + -ing: gave up smoking. Nunca el verbo base ni el infinitivo."
+    },
+    {
+      "id": "phrasal-verbs-030",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "VOC",
+      "es": "Mañana te devuelvo la llamada.",
+      "en": "I'll call you back tomorrow.",
+      "extra": [
+        "again",
+        "return"
+      ],
+      "explica": "Call back = devolver la llamada, con el pronombre en medio: call you back. «Call you again» es llamar otra vez, no devolver la llamada."
+    },
+    {
+      "id": "phrasal-verbs-031",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "VOC",
+      "es": "¿Puedes recogerme en la oficina?",
+      "en": "Can you pick me up at the office?",
+      "extra": [
+        "take",
+        "on"
+      ],
+      "explica": "Pick me up: el pronombre va en medio. «Pick up me» suena mal a cualquier nativo."
+    },
+    {
+      "id": "phrasal-verbs-032",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "VOC",
+      "es": "Hicimos seguimiento con el cliente ayer.",
+      "en": "We followed up with the client yesterday.",
+      "extra": [
+        "follow",
+        "to"
+      ],
+      "explica": "Follow up WITH + persona. En pasado se conjuga el verbo: followed up."
+    },
+    {
+      "id": "phrasal-verbs-033",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "VOC",
+      "es": "Tenemos que organizar la reunión para el martes.",
+      "respuestas": [
+        "We have to set up the meeting for Tuesday.",
+        "We need to set up the meeting for Tuesday.",
+        "We must set up the meeting for Tuesday.",
+        "We have to set the meeting up for Tuesday.",
+        "We need to set the meeting up for Tuesday.",
+        "We must set the meeting up for Tuesday.",
+        "We have to set up a meeting for Tuesday.",
+        "We need to set up a meeting for Tuesday.",
+        "We have to set a meeting up for Tuesday.",
+        "We need to set a meeting up for Tuesday."
+      ],
+      "explica": "Set up = organizar, montar. Separable: set up the meeting o set the meeting up."
+    },
+    {
+      "id": "phrasal-verbs-034",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "VOC",
+      "es": "Se me acabó la batería del teléfono.",
+      "respuestas": [
+        "My phone ran out of battery.",
+        "I ran out of battery.",
+        "My phone has run out of battery.",
+        "I've run out of battery.",
+        "My phone's battery ran out.",
+        "The battery on my phone ran out."
+      ],
+      "explica": "Run out of = quedarse sin. Pasado: ran out of battery. Tres palabras, siempre juntas."
+    },
+    {
+      "id": "phrasal-verbs-035",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "VOC",
+      "es": "¿Puedes cuidar a los niños el sábado?",
+      "respuestas": [
+        "Can you look after the kids on Saturday?",
+        "Can you look after the children on Saturday?",
+        "Could you look after the kids on Saturday?",
+        "Could you look after the children on Saturday?",
+        "Can you look after the kids this Saturday?",
+        "Could you look after the children this Saturday?"
+      ],
+      "explica": "Look after = cuidar. No separable: look after the kids, nunca «look the kids after»."
+    },
+    {
+      "id": "phrasal-verbs-036",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "VOC",
+      "frase": "She picks up the kids at 4.",
+      "instruccion": "Pásala a pasado.",
+      "respuestas": [
+        "She picked up the kids at 4.",
+        "She picked the kids up at 4."
+      ],
+      "explica": "Se conjuga el verbo: picked. La partícula up no cambia; el objeto puede ir detrás o en medio."
+    },
+    {
+      "id": "phrasal-verbs-037",
+      "tipo": "escuchar",
+      "nivel": 2,
+      "code": "VOC",
+      "texto": "Let's go over the numbers before we hand in the proposal.",
+      "respuestas": [
+        "Let's go over the numbers before we hand in the proposal.",
+        "Let us go over the numbers before we hand in the proposal."
+      ],
+      "explica": "Go over = repasar; hand in = entregar. Las partículas suenan débiles: afina el oído a over e in."
+    },
+    {
+      "id": "phrasal-verbs-038",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "VOC",
+      "consigna": "Cuenta tu mañana de ayer usando al menos cinco phrasal verbs: a qué hora te despertaste y te levantaste, qué te pusiste, qué encendiste o apagaste, a quién recogiste o dejaste, y qué averiguaste al llegar a la oficina.",
+      "objetivo": "woke up · got up · put on · turned on / off · dropped off / picked up · found out (pasado, pronombre en medio si es separable)",
+      "ejemplo": "Yesterday I woke up at 5:30 and got up ten minutes later. I put on my gym clothes and worked out for an hour. Then I dropped off my daughter at school and turned on the radio in the car. When I got to the office, I found out that the client had moved the meeting, so I set up a call for the afternoon.",
+      "explica": "En pasado solo cambia el verbo (woke, got, put, turned, dropped, found); las partículas no se tocan. Con pronombre: dropped her off, turned it on."
+    },
+    {
+      "id": "phrasal-verbs-039",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "La mañana de Camila",
+      "instruccion": "Completa cada hueco con el phrasal verb en la forma correcta (presente simple). El verbo va entre paréntesis.",
+      "texto": "Camila {1} (wake) up at 5:45 every day, but she doesn't {2} (get) up until 6. She {3} (put) on her running shoes and runs for 30 minutes. After a shower, she {4} (turn) on the news while she has breakfast. At 7:15 she {5} (drop) off her son at school and drives to the agency. When she arrives, she {6} (log) in to her computer and {7} (go) over her emails. If a client calls while she's busy, she always {8} (call) them back before lunch.",
+      "huecos": [
+        {
+          "respuestas": [
+            "wakes"
+          ]
+        },
+        {
+          "respuestas": [
+            "get"
+          ]
+        },
+        {
+          "respuestas": [
+            "puts"
+          ]
+        },
+        {
+          "respuestas": [
+            "turns"
+          ]
+        },
+        {
+          "respuestas": [
+            "drops"
+          ]
+        },
+        {
+          "respuestas": [
+            "logs"
+          ]
+        },
+        {
+          "respuestas": [
+            "goes"
+          ]
+        },
+        {
+          "respuestas": [
+            "calls"
+          ]
+        }
+      ],
+      "explica": "Se conjuga el verbo con -s de tercera persona (wakes, puts, goes); la partícula no cambia. Después de doesn't, el verbo queda en base: get up."
+    },
+    {
+      "id": "phrasal-verbs-040",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "Un día de locos en Brava",
+      "instruccion": "Elige la partícula correcta en cada desplegable.",
+      "texto": "Monday was crazy at Brava. The client showed {1} an hour late and brought {2} a new idea for the campaign. We didn't have time to go {3} the budget, so Mike pointed {4} that we were running {5} of time. Laura came up {6} a quick solution: put {7} the final decision until Thursday and follow {8} with an email. In the end, we sorted everything {9} and ended up having lunch at 3 pm.",
+      "huecos": [
+        {
+          "opciones": [
+            "up",
+            "out",
+            "off"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "up",
+            "on",
+            "in"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "over",
+            "on",
+            "after"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "out",
+            "up",
+            "at"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "out",
+            "off",
+            "away"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "with",
+            "to",
+            "for"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "off",
+            "on",
+            "out"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "up",
+            "on",
+            "in"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "out",
+            "up",
+            "off"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Show up (llegar), bring up (sacar un tema), go over (repasar), point out (señalar), run out of (quedarse sin), come up with (proponer), put off (posponer), follow up with (hacer seguimiento), sort out (resolver)."
+    },
+    {
+      "id": "phrasal-verbs-041",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "Viaje a Medellín",
+      "instruccion": "Completa con el phrasal verb en pasado. El verbo va entre paréntesis.",
+      "texto": "Last Friday Andrés and Laura flew to Medellín for a client meeting. They {1} (get) up at 4 am and Andrés's wife {2} (drop) them off at the airport. They {3} (check) in online, so it was fast. The plane {4} (take) off on time and they {5} (pick) up a rental car when they landed. At the hotel, Laura {6} (find) out that the client had moved the meeting to 3 pm, so they {7} (end) up having lunch in El Poblado first. The meeting {8} (work) out perfectly and the client approved the campaign.",
+      "huecos": [
+        {
+          "respuestas": [
+            "got"
+          ]
+        },
+        {
+          "respuestas": [
+            "dropped"
+          ]
+        },
+        {
+          "respuestas": [
+            "checked"
+          ]
+        },
+        {
+          "respuestas": [
+            "took"
+          ]
+        },
+        {
+          "respuestas": [
+            "picked"
+          ]
+        },
+        {
+          "respuestas": [
+            "found"
+          ]
+        },
+        {
+          "respuestas": [
+            "ended"
+          ]
+        },
+        {
+          "respuestas": [
+            "worked"
+          ]
+        }
+      ],
+      "explica": "El pasado se marca en el verbo: regulares (dropped, checked, picked, ended, worked) e irregulares (got, took, found). Las partículas no cambian."
+    },
+    {
+      "id": "phrasal-verbs-042",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "Email de seguimiento",
+      "instruccion": "Elige el phrasal verb correcto para cada hueco del email.",
+      "texto": "Hi Sarah, thanks for the meeting yesterday. As promised, I'm writing to {1} on the three points you {2}. First, we will {3} the budget with finance and send you a revised version by Friday. Second, I {4} the problem with the video files: we had {5} storage space, but IT {6} this morning. Finally, I would like to {7} a call for next Tuesday to {8} the final timeline. Let me know what time works for you. Best, Andrés",
+      "huecos": [
+        {
+          "opciones": [
+            "follow up",
+            "catch up",
+            "fill up"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "brought up",
+            "brought back",
+            "brought off"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "go over",
+            "go out",
+            "go on"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "figured out",
+            "figured in",
+            "figured up"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "run out of",
+            "run off",
+            "run over"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "sorted it out",
+            "sorted out it",
+            "sorted up"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "set up",
+            "set off",
+            "set in"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "go over",
+            "go after",
+            "get over"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "El email de trabajo vive de phrasal verbs: follow up on (seguimiento), bring up (mencionar), go over (revisar), figure out (entender), run out of (quedarse sin), sort it out (pronombre en medio), set up (organizar)."
+    },
+    {
+      "id": "phrasal-verbs-043",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "Cambios de hábitos",
+      "instruccion": "Completa con el phrasal verb en la forma correcta: presente, pasado o -ing según la frase. El verbo va entre paréntesis.",
+      "texto": "Six months ago Mike {1} (give) up sugar and {2} (sign) up for a gym near his apartment. Now he {3} (work) out four times a week and he {4} (get) along with everybody there. At first he {5} (put) off going for weeks, but a friend {6} (point) out that he always had an excuse. Today he's {7} (look) forward to his first 10K race, and he {8} (write) down every workout in a small notebook.",
+      "huecos": [
+        {
+          "respuestas": [
+            "gave"
+          ]
+        },
+        {
+          "respuestas": [
+            "signed"
+          ]
+        },
+        {
+          "respuestas": [
+            "works"
+          ]
+        },
+        {
+          "respuestas": [
+            "gets"
+          ]
+        },
+        {
+          "respuestas": [
+            "put"
+          ]
+        },
+        {
+          "respuestas": [
+            "pointed"
+          ]
+        },
+        {
+          "respuestas": [
+            "looking"
+          ]
+        },
+        {
+          "respuestas": [
+            "writes"
+          ]
+        }
+      ],
+      "explica": "Lee las señales de tiempo: six months ago → pasado (gave, signed, put, pointed); now / today → presente (works, gets, writes); he's → -ing (looking forward to)."
+    },
+    {
+      "id": "phrasal-verbs-044",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "El lunes de Laura",
+      "texto": "Laura is an account director at Brava, an advertising agency in Bogotá. On Mondays she wakes up at 5:30, works out for forty minutes and gets to the office at 8. The first thing she does is log in to her computer and go over the emails from the weekend. At 9 the team has a status meeting, where everyone brings up the problems of the week and Laura writes them down. Last Monday the client for a new coffee brand showed up without an appointment and asked the team to come up with a new slogan in two days. Laura didn't give up: she set up a brainstorming session for the afternoon, and by Wednesday they handed in five options. The client picked the second one.",
+      "preguntas": [
+        {
+          "q": "What is the first thing Laura does at the office?",
+          "opciones": [
+            "She logs in and goes over her emails",
+            "She works out for forty minutes",
+            "She sets up a brainstorming session"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why did the client show up last Monday?",
+          "opciones": [
+            "To ask for a new slogan in two days",
+            "To pick the second option",
+            "To go over the emails"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What did the team hand in by Wednesday?",
+          "opciones": [
+            "Five slogan options",
+            "A status report",
+            "The weekend emails"
+          ],
+          "a": 0
+        },
+        {
+          "q": "En «Laura writes them down», ¿por qué them va en medio?",
+          "opciones": [
+            "Porque write down es separable y el pronombre va obligatoriamente en medio",
+            "Porque them siempre va antes de la partícula en cualquier phrasal verb",
+            "Porque es un error del texto; debería ser «writes down them»"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Wake up, work out, log in, go over, bring up, write down, show up, come up with, give up, set up, hand in: la rutina de una oficina contada en phrasal verbs. Con pronombre, los separables lo llevan en medio."
+    },
+    {
+      "id": "phrasal-verbs-045",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "Un vuelo con problemas",
+      "texto": "Last month Mike flew from Bogotá to Mexico City for a conference. He got up at 3 am, and his brother dropped him off at the airport at 4. He had checked in online, so he went straight to security. The plane was supposed to take off at 6, but it didn't take off until 8 because of the weather. Mike ran out of battery while he was waiting, and he couldn't look up the hotel address. When he finally landed, he picked up his suitcase, found a taxi and figured out the address with the driver's phone. He checked in at the hotel at 1 pm, took off his shoes and slept for two hours before the first talk. In the end, everything worked out, but he says he will never put off charging his phone again.",
+      "preguntas": [
+        {
+          "q": "Who dropped Mike off at the airport?",
+          "opciones": [
+            "His brother",
+            "A taxi driver",
+            "His wife"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why couldn't Mike look up the hotel address?",
+          "opciones": [
+            "Because his phone ran out of battery",
+            "Because the plane took off late",
+            "Because he didn't check in online"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What does «everything worked out» mean here?",
+          "opciones": [
+            "Everything turned out fine",
+            "Mike did a lot of exercise",
+            "Mike resolved the problem with the plane"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«Take off» aparece dos veces. ¿Con qué significados?",
+          "opciones": [
+            "Despegar (the plane) y quitarse (his shoes)",
+            "Despegar las dos veces",
+            "Quitarse las dos veces"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Un mismo phrasal verb puede tener varios sentidos: take off (despegar / quitarse), check in (aeropuerto / hotel), work out (salir bien). El contexto decide."
+    },
+    {
+      "id": "phrasal-verbs-046",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "La reunión que casi no pasa",
+      "texto": "On Thursday the Brava team had a presentation with a bank, their biggest client. Andrés arrived early to set up the projector, but it didn't turn on. He called IT and they sorted it out in ten minutes. Then Camila found out that the client's marketing director couldn't make it, so a new manager was taking over the account. Nobody knew her. Laura quickly looked her up on LinkedIn and pointed out that she had worked in digital campaigns for years. When the manager showed up, the team dealt with the change calmly: they went over the strategy, brought up two digital ideas and asked for her feedback. She loved it. After the meeting, Andrés followed up with a thank-you email and set up a second call for the following week.",
+      "preguntas": [
+        {
+          "q": "What problem did Andrés have before the meeting?",
+          "opciones": [
+            "The projector didn't turn on",
+            "The client showed up late",
+            "He ran out of time"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why did Laura look up the new manager?",
+          "opciones": [
+            "Because nobody on the team knew her",
+            "Because she was taking over Laura's job",
+            "Because the projector didn't work"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What did Andrés do after the meeting?",
+          "opciones": [
+            "He sent a follow-up email and set up another call",
+            "He dealt with IT again",
+            "He gave up the account"
+          ],
+          "a": 0
+        },
+        {
+          "q": "En «they sorted it out» y «looked her up», ¿qué regla se cumple?",
+          "opciones": [
+            "Son separables, y el pronombre va en medio",
+            "Son no separables, y por eso el pronombre va al final",
+            "Los pronombres van siempre antes del verbo"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Set up, turn on, sort out, find out, take over, look up, point out, show up, deal with, go over, bring up, follow up: una reunión completa en phrasal verbs. Con pronombre, los separables se partan: sorted it out, looked her up."
+    },
+    {
+      "id": "phrasal-verbs-047",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "Sábado en familia",
+      "texto": "Andrés works a lot during the week, so Saturdays are for his family. He doesn't get up early: he wakes up around 8 and makes breakfast. His daughter Valentina signed up for swimming classes in September, so at 10 he drops her off at the pool and goes to the supermarket. Last Saturday they ran out of almost everything, so he filled up two carts. He picks Valentina up at 11:30, and they usually end up eating empanadas on the way home. In the afternoon, he turns off his work phone and looks after the kids while his wife, Camila, goes to yoga. At night they put on a movie. Andrés says it's the only day he doesn't deal with clients or check his email, and he looks forward to it all week.",
+      "preguntas": [
+        {
+          "q": "What does Andrés do while Valentina is at the pool?",
+          "opciones": [
+            "He goes to the supermarket",
+            "He looks after the kids",
+            "He checks his email"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why did he fill up two carts last Saturday?",
+          "opciones": [
+            "Because they had run out of almost everything",
+            "Because Camila was at yoga",
+            "Because Valentina signed up for swimming"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What does Andrés turn off in the afternoon?",
+          "opciones": [
+            "His work phone",
+            "The movie",
+            "The lights"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«He picks Valentina up at 11:30»: ¿es correcto?",
+          "opciones": [
+            "Sí: pick up es separable y el sustantivo puede ir en medio",
+            "No: el sustantivo siempre va después de la partícula",
+            "No: pick up no es separable"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Get up, wake up, sign up for, drop off, run out of, fill up, pick up, end up, turn off, look after, put on, deal with, look forward to. Con sustantivo, el separable admite las dos posiciones: picks up Valentina / picks Valentina up."
+    },
+    {
+      "id": "phrasal-verbs-048",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "VOC",
+      "consigna": "Describe tu rutina de un día normal, desde que te despiertas hasta que llegas a la oficina, usando al menos cinco phrasal verbs (wake up, get up, put on, turn on/off, drop off, pick up, log in, go over…).",
+      "requisitos": [
+        {
+          "texto": "Usa wake up o get up",
+          "patron": "\\b(wake|wakes|get|gets)\\s+up\\b"
+        },
+        {
+          "texto": "Usa put on o take off con ropa",
+          "patron": "\\b(put|puts|take|takes)\\s+(on|off)\\b|\\b(put|puts|take|takes)\\s+\\w+(\\s+\\w+)?\\s+(on|off)\\b"
+        },
+        {
+          "texto": "Usa turn on o turn off",
+          "patron": "\\bturn(s)?\\s+(on|off|it\\s+on|it\\s+off|them\\s+on|them\\s+off|the\\s+\\w+\\s+(on|off))\\b"
+        },
+        {
+          "texto": "Usa drop off, pick up, log in o go over",
+          "patron": "\\b(drop(s)?\\s+(\\w+\\s+)?off|pick(s)?\\s+(\\w+\\s+)?up|log(s)?\\s+in|go(es)?\\s+over)\\b"
+        }
+      ],
+      "minPalabras": 40,
+      "ejemplo": "I wake up at 5:30 and get up ten minutes later. I put on my gym clothes and work out for an hour. Then I take a shower, turn on the news and have breakfast with my wife. At 7:15 I drop off my daughter at school and drive to the office. When I arrive, I log in to my computer and go over my emails before the status meeting.",
+      "explica": "En presente simple con I, el verbo queda en base: wake up, put on, drop off. Las partículas no cambian nunca."
+    },
+    {
+      "id": "phrasal-verbs-049",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "VOC",
+      "consigna": "Cuenta cómo resolvió tu equipo un problema con un cliente la semana pasada, en pasado: qué pasó, qué averiguaron, qué idea propusieron, cómo lo resolvieron y qué seguimiento hicieron.",
+      "requisitos": [
+        {
+          "texto": "Usa find out o figure out en pasado",
+          "patron": "\\b(found|figured)\\s+(\\w+\\s+)?out\\b"
+        },
+        {
+          "texto": "Usa come up with en pasado",
+          "patron": "\\bcame\\s+up\\s+with\\b"
+        },
+        {
+          "texto": "Usa sort out, deal with o work out en pasado",
+          "patron": "\\b(sorted\\s+(\\w+\\s+)?out|dealt\\s+with|worked\\s+(\\w+\\s+)?out)\\b"
+        },
+        {
+          "texto": "Usa follow up o set up en pasado",
+          "patron": "\\b(followed\\s+up|set\\s+up|set\\s+\\w+(\\s+\\w+)?\\s+up)\\b"
+        }
+      ],
+      "minPalabras": 50,
+      "ejemplo": "Last week the client called because the campaign video had the wrong logo. First, we found out that the designer had used an old file. Then Camila came up with a quick solution: she sorted it out with the production team in two hours and we sent a new version the same afternoon. The client was happy. The next day I followed up with an email and set up a short call to go over the final files.",
+      "explica": "En pasado cambia solo el verbo: found out, came up with, sorted it out, followed up, set up (set no cambia). Con pronombre, los separables lo llevan en medio: sorted it out."
+    },
+    {
+      "id": "phrasal-verbs-050",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "VOC",
+      "consigna": "Escribe un email corto a un cliente después de una reunión: agradece, di de qué le vas a hacer seguimiento, organiza una próxima llamada, pide que te devuelva la llamada o te confirme, y cierra diciendo que esperas con ganas la próxima reunión.",
+      "requisitos": [
+        {
+          "texto": "Usa follow up",
+          "patron": "\\bfollow(ing)?\\s+up\\b"
+        },
+        {
+          "texto": "Usa set up (a call / a meeting)",
+          "patron": "\\bset(ting)?\\s+up\\b|\\bset(ting)?\\s+(a|the)\\s+(call|meeting)\\s+up\\b"
+        },
+        {
+          "texto": "Usa call back o get back",
+          "patron": "\\b(call|get)\\s+(me|us|you)\\s+back\\b|\\b(call|get)\\s+back\\b"
+        },
+        {
+          "texto": "Cierra con look forward to + -ing",
+          "patron": "\\blook(ing)?\\s+forward\\s+to\\s+\\w+ing\\b"
+        }
+      ],
+      "minPalabras": 45,
+      "ejemplo": "Hi Sarah, thank you for your time yesterday. I will follow up on the budget questions with our finance team and send you the numbers by Thursday. I would also like to set up a short call for next week to go over the final timeline. Could you call me back or confirm a time that works for you? I'm looking forward to seeing you again soon. Best regards, Andrés",
+      "explica": "El email de seguimiento en inglés se arma con phrasal verbs: follow up on, set up a call, call me back y, de cierre, looking forward to + -ing (nunca «to see»)."
+    }
+  ]
+}

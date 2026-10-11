@@ -476,3 +476,31 @@ select.input { min-height: 46px; font-size: 15px; }
 }
 .ic.inline { display: inline-block; vertical-align: -2px; }
 .hero .display em { color: #b9b4ff; }
+
+/* v2 · palabra nueva, textos, lectura, redacción */
+.word-card { display: grid; gap: 12px; }
+.word-en { font: 400 clamp(44px, 8vw, 64px)/1 var(--serif); letter-spacing: -.01em; }
+.word-es { font-size: 20px; font-weight: 600; color: var(--primary); }
+.wforms { display: grid; grid-template-columns: repeat(auto-fit, minmax(96px, 1fr)); gap: 8px; }
+.wf { display: grid; gap: 2px; padding: 10px 12px; border-radius: 12px; background: var(--surface-2); border: 1px solid var(--line); }
+.wf b { font-size: 17px; font-weight: 600; }
+.long-text { font-size: 18px; line-height: 2.1; }
+.long-text p { line-height: 1.7; }
+.gap {
+  display: inline-block; min-width: 92px; width: 9ch; height: 36px; padding: 0 8px; margin: 0 2px; border-radius: 9px;
+  border: 1.5px solid var(--line-2); background: var(--surface-2); font-size: 16px; vertical-align: baseline;
+  transition: border-color 150ms ease, box-shadow 150ms ease;
+}
+.gap:focus { outline: none; border-color: var(--primary); box-shadow: 0 0 0 3px var(--primary-soft); }
+select.gap { width: auto; }
+.gap[data-res="ok"] { border-color: var(--ok); background: var(--ok-soft); }
+.gap[data-res="bad"] { border-color: var(--bad); background: var(--bad-soft); }
+.gap-fix { color: var(--ok); font-weight: 700; font-size: 15px; margin: 0 4px; }
+.req { display: flex; align-items: center; gap: 8px; font-size: 14.5px; color: var(--muted); }
+.req .ic { color: var(--line-2); transition: color 150ms ease; }
+.req.met { color: var(--ink); }
+.req.met .ic { color: var(--ok); }
+.long-text .row { line-height: 1.3; }
+.player:has(.sheet.open) .stage { padding-bottom: 55vh; }
+[hidden] { display: none !important; }
+.word-card > .row { width: 100%; justify-self: stretch; }

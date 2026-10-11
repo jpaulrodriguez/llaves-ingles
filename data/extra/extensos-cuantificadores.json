@@ -1,0 +1,310 @@
+{
+  "tema": "cuantificadores",
+  "ejercicios": [
+    {
+      "id": "cuantificadores-x3-001",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "CUA",
+      "titulo": "Planning the workshop",
+      "instruccion": "Completa con el cuantificador que traduce la pista: much / many / a lot of / a few / a little / some / any / how much / how many. Pregúntate primero: ¿se puede contar?",
+      "texto": "Laura, a few questions about the workshop on Friday. {1} (cuántas) people are coming? I need to order lunch. We don't have {2} (mucho) space in the room, so the group is small. Is there {3} (algo de) budget for printed materials? I think we need {4} (unos pocos) posters and {5} (un poco de) time for questions at the end. We don't have {6} (ningún) markers in the office, so I'll buy some. And {7} (cuánto) money can we spend on the venue? Last year there were {8} (muchos) problems with the sound, so let's test it the day before.",
+      "huecos": [
+        {
+          "respuestas": [
+            "How many"
+          ]
+        },
+        {
+          "respuestas": [
+            "much"
+          ]
+        },
+        {
+          "respuestas": [
+            "any"
+          ]
+        },
+        {
+          "respuestas": [
+            "a few"
+          ]
+        },
+        {
+          "respuestas": [
+            "a little",
+            "some"
+          ]
+        },
+        {
+          "respuestas": [
+            "any"
+          ]
+        },
+        {
+          "respuestas": [
+            "how much"
+          ]
+        },
+        {
+          "respuestas": [
+            "a lot of",
+            "lots of",
+            "many"
+          ]
+        }
+      ],
+      "explica": "People y posters se cuentan → how many, a few. Space, time y money no → much, a little, how much. Any en negativas y preguntas (Is there any budget? We don't have any markers). En afirmativa, a lot of sirve para todo."
+    },
+    {
+      "id": "cuantificadores-x3-002",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "CUA",
+      "titulo": "Weekly results",
+      "instruccion": "Elige la forma correcta. Es un email interno con los resultados de la semana: contable o incontable decide.",
+      "texto": "Hi team, quick update on the campaign. We got {1} comments on Instagram this week, more than 3,000! Unfortunately, we didn't get {2} sales from the website: only 40. The client has {3} questions about the numbers, so I need {4} information before the call. How {5} people clicked on the link? And how {6} money did we spend on ads in total? We have {7} time before the meeting, about an hour, so please send me the data now. The news {8} good, but we need to explain it well.",
+      "huecos": [
+        {
+          "opciones": [
+            "much",
+            "a lot of",
+            "a little"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "much",
+            "a little",
+            "many"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "a little",
+            "much",
+            "a few"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "some",
+            "many",
+            "a few"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "much",
+            "many",
+            "lot"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "many",
+            "few",
+            "much"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "a few",
+            "a little",
+            "many"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "are",
+            "is",
+            "have"
+          ],
+          "a": 1
+        }
+      ],
+      "explica": "Comments, sales, questions, people → contables (a lot of, many, a few, how many). Information, money, time → incontables (some, how much, a little). News es incontable y va en singular: The news is good."
+    },
+    {
+      "id": "cuantificadores-x3-003",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "CUA",
+      "titulo": "Breakfast for the team",
+      "instruccion": "Elige entre las dos opciones de la pista y escribe la correcta. Some en afirmativa y ofrecimientos; any en negativa y pregunta.",
+      "texto": "It's my turn to buy breakfast for the team. Is there {1} (some / any) milk in the fridge? No, there isn't {2} (some / any). We have {3} (much / a lot of) bread, but we don't have {4} (much / many) eggs: only three. I'll buy {5} (a few / a little) bananas too, because Camila doesn't eat bread. How {6} (much / many) cups of coffee do we need? There are twelve people on the team, so twelve. Would you like {7} (some / any) juice, Andrés? He says no, just coffee. I don't have {8} (much / many) cash, so I'll pay by card.",
+      "huecos": [
+        {
+          "respuestas": [
+            "any"
+          ]
+        },
+        {
+          "respuestas": [
+            "any"
+          ]
+        },
+        {
+          "respuestas": [
+            "a lot of"
+          ]
+        },
+        {
+          "respuestas": [
+            "many"
+          ]
+        },
+        {
+          "respuestas": [
+            "a few"
+          ]
+        },
+        {
+          "respuestas": [
+            "many"
+          ]
+        },
+        {
+          "respuestas": [
+            "some"
+          ]
+        },
+        {
+          "respuestas": [
+            "much"
+          ]
+        }
+      ],
+      "explica": "Any en pregunta y negativa; some en el ofrecimiento (Would you like some juice?). A lot of en afirmativa (much ahí suena raro). Eggs, bananas y cups son contables → many, a few; cash es incontable → much."
+    },
+    {
+      "id": "cuantificadores-x3-004",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "CUA",
+      "titulo": "A busy month",
+      "texto": "October is always a busy month at Brava. We have a lot of work and not much time. This year there are three new clients, and each one wants a lot of meetings. I get about eighty emails a day, and I don't have much time to answer them, so I answer a few in the morning and a few after lunch. Our creative team needs more people, but there isn't much money for new hires. My boss gave me a piece of advice: 'Don't say yes to every request. Ask how much time it needs first.' It was good advice. Now, before a meeting, I ask: how many people need to be there? Usually, fewer than we think.",
+      "preguntas": [
+        {
+          "q": "Why doesn't Jonathan answer all his emails at once?",
+          "opciones": [
+            "He doesn't have much time",
+            "He doesn't get many emails",
+            "His boss answers them"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why can't the team hire more people?",
+          "opciones": [
+            "There aren't many candidates",
+            "There isn't much money",
+            "The clients don't want it"
+          ],
+          "a": 1
+        },
+        {
+          "q": "«a piece of advice»: ¿por qué se dice así?",
+          "opciones": [
+            "Advice es incontable: para contarlo se usa a piece of",
+            "Advice es plural",
+            "Es un error: debería ser an advice"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«how many people need to be there?»: ¿por qué many y no much?",
+          "opciones": [
+            "Porque people es contable y plural",
+            "Porque la frase es afirmativa",
+            "Porque need es un verbo"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Work, time, money y advice son incontables (a lot of work, not much time, a piece of advice). Emails, meetings y people se cuentan (a lot of meetings, a few emails, how many people)."
+    },
+    {
+      "id": "cuantificadores-x3-005",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "CUA",
+      "titulo": "Dinner for eight",
+      "texto": "On Saturday my girlfriend and I had dinner at home with six friends. On Friday night I checked the kitchen: there was some rice, a little cheese and a few tomatoes, but there wasn't any meat and we didn't have much wine. So on Saturday morning we went to the market. 'How much chicken do we need?' I asked. 'For eight people? About two kilos,' she said. 'And how many bottles of wine?' 'Four is enough. Not many of our friends drink.' At the end of the night, there was a lot of food left, but there wasn't any wine. Next time, more wine and less chicken.",
+      "preguntas": [
+        {
+          "q": "What didn't they have on Friday night?",
+          "opciones": [
+            "Rice",
+            "Meat",
+            "Tomatoes"
+          ],
+          "a": 1
+        },
+        {
+          "q": "How many people were at the dinner in total?",
+          "opciones": [
+            "Six",
+            "Eight",
+            "Four"
+          ],
+          "a": 1
+        },
+        {
+          "q": "«How much chicken…?» y «How many bottles…?»: ¿por qué cambia?",
+          "opciones": [
+            "Chicken (carne) es incontable; bottles es contable y plural",
+            "Es lo mismo, se pueden cambiar",
+            "Many es para comida y much para bebida"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«there wasn't any wine»: ¿por qué any y no some?",
+          "opciones": [
+            "Porque la frase es negativa",
+            "Porque wine es plural",
+            "Porque es una pregunta"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Rice, cheese, meat, wine y chicken (como comida) son incontables: a little, much, how much. Tomatoes, bottles y friends se cuentan: a few, many, how many. Some en afirmativa, any en negativa."
+    },
+    {
+      "id": "cuantificadores-x3-006",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "CUA",
+      "consigna": "Estás preparando el presupuesto de un evento para un cliente. Escribe un mensaje a tu equipo pidiendo la información que te falta: cuántas personas, cuánto dinero, qué hay y qué no hay.",
+      "requisitos": [
+        {
+          "texto": "Pregunta con How much…? o How many…?",
+          "patron": "\\bhow (much|many)\\b[^?]*\\?"
+        },
+        {
+          "texto": "Usa much o many en una negativa",
+          "patron": "\\b(don't|doesn't|didn't|isn't|aren't|not)\\b[^.]*\\b(much|many)\\b"
+        },
+        {
+          "texto": "Usa a few o a little",
+          "patron": "\\ba (few|little)\\b"
+        },
+        {
+          "texto": "Usa some o any",
+          "patron": "\\b(some|any)\\b"
+        }
+      ],
+      "minPalabras": 45,
+      "ejemplo": "Hi team, I'm preparing the budget for the client event in November and I need some information. How many people are coming from their side? We don't have much money this year, so we need to be careful. I'd like a few options for the venue and a little time on Thursday to review them together. Do we have any photos from last year's event? Thanks, Jonathan",
+      "explica": "Cada sustantivo decide su cuantificador: people y options se cuentan (how many, a few); money, time e information no (much, a little, some). Much y many suenan naturales en negativa y pregunta; any en preguntas."
+    }
+  ]
+}

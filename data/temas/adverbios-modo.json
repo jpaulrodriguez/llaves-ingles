@@ -1,0 +1,1655 @@
+{
+  "id": "adverbios-modo",
+  "titulo": "Adverbios de modo: cómo se hace",
+  "grupo": "Adverbios y preposiciones",
+  "orden": 175,
+  "nivel": "A2–B1",
+  "resumen": "Cómo haces algo: quickly, carefully, clearly, well. Cómo se forman (-ly, -y → -ily, -le → -ly, -ic → -ically), los irregulares (good → well, fast, hard, late; ojo con hardly y lately), dónde van (después del verbo + objeto) y por qué se dice It looks good y no «It looks well».",
+  "llave": "adjetivo + -ly",
+  "teoria": {
+    "paraQue": "Para decir cómo haces algo: rápido, despacio, con cuidado, bien, mal, en voz baja. Sirve para describir cómo maneja alguien, cómo habla inglés tu hija, cómo salió una presentación o cómo trabaja tu equipo.",
+    "llave": "La llave es adjetivo + -ly: quick → quickly, careful → carefully. El adjetivo describe a una persona o una cosa (a careful driver); el adverbio describe la acción (he drives carefully). Va después del verbo, o después del verbo + objeto: She speaks English well (nunca «speaks well English»). Ojo con los irregulares: good → well, y fast, hard, late y early no cambian. Y con look, sound, feel, taste, seem y be no va adverbio sino adjetivo: It looks good.",
+    "formulas": [
+      {
+        "tipo": "Regular",
+        "formula": "adjetivo + -ly",
+        "ejemplo": "quick → quick((ly)) · careful → careful((ly)) · She {{drive((s))}} careful((ly))."
+      },
+      {
+        "tipo": "-y → -ily",
+        "formula": "consonante + y → i + ly",
+        "ejemplo": "easy → eas((ily)) · happy → happ((ily)) · We {{won}} the pitch eas((ily))."
+      },
+      {
+        "tipo": "-le → -ly",
+        "formula": "quita la e y pon y",
+        "ejemplo": "simple → simpl((y)) · comfortable → comfortabl((y)) · [[Can]] you {{explain}} it simpl((y))?"
+      },
+      {
+        "tipo": "-ic → -ically",
+        "formula": "adjetivo en -ic + ally",
+        "ejemplo": "basic → basic((ally)) · automatic → automatic((ally)) · The app {{save((s))}} your work automatic((ally))."
+      },
+      {
+        "tipo": "Irregulares",
+        "formula": "good → well · fast → fast · hard → hard · late → late · early → early",
+        "ejemplo": "She {{speak((s))}} English well. We {{work((ed))}} hard and {{finish((ed))}} late."
+      },
+      {
+        "tipo": "Posición",
+        "formula": "Sujeto + verbo (+ objeto) + adverbio",
+        "ejemplo": "Laura {{read((s))}} the brief careful((ly)). Mike {{answer((ed))}} calm((ly))."
+      },
+      {
+        "tipo": "Verbos de percepción y estado",
+        "formula": "look / sound / feel / taste / smell / seem / be + adjetivo (sin -ly)",
+        "ejemplo": "The new logo {{look((s))}} good. Your idea {{sound((s))}} great. I {{feel}} tired."
+      },
+      {
+        "tipo": "feel good vs. do well",
+        "formula": "feel + adjetivo (estado) · do / go + well (resultado)",
+        "ejemplo": "I {{feel}} good today. I {{did}} well in the interview. The meeting {{went}} well."
+      }
+    ],
+    "reglas": [
+      "Casi todos se forman con adjetivo + -ly: slow → slowly, careful → carefully, polite → politely, calm → calmly.",
+      "Si el adjetivo termina en consonante + y, la y cambia a i: easy → easily, happy → happily, busy → busily.",
+      "Si termina en -le, cambia la e por y: simple → simply, comfortable → comfortably, terrible → terribly.",
+      "Si termina en -ic, se agrega -ally: basic → basically, automatic → automatically, dramatic → dramatically (excepción: public → publicly).",
+      "Good → well. Es el error más común: She speaks English well, you did well (nunca «speaks English good»).",
+      "Fast, hard, late y early son iguales como adjetivo y como adverbio: a fast car / he drives fast. «Fastly» y «earlily» no existen.",
+      "Hardly no es «duramente»: es «apenas, casi no». I work hard (trabajo duro) ≠ I hardly work (casi no trabajo).",
+      "Lately no es «tarde»: es «últimamente», y va con presente perfecto. I arrived late (llegué tarde) ≠ I've been tired lately (he estado cansado últimamente).",
+      "El adverbio de modo va después del verbo, o después del verbo + objeto. Nunca entre el verbo y el objeto: She speaks English fluently (no «speaks fluently English»).",
+      "Con look, sound, feel, taste, smell, seem y be va adjetivo, no adverbio, porque describes al sujeto y no una acción: It looks good, the soup tastes great, you seem tired.",
+      "I feel good = me siento bien (estado: adjetivo). I did well / it went well = me fue bien, salió bien (resultado de una acción: adverbio).",
+      "Algunos adjetivos ya terminan en -ly y no tienen adverbio: friendly, lovely, lonely. Se dice in a friendly way (no «friendlily»)."
+    ],
+    "senales": [
+      "How…? (How does she drive?)",
+      "-ly",
+      "-ily",
+      "-ically",
+      "well",
+      "fast",
+      "hard",
+      "late",
+      "early",
+      "look / sound / feel + adjetivo"
+    ],
+    "usos": [
+      {
+        "uso": "Cómo hace algo alguien",
+        "contexto": "diario",
+        "ejemplo": "My dad {{drive((s))}} slow((ly)) and careful((ly))."
+      },
+      {
+        "uso": "Cómo hablas un idioma",
+        "contexto": "diario",
+        "ejemplo": "My daughter {{speak((s))}} English fluent((ly)), and I {{speak}} it quite well."
+      },
+      {
+        "uso": "Cómo sabe o se ve algo",
+        "contexto": "diario",
+        "ejemplo": "This ajiaco {{taste((s))}} amazing and the restaurant {{look((s))}} nice."
+      },
+      {
+        "uso": "Feedback sobre una presentación",
+        "contexto": "trabajo",
+        "ejemplo": "You {{present((ed))}} the idea clear((ly)) and {{answer((ed))}} the questions calm((ly))."
+      },
+      {
+        "uso": "Cómo trabaja el equipo",
+        "contexto": "trabajo",
+        "ejemplo": "The team {{work((ed))}} hard and {{deliver((ed))}} the campaign early."
+      },
+      {
+        "uso": "Pedir algo con tacto",
+        "contexto": "trabajo",
+        "ejemplo": "[[Could]] you {{read}} the contract careful((ly)) before you {{sign}} it?"
+      }
+    ],
+    "errores": [
+      {
+        "mal": "She speaks English very good.",
+        "bien": "She speaks English very well.",
+        "porque": "Good es adjetivo; para la acción (hablar) usa well.",
+        "code": "USO"
+      },
+      {
+        "mal": "He drives very careful.",
+        "bien": "He drives very carefully.",
+        "porque": "Para decir cómo maneja hace falta el adverbio con -ly.",
+        "code": "USO"
+      },
+      {
+        "mal": "She speaks fluently English.",
+        "bien": "She speaks English fluently.",
+        "porque": "El adverbio no va entre el verbo y el objeto.",
+        "code": "USO"
+      },
+      {
+        "mal": "The new logo looks greatly.",
+        "bien": "The new logo looks great.",
+        "porque": "Con look, sound, feel y taste va adjetivo.",
+        "code": "USO"
+      },
+      {
+        "mal": "I work hardly every day.",
+        "bien": "I work hard every day.",
+        "porque": "El adverbio de hard es hard. Hardly significa «casi no».",
+        "code": "VOC"
+      },
+      {
+        "mal": "He arrived lately for the meeting.",
+        "bien": "He arrived late for the meeting.",
+        "porque": "Late = tarde. Lately = últimamente.",
+        "code": "VOC"
+      },
+      {
+        "mal": "We won the pitch easyly.",
+        "bien": "We won the pitch easily.",
+        "porque": "Consonante + y → -ily: easy → easily.",
+        "code": "USO"
+      },
+      {
+        "mal": "The app updates automaticly.",
+        "bien": "The app updates automatically.",
+        "porque": "Los adjetivos en -ic hacen -ically.",
+        "code": "USO"
+      }
+    ],
+    "contraste": [
+      {
+        "a": "She[['s]] a careful driver.",
+        "b": "She {{drive((s))}} careful((ly)).",
+        "nota": "El adjetivo describe a la persona; el adverbio describe la acción."
+      },
+      {
+        "a": "I {{work}} hard.",
+        "b": "I hard((ly)) {{work}} on Sundays.",
+        "nota": "hard = duro, con esfuerzo · hardly = casi no."
+      },
+      {
+        "a": "I {{feel}} good.",
+        "b": "I {{did}} well in the interview.",
+        "nota": "Estado (adjetivo) vs. resultado de una acción (adverbio)."
+      },
+      {
+        "a": "The client {{arrive((d))}} late.",
+        "b": "The client [[has]] {{been}} very demanding late((ly)).",
+        "nota": "late = tarde · lately = últimamente (con presente perfecto)."
+      }
+    ],
+    "frases": [
+      {
+        "en": "Speak slowly, please.",
+        "es": "Habla despacio, por favor.",
+        "contexto": "diario"
+      },
+      {
+        "en": "Drive safely!",
+        "es": "¡Maneja con cuidado!",
+        "contexto": "diario"
+      },
+      {
+        "en": "Take it easy.",
+        "es": "Tranquilo, con calma.",
+        "contexto": "diario"
+      },
+      {
+        "en": "I'm doing well, thanks.",
+        "es": "Me va bien, gracias.",
+        "contexto": "diario"
+      },
+      {
+        "en": "Sounds good!",
+        "es": "¡Me parece bien!",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Well done!",
+        "es": "¡Bien hecho!",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Honestly, I'm not sure.",
+        "es": "La verdad, no estoy seguro.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Let me put it simply.",
+        "es": "Déjame decirlo de forma sencilla.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "Please read it carefully before you sign.",
+        "es": "Léelo con cuidado antes de firmar.",
+        "contexto": "trabajo"
+      },
+      {
+        "en": "It went really well.",
+        "es": "Salió muy bien.",
+        "contexto": "trabajo"
+      }
+    ],
+    "tip": "Pregúntale a la frase: ¿describo a alguien o algo (adjetivo: a slow driver, it looks good) o describo cómo se hace la acción (adverbio: he drives slowly)? Y recuerda la pareja de oro: good → well."
+  },
+  "palabras": [
+    {
+      "id": "well",
+      "en": "well",
+      "ipa": "/wɛl/",
+      "es": "bien (el adverbio de good)",
+      "clase": "adverbio",
+      "orden": 1,
+      "ejemplo": "Andrés speaks English really well.",
+      "hueco": {
+        "frase": "Andrés speaks English really ___. (good)",
+        "respuestas": [
+          "well"
+        ]
+      },
+      "nota": "good → well. Good describe cosas (a good idea); well describe acciones (you did well).",
+      "opuesto": "badly"
+    },
+    {
+      "id": "quickly",
+      "en": "quickly",
+      "ipa": "/ˈkwɪkli/",
+      "es": "rápidamente, en poco tiempo",
+      "clase": "adverbio",
+      "orden": 2,
+      "ejemplo": "She answered the client's email quickly.",
+      "hueco": {
+        "frase": "She answered the client's email ___. (quick)",
+        "respuestas": [
+          "quickly"
+        ]
+      },
+      "nota": "quick + -ly. Para velocidad también se dice fast.",
+      "opuesto": "slowly"
+    },
+    {
+      "id": "slowly",
+      "en": "slowly",
+      "ipa": "/ˈsloʊli/",
+      "es": "despacio, lentamente",
+      "clase": "adverbio",
+      "orden": 3,
+      "ejemplo": "Can you speak more slowly, please?",
+      "hueco": {
+        "frase": "Can you speak more ___, please? (slow)",
+        "respuestas": [
+          "slowly"
+        ]
+      },
+      "nota": "Speak more slowly = habla más despacio."
+    },
+    {
+      "id": "carefully",
+      "en": "carefully",
+      "ipa": "/ˈkɛrfəli/",
+      "es": "con cuidado",
+      "clase": "adverbio",
+      "orden": 4,
+      "ejemplo": "Please read the contract carefully.",
+      "hueco": {
+        "frase": "Please read the contract ___. (careful)",
+        "respuestas": [
+          "carefully"
+        ]
+      },
+      "nota": "careful + -ly: con doble l. Lo contrario es carelessly.",
+      "opuesto": "carelessly"
+    },
+    {
+      "id": "fast",
+      "en": "fast",
+      "ipa": "/fæst/",
+      "es": "rápido, a alta velocidad",
+      "clase": "adverbio",
+      "orden": 5,
+      "ejemplo": "My brother drives too fast.",
+      "hueco": {
+        "frase": "My brother drives too ___. (rápido)",
+        "respuestas": [
+          "fast",
+          "quickly"
+        ]
+      },
+      "nota": "Igual que el adjetivo: a fast car, he drives fast. «Fastly» no existe.",
+      "opuesto": "slowly"
+    },
+    {
+      "id": "hard",
+      "en": "hard",
+      "ipa": "/hɑrd/",
+      "es": "duro, con esfuerzo",
+      "clase": "adverbio",
+      "orden": 6,
+      "ejemplo": "The team worked hard on the pitch.",
+      "hueco": {
+        "frase": "The team worked ___ on the pitch. (con esfuerzo)",
+        "respuestas": [
+          "hard"
+        ]
+      },
+      "nota": "Igual que el adjetivo. Ojo: hardly es otra palabra y significa «casi no»."
+    },
+    {
+      "id": "late",
+      "en": "late",
+      "ipa": "/leɪt/",
+      "es": "tarde",
+      "clase": "adverbio",
+      "orden": 7,
+      "ejemplo": "The client arrived late for the meeting.",
+      "hueco": {
+        "frase": "The client arrived ___ for the meeting. (tarde)",
+        "respuestas": [
+          "late"
+        ]
+      },
+      "nota": "Igual que el adjetivo. Lately significa «últimamente», no «tarde».",
+      "opuesto": "early"
+    },
+    {
+      "id": "early",
+      "en": "early",
+      "ipa": "/ˈɜrli/",
+      "es": "temprano",
+      "clase": "adverbio",
+      "orden": 8,
+      "ejemplo": "I got up early to go to the gym.",
+      "hueco": {
+        "frase": "I got up ___ to go to the gym. (temprano)",
+        "respuestas": [
+          "early"
+        ]
+      },
+      "nota": "Adjetivo y adverbio a la vez: an early flight, I left early.",
+      "opuesto": "late"
+    },
+    {
+      "id": "badly",
+      "en": "badly",
+      "ipa": "/ˈbædli/",
+      "es": "mal",
+      "clase": "adverbio",
+      "orden": 9,
+      "ejemplo": "We played badly in the second half.",
+      "hueco": {
+        "frase": "We played ___ in the second half. (bad)",
+        "respuestas": [
+          "badly",
+          "poorly"
+        ]
+      },
+      "nota": "bad + -ly. Con feel o look va bad: I feel bad (me siento mal)."
+    },
+    {
+      "id": "easily",
+      "en": "easily",
+      "ipa": "/ˈizəli/",
+      "es": "fácilmente",
+      "clase": "adverbio",
+      "orden": 10,
+      "ejemplo": "We won the pitch easily.",
+      "hueco": {
+        "frase": "We won the pitch ___. (easy)",
+        "respuestas": [
+          "easily"
+        ]
+      },
+      "nota": "Consonante + y → -ily: easy → easily."
+    },
+    {
+      "id": "clearly",
+      "en": "clearly",
+      "ipa": "/ˈklɪrli/",
+      "es": "claramente, con claridad",
+      "clase": "adverbio",
+      "orden": 11,
+      "ejemplo": "Laura explained the strategy clearly.",
+      "hueco": {
+        "frase": "Laura explained the strategy ___. (clear)",
+        "respuestas": [
+          "clearly"
+        ]
+      },
+      "nota": "En presentaciones: speak clearly, explain it clearly."
+    },
+    {
+      "id": "quietly",
+      "en": "quietly",
+      "ipa": "/ˈkwaɪətli/",
+      "es": "en voz baja, en silencio",
+      "clase": "adverbio",
+      "orden": 12,
+      "ejemplo": "The baby is sleeping, so please talk quietly.",
+      "hueco": {
+        "frase": "The baby is sleeping, so please talk ___. (quiet)",
+        "respuestas": [
+          "quietly"
+        ]
+      },
+      "nota": "No lo confundas con quite (bastante).",
+      "opuesto": "loudly"
+    },
+    {
+      "id": "loudly",
+      "en": "loudly",
+      "ipa": "/ˈlaʊdli/",
+      "es": "en voz alta, duro (volumen)",
+      "clase": "adverbio",
+      "orden": 13,
+      "ejemplo": "My neighbor plays music loudly every Friday.",
+      "hueco": {
+        "frase": "My neighbor plays music ___ every Friday. (loud)",
+        "respuestas": [
+          "loudly",
+          "loud"
+        ]
+      },
+      "nota": "loud + -ly. Al hablar también se oye play music loud.",
+      "opuesto": "quietly"
+    },
+    {
+      "id": "happily",
+      "en": "happily",
+      "ipa": "/ˈhæpəli/",
+      "es": "felizmente, con alegría",
+      "clase": "adverbio",
+      "orden": 14,
+      "ejemplo": "The kids played happily in the park.",
+      "hueco": {
+        "frase": "The kids played ___ in the park. (happy)",
+        "respuestas": [
+          "happily"
+        ]
+      },
+      "nota": "Consonante + y → -ily: happy → happily.",
+      "opuesto": "sadly"
+    },
+    {
+      "id": "politely",
+      "en": "politely",
+      "ipa": "/pəˈlaɪtli/",
+      "es": "con educación, amablemente",
+      "clase": "adverbio",
+      "orden": 15,
+      "ejemplo": "She politely said no to the client.",
+      "hueco": {
+        "frase": "She ___ said no to the client. (polite)",
+        "respuestas": [
+          "politely"
+        ]
+      },
+      "nota": "Puede ir antes del verbo o al final: she politely said no / she said no politely.",
+      "opuesto": "rudely"
+    },
+    {
+      "id": "patiently",
+      "en": "patiently",
+      "ipa": "/ˈpeɪʃəntli/",
+      "es": "con paciencia",
+      "clase": "adverbio",
+      "orden": 16,
+      "ejemplo": "We waited patiently for the client's feedback.",
+      "hueco": {
+        "frase": "We waited ___ for the client's feedback. (patient)",
+        "respuestas": [
+          "patiently"
+        ]
+      },
+      "nota": "patient + -ly.",
+      "opuesto": "impatiently"
+    },
+    {
+      "id": "seriously",
+      "en": "seriously",
+      "ipa": "/ˈsɪriəsli/",
+      "es": "en serio, seriamente",
+      "clase": "adverbio",
+      "orden": 17,
+      "ejemplo": "The client takes deadlines very seriously.",
+      "hueco": {
+        "frase": "The client takes deadlines very ___. (serious)",
+        "respuestas": [
+          "seriously"
+        ]
+      },
+      "nota": "Seriously? = ¿En serio?"
+    },
+    {
+      "id": "suddenly",
+      "en": "suddenly",
+      "ipa": "/ˈsʌdənli/",
+      "es": "de repente",
+      "clase": "adverbio",
+      "orden": 18,
+      "ejemplo": "Suddenly, the lights went out in the meeting room.",
+      "hueco": {
+        "frase": "___, the lights went out in the meeting room. (sudden)",
+        "respuestas": [
+          "suddenly",
+          "all of a sudden"
+        ]
+      },
+      "nota": "En historias suele ir al inicio, con coma."
+    },
+    {
+      "id": "immediately",
+      "en": "immediately",
+      "ipa": "/ɪˈmidiətli/",
+      "es": "de inmediato, enseguida",
+      "clase": "adverbio",
+      "orden": 19,
+      "ejemplo": "The client replied immediately.",
+      "hueco": {
+        "frase": "The client replied ___. (immediate)",
+        "respuestas": [
+          "immediately"
+        ]
+      },
+      "nota": "Un poco más formal que right away."
+    },
+    {
+      "id": "honestly",
+      "en": "honestly",
+      "ipa": "/ˈɑnəstli/",
+      "es": "sinceramente, la verdad",
+      "clase": "adverbio",
+      "orden": 20,
+      "ejemplo": "Honestly, I don't like the new logo.",
+      "hueco": {
+        "frase": "___, I don't like the new logo. (honest)",
+        "respuestas": [
+          "honestly"
+        ]
+      },
+      "nota": "Al inicio de la frase = «la verdad». La h no suena."
+    },
+    {
+      "id": "fluently",
+      "en": "fluently",
+      "ipa": "/ˈfluəntli/",
+      "es": "con fluidez",
+      "clase": "adverbio",
+      "orden": 21,
+      "ejemplo": "My daughter speaks English fluently.",
+      "hueco": {
+        "frase": "My daughter speaks English ___. (fluent)",
+        "respuestas": [
+          "fluently"
+        ]
+      },
+      "nota": "Va después del idioma: speaks English fluently."
+    },
+    {
+      "id": "calmly",
+      "en": "calmly",
+      "ipa": "/ˈkɑmli/",
+      "es": "con calma",
+      "clase": "adverbio",
+      "orden": 22,
+      "ejemplo": "Mike answered the angry client calmly.",
+      "hueco": {
+        "frase": "Mike answered the angry client ___. (calm)",
+        "respuestas": [
+          "calmly"
+        ]
+      },
+      "nota": "La l no suena: /ˈkɑmli/."
+    },
+    {
+      "id": "correctly",
+      "en": "correctly",
+      "ipa": "/kəˈrɛktli/",
+      "es": "correctamente, sin errores",
+      "clase": "adverbio",
+      "orden": 23,
+      "ejemplo": "Did I spell your name correctly?",
+      "hueco": {
+        "frase": "Did I spell your name ___? (correct)",
+        "respuestas": [
+          "correctly"
+        ]
+      },
+      "nota": "correct + -ly.",
+      "opuesto": "incorrectly"
+    },
+    {
+      "id": "properly",
+      "en": "properly",
+      "ipa": "/ˈprɑpərli/",
+      "es": "como se debe, como es debido",
+      "clase": "adverbio",
+      "orden": 24,
+      "ejemplo": "I didn't sleep properly last night.",
+      "hueco": {
+        "frase": "I didn't sleep ___ last night. (proper)",
+        "respuestas": [
+          "properly",
+          "well"
+        ]
+      },
+      "nota": "Muy común: work properly (funcionar bien), eat properly (comer como se debe)."
+    },
+    {
+      "id": "perfectly",
+      "en": "perfectly",
+      "ipa": "/ˈpɜrfəktli/",
+      "es": "perfectamente",
+      "clase": "adverbio",
+      "orden": 25,
+      "ejemplo": "The new laptop works perfectly.",
+      "hueco": {
+        "frase": "The new laptop works ___. (perfect)",
+        "respuestas": [
+          "perfectly"
+        ]
+      },
+      "nota": "perfect + -ly."
+    },
+    {
+      "id": "briefly",
+      "en": "briefly",
+      "ipa": "/ˈbrifli/",
+      "es": "brevemente",
+      "clase": "adverbio",
+      "orden": 26,
+      "ejemplo": "Let me briefly explain the plan.",
+      "hueco": {
+        "frase": "Let me ___ explain the plan. (brief)",
+        "respuestas": [
+          "briefly"
+        ]
+      },
+      "nota": "En reuniones: Let me briefly explain… (puede ir antes del verbo)."
+    },
+    {
+      "id": "directly",
+      "en": "directly",
+      "ipa": "/dəˈrɛktli/",
+      "es": "directamente",
+      "clase": "adverbio",
+      "orden": 27,
+      "ejemplo": "You can send the invoice directly to me.",
+      "hueco": {
+        "frase": "You can send the invoice ___ to me. (direct)",
+        "respuestas": [
+          "directly"
+        ]
+      },
+      "nota": "direct + -ly."
+    },
+    {
+      "id": "lately",
+      "en": "lately",
+      "ipa": "/ˈleɪtli/",
+      "es": "últimamente",
+      "clase": "adverbio",
+      "orden": 28,
+      "ejemplo": "I've been really busy lately.",
+      "hueco": {
+        "frase": "I've been really busy ___. (últimamente)",
+        "respuestas": [
+          "lately",
+          "recently"
+        ]
+      },
+      "nota": "No es «tarde» (late). Va con presente perfecto, al final de la frase."
+    },
+    {
+      "id": "basically",
+      "en": "basically",
+      "ipa": "/ˈbeɪsɪkli/",
+      "es": "básicamente",
+      "clase": "adverbio",
+      "orden": 29,
+      "ejemplo": "Basically, the client wants a cheaper version.",
+      "hueco": {
+        "frase": "___, the client wants a cheaper version. (basic)",
+        "respuestas": [
+          "basically"
+        ]
+      },
+      "nota": "-ic → -ically: basic → basically (no «basicly»)."
+    },
+    {
+      "id": "automatically",
+      "en": "automatically",
+      "ipa": "/ˌɔtəˈmætɪkli/",
+      "es": "automáticamente",
+      "clase": "adverbio",
+      "orden": 30,
+      "ejemplo": "The app saves your work automatically.",
+      "hueco": {
+        "frase": "The app saves your work ___. (automatic)",
+        "respuestas": [
+          "automatically"
+        ]
+      },
+      "nota": "-ic → -ically: automatic → automatically."
+    },
+    {
+      "id": "simply",
+      "en": "simply",
+      "ipa": "/ˈsɪmpli/",
+      "es": "simplemente, de forma sencilla",
+      "clase": "adverbio",
+      "orden": 31,
+      "ejemplo": "Can you explain it simply?",
+      "hueco": {
+        "frase": "Can you explain it ___? (simple)",
+        "respuestas": [
+          "simply"
+        ]
+      },
+      "nota": "-le → -ly: simple → simply (no «simplely»)."
+    },
+    {
+      "id": "comfortably",
+      "en": "comfortably",
+      "ipa": "/ˈkʌmftərbli/",
+      "es": "cómodamente",
+      "clase": "adverbio",
+      "orden": 32,
+      "ejemplo": "Eight people can sit comfortably in this room.",
+      "hueco": {
+        "frase": "Eight people can sit ___ in this room. (comfortable)",
+        "respuestas": [
+          "comfortably"
+        ]
+      },
+      "nota": "-le → -ly: comfortable → comfortably.",
+      "opuesto": "uncomfortably"
+    },
+    {
+      "id": "safely",
+      "en": "safely",
+      "ipa": "/ˈseɪfli/",
+      "es": "con seguridad, sin peligro",
+      "clase": "adverbio",
+      "orden": 33,
+      "ejemplo": "We arrived safely in Medellín.",
+      "hueco": {
+        "frase": "We arrived ___ in Medellín. (safe)",
+        "respuestas": [
+          "safely"
+        ]
+      },
+      "nota": "Drive safely! = ¡Maneja con cuidado! (al hablar también: Drive safe!).",
+      "opuesto": "dangerously"
+    },
+    {
+      "id": "efficiently",
+      "en": "efficiently",
+      "ipa": "/ɪˈfɪʃəntli/",
+      "es": "eficientemente",
+      "clase": "adverbio",
+      "orden": 34,
+      "ejemplo": "Our new team works very efficiently.",
+      "hueco": {
+        "frase": "Our new team works very ___. (efficient)",
+        "respuestas": [
+          "efficiently"
+        ]
+      },
+      "nota": "efficient + -ly.",
+      "opuesto": "inefficiently"
+    },
+    {
+      "id": "creatively",
+      "en": "creatively",
+      "ipa": "/kriˈeɪtɪvli/",
+      "es": "creativamente, con creatividad",
+      "clase": "adverbio",
+      "orden": 35,
+      "ejemplo": "We need to think creatively about this problem.",
+      "hueco": {
+        "frase": "We need to think ___ about this problem. (creative)",
+        "respuestas": [
+          "creatively"
+        ]
+      },
+      "nota": "Think creatively = pensar de forma creativa."
+    }
+  ],
+  "ejercicios": [
+    {
+      "id": "adverbios-modo-001",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Please drive ___. The roads are wet.",
+      "opciones": [
+        "carefully",
+        "careful",
+        "carefuly"
+      ],
+      "a": 0,
+      "explica": "Para decir cómo manejas va el adverbio: careful + -ly = carefully (con doble l)."
+    },
+    {
+      "id": "adverbios-modo-002",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Andrés speaks English very ___.",
+      "opciones": [
+        "well",
+        "good",
+        "goodly"
+      ],
+      "a": 0,
+      "explica": "Good es adjetivo; su adverbio es well. Para la acción (hablar): speaks very well."
+    },
+    {
+      "id": "adverbios-modo-003",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "The new logo looks ___.",
+      "opciones": [
+        "great",
+        "greatly",
+        "nicely"
+      ],
+      "a": 0,
+      "explica": "Con look va adjetivo, porque describes el logo, no una acción: looks great."
+    },
+    {
+      "id": "adverbios-modo-004",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "The meeting started ___ because the client was in traffic.",
+      "opciones": [
+        "late",
+        "lately",
+        "latly"
+      ],
+      "a": 0,
+      "explica": "Late (tarde) es igual como adjetivo y como adverbio. Lately significa «últimamente»."
+    },
+    {
+      "id": "adverbios-modo-005",
+      "tipo": "elegir",
+      "nivel": 1,
+      "code": "VOC",
+      "q": "Sarah works ___. She's always the last one to leave.",
+      "opciones": [
+        "hard",
+        "hardly",
+        "hardy"
+      ],
+      "a": 0,
+      "explica": "Hard (duro, con esfuerzo) no cambia como adverbio. Hardly significa «casi no»."
+    },
+    {
+      "id": "adverbios-modo-006",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Camila answered all the client's questions ___. (calm)",
+      "respuestas": [
+        "calmly"
+      ],
+      "explica": "Regla general: adjetivo + -ly. Calm → calmly."
+    },
+    {
+      "id": "adverbios-modo-007",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "We won the pitch ___. (easy)",
+      "respuestas": [
+        "easily"
+      ],
+      "explica": "Consonante + y → -ily: easy → easily."
+    },
+    {
+      "id": "adverbios-modo-008",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "The report updates ___ every Monday. (automatic)",
+      "respuestas": [
+        "automatically"
+      ],
+      "explica": "Los adjetivos en -ic hacen -ically: automatic → automatically."
+    },
+    {
+      "id": "adverbios-modo-009",
+      "tipo": "escribir",
+      "nivel": 1,
+      "code": "USO",
+      "q": "Can you explain it ___, please? (simple)",
+      "respuestas": [
+        "simply"
+      ],
+      "explica": "Los adjetivos en -le cambian la e por y: simple → simply."
+    },
+    {
+      "id": "adverbios-modo-010",
+      "tipo": "emparejar",
+      "nivel": 1,
+      "code": "VOC",
+      "pares": [
+        [
+          "quickly",
+          "rápidamente"
+        ],
+        [
+          "carefully",
+          "con cuidado"
+        ],
+        [
+          "quietly",
+          "en voz baja"
+        ],
+        [
+          "fluently",
+          "con fluidez"
+        ],
+        [
+          "lately",
+          "últimamente"
+        ],
+        [
+          "hardly",
+          "casi no"
+        ]
+      ],
+      "explica": "Ojo con lately (últimamente) y hardly (casi no): no significan «tarde» ni «duro»."
+    },
+    {
+      "id": "adverbios-modo-011",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "USO",
+      "frase": "He drives very fast.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Fast es igual como adjetivo y como adverbio; «fastly» no existe."
+    },
+    {
+      "id": "adverbios-modo-012",
+      "tipo": "corregir",
+      "nivel": 1,
+      "code": "USO",
+      "frase": "My son plays the guitar very good.",
+      "correcta": false,
+      "correccion": [
+        "My son plays the guitar very well.",
+        "My son plays the guitar really well."
+      ],
+      "explica": "Para la acción (tocar) va el adverbio well, no el adjetivo good."
+    },
+    {
+      "id": "adverbios-modo-013",
+      "tipo": "identificar",
+      "nivel": 1,
+      "code": "USO",
+      "frase": "Laura is a careful designer.",
+      "opciones": [
+        "Adjetivo: describe a Laura",
+        "Adverbio: describe cómo trabaja",
+        "Adverbio de frecuencia"
+      ],
+      "a": 0,
+      "explica": "Careful va antes de un sustantivo (designer): es adjetivo. Para la acción sería she designs carefully."
+    },
+    {
+      "id": "adverbios-modo-014",
+      "tipo": "escuchar",
+      "nivel": 1,
+      "code": "USO",
+      "texto": "She explained the idea clearly.",
+      "respuestas": [
+        "She explained the idea clearly."
+      ],
+      "explica": "Clear + -ly = clearly, después del verbo + objeto."
+    },
+    {
+      "id": "adverbios-modo-015",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Your idea sounds ___. Let's present it on Monday.",
+      "opciones": [
+        "good",
+        "well",
+        "goodly"
+      ],
+      "a": 0,
+      "explica": "Con sound va adjetivo: describes la idea, no una acción. Sounds good."
+    },
+    {
+      "id": "adverbios-modo-016",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "My daughter ___.",
+      "opciones": [
+        "speaks English fluently",
+        "speaks fluently English",
+        "speaks English fluent"
+      ],
+      "a": 0,
+      "explica": "El adverbio va después del verbo + objeto (speaks English fluently), nunca entre los dos, y lleva -ly."
+    },
+    {
+      "id": "adverbios-modo-017",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "I've been really tired ___. I think I need a vacation.",
+      "opciones": [
+        "lately",
+        "late",
+        "later"
+      ],
+      "a": 0,
+      "explica": "Lately = últimamente, con presente perfecto. Late es «tarde» y later «más tarde»."
+    },
+    {
+      "id": "adverbios-modo-018",
+      "tipo": "elegir",
+      "nivel": 2,
+      "code": "VOC",
+      "q": "The call was so noisy that I could ___ hear the client.",
+      "opciones": [
+        "hardly",
+        "hard",
+        "hardy"
+      ],
+      "a": 0,
+      "explica": "Hardly = apenas, casi no. Hard es «duro, con esfuerzo» y no encaja aquí."
+    },
+    {
+      "id": "adverbios-modo-019",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "The client paid ___: two months after the deadline! (late)",
+      "respuestas": [
+        "late"
+      ],
+      "explica": "Late no cambia: es igual como adjetivo y como adverbio. Lately es otra palabra (últimamente)."
+    },
+    {
+      "id": "adverbios-modo-020",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Mike checked the numbers ___ and found three mistakes. (careful)",
+      "respuestas": [
+        "carefully"
+      ],
+      "explica": "Para describir cómo revisó: careful + -ly = carefully, después del verbo + objeto."
+    },
+    {
+      "id": "adverbios-modo-021",
+      "tipo": "escribir",
+      "nivel": 2,
+      "code": "USO",
+      "q": "Your English is very good. You speak English very ___. (good)",
+      "respuestas": [
+        "well"
+      ],
+      "explica": "Good es el adjetivo (your English is good); well es el adverbio (you speak it well)."
+    },
+    {
+      "id": "adverbios-modo-022",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "USO",
+      "es": "Ella habla inglés con fluidez.",
+      "en": "She speaks English fluently.",
+      "extra": [
+        "fluent",
+        "good"
+      ],
+      "explica": "Verbo + objeto + adverbio con -ly: speaks English fluently."
+    },
+    {
+      "id": "adverbios-modo-023",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "USO",
+      "es": "Leímos el brief con cuidado.",
+      "en": "We read the brief carefully.",
+      "extra": [
+        "careful",
+        "carefuly"
+      ],
+      "explica": "Careful + -ly = carefully, después del objeto (the brief)."
+    },
+    {
+      "id": "adverbios-modo-024",
+      "tipo": "ordenar",
+      "nivel": 2,
+      "code": "USO",
+      "es": "Tu propuesta suena muy bien.",
+      "en": "Your proposal sounds really good.",
+      "extra": [
+        "well",
+        "greatly"
+      ],
+      "explica": "Con sound va adjetivo: sounds good, no sounds well."
+    },
+    {
+      "id": "adverbios-modo-025",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "She speaks very well English.",
+      "correcta": false,
+      "correccion": [
+        "She speaks English very well."
+      ],
+      "explica": "El adverbio no se mete entre el verbo y el objeto: speaks English very well."
+    },
+    {
+      "id": "adverbios-modo-026",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "This coffee tastes amazing.",
+      "correcta": true,
+      "correccion": [],
+      "explica": "Con taste va adjetivo (amazing), porque describe el café, no una acción."
+    },
+    {
+      "id": "adverbios-modo-027",
+      "tipo": "corregir",
+      "nivel": 2,
+      "code": "VOC",
+      "frase": "I work hardly every day, even on weekends.",
+      "correcta": false,
+      "correccion": [
+        "I work hard every day, even on weekends."
+      ],
+      "explica": "El adverbio de hard es hard. Hardly significa «casi no», lo contrario de lo que quieres decir."
+    },
+    {
+      "id": "adverbios-modo-028",
+      "tipo": "transformar",
+      "nivel": 2,
+      "code": "USO",
+      "frase": "He is a slow driver.",
+      "instruccion": "Dilo con el verbo drive y un adverbio",
+      "respuestas": [
+        "He drives slowly.",
+        "He drives slow."
+      ],
+      "explica": "Adjetivo + sustantivo (a slow driver) → verbo + adverbio (drives slowly)."
+    },
+    {
+      "id": "adverbios-modo-029",
+      "tipo": "traducir",
+      "nivel": 2,
+      "code": "USO",
+      "es": "El equipo trabajó duro y terminó temprano.",
+      "respuestas": [
+        "The team worked hard and finished early.",
+        "The team worked hard and they finished early.",
+        "The team worked really hard and finished early."
+      ],
+      "explica": "Hard y early no cambian como adverbios: worked hard, finished early."
+    },
+    {
+      "id": "adverbios-modo-030",
+      "tipo": "hablar",
+      "nivel": 2,
+      "code": "USO",
+      "consigna": "Cuenta cómo salió tu última presentación o reunión importante: cómo hablaste, cómo reaccionó el cliente, cómo trabajó el equipo y cómo te sentiste al final.",
+      "objetivo": "adverbios con -ly después del verbo (+ objeto) · well / hard / early / late · look / sound / feel + adjetivo",
+      "ejemplo": "Last week I presented a new campaign to a client. I was nervous, but I spoke slowly and clearly, and I answered all the questions calmly. The client listened carefully and said the idea sounded great. The team worked really hard, and we finished the deck early. It went really well, and I felt great after the meeting.",
+      "explica": "Adverbio para la acción (spoke clearly, went well); adjetivo con sound y feel (sounded great, felt great)."
+    },
+    {
+      "id": "adverbios-modo-031",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Un lunes de pitch",
+      "instruccion": "Escribe el adverbio de la palabra entre paréntesis; si va con look, sound o feel, deja el adjetivo.",
+      "texto": "Monday was a big day at Brava. I got up {1} (early) and drove {2} (careful) to the office because it was raining. The client arrived {3} (late), so we checked the deck {4} (quick) one more time. Andrés presented the idea {5} (clear) and answered every question {6} (calm). At the end, the client said: \"Your proposal sounds {7} (great).\" We worked {8} (hard) for three weeks, and it was worth it.",
+      "huecos": [
+        {
+          "respuestas": [
+            "early"
+          ]
+        },
+        {
+          "respuestas": [
+            "carefully"
+          ]
+        },
+        {
+          "respuestas": [
+            "late"
+          ]
+        },
+        {
+          "respuestas": [
+            "quickly"
+          ]
+        },
+        {
+          "respuestas": [
+            "clearly"
+          ]
+        },
+        {
+          "respuestas": [
+            "calmly"
+          ]
+        },
+        {
+          "respuestas": [
+            "great"
+          ]
+        },
+        {
+          "respuestas": [
+            "hard"
+          ]
+        }
+      ],
+      "explica": "Adjetivo + -ly para la acción (drove carefully); early, late y hard no cambian; con sound va adjetivo (sounds great)."
+    },
+    {
+      "id": "adverbios-modo-032",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Domingo en Villa de Leyva",
+      "instruccion": "Completa con el adjetivo o el adverbio de la palabra entre paréntesis.",
+      "texto": "My dad is a very {1} (careful) driver. Last Sunday we drove to Villa de Leyva. The road was wet, so he drove {2} (slow), and we arrived {3} (late) for lunch. Nobody cared: the food tasted {4} (delicious) and the town looked {5} (beautiful). My son ate {6} (quick) because he wanted to play in the main square. On the way back, my dad drove {7} (safe), and we all slept {8} (peaceful) in the car.",
+      "huecos": [
+        {
+          "respuestas": [
+            "careful"
+          ]
+        },
+        {
+          "respuestas": [
+            "slowly",
+            "slow"
+          ]
+        },
+        {
+          "respuestas": [
+            "late"
+          ]
+        },
+        {
+          "respuestas": [
+            "delicious"
+          ]
+        },
+        {
+          "respuestas": [
+            "beautiful"
+          ]
+        },
+        {
+          "respuestas": [
+            "quickly"
+          ]
+        },
+        {
+          "respuestas": [
+            "safely",
+            "safe"
+          ]
+        },
+        {
+          "respuestas": [
+            "peacefully"
+          ]
+        }
+      ],
+      "explica": "Antes de un sustantivo (a careful driver) y con taste o look va adjetivo; para describir la acción (drove slowly, ate quickly) va adverbio."
+    },
+    {
+      "id": "adverbios-modo-033",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "Gracias, equipo",
+      "instruccion": "Elige la palabra correcta en cada hueco.",
+      "texto": "Hi team, thank you for this week. You all worked really {1} on the juice campaign, and the client loved it. {2} we have had too many late nights, so on Friday we finish at four. Laura, your headlines sound {3}. Mike, you presented the numbers very {4}. I know we {5} had time to sleep, but it was worth it. The client says the campaign looks {6}. Well done, everyone!",
+      "huecos": [
+        {
+          "opciones": [
+            "hard",
+            "hardly",
+            "hardy"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "Lately",
+            "Late",
+            "Later"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "great",
+            "greatly",
+            "well"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "well",
+            "good",
+            "goodly"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "hardly",
+            "hard",
+            "lately"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "amazing",
+            "amazingly",
+            "well"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Hard = con esfuerzo, hardly = casi no; lately = últimamente; well para la acción; con sound y look va adjetivo."
+    },
+    {
+      "id": "adverbios-modo-034",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "La app nueva de la oficina",
+      "instruccion": "Escribe el adverbio de la palabra entre paréntesis. Cuidado con la ortografía (-ily, -ically, -ly).",
+      "texto": "Our new project app is great. Tasks update {1} (automatic), and the app sends reminders {2} (immediate) when a deadline is close. You can find any file {3} (easy). {4} (basic), it's a calendar and a chat in one place. Camila set it up {5} (quick) and explained it to us {6} (patient). Now the team works more {7} (efficient), and nobody misses a meeting. {8} (honest), I wasn't sure at first.",
+      "huecos": [
+        {
+          "respuestas": [
+            "automatically"
+          ]
+        },
+        {
+          "respuestas": [
+            "immediately"
+          ]
+        },
+        {
+          "respuestas": [
+            "easily"
+          ]
+        },
+        {
+          "respuestas": [
+            "basically"
+          ]
+        },
+        {
+          "respuestas": [
+            "quickly"
+          ]
+        },
+        {
+          "respuestas": [
+            "patiently"
+          ]
+        },
+        {
+          "respuestas": [
+            "efficiently"
+          ]
+        },
+        {
+          "respuestas": [
+            "honestly"
+          ]
+        }
+      ],
+      "explica": "-ic → -ically (automatically, basically), consonante + y → -ily (easily) y el resto + -ly (quickly, patiently, honestly)."
+    },
+    {
+      "id": "adverbios-modo-035",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "La nueva directora de cuentas",
+      "texto": "Sarah is the new account director at Brava, and the team likes her a lot. She speaks Spanish fluently because she lived in Medellín for five years. She works hard, but she never stays late: she arrives early and leaves at six. In meetings she listens carefully and speaks quietly, so everybody pays attention. Last week a client shouted angrily during a call. Sarah answered calmly and politely, and in ten minutes the problem was solved. \"She makes it look easy,\" says Andrés. Lately the team has been more relaxed, and the campaigns look better too. Her only problem? She drives terribly. Nobody wants to go to a client meeting in her car.",
+      "preguntas": [
+        {
+          "q": "How does Sarah speak Spanish?",
+          "opciones": [
+            "Fluently",
+            "Slowly and badly",
+            "Loudly"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What did Sarah do when the client shouted?",
+          "opciones": [
+            "She answered calmly and politely",
+            "She shouted angrily",
+            "She left the call"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What is Sarah's only problem?",
+          "opciones": [
+            "She drives badly",
+            "She arrives late",
+            "She speaks too loudly"
+          ],
+          "a": 0
+        },
+        {
+          "q": "¿Por qué el texto dice «makes it look easy» y no «easily»?",
+          "opciones": [
+            "Con look va adjetivo, porque describe la cosa y no una acción",
+            "Easy es un adverbio irregular, como fast",
+            "Es un error del texto"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Los adverbios describen cómo hace Sarah las cosas (fluently, carefully, calmly); con look va adjetivo (look easy, look better)."
+    },
+    {
+      "id": "adverbios-modo-036",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "VOC",
+      "titulo": "Clases de salsa",
+      "texto": "Every Thursday, Andrés and his wife Paula take salsa classes in Chapinero. Paula dances beautifully; she learned as a child in Cali. Andrés dances badly, but he tries hard and he never gives up. The teacher, Mike, speaks slowly and explains every step clearly. \"Move your feet quickly but softly,\" he says. At first Andrés hardly moved; now he dances quite well. Last week he stepped on Paula's foot. She laughed and said, \"Don't worry, you're doing well.\" After class they usually eat empanadas. They taste great after an hour of dancing.",
+      "preguntas": [
+        {
+          "q": "How does Paula dance?",
+          "opciones": [
+            "Beautifully",
+            "Badly",
+            "Slowly"
+          ],
+          "a": 0
+        },
+        {
+          "q": "How does Mike explain the steps?",
+          "opciones": [
+            "Slowly and clearly",
+            "Quickly and loudly",
+            "He doesn't explain them"
+          ],
+          "a": 0
+        },
+        {
+          "q": "¿Qué significa «At first Andrés hardly moved»?",
+          "opciones": [
+            "Al principio Andrés casi no se movía",
+            "Al principio Andrés se movía con mucho esfuerzo",
+            "Al principio Andrés se movía muy duro"
+          ],
+          "a": 0
+        },
+        {
+          "q": "¿Por qué «They taste great» y no «greatly»?",
+          "opciones": [
+            "Con taste va adjetivo: describe las empanadas",
+            "Great es irregular, como good → well",
+            "Greatly no existe en inglés"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Hard = con esfuerzo, hardly = casi no; con taste va adjetivo (taste great)."
+    },
+    {
+      "id": "adverbios-modo-037",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "USO",
+      "titulo": "Un correo de feedback",
+      "texto": "Hi Camila, thanks for your presentation yesterday. Honestly, it went really well. You explained the strategy clearly, and the client understood it immediately. Your slides looked great, and the video worked perfectly. Two small things for next time: speak a little more slowly at the beginning, and read the numbers carefully before the meeting, because one of the budget figures was wrong. Lately you have been working very hard, so please take Friday afternoon off. You deserve it. Best, Mike",
+      "preguntas": [
+        {
+          "q": "How did the presentation go, according to Mike?",
+          "opciones": [
+            "Very well",
+            "Badly",
+            "He doesn't say"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What should Camila do at the beginning next time?",
+          "opciones": [
+            "Speak more slowly",
+            "Speak more loudly",
+            "Arrive earlier"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why can Camila take Friday afternoon off?",
+          "opciones": [
+            "She has been working very hard lately",
+            "She arrived late",
+            "The client cancelled the meeting"
+          ],
+          "a": 0
+        },
+        {
+          "q": "¿Qué palabra del correo es adjetivo y no adverbio?",
+          "opciones": [
+            "great (your slides looked great)",
+            "clearly",
+            "perfectly"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "It went well (resultado: adverbio), looked great (look + adjetivo), lately = últimamente, hard = con esfuerzo."
+    },
+    {
+      "id": "adverbios-modo-038",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "USO",
+      "consigna": "Describe a alguien de tu familia o a un amigo: cómo maneja, cómo cocina, cómo habla inglés o cómo baila. Usa adverbios de modo y al menos un adjetivo después de look, sound, taste o feel.",
+      "requisitos": [
+        {
+          "texto": "Usa un adverbio con -ly (slowly, carefully, fluently…)",
+          "patron": "\\b(?!(?:only|family|really|early|friendly|lovely|ugly|daily|lonely|silly|july|italy|reply|apply|supply|fly|holy|belly|jelly|lily|emily|kelly|sally|likely|weekly|monthly|yearly|elderly|costly|curly|ally)\\b)\\w+ly\\b"
+        },
+        {
+          "texto": "Usa un adverbio irregular: well, fast, hard, late o early",
+          "patron": "\\b(well|fast|hard|late|early)\\b"
+        },
+        {
+          "texto": "Usa look, sound, taste o feel + adjetivo",
+          "patron": "\\b(looks?|looked|sounds?|sounded|tastes?|tasted|feels?|felt|smells?|smelled)\\s+(\\w+\\s+)?(good|great|bad|nice|amazing|delicious|terrible|beautiful|tired|happy|fine|perfect|awful|wonderful|fantastic|excellent|fresh|strange|different|easy|hard|comfortable|relaxed|interesting|clear|professional|better|worse|strong|sore|proud|nervous)\\b"
+        }
+      ],
+      "minPalabras": 40,
+      "ejemplo": "My mom is an amazing cook. She cooks slowly and carefully, and her ajiaco always tastes delicious. My dad is different: he cooks fast and he talks loudly in the kitchen. My sister speaks English fluently because she lived in Toronto, and she dances beautifully too. When we are all together on Sundays, I feel great.",
+      "explica": "Adverbio para la acción (cooks slowly, speaks English fluently); adjetivo con taste y feel (tastes delicious, feel great)."
+    },
+    {
+      "id": "adverbios-modo-039",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "USO",
+      "consigna": "Escribe un correo corto de feedback a alguien de tu equipo después de una presentación: qué hizo bien, cómo habló y qué puede hacer diferente la próxima vez.",
+      "requisitos": [
+        {
+          "texto": "Usa well (no good) para una acción: did well, went well, presented well…",
+          "patron": "\\b(did|went|worked|presented|handled|explained|spoke|wrote|done|answered)\\s+(\\w+\\s+){0,2}well\\b"
+        },
+        {
+          "texto": "Usa un adverbio con -ly después del verbo o del objeto",
+          "patron": "\\b(?!(?:only|family|really|early|friendly|lovely|ugly|daily|lonely|silly|july|italy|reply|apply|supply|fly|holy|belly|jelly|lily|emily|kelly|sally|likely|weekly|monthly|yearly|elderly|costly|curly|ally)\\b)\\w+ly\\b"
+        },
+        {
+          "texto": "Usa look o sound + adjetivo",
+          "patron": "\\b(looks?|looked|sounds?|sounded)\\s+(\\w+\\s+)?(good|great|bad|nice|amazing|delicious|terrible|beautiful|tired|happy|fine|perfect|awful|wonderful|fantastic|excellent|fresh|strange|different|easy|hard|comfortable|relaxed|interesting|clear|professional|better|worse|strong|sore|proud|nervous)\\b"
+        },
+        {
+          "texto": "Di cómo mejorar con more + adverbio (more slowly, more clearly…)",
+          "patron": "\\bmore\\s+\\w+ly\\b"
+        }
+      ],
+      "minPalabras": 50,
+      "ejemplo": "Hi Laura, thanks for the presentation this morning. Honestly, you did really well. You explained the strategy clearly and answered the client's questions calmly. Your slides looked great, and the video worked perfectly. For next time, try to speak more slowly at the beginning, and check the budget numbers carefully before the meeting. Great job! Best, Andrés",
+      "explica": "Well para el resultado (you did well), -ly para cómo hizo cada cosa y adjetivo con look (looked great)."
+    },
+    {
+      "id": "adverbios-modo-040",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "VOC",
+      "consigna": "Cuenta cómo te fue en algo reciente (una carrera, un partido, una clase, un examen): cómo lo hiciste, cómo te sentiste y qué ha cambiado últimamente.",
+      "requisitos": [
+        {
+          "texto": "Usa hard (con esfuerzo) o hardly (casi no)",
+          "patron": "\\b(hard|hardly)\\b"
+        },
+        {
+          "texto": "Usa lately (últimamente)",
+          "patron": "\\blately\\b"
+        },
+        {
+          "texto": "Usa feel + adjetivo (feel good, felt tired…)",
+          "patron": "\\b(feel|feels|felt|feeling)\\s+(\\w+\\s+)?(good|great|bad|tired|happy|fine|strong|nervous|relaxed|better|worse|amazing|terrible|proud|sore|stressed|excited)\\b"
+        },
+        {
+          "texto": "Usa did well o went well",
+          "patron": "\\b(did|went|played|doing|done|do)\\s+(\\w+\\s+)?well\\b"
+        }
+      ],
+      "minPalabras": 40,
+      "ejemplo": "Last Saturday I ran a 10K in Bogotá. I trained hard for two months, and I did really well: I finished in 52 minutes. At the end I felt tired but very happy. Lately I have been sleeping better and eating more carefully, and I feel great. My wife says I hardly complain about my knee now.",
+      "explica": "Hard = con esfuerzo y hardly = casi no; lately = últimamente; feel + adjetivo (estado) y did well (resultado)."
+    }
+  ]
+}

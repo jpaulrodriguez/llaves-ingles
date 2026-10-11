@@ -1,0 +1,315 @@
+{
+  "tema": "pronombres-indefinidos",
+  "ejercicios": [
+    {
+      "id": "pronombres-indefinidos-x3-001",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "PRO",
+      "titulo": "The missing file",
+      "instruccion": "Escribe el pronombre indefinido que traduce la pista. Some- en afirmativa, any- en negativa y pregunta, no- con verbo afirmativo, every- para todos (con verbo en singular).",
+      "texto": "Monday, 9 a.m. {1} (alguien) left a message for me: the client wants to talk about the budget. I asked the team, but {2} (nadie) knew the details. 'Did {3} (alguien) see the new numbers?' I asked. No answer. I looked {4} (en todas partes) for the file: my email, the shared drive, my desk. Finally, Camila said: 'I have {5} (algo) important to tell you. The file is in the old folder.' {6} (todos) was relieved. Before the call, I asked: 'Is there {7} (algo más) we need?' 'No, {8} (todo) is ready,' she said.",
+      "huecos": [
+        {
+          "respuestas": [
+            "Someone",
+            "Somebody"
+          ]
+        },
+        {
+          "respuestas": [
+            "nobody",
+            "no one"
+          ]
+        },
+        {
+          "respuestas": [
+            "anyone",
+            "anybody"
+          ]
+        },
+        {
+          "respuestas": [
+            "everywhere"
+          ]
+        },
+        {
+          "respuestas": [
+            "something"
+          ]
+        },
+        {
+          "respuestas": [
+            "Everyone",
+            "Everybody"
+          ]
+        },
+        {
+          "respuestas": [
+            "anything else"
+          ]
+        },
+        {
+          "respuestas": [
+            "everything"
+          ]
+        }
+      ],
+      "explica": "Afirmativa → some- (Someone left a message, something important). Pregunta → any- (Did anyone see…? Is there anything else?). Nobody ya es negativo, el verbo va en afirmativa (nobody knew). Every- va con singular: Everyone was, everything is."
+    },
+    {
+      "id": "pronombres-indefinidos-x3-002",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "PRO",
+      "titulo": "Before we send it",
+      "instruccion": "Elige la forma correcta. Es una llamada rápida antes de enviar una presentación al cliente. Recuerda: en inglés no hay doble negación.",
+      "texto": "— Hi Sarah, can you hear me? — Yes. Is {1} else joining us? — Andrés, but he's late. — OK. Did you send {2} to the client yesterday? — No, I didn't send {3}. I was waiting for your OK. — Fine. {4} on our team likes the new idea, so let's send it today. — Great. Is there {5} I should change before I send it? — Just one thing: {6} wrote the wrong date on slide 4. — Oh no. Was it me? — It doesn't matter. {7} makes mistakes. — Thanks. I'll fix it now. I don't need {8} else.",
+      "huecos": [
+        {
+          "opciones": [
+            "nobody",
+            "anyone",
+            "everything"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "nothing",
+            "anywhere",
+            "anything"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "anything",
+            "nothing",
+            "something"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "Anyone",
+            "Everyone",
+            "No one"
+          ],
+          "a": 1
+        },
+        {
+          "opciones": [
+            "nothing",
+            "everyone",
+            "anything"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "someone",
+            "anyone",
+            "everybody"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "Nobody",
+            "Somewhere",
+            "Everybody"
+          ],
+          "a": 2
+        },
+        {
+          "opciones": [
+            "nothing",
+            "anything",
+            "something"
+          ],
+          "a": 1
+        }
+      ],
+      "explica": "Preguntas → any- (Is anyone else…? Did you send anything?). Negativa con didn't / don't → any- (I didn't send anything, I don't need anything else), nunca nothing. Everyone / everybody + verbo en singular (likes, makes)."
+    },
+    {
+      "id": "pronombres-indefinidos-x3-003",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "PRO",
+      "titulo": "The end-of-year dinner",
+      "instruccion": "Escribe el pronombre indefinido que traduce la pista. Las terminaciones dicen de qué hablas: -one / -body personas, -thing cosas, -where lugares.",
+      "texto": "We want to take the team {1} (a algún sitio) special for the end-of-year dinner. Laura says there's {2} (nada) good near the office, but I don't agree. 'Does {3} (alguien) know a place with a private room?' I asked in the group chat. {4} (nadie) answered for two hours. Then Mike wrote: 'I know {5} (alguien) who works at a great restaurant in Usaquén.' The problem: they don't have {6} (nada) available on Friday. So we're going {7} (a otro sitio). {8} (todo el mundo) wants Italian food, so it's an easy choice.",
+      "huecos": [
+        {
+          "respuestas": [
+            "somewhere"
+          ]
+        },
+        {
+          "respuestas": [
+            "nothing"
+          ]
+        },
+        {
+          "respuestas": [
+            "anyone",
+            "anybody"
+          ]
+        },
+        {
+          "respuestas": [
+            "Nobody",
+            "No one"
+          ]
+        },
+        {
+          "respuestas": [
+            "someone",
+            "somebody"
+          ]
+        },
+        {
+          "respuestas": [
+            "anything"
+          ]
+        },
+        {
+          "respuestas": [
+            "somewhere else"
+          ]
+        },
+        {
+          "respuestas": [
+            "Everyone",
+            "Everybody"
+          ]
+        }
+      ],
+      "explica": "Lugares → -where (somewhere special, somewhere else; el adjetivo y else van detrás). There's nothing: no- con verbo afirmativo. They don't have anything: verbo negativo + any-. Everyone wants: singular."
+    },
+    {
+      "id": "pronombres-indefinidos-x3-004",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "PRO",
+      "titulo": "The empty meeting room",
+      "texto": "Last Thursday I arrived at the meeting room at 10, but nobody was there. I checked my calendar: everything looked correct. I called Laura, but she didn't answer. I sent a message to the group: 'Is anyone coming to the 10 o'clock?' Someone replied after five minutes: 'The meeting is online today. Didn't anyone tell you?' No, no one told me anything. I ran to my desk and joined the call. Everyone was there, including the client. 'Is everything OK, Jonathan?' she asked. 'Yes, everything's fine. Sorry, I was somewhere else,' I said. Nobody laughed, but it was funny.",
+      "preguntas": [
+        {
+          "q": "Why was nobody in the meeting room?",
+          "opciones": [
+            "The meeting was online",
+            "The meeting was cancelled",
+            "Everyone was late"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Who replied to his message?",
+          "opciones": [
+            "Laura",
+            "Someone from the group",
+            "The client"
+          ],
+          "a": 1
+        },
+        {
+          "q": "«No one told me anything»: ¿por qué anything y no nothing?",
+          "opciones": [
+            "Porque no one ya es negativo: en inglés no hay doble negación",
+            "Porque es una pregunta",
+            "Porque anything es plural"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«Everyone was there»: ¿por qué was y no were?",
+          "opciones": [
+            "Porque everyone va con verbo en singular",
+            "Porque es el pasado de be con plural",
+            "Es un error"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Nobody was / no one told me anything: una sola negación. Is anyone…? / Didn't anyone…?: any- en preguntas. Everyone was / everything looked: every- con verbo en singular. Somewhere else: else va detrás."
+    },
+    {
+      "id": "pronombres-indefinidos-x3-005",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "PRO",
+      "titulo": "A weekend with no plans",
+      "texto": "This weekend my girlfriend and I did nothing special, and it was perfect. On Saturday we didn't go anywhere. We stayed home, cooked something easy and watched a series. Nobody called me from work, and I didn't check anything on my phone. On Sunday my mom invited us to lunch at her new apartment. Everything was delicious. 'Does anyone want more?' she asked. Everybody said yes. In the afternoon someone knocked on the door: her neighbor, with a cake. My mom knows everyone in the building. Next weekend we want to go somewhere outside the city, maybe Guatavita.",
+      "preguntas": [
+        {
+          "q": "What did they do on Saturday?",
+          "opciones": [
+            "They went to Guatavita",
+            "They stayed home",
+            "They visited his mom"
+          ],
+          "a": 1
+        },
+        {
+          "q": "Who knocked on the door?",
+          "opciones": [
+            "A neighbor",
+            "His boss",
+            "Nobody"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«We didn't go anywhere»: ¿qué otra forma correcta hay de decirlo?",
+          "opciones": [
+            "We went nowhere.",
+            "We didn't go nowhere.",
+            "We went anywhere."
+          ],
+          "a": 0
+        },
+        {
+          "q": "«cooked something easy»: ¿dónde va el adjetivo?",
+          "opciones": [
+            "Detrás de something",
+            "Delante de something",
+            "No puede ir con something"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Dos formas de negar, una sola marca: didn't go anywhere = went nowhere. Did nothing special / something easy: el adjetivo va detrás. Nobody called / everybody said: el pronombre es el sujeto."
+    },
+    {
+      "id": "pronombres-indefinidos-x3-006",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "PRO",
+      "consigna": "Hubo un problema: nadie envió la presentación final al cliente y no encuentras el archivo. Escribe un mensaje a tu equipo explicando qué pasó y pidiendo ayuda.",
+      "requisitos": [
+        {
+          "texto": "Usa una palabra con some- (someone, something, somewhere)",
+          "patron": "\\bsome(one|body|thing|where)\\b"
+        },
+        {
+          "texto": "Haz una pregunta con any- (Did anyone…? / Is there anything…?)",
+          "patron": "\\bany(one|body|thing|where)\\b[^?.!]*\\?"
+        },
+        {
+          "texto": "Usa no one / nobody / nothing con el verbo en afirmativa",
+          "patron": "\\b(no one|nobody|nothing|nowhere)\\b"
+        },
+        {
+          "texto": "Usa everyone / everything + verbo en singular",
+          "patron": "\\bevery(one|body|thing) (is|was|has|\\w+s)\\b"
+        }
+      ],
+      "minPalabras": 40,
+      "ejemplo": "Hi team, quick message about the presentation for tomorrow. Nobody sent the final version to the client yesterday, and they called me this morning. Did anyone save the file with the new numbers? I looked everywhere, but I found nothing. If someone has it, please send it to me before noon. Everyone is busy, I know, but this is important. Thanks, Jonathan",
+      "explica": "Some- para afirmar (someone has it), any- para preguntar (Did anyone save…?), no- con verbo afirmativo (Nobody sent, I found nothing) y every- con verbo en singular (Everyone is busy)."
+    }
+  ]
+}

@@ -180,6 +180,1944 @@
     ],
     "tip": "Aprende cada verbo cantado en su familia (bought, brought, thought, taught) y siempre dentro de una frase tuya. Un verbo suelto se olvida; una frase se queda."
   },
+  "palabras": [
+    {
+      "id": "go",
+      "en": "go",
+      "ipa": "/ɡoʊ/",
+      "es": "ir",
+      "clase": "verbo",
+      "orden": 1,
+      "formas": {
+        "s": "goes",
+        "pasado": "went",
+        "participio": "gone",
+        "ing": "going"
+      },
+      "irregular": true,
+      "comp": [
+        "to the gym",
+        "home"
+      ],
+      "ejemplo": "I went to the gym before work.",
+      "hueco": {
+        "frase": "I ___ to the gym before work yesterday. (go)",
+        "respuestas": [
+          "went"
+        ]
+      },
+      "nota": "go → went → gone · have gone vs. have been"
+    },
+    {
+      "id": "have",
+      "en": "have",
+      "ipa": "/hæv/",
+      "es": "tener; tomar (comida)",
+      "clase": "verbo",
+      "orden": 2,
+      "formas": {
+        "s": "has",
+        "pasado": "had",
+        "participio": "had",
+        "ing": "having"
+      },
+      "irregular": true,
+      "comp": [
+        "breakfast",
+        "a meeting at 10"
+      ],
+      "ejemplo": "We had a meeting with the client at 10.",
+      "hueco": {
+        "frase": "We ___ a meeting with the client at 10 yesterday. (have)",
+        "respuestas": [
+          "had"
+        ]
+      }
+    },
+    {
+      "id": "make",
+      "en": "make",
+      "ipa": "/meɪk/",
+      "es": "hacer, fabricar",
+      "clase": "verbo",
+      "orden": 3,
+      "formas": {
+        "s": "makes",
+        "pasado": "made",
+        "participio": "made",
+        "ing": "making"
+      },
+      "irregular": true,
+      "comp": [
+        "coffee",
+        "a decision"
+      ],
+      "ejemplo": "I made coffee for everyone.",
+      "hueco": {
+        "frase": "I ___ coffee for everyone this morning. (make)",
+        "respuestas": [
+          "made"
+        ]
+      },
+      "nota": "make a decision, make a mistake, make money"
+    },
+    {
+      "id": "get",
+      "en": "get",
+      "ipa": "/ɡet/",
+      "es": "conseguir, recibir; llegar",
+      "clase": "verbo",
+      "orden": 4,
+      "formas": {
+        "s": "gets",
+        "pasado": "got",
+        "participio": "gotten",
+        "ing": "getting"
+      },
+      "irregular": true,
+      "comp": [
+        "an email",
+        "to the office"
+      ],
+      "ejemplo": "I got to the office at 9:15.",
+      "hueco": {
+        "frase": "I ___ to the office at 9:15 yesterday. (get)",
+        "respuestas": [
+          "got"
+        ]
+      },
+      "nota": "US: participio gotten (I've gotten). UK: got."
+    },
+    {
+      "id": "say",
+      "en": "say",
+      "ipa": "/seɪ/",
+      "es": "decir",
+      "clase": "verbo",
+      "orden": 5,
+      "formas": {
+        "s": "says",
+        "pasado": "said",
+        "participio": "said",
+        "ing": "saying"
+      },
+      "irregular": true,
+      "comp": [
+        "hello",
+        "nothing"
+      ],
+      "ejemplo": "My boss said nothing.",
+      "hueco": {
+        "frase": "My boss ___ nothing about the delay. (say)",
+        "respuestas": [
+          "said"
+        ]
+      },
+      "nota": "says /sez/, said /sed/"
+    },
+    {
+      "id": "take",
+      "en": "take",
+      "ipa": "/teɪk/",
+      "es": "tomar, llevar",
+      "clase": "verbo",
+      "orden": 6,
+      "formas": {
+        "s": "takes",
+        "pasado": "took",
+        "participio": "taken",
+        "ing": "taking"
+      },
+      "irregular": true,
+      "comp": [
+        "a taxi",
+        "notes in the meeting"
+      ],
+      "ejemplo": "I took a taxi to the airport last night.",
+      "hueco": {
+        "frase": "Last night I ___ a taxi to the airport. (take)",
+        "respuestas": [
+          "took"
+        ]
+      },
+      "nota": "take a photo, take a break, take notes"
+    },
+    {
+      "id": "see",
+      "en": "see",
+      "ipa": "/siː/",
+      "es": "ver",
+      "clase": "verbo",
+      "orden": 7,
+      "formas": {
+        "s": "sees",
+        "pasado": "saw",
+        "participio": "seen",
+        "ing": "seeing"
+      },
+      "irregular": true,
+      "ejemplo": "We saw a movie on Saturday.",
+      "hueco": {
+        "frase": "We ___ a movie on Saturday. (see)",
+        "respuestas": [
+          "saw"
+        ]
+      },
+      "nota": "Have you seen this? (participio)"
+    },
+    {
+      "id": "come",
+      "en": "come",
+      "ipa": "/kʌm/",
+      "es": "venir",
+      "clase": "verbo",
+      "orden": 8,
+      "formas": {
+        "s": "comes",
+        "pasado": "came",
+        "participio": "come",
+        "ing": "coming"
+      },
+      "irregular": true,
+      "comp": [
+        "to the office",
+        "home late"
+      ],
+      "ejemplo": "Mike came to the office at 8.",
+      "hueco": {
+        "frase": "Mike ___ to the office at 8 this morning. (come)",
+        "respuestas": [
+          "came"
+        ]
+      },
+      "nota": "come → came → come (el participio vuelve a la base)"
+    },
+    {
+      "id": "know",
+      "en": "know",
+      "ipa": "/noʊ/",
+      "es": "saber, conocer",
+      "clase": "verbo",
+      "orden": 9,
+      "formas": {
+        "s": "knows",
+        "pasado": "knew",
+        "participio": "known",
+        "ing": "knowing"
+      },
+      "irregular": true,
+      "ejemplo": "I knew the answer.",
+      "hueco": {
+        "frase": "I ___ the answer, but I didn't say it. (know)",
+        "respuestas": [
+          "knew"
+        ]
+      },
+      "nota": "La k no suena. Verbo de estado: no va en -ing."
+    },
+    {
+      "id": "think",
+      "en": "think",
+      "ipa": "/θɪŋk/",
+      "es": "pensar, creer",
+      "clase": "verbo",
+      "orden": 10,
+      "formas": {
+        "s": "thinks",
+        "pasado": "thought",
+        "participio": "thought",
+        "ing": "thinking"
+      },
+      "irregular": true,
+      "ejemplo": "I thought it was a good idea.",
+      "hueco": {
+        "frase": "I ___ it was a good idea. (think)",
+        "respuestas": [
+          "thought"
+        ]
+      },
+      "nota": "Familia -ought: thought, bought, brought"
+    },
+    {
+      "id": "give",
+      "en": "give",
+      "ipa": "/ɡɪv/",
+      "es": "dar",
+      "clase": "verbo",
+      "orden": 11,
+      "formas": {
+        "s": "gives",
+        "pasado": "gave",
+        "participio": "given",
+        "ing": "giving"
+      },
+      "irregular": true,
+      "comp": [
+        "feedback",
+        "a presentation"
+      ],
+      "ejemplo": "The client gave us a lot of feedback.",
+      "hueco": {
+        "frase": "The client ___ us a lot of feedback yesterday. (give)",
+        "respuestas": [
+          "gave"
+        ]
+      }
+    },
+    {
+      "id": "find",
+      "en": "find",
+      "ipa": "/faɪnd/",
+      "es": "encontrar",
+      "clase": "verbo",
+      "orden": 12,
+      "formas": {
+        "s": "finds",
+        "pasado": "found",
+        "participio": "found",
+        "ing": "finding"
+      },
+      "irregular": true,
+      "comp": [
+        "my keys",
+        "a solution"
+      ],
+      "ejemplo": "I found my keys in the car.",
+      "hueco": {
+        "frase": "I ___ my keys in the car. (find)",
+        "respuestas": [
+          "found"
+        ]
+      }
+    },
+    {
+      "id": "tell",
+      "en": "tell",
+      "ipa": "/tel/",
+      "es": "contar, decir (a alguien)",
+      "clase": "verbo",
+      "orden": 13,
+      "formas": {
+        "s": "tells",
+        "pasado": "told",
+        "participio": "told",
+        "ing": "telling"
+      },
+      "irregular": true,
+      "comp": [
+        "the client the plan",
+        "me the news"
+      ],
+      "ejemplo": "She told me about it.",
+      "hueco": {
+        "frase": "She ___ me about it last week. (tell)",
+        "respuestas": [
+          "told"
+        ]
+      },
+      "nota": "tell + persona (tell me) · say + cosa (say hello)"
+    },
+    {
+      "id": "do",
+      "en": "do",
+      "ipa": "/duː/",
+      "es": "hacer",
+      "clase": "verbo",
+      "orden": 14,
+      "formas": {
+        "s": "does",
+        "pasado": "did",
+        "participio": "done",
+        "ing": "doing"
+      },
+      "irregular": true,
+      "comp": [
+        "the dishes",
+        "my homework"
+      ],
+      "ejemplo": "I did the dishes after dinner.",
+      "hueco": {
+        "frase": "I have ___ the dishes already. (do)",
+        "respuestas": [
+          "done"
+        ]
+      },
+      "nota": "do homework, do the dishes, do exercise"
+    },
+    {
+      "id": "be",
+      "en": "be",
+      "ipa": "/biː/",
+      "es": "ser, estar",
+      "clase": "verbo",
+      "orden": 15,
+      "formas": {
+        "s": "is",
+        "pasado": "was/were",
+        "participio": "been",
+        "ing": "being"
+      },
+      "irregular": true,
+      "ejemplo": "I have been to New York twice.",
+      "hueco": {
+        "frase": "I have ___ to New York twice. (be)",
+        "respuestas": [
+          "been"
+        ]
+      },
+      "nota": "am / is / are → was / were → been"
+    },
+    {
+      "id": "send",
+      "en": "send",
+      "ipa": "/send/",
+      "es": "enviar",
+      "clase": "verbo",
+      "orden": 16,
+      "formas": {
+        "s": "sends",
+        "pasado": "sent",
+        "participio": "sent",
+        "ing": "sending"
+      },
+      "irregular": true,
+      "comp": [
+        "the deck",
+        "an email"
+      ],
+      "ejemplo": "I sent you the deck yesterday.",
+      "hueco": {
+        "frase": "I ___ you the deck yesterday. (send)",
+        "respuestas": [
+          "sent"
+        ]
+      }
+    },
+    {
+      "id": "meet",
+      "en": "meet",
+      "ipa": "/miːt/",
+      "es": "conocer; reunirse con",
+      "clase": "verbo",
+      "orden": 17,
+      "formas": {
+        "s": "meets",
+        "pasado": "met",
+        "participio": "met",
+        "ing": "meeting"
+      },
+      "irregular": true,
+      "comp": [
+        "the client",
+        "a deadline"
+      ],
+      "ejemplo": "We met the client on Monday.",
+      "hueco": {
+        "frase": "We ___ the client on Monday. (meet)",
+        "respuestas": [
+          "met"
+        ]
+      },
+      "nota": "meet a deadline = cumplir un plazo"
+    },
+    {
+      "id": "buy",
+      "en": "buy",
+      "ipa": "/baɪ/",
+      "es": "comprar",
+      "clase": "verbo",
+      "orden": 18,
+      "formas": {
+        "s": "buys",
+        "pasado": "bought",
+        "participio": "bought",
+        "ing": "buying"
+      },
+      "irregular": true,
+      "comp": [
+        "tickets",
+        "a new laptop"
+      ],
+      "ejemplo": "I bought it two days ago.",
+      "hueco": {
+        "frase": "I ___ it two days ago. (buy)",
+        "respuestas": [
+          "bought"
+        ]
+      }
+    },
+    {
+      "id": "pay",
+      "en": "pay",
+      "ipa": "/peɪ/",
+      "es": "pagar",
+      "clase": "verbo",
+      "orden": 19,
+      "formas": {
+        "s": "pays",
+        "pasado": "paid",
+        "participio": "paid",
+        "ing": "paying"
+      },
+      "irregular": true,
+      "comp": [
+        "the check",
+        "for the coffee"
+      ],
+      "ejemplo": "Mike paid for the coffee.",
+      "hueco": {
+        "frase": "Mike ___ for the coffee this morning. (pay)",
+        "respuestas": [
+          "paid"
+        ]
+      },
+      "nota": "pay for something · paid, no 'payed'"
+    },
+    {
+      "id": "leave",
+      "en": "leave",
+      "ipa": "/liːv/",
+      "es": "salir, irse; dejar",
+      "clase": "verbo",
+      "orden": 20,
+      "formas": {
+        "s": "leaves",
+        "pasado": "left",
+        "participio": "left",
+        "ing": "leaving"
+      },
+      "irregular": true,
+      "comp": [
+        "the office at 6",
+        "a tip"
+      ],
+      "ejemplo": "We left Bogotá at 6 a.m.",
+      "hueco": {
+        "frase": "We ___ Bogotá at 6 a.m. (leave)",
+        "respuestas": [
+          "left"
+        ]
+      },
+      "nota": "leave = salir / dejar · live = vivir"
+    },
+    {
+      "id": "feel",
+      "en": "feel",
+      "ipa": "/fiːl/",
+      "es": "sentir(se)",
+      "clase": "verbo",
+      "orden": 21,
+      "formas": {
+        "s": "feels",
+        "pasado": "felt",
+        "participio": "felt",
+        "ing": "feeling"
+      },
+      "irregular": true,
+      "ejemplo": "I felt tired after the meeting.",
+      "hueco": {
+        "frase": "I ___ tired after the meeting. (feel)",
+        "respuestas": [
+          "felt"
+        ]
+      }
+    },
+    {
+      "id": "put",
+      "en": "put",
+      "ipa": "/pʊt/",
+      "es": "poner",
+      "clase": "verbo",
+      "orden": 22,
+      "formas": {
+        "s": "puts",
+        "pasado": "put",
+        "participio": "put",
+        "ing": "putting"
+      },
+      "irregular": true,
+      "comp": [
+        "the files on the desk",
+        "my phone away"
+      ],
+      "ejemplo": "I put the files on your desk.",
+      "hueco": {
+        "frase": "I ___ the files on your desk this morning. (put)",
+        "respuestas": [
+          "put"
+        ]
+      },
+      "nota": "put → put → put"
+    },
+    {
+      "id": "bring",
+      "en": "bring",
+      "ipa": "/brɪŋ/",
+      "es": "traer",
+      "clase": "verbo",
+      "orden": 23,
+      "formas": {
+        "s": "brings",
+        "pasado": "brought",
+        "participio": "brought",
+        "ing": "bringing"
+      },
+      "irregular": true,
+      "comp": [
+        "the printed version",
+        "coffee for everyone"
+      ],
+      "ejemplo": "Andrés brought the printed version.",
+      "hueco": {
+        "frase": "Andrés ___ the printed version to the meeting. (bring)",
+        "respuestas": [
+          "brought"
+        ]
+      }
+    },
+    {
+      "id": "write",
+      "en": "write",
+      "ipa": "/raɪt/",
+      "es": "escribir",
+      "clase": "verbo",
+      "orden": 24,
+      "formas": {
+        "s": "writes",
+        "pasado": "wrote",
+        "participio": "written",
+        "ing": "writing"
+      },
+      "irregular": true,
+      "comp": [
+        "the report",
+        "an email"
+      ],
+      "ejemplo": "She has written the report.",
+      "hueco": {
+        "frase": "She has ___ the report. (write)",
+        "respuestas": [
+          "written"
+        ]
+      },
+      "nota": "La w no suena. written con doble t."
+    },
+    {
+      "id": "speak",
+      "en": "speak",
+      "ipa": "/spiːk/",
+      "es": "hablar",
+      "clase": "verbo",
+      "orden": 25,
+      "formas": {
+        "s": "speaks",
+        "pasado": "spoke",
+        "participio": "spoken",
+        "ing": "speaking"
+      },
+      "irregular": true,
+      "comp": [
+        "to finance",
+        "English"
+      ],
+      "ejemplo": "I have spoken to finance about the budget.",
+      "hueco": {
+        "frase": "I have ___ to finance about the budget. (speak)",
+        "respuestas": [
+          "spoken"
+        ]
+      },
+      "nota": "speak to / with someone"
+    },
+    {
+      "id": "read",
+      "en": "read",
+      "ipa": "/riːd/",
+      "es": "leer",
+      "clase": "verbo",
+      "orden": 26,
+      "formas": {
+        "s": "reads",
+        "pasado": "read",
+        "participio": "read",
+        "ing": "reading"
+      },
+      "irregular": true,
+      "comp": [
+        "the brief",
+        "a book"
+      ],
+      "ejemplo": "I read the brief last night.",
+      "hueco": {
+        "frase": "I ___ the brief last night. (read)",
+        "respuestas": [
+          "read"
+        ]
+      },
+      "nota": "Se escribe igual; el pasado suena /red/."
+    },
+    {
+      "id": "eat",
+      "en": "eat",
+      "ipa": "/iːt/",
+      "es": "comer",
+      "clase": "verbo",
+      "orden": 27,
+      "formas": {
+        "s": "eats",
+        "pasado": "ate",
+        "participio": "eaten",
+        "ing": "eating"
+      },
+      "irregular": true,
+      "comp": [
+        "lunch at my desk",
+        "at that new place"
+      ],
+      "ejemplo": "We ate at that new place.",
+      "hueco": {
+        "frase": "We ___ at that new place on Friday. (eat)",
+        "respuestas": [
+          "ate"
+        ]
+      }
+    },
+    {
+      "id": "drink",
+      "en": "drink",
+      "ipa": "/drɪŋk/",
+      "es": "beber, tomar",
+      "clase": "verbo",
+      "orden": 28,
+      "formas": {
+        "s": "drinks",
+        "pasado": "drank",
+        "participio": "drunk",
+        "ing": "drinking"
+      },
+      "irregular": true,
+      "comp": [
+        "a coffee",
+        "too much"
+      ],
+      "ejemplo": "I drank too much coffee today.",
+      "hueco": {
+        "frase": "I ___ too much coffee today. (drink)",
+        "respuestas": [
+          "drank"
+        ]
+      },
+      "nota": "Familia i → a → u: drink, drank, drunk"
+    },
+    {
+      "id": "sleep",
+      "en": "sleep",
+      "ipa": "/sliːp/",
+      "es": "dormir",
+      "clase": "verbo",
+      "orden": 29,
+      "formas": {
+        "s": "sleeps",
+        "pasado": "slept",
+        "participio": "slept",
+        "ing": "sleeping"
+      },
+      "irregular": true,
+      "ejemplo": "I slept really badly last night.",
+      "hueco": {
+        "frase": "I ___ really badly last night. (sleep)",
+        "respuestas": [
+          "slept"
+        ]
+      }
+    },
+    {
+      "id": "wake",
+      "en": "wake",
+      "ipa": "/weɪk/",
+      "es": "despertar(se)",
+      "clase": "verbo",
+      "orden": 30,
+      "formas": {
+        "s": "wakes",
+        "pasado": "woke",
+        "participio": "woken",
+        "ing": "waking"
+      },
+      "irregular": true,
+      "comp": [
+        "up at 6",
+        "up late"
+      ],
+      "ejemplo": "I woke up late yesterday.",
+      "hueco": {
+        "frase": "I ___ up late yesterday. (wake)",
+        "respuestas": [
+          "woke"
+        ]
+      },
+      "nota": "wake up (phrasal)"
+    },
+    {
+      "id": "forget",
+      "en": "forget",
+      "ipa": "/fərˈɡet/",
+      "es": "olvidar",
+      "clase": "verbo",
+      "orden": 31,
+      "formas": {
+        "s": "forgets",
+        "pasado": "forgot",
+        "participio": "forgotten",
+        "ing": "forgetting"
+      },
+      "irregular": true,
+      "ejemplo": "I forgot my password.",
+      "hueco": {
+        "frase": "I ___ my password again. (forget)",
+        "respuestas": [
+          "forgot"
+        ]
+      },
+      "nota": "forgotten con doble t"
+    },
+    {
+      "id": "choose",
+      "en": "choose",
+      "ipa": "/tʃuːz/",
+      "es": "elegir",
+      "clase": "verbo",
+      "orden": 32,
+      "formas": {
+        "s": "chooses",
+        "pasado": "chose",
+        "participio": "chosen",
+        "ing": "choosing"
+      },
+      "irregular": true,
+      "comp": [
+        "option B",
+        "a restaurant"
+      ],
+      "ejemplo": "The client chose the second option.",
+      "hueco": {
+        "frase": "The client ___ the second option. (choose)",
+        "respuestas": [
+          "chose"
+        ]
+      },
+      "nota": "choose (oo) → chose (o) → chosen"
+    },
+    {
+      "id": "spend",
+      "en": "spend",
+      "ipa": "/spend/",
+      "es": "gastar; pasar (tiempo)",
+      "clase": "verbo",
+      "orden": 33,
+      "formas": {
+        "s": "spends",
+        "pasado": "spent",
+        "participio": "spent",
+        "ing": "spending"
+      },
+      "irregular": true,
+      "comp": [
+        "the whole budget",
+        "the weekend in Cartagena"
+      ],
+      "ejemplo": "We spent the whole budget.",
+      "hueco": {
+        "frase": "We ___ the whole budget. (spend)",
+        "respuestas": [
+          "spent"
+        ]
+      },
+      "nota": "spend money / time"
+    },
+    {
+      "id": "lose",
+      "en": "lose",
+      "ipa": "/luːz/",
+      "es": "perder",
+      "clase": "verbo",
+      "orden": 34,
+      "formas": {
+        "s": "loses",
+        "pasado": "lost",
+        "participio": "lost",
+        "ing": "losing"
+      },
+      "irregular": true,
+      "comp": [
+        "my keys",
+        "the pitch"
+      ],
+      "ejemplo": "I lost my keys and forgot my password.",
+      "hueco": {
+        "frase": "I ___ my keys this morning. (lose)",
+        "respuestas": [
+          "lost"
+        ]
+      },
+      "nota": "lose (verbo) · loose (adjetivo: suelto)"
+    },
+    {
+      "id": "win",
+      "en": "win",
+      "ipa": "/wɪn/",
+      "es": "ganar (un premio, un pitch)",
+      "clase": "verbo",
+      "orden": 35,
+      "formas": {
+        "s": "wins",
+        "pasado": "won",
+        "participio": "won",
+        "ing": "winning"
+      },
+      "irregular": true,
+      "comp": [
+        "the pitch",
+        "the game"
+      ],
+      "ejemplo": "We won the pitch!",
+      "hueco": {
+        "frase": "We ___ the pitch! (win)",
+        "respuestas": [
+          "won"
+        ]
+      },
+      "nota": "win a pitch · earn money (ganar dinero)"
+    },
+    {
+      "id": "begin",
+      "en": "begin",
+      "ipa": "/bɪˈɡɪn/",
+      "es": "empezar",
+      "clase": "verbo",
+      "orden": 36,
+      "formas": {
+        "s": "begins",
+        "pasado": "began",
+        "participio": "begun",
+        "ing": "beginning"
+      },
+      "irregular": true,
+      "comp": [
+        "the meeting",
+        "a new project"
+      ],
+      "ejemplo": "The meeting began at 9.",
+      "hueco": {
+        "frase": "The meeting ___ at 9. (begin)",
+        "respuestas": [
+          "began"
+        ]
+      },
+      "nota": "begin → began → begun · también start"
+    },
+    {
+      "id": "keep",
+      "en": "keep",
+      "ipa": "/kiːp/",
+      "es": "guardar, mantener",
+      "clase": "verbo",
+      "orden": 37,
+      "formas": {
+        "s": "keeps",
+        "pasado": "kept",
+        "participio": "kept",
+        "ing": "keeping"
+      },
+      "irregular": true,
+      "comp": [
+        "the receipt",
+        "working"
+      ],
+      "ejemplo": "I kept all the receipts for the expense report.",
+      "hueco": {
+        "frase": "I ___ all the receipts for the expense report. (keep)",
+        "respuestas": [
+          "kept"
+        ]
+      },
+      "nota": "keep + -ing = seguir haciendo"
+    },
+    {
+      "id": "sit",
+      "en": "sit",
+      "ipa": "/sɪt/",
+      "es": "sentarse",
+      "clase": "verbo",
+      "orden": 38,
+      "formas": {
+        "s": "sits",
+        "pasado": "sat",
+        "participio": "sat",
+        "ing": "sitting"
+      },
+      "irregular": true,
+      "comp": [
+        "in the front row",
+        "next to the client"
+      ],
+      "ejemplo": "I sat next to the client at lunch.",
+      "hueco": {
+        "frase": "I ___ next to the client at lunch. (sit)",
+        "respuestas": [
+          "sat"
+        ]
+      },
+      "nota": "sit down"
+    },
+    {
+      "id": "stand",
+      "en": "stand",
+      "ipa": "/stænd/",
+      "es": "estar de pie",
+      "clase": "verbo",
+      "orden": 39,
+      "formas": {
+        "s": "stands",
+        "pasado": "stood",
+        "participio": "stood",
+        "ing": "standing"
+      },
+      "irregular": true,
+      "comp": [
+        "in line",
+        "near the door"
+      ],
+      "ejemplo": "We stood in line for an hour at security.",
+      "hueco": {
+        "frase": "We ___ in line for an hour at security. (stand)",
+        "respuestas": [
+          "stood"
+        ]
+      },
+      "nota": "stand up · I can't stand it (no lo soporto)"
+    },
+    {
+      "id": "understand",
+      "en": "understand",
+      "ipa": "/ˌʌndərˈstænd/",
+      "es": "entender",
+      "clase": "verbo",
+      "orden": 40,
+      "formas": {
+        "s": "understands",
+        "pasado": "understood",
+        "participio": "understood",
+        "ing": "understanding"
+      },
+      "irregular": true,
+      "ejemplo": "I didn't understand the question.",
+      "hueco": {
+        "frase": "Sorry, I haven't ___ the question. (understand)",
+        "respuestas": [
+          "understood"
+        ]
+      },
+      "nota": "Verbo de estado: no va en -ing."
+    },
+    {
+      "id": "hear",
+      "en": "hear",
+      "ipa": "/hɪr/",
+      "es": "oír",
+      "clase": "verbo",
+      "orden": 41,
+      "formas": {
+        "s": "hears",
+        "pasado": "heard",
+        "participio": "heard",
+        "ing": "hearing"
+      },
+      "irregular": true,
+      "ejemplo": "I haven't heard from them yet.",
+      "hueco": {
+        "frase": "I haven't ___ from them yet. (hear)",
+        "respuestas": [
+          "heard"
+        ]
+      },
+      "nota": "heard /hɜːrd/ · hear from someone = tener noticias"
+    },
+    {
+      "id": "mean",
+      "en": "mean",
+      "ipa": "/miːn/",
+      "es": "significar; querer decir",
+      "clase": "verbo",
+      "orden": 42,
+      "formas": {
+        "s": "means",
+        "pasado": "meant",
+        "participio": "meant",
+        "ing": "meaning"
+      },
+      "irregular": true,
+      "ejemplo": "I meant Tuesday, not Thursday.",
+      "hueco": {
+        "frase": "Sorry, I ___ Tuesday, not Thursday. (mean)",
+        "respuestas": [
+          "meant"
+        ]
+      },
+      "nota": "meant /ment/ · What do you mean?"
+    },
+    {
+      "id": "run",
+      "en": "run",
+      "ipa": "/rʌn/",
+      "es": "correr; manejar (una campaña)",
+      "clase": "verbo",
+      "orden": 43,
+      "formas": {
+        "s": "runs",
+        "pasado": "ran",
+        "participio": "run",
+        "ing": "running"
+      },
+      "irregular": true,
+      "comp": [
+        "a campaign",
+        "five kilometers"
+      ],
+      "ejemplo": "I ran five kilometers this morning.",
+      "hueco": {
+        "frase": "I ___ five kilometers this morning. (run)",
+        "respuestas": [
+          "ran"
+        ]
+      },
+      "nota": "run → ran → run (el participio vuelve a la base)"
+    },
+    {
+      "id": "drive",
+      "en": "drive",
+      "ipa": "/draɪv/",
+      "es": "conducir, manejar",
+      "clase": "verbo",
+      "orden": 44,
+      "formas": {
+        "s": "drives",
+        "pasado": "drove",
+        "participio": "driven",
+        "ing": "driving"
+      },
+      "irregular": true,
+      "comp": [
+        "to the office",
+        "to Villa de Leyva"
+      ],
+      "ejemplo": "We drove to Villa de Leyva.",
+      "hueco": {
+        "frase": "We ___ to Villa de Leyva last weekend. (drive)",
+        "respuestas": [
+          "drove"
+        ]
+      }
+    },
+    {
+      "id": "ride",
+      "en": "ride",
+      "ipa": "/raɪd/",
+      "es": "montar (bici, moto)",
+      "clase": "verbo",
+      "orden": 45,
+      "formas": {
+        "s": "rides",
+        "pasado": "rode",
+        "participio": "ridden",
+        "ing": "riding"
+      },
+      "irregular": true,
+      "comp": [
+        "a bike",
+        "a motorcycle"
+      ],
+      "ejemplo": "We rode bikes along the beach.",
+      "hueco": {
+        "frase": "We ___ bikes along the beach. (ride)",
+        "respuestas": [
+          "rode"
+        ]
+      },
+      "nota": "ridden con doble d"
+    },
+    {
+      "id": "fly",
+      "en": "fly",
+      "ipa": "/flaɪ/",
+      "es": "volar; viajar en avión",
+      "clase": "verbo",
+      "orden": 46,
+      "formas": {
+        "s": "flies",
+        "pasado": "flew",
+        "participio": "flown",
+        "ing": "flying"
+      },
+      "irregular": true,
+      "comp": [
+        "to Miami",
+        "with Avianca"
+      ],
+      "ejemplo": "I flew to Miami for a conference.",
+      "hueco": {
+        "frase": "I ___ to Miami for a conference. (fly)",
+        "respuestas": [
+          "flew"
+        ]
+      },
+      "nota": "Familia -ew → -own"
+    },
+    {
+      "id": "catch",
+      "en": "catch",
+      "ipa": "/kætʃ/",
+      "es": "atrapar; alcanzar (un bus)",
+      "clase": "verbo",
+      "orden": 47,
+      "formas": {
+        "s": "catches",
+        "pasado": "caught",
+        "participio": "caught",
+        "ing": "catching"
+      },
+      "irregular": true,
+      "comp": [
+        "the bus",
+        "a cold"
+      ],
+      "ejemplo": "I caught the last bus.",
+      "hueco": {
+        "frase": "I ___ the last bus home. (catch)",
+        "respuestas": [
+          "caught"
+        ]
+      },
+      "nota": "catch a cold = coger un resfriado"
+    },
+    {
+      "id": "teach",
+      "en": "teach",
+      "ipa": "/tiːtʃ/",
+      "es": "enseñar",
+      "clase": "verbo",
+      "orden": 48,
+      "formas": {
+        "s": "teaches",
+        "pasado": "taught",
+        "participio": "taught",
+        "ing": "teaching"
+      },
+      "irregular": true,
+      "comp": [
+        "English",
+        "the team"
+      ],
+      "ejemplo": "She taught English for five years.",
+      "hueco": {
+        "frase": "She ___ English for five years. (teach)",
+        "respuestas": [
+          "taught"
+        ]
+      }
+    },
+    {
+      "id": "build",
+      "en": "build",
+      "ipa": "/bɪld/",
+      "es": "construir",
+      "clase": "verbo",
+      "orden": 49,
+      "formas": {
+        "s": "builds",
+        "pasado": "built",
+        "participio": "built",
+        "ing": "building"
+      },
+      "irregular": true,
+      "comp": [
+        "a website",
+        "a house"
+      ],
+      "ejemplo": "We built the website in two weeks.",
+      "hueco": {
+        "frase": "We ___ the website in two weeks. (build)",
+        "respuestas": [
+          "built"
+        ]
+      },
+      "nota": "La u no suena: /bɪld/"
+    },
+    {
+      "id": "sell",
+      "en": "sell",
+      "ipa": "/sel/",
+      "es": "vender",
+      "clase": "verbo",
+      "orden": 50,
+      "formas": {
+        "s": "sells",
+        "pasado": "sold",
+        "participio": "sold",
+        "ing": "selling"
+      },
+      "irregular": true,
+      "comp": [
+        "the car",
+        "our ideas"
+      ],
+      "ejemplo": "They sold the old car.",
+      "hueco": {
+        "frase": "They ___ the old car last month. (sell)",
+        "respuestas": [
+          "sold"
+        ]
+      },
+      "nota": "sell → sold · tell → told"
+    },
+    {
+      "id": "cost",
+      "en": "cost",
+      "ipa": "/kɔːst/",
+      "es": "costar",
+      "clase": "verbo",
+      "orden": 51,
+      "formas": {
+        "s": "costs",
+        "pasado": "cost",
+        "participio": "cost",
+        "ing": "costing"
+      },
+      "irregular": true,
+      "ejemplo": "The ticket cost $300.",
+      "hueco": {
+        "frase": "The ticket ___ $300. (cost)",
+        "respuestas": [
+          "cost"
+        ]
+      },
+      "nota": "cost → cost → cost"
+    },
+    {
+      "id": "cut",
+      "en": "cut",
+      "ipa": "/kʌt/",
+      "es": "cortar",
+      "clase": "verbo",
+      "orden": 52,
+      "formas": {
+        "s": "cuts",
+        "pasado": "cut",
+        "participio": "cut",
+        "ing": "cutting"
+      },
+      "irregular": true,
+      "comp": [
+        "the budget",
+        "the video"
+      ],
+      "ejemplo": "They cut the budget in half.",
+      "hueco": {
+        "frase": "They ___ the budget in half. (cut)",
+        "respuestas": [
+          "cut"
+        ]
+      },
+      "nota": "cut → cut → cut"
+    },
+    {
+      "id": "let",
+      "en": "let",
+      "ipa": "/let/",
+      "es": "dejar, permitir",
+      "clase": "verbo",
+      "orden": 53,
+      "formas": {
+        "s": "lets",
+        "pasado": "let",
+        "participio": "let",
+        "ing": "letting"
+      },
+      "irregular": true,
+      "comp": [
+        "me know",
+        "the team decide"
+      ],
+      "ejemplo": "My boss let me leave early.",
+      "hueco": {
+        "frase": "My boss ___ me leave early yesterday. (let)",
+        "respuestas": [
+          "let"
+        ]
+      },
+      "nota": "let me know · let + persona + base"
+    },
+    {
+      "id": "hit",
+      "en": "hit",
+      "ipa": "/hɪt/",
+      "es": "golpear; alcanzar (una cifra)",
+      "clase": "verbo",
+      "orden": 54,
+      "formas": {
+        "s": "hits",
+        "pasado": "hit",
+        "participio": "hit",
+        "ing": "hitting"
+      },
+      "irregular": true,
+      "comp": [
+        "the target",
+        "the ball"
+      ],
+      "ejemplo": "We hit the sales target.",
+      "hueco": {
+        "frase": "We ___ the sales target last month. (hit)",
+        "respuestas": [
+          "hit"
+        ]
+      },
+      "nota": "hit → hit → hit"
+    },
+    {
+      "id": "hurt",
+      "en": "hurt",
+      "ipa": "/hɜːrt/",
+      "es": "lastimar(se), doler",
+      "clase": "verbo",
+      "orden": 55,
+      "formas": {
+        "s": "hurts",
+        "pasado": "hurt",
+        "participio": "hurt",
+        "ing": "hurting"
+      },
+      "irregular": true,
+      "comp": [
+        "my back",
+        "myself"
+      ],
+      "ejemplo": "I hurt my back at the gym.",
+      "hueco": {
+        "frase": "I ___ my back at the gym. (hurt)",
+        "respuestas": [
+          "hurt"
+        ]
+      },
+      "nota": "hurt → hurt → hurt · My back hurts."
+    },
+    {
+      "id": "set",
+      "en": "set",
+      "ipa": "/set/",
+      "es": "poner, fijar",
+      "clase": "verbo",
+      "orden": 56,
+      "formas": {
+        "s": "sets",
+        "pasado": "set",
+        "participio": "set",
+        "ing": "setting"
+      },
+      "irregular": true,
+      "comp": [
+        "the alarm",
+        "a deadline"
+      ],
+      "ejemplo": "I forgot to set the alarm.",
+      "hueco": {
+        "frase": "I ___ the alarm for 6, but I didn't hear it. (set)",
+        "respuestas": [
+          "set"
+        ]
+      },
+      "nota": "set up a meeting · set a deadline"
+    },
+    {
+      "id": "shut",
+      "en": "shut",
+      "ipa": "/ʃʌt/",
+      "es": "cerrar",
+      "clase": "verbo",
+      "orden": 57,
+      "formas": {
+        "s": "shuts",
+        "pasado": "shut",
+        "participio": "shut",
+        "ing": "shutting"
+      },
+      "irregular": true,
+      "comp": [
+        "the door",
+        "my laptop"
+      ],
+      "ejemplo": "He shut the door and left.",
+      "hueco": {
+        "frase": "He ___ the door and left. (shut)",
+        "respuestas": [
+          "shut"
+        ]
+      },
+      "nota": "shut → shut → shut · también close"
+    },
+    {
+      "id": "break",
+      "en": "break",
+      "ipa": "/breɪk/",
+      "es": "romper",
+      "clase": "verbo",
+      "orden": 58,
+      "formas": {
+        "s": "breaks",
+        "pasado": "broke",
+        "participio": "broken",
+        "ing": "breaking"
+      },
+      "irregular": true,
+      "comp": [
+        "a glass",
+        "the rules"
+      ],
+      "ejemplo": "My son broke a glass.",
+      "hueco": {
+        "frase": "My son ___ a glass last night. (break)",
+        "respuestas": [
+          "broke"
+        ]
+      },
+      "nota": "The printer is broken. · take a break"
+    },
+    {
+      "id": "wear",
+      "en": "wear",
+      "ipa": "/wer/",
+      "es": "llevar puesto",
+      "clase": "verbo",
+      "orden": 59,
+      "formas": {
+        "s": "wears",
+        "pasado": "wore",
+        "participio": "worn",
+        "ing": "wearing"
+      },
+      "irregular": true,
+      "comp": [
+        "a suit",
+        "sneakers"
+      ],
+      "ejemplo": "I wore a suit to the pitch.",
+      "hueco": {
+        "frase": "I ___ a suit to the pitch. (wear)",
+        "respuestas": [
+          "wore"
+        ]
+      },
+      "nota": "wear → wore → worn"
+    },
+    {
+      "id": "fall",
+      "en": "fall",
+      "ipa": "/fɔːl/",
+      "es": "caer(se)",
+      "clase": "verbo",
+      "orden": 60,
+      "formas": {
+        "s": "falls",
+        "pasado": "fell",
+        "participio": "fallen",
+        "ing": "falling"
+      },
+      "irregular": true,
+      "comp": [
+        "asleep",
+        "off the bike"
+      ],
+      "ejemplo": "Camila fell off her bike.",
+      "hueco": {
+        "frase": "Camila ___ off her bike. (fall)",
+        "respuestas": [
+          "fell"
+        ]
+      },
+      "nota": "fall asleep = quedarse dormido"
+    },
+    {
+      "id": "grow",
+      "en": "grow",
+      "ipa": "/ɡroʊ/",
+      "es": "crecer; cultivar",
+      "clase": "verbo",
+      "orden": 61,
+      "formas": {
+        "s": "grows",
+        "pasado": "grew",
+        "participio": "grown",
+        "ing": "growing"
+      },
+      "irregular": true,
+      "comp": [
+        "vegetables",
+        "the business"
+      ],
+      "ejemplo": "Sales grew 20% this year.",
+      "hueco": {
+        "frase": "Sales ___ 20% last year. (grow)",
+        "respuestas": [
+          "grew"
+        ]
+      },
+      "nota": "grow up = criarse"
+    },
+    {
+      "id": "throw",
+      "en": "throw",
+      "ipa": "/θroʊ/",
+      "es": "lanzar, tirar",
+      "clase": "verbo",
+      "orden": 62,
+      "formas": {
+        "s": "throws",
+        "pasado": "threw",
+        "participio": "thrown",
+        "ing": "throwing"
+      },
+      "irregular": true,
+      "comp": [
+        "the ball",
+        "it away"
+      ],
+      "ejemplo": "He threw the old files away.",
+      "hueco": {
+        "frase": "He ___ the old files away. (throw)",
+        "respuestas": [
+          "threw"
+        ]
+      },
+      "nota": "throw away = botar"
+    },
+    {
+      "id": "draw",
+      "en": "draw",
+      "ipa": "/drɔː/",
+      "es": "dibujar",
+      "clase": "verbo",
+      "orden": 63,
+      "formas": {
+        "s": "draws",
+        "pasado": "drew",
+        "participio": "drawn",
+        "ing": "drawing"
+      },
+      "irregular": true,
+      "comp": [
+        "a sketch",
+        "the storyboard"
+      ],
+      "ejemplo": "The designer drew the storyboard in an hour.",
+      "hueco": {
+        "frase": "The designer ___ the storyboard in an hour. (draw)",
+        "respuestas": [
+          "drew"
+        ]
+      }
+    },
+    {
+      "id": "blow",
+      "en": "blow",
+      "ipa": "/bloʊ/",
+      "es": "soplar",
+      "clase": "verbo",
+      "orden": 64,
+      "formas": {
+        "s": "blows",
+        "pasado": "blew",
+        "participio": "blown",
+        "ing": "blowing"
+      },
+      "irregular": true,
+      "comp": [
+        "out the candles",
+        "my nose"
+      ],
+      "ejemplo": "The wind blew my hat away.",
+      "hueco": {
+        "frase": "The wind ___ my hat away. (blow)",
+        "respuestas": [
+          "blew"
+        ]
+      },
+      "nota": "blow out the candles"
+    },
+    {
+      "id": "sing",
+      "en": "sing",
+      "ipa": "/sɪŋ/",
+      "es": "cantar",
+      "clase": "verbo",
+      "orden": 65,
+      "formas": {
+        "s": "sings",
+        "pasado": "sang",
+        "participio": "sung",
+        "ing": "singing"
+      },
+      "irregular": true,
+      "comp": [
+        "a song",
+        "in the shower"
+      ],
+      "ejemplo": "We sang happy birthday to Laura.",
+      "hueco": {
+        "frase": "We ___ happy birthday to Laura. (sing)",
+        "respuestas": [
+          "sang"
+        ]
+      },
+      "nota": "sing → sang → sung"
+    },
+    {
+      "id": "ring",
+      "en": "ring",
+      "ipa": "/rɪŋ/",
+      "es": "sonar; llamar",
+      "clase": "verbo",
+      "orden": 66,
+      "formas": {
+        "s": "rings",
+        "pasado": "rang",
+        "participio": "rung",
+        "ing": "ringing"
+      },
+      "irregular": true,
+      "comp": [
+        "the bell"
+      ],
+      "ejemplo": "My phone rang during the meeting.",
+      "hueco": {
+        "frase": "My phone ___ during the meeting. (ring)",
+        "respuestas": [
+          "rang"
+        ]
+      },
+      "nota": "ring → rang → rung"
+    },
+    {
+      "id": "swim",
+      "en": "swim",
+      "ipa": "/swɪm/",
+      "es": "nadar",
+      "clase": "verbo",
+      "orden": 67,
+      "formas": {
+        "s": "swims",
+        "pasado": "swam",
+        "participio": "swum",
+        "ing": "swimming"
+      },
+      "irregular": true,
+      "comp": [
+        "in the sea",
+        "every morning"
+      ],
+      "ejemplo": "We swam in the sea at 7 a.m.",
+      "hueco": {
+        "frase": "We ___ in the sea at 7 a.m. (swim)",
+        "respuestas": [
+          "swam"
+        ]
+      },
+      "nota": "swimming con doble m"
+    },
+    {
+      "id": "steal",
+      "en": "steal",
+      "ipa": "/stiːl/",
+      "es": "robar",
+      "clase": "verbo",
+      "orden": 68,
+      "formas": {
+        "s": "steals",
+        "pasado": "stole",
+        "participio": "stolen",
+        "ing": "stealing"
+      },
+      "irregular": true,
+      "comp": [
+        "my wallet",
+        "the idea"
+      ],
+      "ejemplo": "Someone stole my wallet on the bus.",
+      "hueco": {
+        "frase": "Someone ___ my wallet on the bus. (steal)",
+        "respuestas": [
+          "stole"
+        ]
+      },
+      "nota": "steal (robar algo) · rob (robar a alguien / un banco)"
+    },
+    {
+      "id": "freeze",
+      "en": "freeze",
+      "ipa": "/friːz/",
+      "es": "congelar(se); quedarse bloqueado",
+      "clase": "verbo",
+      "orden": 69,
+      "formas": {
+        "s": "freezes",
+        "pasado": "froze",
+        "participio": "frozen",
+        "ing": "freezing"
+      },
+      "irregular": true,
+      "comp": [
+        "the budget",
+        "the chicken"
+      ],
+      "ejemplo": "My laptop froze in the middle of the presentation.",
+      "hueco": {
+        "frase": "My laptop ___ in the middle of the presentation. (freeze)",
+        "respuestas": [
+          "froze"
+        ]
+      },
+      "nota": "frozen food · I'm freezing (tengo mucho frío)"
+    },
+    {
+      "id": "shake",
+      "en": "shake",
+      "ipa": "/ʃeɪk/",
+      "es": "sacudir; dar la mano",
+      "clase": "verbo",
+      "orden": 70,
+      "formas": {
+        "s": "shakes",
+        "pasado": "shook",
+        "participio": "shaken",
+        "ing": "shaking"
+      },
+      "irregular": true,
+      "comp": [
+        "hands with the client",
+        "the bottle"
+      ],
+      "ejemplo": "We shook hands and signed the contract.",
+      "hueco": {
+        "frase": "We ___ hands and signed the contract. (shake)",
+        "respuestas": [
+          "shook"
+        ]
+      },
+      "nota": "shake hands"
+    },
+    {
+      "id": "mistake",
+      "en": "mistake",
+      "ipa": "/mɪˈsteɪk/",
+      "es": "confundir",
+      "clase": "verbo",
+      "orden": 71,
+      "formas": {
+        "s": "mistakes",
+        "pasado": "mistook",
+        "participio": "mistaken",
+        "ing": "mistaking"
+      },
+      "irregular": true,
+      "comp": [
+        "him for the boss"
+      ],
+      "ejemplo": "I mistook the intern for the new client.",
+      "hueco": {
+        "frase": "I ___ the intern for the new client. (mistake)",
+        "respuestas": [
+          "mistook"
+        ]
+      },
+      "nota": "Más común como sustantivo: make a mistake · I was mistaken."
+    },
+    {
+      "id": "fight",
+      "en": "fight",
+      "ipa": "/faɪt/",
+      "es": "pelear, luchar",
+      "clase": "verbo",
+      "orden": 72,
+      "formas": {
+        "s": "fights",
+        "pasado": "fought",
+        "participio": "fought",
+        "ing": "fighting"
+      },
+      "irregular": true,
+      "comp": [
+        "for the budget",
+        "with my brother"
+      ],
+      "ejemplo": "We fought for a bigger budget and won.",
+      "hueco": {
+        "frase": "We ___ for a bigger budget and won. (fight)",
+        "respuestas": [
+          "fought"
+        ]
+      },
+      "nota": "Familia -ought"
+    },
+    {
+      "id": "lend",
+      "en": "lend",
+      "ipa": "/lend/",
+      "es": "prestar",
+      "clase": "verbo",
+      "orden": 73,
+      "formas": {
+        "s": "lends",
+        "pasado": "lent",
+        "participio": "lent",
+        "ing": "lending"
+      },
+      "irregular": true,
+      "comp": [
+        "me his charger",
+        "money"
+      ],
+      "ejemplo": "Mike lent me his charger.",
+      "hueco": {
+        "frase": "Mike ___ me his charger. (lend)",
+        "respuestas": [
+          "lent"
+        ]
+      },
+      "nota": "lend (prestar) · borrow (pedir prestado)"
+    },
+    {
+      "id": "become",
+      "en": "become",
+      "ipa": "/bɪˈkʌm/",
+      "es": "convertirse en, volverse",
+      "clase": "verbo",
+      "orden": 74,
+      "formas": {
+        "s": "becomes",
+        "pasado": "became",
+        "participio": "become",
+        "ing": "becoming"
+      },
+      "irregular": true,
+      "ejemplo": "She became a director at 29.",
+      "hueco": {
+        "frase": "She ___ a director at 29. (become)",
+        "respuestas": [
+          "became"
+        ]
+      },
+      "nota": "become → became → become"
+    }
+  ],
   "ejercicios": [
     {
       "id": "verbos-irregulares-001",
@@ -1034,6 +2972,304 @@
       "objetivo": "Pasado simple con irregulares de trabajo.",
       "ejemplo": "On Tuesday we met the client at her office. We brought the printed deck and told her the plan. She said she liked it, gave us some feedback and chose the second route.",
       "explica": "Met, brought, told, said, gave, chose: ninguno lleva -ed."
+    },
+    {
+      "id": "verbos-irregulares-061",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "IRR",
+      "titulo": "Mi lunes",
+      "instruccion": "Completa con el pasado del verbo entre paréntesis.",
+      "texto": "Yesterday I {1} (wake) up late because I {2} (forget) to set the alarm. I {3} (make) a quick coffee, {4} (take) a cab and {5} (get) to the office at 9:15. My boss {6} (say) nothing, but she {7} (give) me a look. In the meeting, the client {8} (choose) option B, so we have a lot of work this week.",
+      "huecos": [
+        {
+          "respuestas": [
+            "woke"
+          ]
+        },
+        {
+          "respuestas": [
+            "forgot"
+          ]
+        },
+        {
+          "respuestas": [
+            "made"
+          ]
+        },
+        {
+          "respuestas": [
+            "took"
+          ]
+        },
+        {
+          "respuestas": [
+            "got"
+          ]
+        },
+        {
+          "respuestas": [
+            "said"
+          ]
+        },
+        {
+          "respuestas": [
+            "gave"
+          ]
+        },
+        {
+          "respuestas": [
+            "chose"
+          ]
+        }
+      ],
+      "explica": "Afirmativa del pasado simple = la segunda forma del verbo: wake → woke, forget → forgot, make → made, take → took, get → got, say → said, give → gave, choose → chose."
+    },
+    {
+      "id": "verbos-irregulares-062",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "IRR",
+      "titulo": "El pitch",
+      "instruccion": "Completa con la forma correcta: pasado simple, o participio después de have.",
+      "texto": "We have {1} (win) three pitches this year, but last week's was special. The team {2} (write) the proposal in four days. Andrés {3} (bring) the printed version and I {4} (send) the digital one. The client {5} (think) our idea was the best and {6} (tell) us the news on Friday. We {7} (spend) the whole evening celebrating, and I {8} (drink) a little too much.",
+      "huecos": [
+        {
+          "respuestas": [
+            "won"
+          ]
+        },
+        {
+          "respuestas": [
+            "wrote"
+          ]
+        },
+        {
+          "respuestas": [
+            "brought"
+          ]
+        },
+        {
+          "respuestas": [
+            "sent"
+          ]
+        },
+        {
+          "respuestas": [
+            "thought"
+          ]
+        },
+        {
+          "respuestas": [
+            "told"
+          ]
+        },
+        {
+          "respuestas": [
+            "spent"
+          ]
+        },
+        {
+          "respuestas": [
+            "drank"
+          ]
+        }
+      ],
+      "explica": "Después de have va el participio (have won). En la afirmativa del pasado va la segunda forma: wrote, brought, sent, thought, told, spent, drank (no drunk)."
+    },
+    {
+      "id": "verbos-irregulares-063",
+      "tipo": "texto",
+      "nivel": 3,
+      "code": "PP",
+      "titulo": "¿Has estado en Nueva York?",
+      "instruccion": "Elige la forma correcta: participio después de have, pasado simple en la historia.",
+      "texto": "Have you ever {1} to New York? I have {2} there twice. The first time I {3} my passport at the hotel and {4} to the airport very late. The second time was better: I {5} the subway every day, {6} a Broadway show and {7} a lot of money on food. I have never {8} so much in one week.",
+      "huecos": [
+        {
+          "opciones": [
+            "been",
+            "went",
+            "go"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "been",
+            "was",
+            "be"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "forgot",
+            "forgotten",
+            "forget"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "got",
+            "gotten",
+            "get"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "took",
+            "taken",
+            "take"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "saw",
+            "seen",
+            "see"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "spent",
+            "spend",
+            "spended"
+          ],
+          "a": 0
+        },
+        {
+          "opciones": [
+            "eaten",
+            "ate",
+            "eat"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Have / has + participio (been, eaten); la historia concreta con tiempo definido va en pasado simple (forgot, got, took, saw, spent). 'Have you ever been to…?' usa been, no gone."
+    },
+    {
+      "id": "verbos-irregulares-064",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "IRR",
+      "titulo": "Un fin de semana",
+      "texto": "Last weekend Camila and I drove to Villa de Leyva. We left Bogotá at 6 a.m. and got there at 9. We found a small hotel near the square and slept for an hour. Then we went sightseeing: we saw the main square, bought some bread and ate it in the park. In the afternoon we rode bikes to a small lake. Camila fell off her bike, but she didn't hurt herself. At night we met some friends from Medellín and drank wine until midnight. On Sunday I woke up late, forgot my sunglasses at the hotel and lost my keys for an hour. I found them in the car. We came back on Sunday afternoon, tired but happy. It was the best weekend I have had this year.",
+      "preguntas": [
+        {
+          "q": "How did they travel to Villa de Leyva?",
+          "opciones": [
+            "They drove",
+            "They flew",
+            "They took the bus"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What happened to Camila?",
+          "opciones": [
+            "She fell off her bike but didn't hurt herself",
+            "She lost her keys",
+            "She forgot her sunglasses"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Where did the writer find the keys?",
+          "opciones": [
+            "In the car",
+            "At the hotel",
+            "In the park"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«It was the best weekend I have had this year»: ¿qué forma es «had»?",
+          "opciones": [
+            "Participio, después de have",
+            "Pasado simple",
+            "Base, después de una llave"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Veinte irregulares en pasado en una sola historia: drove, left, got, found, slept, went, saw, bought, ate, rode, fell, met, drank, woke, forgot, lost, came. Después de didn't va la base (didn't hurt)."
+    },
+    {
+      "id": "verbos-irregulares-065",
+      "tipo": "lectura",
+      "nivel": 3,
+      "code": "IRR",
+      "titulo": "Reporte de la semana",
+      "texto": "Hi team, here is a quick report of the week. On Monday we met the client and told her the plan for the launch. She chose option B and gave us two weeks. On Tuesday Andrés wrote the first draft and sent it to the media team. Laura brought the printed version to the meeting on Wednesday, and the client said she loved it. On Thursday we had a problem: the printer broke and we lost half a day. Mike found another printer and paid extra for fast delivery. On Friday we won the pitch for the bank! We have spent a little more than the budget, so I have spoken to finance. I haven't heard from them yet. Have a great weekend. Laura",
+      "preguntas": [
+        {
+          "q": "What did the client choose?",
+          "opciones": [
+            "Option B",
+            "Option A",
+            "A new deadline"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What was the problem on Thursday?",
+          "opciones": [
+            "The printer broke and they lost half a day",
+            "The client cancelled the meeting",
+            "Andrés lost the first draft"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Who found another printer?",
+          "opciones": [
+            "Mike",
+            "Laura",
+            "Andrés"
+          ],
+          "a": 0
+        },
+        {
+          "q": "«I have spoken to finance»: ¿por qué «spoken» y no «spoke»?",
+          "opciones": [
+            "Después de have va el participio",
+            "Spoke no existe",
+            "Porque es una pregunta"
+          ],
+          "a": 0
+        }
+      ],
+      "explica": "Pasado simple para los hechos con día (met, told, chose, gave, wrote, sent, brought, said, broke, lost, found, paid, won) y have + participio para lo que sigue abierto (have spent, have spoken, haven't heard)."
+    },
+    {
+      "id": "verbos-irregulares-066",
+      "tipo": "componer",
+      "nivel": 3,
+      "code": "IRR",
+      "consigna": "Cuenta qué hiciste la semana pasada en el trabajo y en tu vida personal: usa al menos cinco verbos irregulares en pasado, una frase con have + participio y un marcador de tiempo (last week, on Monday, yesterday, … ago).",
+      "requisitos": [
+        {
+          "texto": "Usa al menos cinco pasados irregulares",
+          "patron": "(\\b(went|had|made|got|said|took|saw|came|gave|knew|thought|found|told|left|felt|brought|bought|began|kept|wrote|stood|heard|let|meant|met|ran|paid|sat|spoke|lost|won|sent|spent|built|chose|drove|ate|fell|forgot|drank|slept|woke|wore|broke|caught|taught|read|put|cut|hit|hurt|set|shut|cost|sold|understood|flew|grew|threw|drew|blew|sang|rang|swam|rode|stole|froze|shook|lent|fought|became|mistook|was|were|did)\\b[\\s\\S]*){5}"
+        },
+        {
+          "texto": "Usa have / has + participio (presente perfecto)",
+          "patron": "\\b(have|has|haven't|hasn't|'ve|'s)\\s+(never\\s+|already\\s+|just\\s+|not\\s+)?(been|gone|done|made|had|seen|taken|given|written|spoken|chosen|broken|forgotten|eaten|drunk|won|sent|spent|bought|brought|thought|told|sold|found|met|lost|left|kept|slept|felt|heard|read|said|paid|put|got|gotten|come|become|run|begun|known|grown|thrown|flown|drawn|driven|ridden|woken|stolen|frozen|shaken|built|lent|fought|caught|taught|cut|hit|hurt|set|shut|cost|let|meant|sat|stood|understood|worn|sung|rung|swum|fallen|mistaken)\\b"
+        },
+        {
+          "texto": "Usa un marcador de pasado: yesterday, last week, on Monday, … ago",
+          "patron": "\\b(yesterday|last\\s+(week|night|monday|tuesday|wednesday|thursday|friday|saturday|sunday|weekend|month)|on\\s+(monday|tuesday|wednesday|thursday|friday|saturday|sunday)|\\w+\\s+ago)\\b"
+        }
+      ],
+      "minPalabras": 50,
+      "ejemplo": "Last week was busy. On Monday I went to the gym at 6 and then I drove to the office. We met the client at 10 and she chose the second option. On Wednesday I wrote the proposal and sent it to the media team. On Friday we won the pitch, so we drank a few beers after work. At home, my son broke a glass and I lost my keys again. I have found them, but I haven't slept well all week.",
+      "explica": "La historia va en pasado simple (segunda forma: went, drove, met, chose, wrote); lo que sigue conectado con el presente va con have + participio (have found, haven't slept)."
     }
   ]
 }
